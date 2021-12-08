@@ -10,6 +10,11 @@ const {ccclass, property} = cc._decorator;
 @ccclass
 export default class Quyansehuihua extends cc.Component {
 
+//------------------------------------------------------------------------------------------------------------------------
+// 颜色获取
+    @property(cc.Node)
+    backMenuNode: cc.Node = null;
+
     @property(cc.Sprite)
     hueSprite: cc.Sprite = null;
 
@@ -29,11 +34,17 @@ export default class Quyansehuihua extends cc.Component {
     private _colorBoardTexture: cc.Texture2D = null;
     private _colorBoardData = null;
 
+//------------------------------------------------------------------------------------------------------------------------
+
     start() {
+        this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
+            cc.director.loadScene('main');
+        });
 
         this._colorBoardTexture = new cc.Texture2D();
         this.createHueData();
-
+        this.createColorBoardData();
+        this.initRgbNode();
         this.addEvent();
     }
 
@@ -56,6 +67,17 @@ export default class Quyansehuihua extends cc.Component {
         this.hueSprite.node.on(cc.Node.EventType.TOUCH_START, this.onHueTouch, this);
         this.hueSprite.node.on(cc.Node.EventType.TOUCH_MOVE, this.onHueTouch, this);
         this.huePointNode.on(cc.Node.EventType.TOUCH_MOVE, this.onHueTouch, this);
+
+        this.colorBoardSprite.node.on(cc.Node.EventType.TOUCH_START, this.onColorBoardTouch, this);
+        this.colorBoardSprite.node.on(cc.Node.EventType.TOUCH_MOVE, this.onColorBoardTouch, this);
+
+        // this.rSlider.node.on('slide', this.rgbChanged, this);
+        // this.gSlider.node.on('slide', this.rgbChanged, this);
+        // this.bSlider.node.on('slide', this.rgbChanged, this);
+
+        // this.rEditBox.node.on("editing-did-ended", this.editTextEnd, this);
+        // this.gEditBox.node.on("editing-did-ended", this.editTextEnd, this);
+        // this.bEditBox.node.on("editing-did-ended", this.editTextEnd, this);
     }
 
     private onHueTouch(event: cc.Event.EventTouch) {
@@ -94,15 +116,33 @@ export default class Quyansehuihua extends cc.Component {
     private initRgbNode() {
         let curColor = this.hsv2rgb(this._h, this._s, this._v);
         console.log('curColor : ', curColor);
+
+        // this.rSlider.progress = curColor.getR() / 255;
+        // this.rEditBox.string = curColor.getR() + "";
+        // this.gSlider.progress = curColor.getG() / 255;
+        // this.gEditBox.string = curColor.getG() + "";
+        // this.bSlider.progress = curColor.getB() / 255;
+        // this.bEditBox.string = curColor.getB() + "";
     }
 
     private setCircleColor() {
         let curColor = this.hsv2rgb(this._h, this._s, this._v);
-        
         console.log('curColor : ', curColor);
-        
         let isBlack = .299 * curColor.getR() + .578 * curColor.getG() + .114 * curColor.getB() >= 192;
         this.circleNode.color = isBlack ? cc.Color.BLACK : cc.Color.WHITE;
+    }
+
+    private onColorBoardTouch(event: cc.Event.EventTouch) {
+        let pos = this.colorBoardSprite.node.convertToNodeSpaceAR(event.touch.getLocation());
+        pos.x = Math.max(0, Math.min(pos.x, this.colorBoardSprite.node.width));
+        pos.y = Math.max(0, Math.min(pos.y, this.colorBoardSprite.node.height));
+        this.circleNode.position = cc.v3(pos.x, pos.y);
+
+        this._s = Math.round(pos.x / this.colorBoardSprite.node.width * 100);
+        this._v = Math.round(pos.y / this.colorBoardSprite.node.height * 100);
+        this._s = Math.max(0, Math.min(this._s, 100));
+        this._v = Math.max(0, Math.min(this._v, 100));
+        this.setCircleColor();
     }
 
     private hsv2rgb(h: number, s: number, v: number) {
@@ -165,4 +205,64 @@ export default class Quyansehuihua extends cc.Component {
 
         return cc.color(Math.round(r * 255), Math.round(g * 255), Math.round(b * 255), 255);
     }
+
+    // 输入数值
+    // editTextEnd() {
+    //     let rText = this.rEditBox.string;
+    //     let r = parseInt(rText);
+    //     if (isNaN(r)) {
+    //         r = 255;
+    //     }
+    //     r = Math.max(0, Math.min(r, 255));
+    //     this.rEditBox.string = r + "";
+    //     this.rSlider.progress = r / 255;
+
+    //     let gText = this.gEditBox.string;
+    //     let g = parseInt(gText);
+    //     if (isNaN(g)) {
+    //         g = 255;
+    //     }
+    //     g = Math.max(0, Math.min(g, 255));
+    //     this.gEditBox.string = g + "";
+    //     this.gSlider.progress = g / 255;
+
+    //     let bText = this.bEditBox.string;
+    //     let b = parseInt(bText);
+    //     if (isNaN(b)) {
+    //         b = 255;
+    //     }
+    //     b = Math.max(0, Math.min(b, 255));
+    //     this.bEditBox.string = b + "";
+    //     this.bSlider.progress = b / 255;
+
+    //     let hsv = this.rgb2hsv(r, g, b);
+    //     this.h = hsv[0];
+    //     this.s = hsv[1];
+    //     this.v = hsv[2];
+
+    //     this.huePointNode.y = Math.round(this.hueSprite.node.height / 2 - this.h / 360 * this.hueSprite.node.height);
+
+    //     this.createColorBoardData(true);
+    // }
+
+    // rgbChanged() {
+    //     let r = Math.round(255 * this.rSlider.progress);
+    //     this.rEditBox.string = r + "";
+    //     let g = Math.round(255 * this.gSlider.progress);
+    //     this.gEditBox.string = g + "";
+    //     let b = Math.round(255 * this.bSlider.progress);
+    //     this.bEditBox.string = b + "";
+
+    //     let hsv = this.rgb2hsv(r, g, b);
+    //     this.h = hsv[0];
+    //     this.s = hsv[1];
+    //     this.v = hsv[2];
+
+    //     this.huePointNode.y = Math.round(this.hueSprite.node.height / 2 - this.h / 360 * this.hueSprite.node.height);
+
+    //     this.createColorBoardData(true);
+    // }
+
+//------------------------------------------------------------------------------------------------------------------------
+
 }
