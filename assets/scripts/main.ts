@@ -26,7 +26,7 @@ export default class NewClass extends cc.Component {
                 cc.director.loadScene('quyansehuihua');
                 break;
             case 1:
-
+                cc.director.loadScene('xinshouyindao');
                 break;
         }
     }

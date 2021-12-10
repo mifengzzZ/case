@@ -1,3 +1,5 @@
+import NodeUtil from "../extensions/utils/NodeUtil";
+
 // Learn TypeScript:
 //  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
 // Learn Attribute:
@@ -35,18 +37,32 @@ export default class Quyansehuihua extends cc.Component {
     private _colorBoardData = null;
 
 //------------------------------------------------------------------------------------------------------------------------
+// 获取触摸像素点信息
+    @property(cc.Node)
+    protected pixeSprite: cc.Node = null;
+    protected pixelsData: Uint8Array = null;
 
-    start() {
-        this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
-            cc.director.loadScene('main');
-        });
+//------------------------------------------------------------------------------------------------------------------------
+// 画画
+    @property(cc.Node)
+    protected graphicsNode: cc.Node = null;
+    private _graphics: cc.Graphics = null;
+    private _graphicsColor: cc.Color = null;
+    private _init: boolean = false;
 
-        this._colorBoardTexture = new cc.Texture2D();
-        this.createHueData();
-        this.createColorBoardData();
-        this.initRgbNode();
-        this.addEvent();
-    }
+//------------------------------------------------------------------------------------------------------------------------
+
+    // start() {
+    //     this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
+    //         cc.director.loadScene('main');
+    //     });
+
+    //     this._colorBoardTexture = new cc.Texture2D();
+    //     this.createHueData();
+    //     this.createColorBoardData();
+    //     this.initRgbNode();
+    //     this.addEvent();
+    // }
 
     private createHueData(): void {
         let texture2D = new cc.Texture2D();
@@ -264,5 +280,102 @@ export default class Quyansehuihua extends cc.Component {
     // }
 
 //------------------------------------------------------------------------------------------------------------------------
+// 获取触摸像素点信息
+
+    start() {
+        this.pixeSprite.on(cc.Node.EventType.TOUCH_END, this.onPixeTouch, this);
+        this.pixeSprite.on(cc.Node.EventType.TOUCH_MOVE, this.onPixeTouch, this);
+    }
+
+    onPixeTouch(event: cc.Event.EventTouch) {
+        // 点击位置
+        const touchPos = event.getLocation(),
+            node = this.pixeSprite,
+            localPos = node.convertToNodeSpaceAR(touchPos);
+
+        // 不在节点内
+        if (!this.pixeSprite.getBoundingBoxToWorld().contains(touchPos)) {
+            return;
+        }
+
+        // 获取像素数据
+        if (!this.pixelsData) {
+            this.pixelsData = NodeUtil.getPixelsData(this.pixeSprite);
+        }
+
+        // 截取像素颜色
+        let x = localPos.x + node.anchorX * node.width,
+            y = -(localPos.y - node.anchorY * node.height);
+        const index = (node.width * 4 * Math.floor(y)) + (4 * Math.floor(x)),
+            colors = this.pixelsData.slice(index, index + 4);
+
+        this._graphicsColor = new cc.Color(colors[0], colors[1], colors[2], colors[3]);
+        console.log('this._graphicsColor : ', this._graphicsColor);
+        // 当前点击像素颜色
+        console.log('cc.color(colors[0], colors[1], colors[2]) : ', cc.color(colors[0], colors[1], colors[2]));
+        console.log('opacity : ', colors[3]);
+        
+        if (!this._init) {
+            this._init = true;
+            this.initHuahua();
+        } else {
+            this._graphics.strokeColor = this._graphicsColor;
+        }
+
+        // 展示信息
+        // this.label.string = '点击信息：\n';
+        // this.label.string += ` - 基于世界的坐标：${touchPos.toString()}\n`;
+        // this.label.string += ` - 基于锚点的坐标：${localPos.toString()}\n`;
+        // this.label.string += ` - 基于左上角的坐标：${cc.v2(x, y).toString()}\n`;
+        // this.label.string += ` - 像素下标：${index / 4}\n`;
+        // this.label.string += ` - 颜色下标：${index}\n`;
+        // this.label.string += ` - 颜色值：\n`;
+        // this.label.string += `            - R：${colors[0]}\n`;
+        // this.label.string += `            - G：${colors[1]}\n`;
+        // this.label.string += `            - B：${colors[2]}\n`;
+        // this.label.string += `            - A：${colors[3]}`;
+
+        // cc.log(`---------- 点击信息 ----------`);
+        // cc.log(`基于世界的坐标：\t${touchPos.toString()}`);
+        // cc.log(`基于左上角的坐标：\t${cc.v2(x, y).toString()}`);
+        // cc.log(`基于锚点的坐标：\t${localPos.toString()}`);
+        // cc.log(`像素下标：\t${index}`);
+        // cc.log(`颜色值：`);
+        // cc.log(`\t- R：${colors[0]}`);
+        // cc.log(`\t- G：${colors[1]}`);
+        // cc.log(`\t- B：${colors[2]}`);
+        // cc.log(`\t- A：${colors[3]}`);
+        // cc.log(`------------------------------`);
+    }
+
+//------------------------------------------------------------------------------------------------------------------------
+// 绘画
+    
+    initHuahua() {
+        this._graphics = this.graphicsNode.getComponent(cc.Graphics);
+        // 设置画笔
+        this._graphics.strokeColor = this._graphicsColor;
+        this._graphics.lineJoin = cc.Graphics.LineJoin.ROUND;
+        this._graphics.lineCap = cc.Graphics.LineCap.ROUND;
+        this._graphics.lineWidth = 30;
+
+        this.graphicsNode.on(cc.Node.EventType.TOUCH_START, this.onGraphicsStart, this);
+        this.graphicsNode.on(cc.Node.EventType.TOUCH_MOVE, this.onGraphicsEnd, this);
+    }
+
+    onGraphicsStart(event: cc.Event.EventTouch) {
+        const pos = this.graphicsNode.convertToNodeSpaceAR(event.getLocation());
+        this._graphics.moveTo(pos.x - 5, pos.y);
+        this._graphics.circle(pos.x - 5, pos.y, 1);
+        this._graphics.stroke();
+        this._graphics.moveTo(pos.x - 5, pos.y);
+    }
+
+    onGraphicsEnd(event: cc.Event.EventTouch) {
+        const pos = this.graphicsNode.convertToNodeSpaceAR(event.getLocation());
+        this._graphics.lineTo(pos.x - 5, pos.y);
+        this._graphics.stroke();
+        this._graphics.moveTo(pos.x - 5, pos.y);
+    }
 
 }
