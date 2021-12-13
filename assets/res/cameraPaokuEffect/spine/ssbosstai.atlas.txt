@@ -1,0 +1,118 @@
+
+ssbosstai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: false
+  xy: 425, 122
+  size: 61, 66
+  orig: 78, 78
+  offset: 9, 5
+  index: -1
+images/a02
+  rotate: true
+  xy: 350, 61
+  size: 51, 71
+  orig: 65, 86
+  offset: 9, 9
+  index: -1
+images/a03
+  rotate: false
+  xy: 350, 31
+  size: 30, 28
+  orig: 50, 47
+  offset: 10, 9
+  index: -1
+images/a04
+  rotate: false
+  xy: 235, 58
+  size: 113, 54
+  orig: 121, 63
+  offset: 4, 3
+  index: -1
+images/a05
+  rotate: false
+  xy: 235, 114
+  size: 188, 74
+  orig: 196, 81
+  offset: 4, 3
+  index: -1
+images/a06
+  rotate: false
+  xy: 235, 190
+  size: 217, 59
+  orig: 226, 66
+  offset: 5, 2
+  index: -1
+images/a07
+  rotate: false
+  xy: 454, 200
+  size: 51, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: false
+  xy: 63, 9
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+images/a09
+  rotate: false
+  xy: 2, 7
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+images/a10
+  rotate: false
+  xy: 321, 24
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+images/a11
+  rotate: false
+  xy: 212, 6
+  size: 19, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+images/a12
+  rotate: true
+  xy: 123, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+images/a13
+  rotate: true
+  xy: 235, 13
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+images/a14
+  rotate: true
+  xy: 172, 5
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+images/lizi
+  rotate: false
+  xy: 287, 24
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/w
+  rotate: false
+  xy: 2, 38
+  size: 231, 211
+  orig: 231, 211
+  offset: 0, 0
+  index: -1

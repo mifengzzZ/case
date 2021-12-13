@@ -1,0 +1,83 @@
+
+sspttai.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: true
+  xy: 220, 46
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+images/a02
+  rotate: true
+  xy: 150, 49
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+images/a03
+  rotate: true
+  xy: 82, 47
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+images/a04
+  rotate: false
+  xy: 214, 11
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+images/a05
+  rotate: true
+  xy: 220, 115
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+images/a06
+  rotate: false
+  xy: 150, 76
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+images/a07
+  rotate: false
+  xy: 2, 2
+  size: 210, 42
+  orig: 210, 42
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: true
+  xy: 220, 162
+  size: 84, 23
+  orig: 84, 23
+  offset: 0, 0
+  index: -1
+images/a09
+  rotate: true
+  xy: 82, 70
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+images/b
+  rotate: false
+  xy: 2, 55
+  size: 78, 54
+  orig: 82, 58
+  offset: 2, 2
+  index: -1
+images/w
+  rotate: false
+  xy: 2, 111
+  size: 216, 135
+  orig: 216, 135
+  offset: 0, 0
+  index: -1

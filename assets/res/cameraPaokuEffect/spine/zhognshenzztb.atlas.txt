@@ -1,0 +1,265 @@
+
+zhognshenzztb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: true
+  xy: 452, 356
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+images/a02
+  rotate: true
+  xy: 362, 304
+  size: 14, 77
+  orig: 14, 77
+  offset: 0, 0
+  index: -1
+images/a03
+  rotate: false
+  xy: 208, 86
+  size: 19, 109
+  orig: 19, 109
+  offset: 0, 0
+  index: -1
+images/a04
+  rotate: false
+  xy: 304, 111
+  size: 10, 85
+  orig: 10, 85
+  offset: 0, 0
+  index: -1
+images/a05
+  rotate: false
+  xy: 208, 197
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+images/a06
+  rotate: false
+  xy: 354, 112
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+images/a07
+  rotate: true
+  xy: 362, 293
+  size: 9, 62
+  orig: 9, 62
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: false
+  xy: 2, 64
+  size: 204, 187
+  orig: 218, 203
+  offset: 7, 7
+  index: -1
+images/a09
+  rotate: false
+  xy: 108, 3
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+images/a10
+  rotate: false
+  xy: 179, 28
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+images/a11
+  rotate: false
+  xy: 209, 57
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+images/a12
+  rotate: true
+  xy: 413, 263
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+images/a13
+  rotate: true
+  xy: 291, 90
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+images/a14
+  rotate: true
+  xy: 502, 340
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+images/a15
+  rotate: true
+  xy: 426, 267
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+images/a16
+  rotate: false
+  xy: 208, 66
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+images/a17
+  rotate: false
+  xy: 452, 342
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+images/a18
+  rotate: true
+  xy: 291, 105
+  size: 91, 11
+  orig: 91, 11
+  offset: 0, 0
+  index: -1
+images/a19
+  rotate: false
+  xy: 362, 320
+  size: 83, 25
+  orig: 87, 28
+  offset: 2, 1
+  index: -1
+images/a20
+  rotate: false
+  xy: 225, 294
+  size: 135, 210
+  orig: 135, 210
+  offset: 0, 0
+  index: -1
+images/a21
+  rotate: false
+  xy: 362, 347
+  size: 88, 157
+  orig: 88, 157
+  offset: 0, 0
+  index: -1
+images/a22
+  rotate: false
+  xy: 356, 229
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+images/a23
+  rotate: false
+  xy: 426, 287
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+images/a24
+  rotate: false
+  xy: 490, 329
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+images/a25
+  rotate: false
+  xy: 316, 147
+  size: 45, 49
+  orig: 59, 65
+  offset: 7, 9
+  index: -1
+images/a26
+  rotate: false
+  xy: 356, 206
+  size: 21, 21
+  orig: 45, 45
+  offset: 12, 12
+  index: -1
+images/a27
+  rotate: true
+  xy: 316, 110
+  size: 35, 36
+  orig: 56, 57
+  offset: 12, 10
+  index: -1
+images/a28
+  rotate: true
+  xy: 452, 441
+  size: 63, 58
+  orig: 77, 70
+  offset: 7, 6
+  index: -1
+images/a29
+  rotate: true
+  xy: 225, 198
+  size: 94, 129
+  orig: 106, 145
+  offset: 6, 7
+  index: -1
+images/a30
+  rotate: true
+  xy: 229, 91
+  size: 43, 60
+  orig: 57, 77
+  offset: 7, 8
+  index: -1
+images/a31
+  rotate: true
+  xy: 2, 2
+  size: 60, 104
+  orig: 76, 124
+  offset: 8, 9
+  index: -1
+images/a32
+  rotate: false
+  xy: 452, 367
+  size: 54, 72
+  orig: 73, 93
+  offset: 12, 12
+  index: -1
+images/lizix
+  rotate: false
+  xy: 356, 259
+  size: 26, 32
+  orig: 40, 40
+  offset: 7, 4
+  index: -1
+images/liziy
+  rotate: false
+  xy: 229, 136
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/w
+  rotate: false
+  xy: 2, 253
+  size: 221, 251
+  orig: 221, 251
+  offset: 0, 0
+  index: -1
+images/w1
+  rotate: false
+  xy: 384, 263
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+images/w2
+  rotate: true
+  xy: 179, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

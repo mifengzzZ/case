@@ -1,0 +1,139 @@
+
+smshanglu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: false
+  xy: 2, 188
+  size: 274, 108
+  orig: 280, 111
+  offset: 3, 2
+  index: -1
+images/a02
+  rotate: false
+  xy: 244, 335
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+images/a03
+  rotate: true
+  xy: 442, 326
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+images/a04
+  rotate: false
+  xy: 2, 340
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+images/a05
+  rotate: false
+  xy: 306, 335
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+images/a06
+  rotate: true
+  xy: 32, 337
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+images/a07
+  rotate: false
+  xy: 375, 288
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: false
+  xy: 179, 298
+  size: 194, 35
+  orig: 194, 35
+  offset: 0, 0
+  index: -1
+images/a09
+  rotate: false
+  xy: 2, 305
+  size: 175, 29
+  orig: 175, 29
+  offset: 0, 0
+  index: -1
+images/c01
+  rotate: true
+  xy: 355, 335
+  size: 23, 27
+  orig: 29, 31
+  offset: 3, 1
+  index: -1
+images/c02
+  rotate: true
+  xy: 413, 333
+  size: 25, 27
+  orig: 29, 31
+  offset: 2, 1
+  index: -1
+images/c03
+  rotate: true
+  xy: 155, 336
+  size: 22, 28
+  orig: 29, 31
+  offset: 2, 1
+  index: -1
+images/c04
+  rotate: true
+  xy: 94, 337
+  size: 21, 28
+  orig: 29, 31
+  offset: 3, 2
+  index: -1
+images/c05
+  rotate: true
+  xy: 124, 337
+  size: 21, 29
+  orig: 29, 31
+  offset: 3, 1
+  index: -1
+images/c06
+  rotate: true
+  xy: 185, 336
+  size: 22, 28
+  orig: 29, 31
+  offset: 3, 1
+  index: -1
+images/c07
+  rotate: true
+  xy: 215, 336
+  size: 22, 27
+  orig: 29, 31
+  offset: 3, 1
+  index: -1
+images/c08
+  rotate: true
+  xy: 384, 335
+  size: 23, 27
+  orig: 29, 31
+  offset: 3, 1
+  index: -1
+images/liziy
+  rotate: false
+  xy: 431, 264
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/w
+  rotate: true
+  xy: 278, 2
+  size: 260, 228
+  orig: 260, 228
+  offset: 0, 0
+  index: -1
