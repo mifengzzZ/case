@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-const {ccclass, property} = cc._decorator;
+const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class NewClass extends cc.Component {
@@ -13,7 +13,7 @@ export default class NewClass extends cc.Component {
     @property([cc.Button])
     jumpSceneBtnArr: Array<cc.Button> = [];
 
-    start () {
+    start() {
         for (let index = 0; index < this.jumpSceneBtnArr.length; index++) {
             let element: cc.Button = this.jumpSceneBtnArr[index];
             element.node.on('click', this.onJumpScene.bind(this, index));
@@ -27,6 +27,9 @@ export default class NewClass extends cc.Component {
                 break;
             case 1:
                 cc.director.loadScene('xinshouyindao');
+                break;
+            case 2:
+                cc.director.loadScene('cameraPaokuEffect');
                 break;
         }
     }
