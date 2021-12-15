@@ -10,6 +10,9 @@ const { ccclass, property } = cc._decorator;
 @ccclass
 export default class CameraPaokuEffect extends cc.Component {
 
+    @property({type: cc.Camera, tooltip: '3D摄像机'})
+    camera3D: cc.Camera = null;
+
     @property({ type: cc.Node, tooltip: '添加Map的根节点' })
     mapNode: cc.Node = null;
 
@@ -64,9 +67,24 @@ export default class CameraPaokuEffect extends cc.Component {
         cc.director.loadScene('main');
     }
 
-    onTouchEnd(event: cc.Event) {
-        console.log('event : ', event);
-        this.nextFloor();
+    onTouchEnd(event: cc.Touch) {
+        // 根据点击的点获取一条由屏幕射向屏幕内的射线
+        let ray: cc.geomUtils.Ray = this.camera3D.getRay(event.getLocation());
+        // 根据传入的根节点向下检测,并返回检测结果
+        // 返回的信息包含normal法线向量、穿过的碰撞体等
+        let results = cc.geomUtils.intersect['raycast'](this.node, ray, this.geomUtilsIntersectHandler.bind(this), null);
+        for (let i = 0; i < results.length; i++) {
+            if (results[i].node.name === 'touchNode' && results[i].node.parent && results[i].node.parent['userdata'].zIndex === 5) {
+                console.log('results[i].node[\'userdata\'] : ', results[i].node.parent['userdata'].zIndex);
+                break;
+            }
+        }
+
+        // this.nextFloor();
+    }
+
+    geomUtilsIntersectHandler(modelRay, node, distance) {
+        return distance;
     }
 
     /** 初始化地图 */
@@ -91,6 +109,7 @@ export default class CameraPaokuEffect extends cc.Component {
             for (let index = 0; index < 3; index++) {
                 let taijie: cc.Node = cc.instantiate(this.taijiePreArr[0]);
                 taijie.setPosition(cc.v3(-8.5 + index * 8.5, -3, -4));
+                taijie['userdata'] = {zIndex: i, idx: index};
                 node.addChild(taijie);
                 node['userdata'].obj.push(taijie);
             }

@@ -1169,6 +1169,9 @@
       "__id__": 2
     },
     "_enabled": true,
+    "camera3D": {
+      "__id__": 6
+    },
     "mapNode": {
       "__id__": 11
     },
