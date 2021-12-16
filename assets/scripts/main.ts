@@ -31,6 +31,9 @@ export default class NewClass extends cc.Component {
             case 2:
                 cc.director.loadScene('cameraPaokuEffect');
                 break;
+            case 3:
+                cc.director.loadScene('Scrollview1');
+                break;
         }
     }
 }
