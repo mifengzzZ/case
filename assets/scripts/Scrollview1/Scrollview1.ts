@@ -52,8 +52,9 @@ export default class Scrollview1 extends cc.Component {
         // }
         // this.layout.total(this.datas.length)
 
-        this.datas[2].message = 10;
-        this.datas.splice(0, 1)
+        // this.datas[2].message = 10;
+        // this.datas.splice(0, 1)
+        this.datas = [];
 
         this.layout.total(this.datas.length)
     }
