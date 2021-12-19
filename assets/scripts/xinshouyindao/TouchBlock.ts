@@ -5,12 +5,12 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-const {ccclass, property} = cc._decorator;
+const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class TouchBlock extends cc.Component {
 
-    @property({type: cc.Node, tooltip: '可被点击的节点'})
+    @property({ type: cc.Node, tooltip: '可被点击的节点' })
     target: cc.Node = null;
 
     //** 放行状态 */
@@ -56,7 +56,12 @@ export default class TouchBlock extends cc.Component {
         const isContains = targetRect.contains(event.getLocation());
         if (!isContains) {
             event.stopPropagationImmediate();
+            return;
         }
+        this.node.getChildByName('shoushiroot').active = false;
+        this.node.active = false;
+        this.node.getComponent('HollowOut').setNodeSize();
+        this.passAll();
     }
 
     blockAll() {
@@ -78,7 +83,7 @@ export default class TouchBlock extends cc.Component {
     setSwallowTouches(swallow: boolean) {
         this.node._touchListener && this.node._touchListener.setSwallowTouches(swallow);
     }
-    
+
     reset() {
         this.setSwallowTouches(false);
     }

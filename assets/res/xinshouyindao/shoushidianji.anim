@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shoushidianji",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.45,
+  "sample": 20,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "685979d4-f4f9-4c4d-adcd-9df3bd881720"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "a4018bbf-43f1-42b7-a335-42bcd985b291"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a04378c1-b664-4de8-9573-53f63b8e68c9"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "072ed9b1-56d7-4b3e-8485-d9f3b46efb2c"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "0841de84-0e83-4a8b-a992-c83625793bd5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

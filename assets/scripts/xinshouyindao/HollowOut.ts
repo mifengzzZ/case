@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-const {ccclass, property, requireComponent, executeInEditMode, disallowMultiple, executionOrder} = cc._decorator;
+const { ccclass, property, requireComponent, executeInEditMode, disallowMultiple, executionOrder } = cc._decorator;
 
 export enum HollowOutShape {
     /** 矩形 */
@@ -23,88 +23,88 @@ export default class HollowOut extends cc.Component {
 
     @property
     protected _effect: cc.EffectAsset = null;
-    @property({type: cc.EffectAsset, tooltip: CC_DEV && 'Effect 资源', readonly: true})
+    @property({ type: cc.EffectAsset, tooltip: CC_DEV && 'Effect 资源', readonly: true })
     public get effect() {
         return this._effect;
     }
-    public set effect(v : cc.EffectAsset) {
+    public set effect(v: cc.EffectAsset) {
         this._effect = v;
         this.init();
     }
 
     @property
     _shape: HollowOutShape = HollowOutShape.Rect;
-    @property({type: cc.Enum(HollowOutShape), tooltip: '镂空形状'})
+    @property({ type: cc.Enum(HollowOutShape), tooltip: '镂空形状' })
     public get shape() {
         return this._shape;
     }
-    public set shape(v : HollowOutShape) {
+    public set shape(v: HollowOutShape) {
         this._shape = v;
         this.updateProperties();
     }
 
     @property
     _center: cc.Vec2 = cc.v2();
-    @property({tooltip: '中心坐标'})
+    @property({ tooltip: '中心坐标' })
     public get center() {
         return this._center;
     }
-    public set center(v : cc.Vec2) {
+    public set center(v: cc.Vec2) {
         this._center = v;
         this.updateProperties();
     }
-    
+
     @property
     _width: number = 300;
-    @property({tooltip: '宽', visible() { return this._shape === HollowOutShape.Rect; }})
+    @property({ tooltip: '宽', visible() { return this._shape === HollowOutShape.Rect; } })
     public get width() {
         return this._width;
     }
-    public set width(v : number) {
+    public set width(v: number) {
         this._width = v;
         this.updateProperties();
     }
 
     @property
     _height: number = 300;
-    @property({tooltip: '高', visible() { return this._shape === HollowOutShape.Rect; }})
+    @property({ tooltip: '高', visible() { return this._shape === HollowOutShape.Rect; } })
     public get height() {
         return this._height;
     }
-    public set height(v : number) {
+    public set height(v: number) {
         this._height = v;
         this.updateProperties();
     }
-    
+
     @property
     _round: number = 1;
-    @property({tooltip: '圆角半径', visible () { return this._shape === HollowOutShape.Rect; }})
+    @property({ tooltip: '圆角半径', visible() { return this._shape === HollowOutShape.Rect; } })
     public get round() {
         return this._round;
     }
-    public set round(v : number) {
+    public set round(v: number) {
         this._round = v;
         this.updateProperties();
     }
-    
+
     @property
     _radius: number = 200;
-    @property({tooltip: '半径', visible () { return this._shape === HollowOutShape.Circle; }})
+    @property({ tooltip: '半径', visible() { return this._shape === HollowOutShape.Circle; } })
     public get radius() {
         return this._radius;
     }
-    public set radius(v : number) {
+    public set radius(v: number) {
         this._radius = v;
         this.updateProperties();
     }
-    
+
     @property
     _feather: number = 0.5;
-    @property({tooltip: '边缘虚化宽度', visible () { return this._shape === HollowOutShape.Circle || this.round > 0; }})
+    @property({ tooltip: '边缘虚化宽度', visible() { return this._shape === HollowOutShape.Circle || this.round > 0; } })
     public get feather() {
         return this._feather;
     }
-    public set feather(v : number) {
+    public set feather(v: number) {
         this._feather = v;
         this.updateProperties();
     }
@@ -124,9 +124,7 @@ export default class HollowOut extends cc.Component {
     }
 
     protected async init() {
-        cc.log('init');
         if (!this._effect) return;
-        cc.log('init to');
         // 使用自定义 effect 需要禁用纹理的packable属性,因为动态合图之后无法正确获取纹理的UV坐标
 
         const sprite = this.sprite = this.node.getComponent(cc.Sprite);
@@ -145,6 +143,7 @@ export default class HollowOut extends cc.Component {
                 this.rect(this._center, this._width, this._height, this._round, this._feather);
                 break;
             case HollowOutShape.Circle:
+                this.circle(this._center, this._radius, this._feather);
                 break;
         }
     }
@@ -164,7 +163,7 @@ export default class HollowOut extends cc.Component {
         }
         if (round != null) {
             this._round = (round >= 0) ? round : 0;
-            const min = Math.min(this._width/2, this._height/2);
+            const min = Math.min(this._width / 2, this._height / 2);
             this._round = (this._round <= min) ? this._round : min;
         }
         if (feather != null) {
