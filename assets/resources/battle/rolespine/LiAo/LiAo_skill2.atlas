@@ -1,0 +1,83 @@
+
+LiAo_skill2.png
+size: 512,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chongji_043
+  rotate: true
+  xy: 400, 56
+  size: 231, 82
+  orig: 231, 82
+  offset: 0, 0
+  index: -1
+tx/chongji_044
+  rotate: false
+  xy: 2, 5
+  size: 231, 84
+  orig: 231, 84
+  offset: 0, 0
+  index: -1
+tx/chongji_045
+  rotate: true
+  xy: 314, 289
+  size: 217, 104
+  orig: 217, 104
+  offset: 0, 0
+  index: -1
+tx/chongji_046
+  rotate: false
+  xy: 2, 91
+  size: 231, 105
+  orig: 231, 105
+  offset: 0, 0
+  index: -1
+tx/chongji_047
+  rotate: true
+  xy: 420, 340
+  size: 166, 90
+  orig: 166, 90
+  offset: 0, 0
+  index: -1
+tx/chongji_048
+  rotate: true
+  xy: 314, 56
+  size: 231, 84
+  orig: 231, 84
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 235, 77
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+tx/gz2
+  rotate: false
+  xy: 235, 137
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tx/lizi2
+  rotate: false
+  xy: 235, 24
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tx/mask2
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tx/quan2
+  rotate: false
+  xy: 2, 198
+  size: 310, 308
+  orig: 310, 308
+  offset: 0, 0
+  index: -1

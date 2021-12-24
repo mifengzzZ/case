@@ -1,0 +1,90 @@
+
+NuErKe_skill1.png
+size: 490,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 393, 40
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: true
+  xy: 327, 27
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/jian
+  rotate: true
+  xy: 178, 94
+  size: 18, 207
+  orig: 18, 207
+  offset: 0, 0
+  index: -1
+tx/quan_025
+  rotate: true
+  xy: 138, 2
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+tx/quan_026
+  rotate: false
+  xy: 344, 135
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+tx/quan_027
+  rotate: false
+  xy: 178, 114
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/quan_028
+  rotate: false
+  xy: 178, 280
+  size: 171, 172
+  orig: 171, 172
+  offset: 0, 0
+  index: -1
+tx/quan_029
+  rotate: false
+  xy: 2, 277
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+tx/quan_030
+  rotate: false
+  xy: 2, 100
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+tx/quan_031
+  rotate: false
+  xy: 351, 281
+  size: 137, 171
+  orig: 137, 171
+  offset: 0, 0
+  index: -1
+tx/quan_032
+  rotate: true
+  xy: 2, 5
+  size: 93, 134
+  orig: 93, 134
+  offset: 0, 0
+  index: -1
+tx/quan_033
+  rotate: true
+  xy: 231, 11
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1

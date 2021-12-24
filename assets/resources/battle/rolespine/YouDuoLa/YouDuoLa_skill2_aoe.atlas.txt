@@ -1,0 +1,167 @@
+
+YouDuoLa_skill2_aoe.png
+size: 464,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 380, 26
+  size: 29, 28
+  orig: 34, 36
+  offset: 4, 4
+  index: -1
+tx/gy2
+  rotate: true
+  xy: 348, 26
+  size: 29, 30
+  orig: 36, 33
+  offset: 3, 0
+  index: -1
+tx/sj1_019
+  rotate: true
+  xy: 129, 65
+  size: 58, 89
+  orig: 75, 98
+  offset: 9, 1
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 307, 127
+  size: 93, 182
+  orig: 109, 191
+  offset: 8, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 2, 283
+  size: 100, 206
+  orig: 114, 217
+  offset: 7, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 129, 125
+  size: 94, 183
+  orig: 118, 197
+  offset: 10, 3
+  index: -1
+tx/sj1_023
+  rotate: true
+  xy: 281, 311
+  size: 72, 170
+  orig: 104, 181
+  offset: 16, 0
+  index: -1
+tx/sj1_024
+  rotate: true
+  xy: 319, 426
+  size: 63, 141
+  orig: 63, 150
+  offset: 0, 0
+  index: -1
+tx/tuowei1_014
+  rotate: false
+  xy: 77, 51
+  size: 50, 230
+  orig: 52, 233
+  offset: 0, 2
+  index: -1
+tx/tuowei1_016
+  rotate: false
+  xy: 2, 56
+  size: 73, 225
+  orig: 74, 225
+  offset: 0, 0
+  index: -1
+tx/tuowei1_017
+  rotate: false
+  xy: 225, 116
+  size: 80, 192
+  orig: 80, 194
+  offset: 0, 2
+  index: -1
+tx/tuowei1_018
+  rotate: true
+  xy: 104, 418
+  size: 71, 213
+  orig: 73, 213
+  offset: 0, 0
+  index: -1
+tx/tuowei1_019
+  rotate: true
+  xy: 220, 57
+  size: 57, 161
+  orig: 59, 162
+  offset: 0, 1
+  index: -1
+tx/tuowei1_020
+  rotate: true
+  xy: 2, 3
+  size: 51, 62
+  orig: 54, 63
+  offset: 2, 0
+  index: -1
+tx/tuowei1_021
+  rotate: true
+  xy: 2, 3
+  size: 51, 62
+  orig: 54, 63
+  offset: 2, 0
+  index: -1
+tx/xian2
+  rotate: false
+  xy: 104, 310
+  size: 175, 106
+  orig: 189, 114
+  offset: 7, 4
+  index: -1
+tx/xian3_119
+  rotate: true
+  xy: 319, 385
+  size: 39, 129
+  orig: 40, 145
+  offset: 1, 0
+  index: -1
+tx/xian3_120
+  rotate: false
+  xy: 402, 84
+  size: 40, 225
+  orig: 40, 229
+  offset: 0, 2
+  index: -1
+tx/xian3_121
+  rotate: true
+  xy: 129, 26
+  size: 29, 217
+  orig: 30, 224
+  offset: 1, 4
+  index: -1
+tx/xian3_122
+  rotate: true
+  xy: 66, 2
+  size: 22, 198
+  orig: 23, 201
+  offset: 1, 0
+  index: -1
+tx/xian3_123
+  rotate: true
+  xy: 266, 3
+  size: 21, 196
+  orig: 21, 199
+  offset: 0, 0
+  index: -1
+tx/xian3_124
+  rotate: false
+  xy: 444, 196
+  size: 18, 113
+  orig: 19, 120
+  offset: 1, 3
+  index: -1
+tx/yanwu
+  rotate: false
+  xy: 281, 390
+  size: 30, 26
+  orig: 31, 27
+  offset: 0, 1
+  index: -1

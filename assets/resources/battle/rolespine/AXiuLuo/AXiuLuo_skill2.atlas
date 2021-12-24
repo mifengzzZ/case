@@ -1,0 +1,27 @@
+
+AXiuLuo_skill2.png
+size: 495,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 428, 211
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 2, 19
+  size: 257, 256
+  orig: 257, 256
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 261, 2
+  size: 273, 165
+  orig: 273, 165
+  offset: 0, 0
+  index: -1

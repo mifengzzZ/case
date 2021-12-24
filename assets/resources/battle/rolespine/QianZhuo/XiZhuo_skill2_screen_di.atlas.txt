@@ -1,0 +1,139 @@
+
+XiZhuo_skill2_screen_di.png
+size: 1006,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/beijing
+  rotate: false
+  xy: 2, 762
+  size: 506, 245
+  orig: 506, 245
+  offset: 0, 0
+  index: -1
+tx/liuxing1
+  rotate: false
+  xy: 915, 619
+  size: 30, 388
+  orig: 36, 388
+  offset: 3, 0
+  index: -1
+tx/s4_yun
+  rotate: false
+  xy: 510, 796
+  size: 257, 211
+  orig: 308, 227
+  offset: 33, 7
+  index: -1
+tx/zaobo_000
+  rotate: false
+  xy: 609, 290
+  size: 199, 195
+  orig: 204, 198
+  offset: 1, 0
+  index: -1
+tx/zaobo_002
+  rotate: false
+  xy: 805, 91
+  size: 199, 192
+  orig: 205, 198
+  offset: 1, 0
+  index: -1
+tx/zaobo_004
+  rotate: true
+  xy: 810, 285
+  size: 200, 192
+  orig: 205, 198
+  offset: 1, 0
+  index: -1
+tx/zaobo_006
+  rotate: true
+  xy: 2, 160
+  size: 201, 193
+  orig: 205, 198
+  offset: 0, 0
+  index: -1
+tx/zaobo_008
+  rotate: false
+  xy: 204, 563
+  size: 200, 197
+  orig: 204, 199
+  offset: 1, 1
+  index: -1
+tx/zaobo_010
+  rotate: false
+  xy: 2, 363
+  size: 197, 197
+  orig: 203, 200
+  offset: 1, 2
+  index: -1
+tx/zaobo_012
+  rotate: false
+  xy: 606, 94
+  size: 197, 194
+  orig: 203, 200
+  offset: 1, 5
+  index: -1
+tx/zaobo_014
+  rotate: true
+  xy: 402, 2
+  size: 197, 194
+  orig: 203, 200
+  offset: 1, 4
+  index: -1
+tx/zaobo_016
+  rotate: false
+  xy: 405, 201
+  size: 199, 195
+  orig: 204, 200
+  offset: 0, 1
+  index: -1
+tx/zaobo_018
+  rotate: false
+  xy: 201, 167
+  size: 199, 195
+  orig: 204, 199
+  offset: 1, 0
+  index: -1
+tx/zaobo_020
+  rotate: false
+  xy: 204, 364
+  size: 199, 197
+  orig: 205, 200
+  offset: 1, 0
+  index: -1
+tx/zaobo_022
+  rotate: false
+  xy: 2, 562
+  size: 200, 198
+  orig: 205, 200
+  offset: 1, 1
+  index: -1
+tx/zaobo_024
+  rotate: false
+  xy: 510, 596
+  size: 201, 198
+  orig: 205, 200
+  offset: 1, 1
+  index: -1
+tx/zaobo_026
+  rotate: true
+  xy: 713, 487
+  size: 202, 197
+  orig: 205, 200
+  offset: 0, 1
+  index: -1
+tx/zaobo_028
+  rotate: false
+  xy: 406, 398
+  size: 201, 196
+  orig: 205, 199
+  offset: 0, 0
+  index: -1
+tx/zhezhao
+  rotate: true
+  xy: 769, 691
+  size: 316, 144
+  orig: 316, 144
+  offset: 0, 0
+  index: -1

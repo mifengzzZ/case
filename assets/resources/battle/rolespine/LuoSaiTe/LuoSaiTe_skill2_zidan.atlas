@@ -1,0 +1,48 @@
+
+LuoSaiTe_skill2_zidan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a11
+  rotate: false
+  xy: 2, 26
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+images/tx/c01
+  rotate: true
+  xy: 160, 3
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+images/tx/c02
+  rotate: true
+  xy: 105, 2
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+images/tx/c03
+  rotate: false
+  xy: 105, 69
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+images/tx/c04
+  rotate: true
+  xy: 131, 5
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
+images/tx/c11
+  rotate: false
+  xy: 105, 96
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1

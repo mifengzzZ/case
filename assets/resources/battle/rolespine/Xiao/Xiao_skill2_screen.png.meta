@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d005ce42-f9ff-4b49-ab57-124712a341b3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 987,
+  "height": 960,
+  "platformSettings": {},
+  "subMetas": {
+    "Xiao_skill2_screen": {
+      "ver": "1.0.6",
+      "uuid": "88553690-68b4-4feb-87a2-2390b89266c1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d005ce42-f9ff-4b49-ab57-124712a341b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 983,
+      "height": 956,
+      "rawWidth": 987,
+      "rawHeight": 960,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

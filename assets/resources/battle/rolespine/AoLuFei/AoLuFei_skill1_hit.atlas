@@ -1,0 +1,216 @@
+
+AoLuFei_skill1_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a01
+  rotate: false
+  xy: 2, 396
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a02
+  rotate: false
+  xy: 2, 280
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a03
+  rotate: false
+  xy: 112, 396
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a04
+  rotate: false
+  xy: 2, 164
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a05
+  rotate: false
+  xy: 112, 280
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a06
+  rotate: false
+  xy: 222, 396
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a07
+  rotate: false
+  xy: 2, 48
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/a08
+  rotate: false
+  xy: 112, 164
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+images/tx/b01
+  rotate: false
+  xy: 222, 205
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b02
+  rotate: false
+  xy: 222, 136
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b03
+  rotate: false
+  xy: 214, 67
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b04
+  rotate: true
+  xy: 307, 189
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b05
+  rotate: false
+  xy: 307, 120
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b06
+  rotate: false
+  xy: 299, 51
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b07
+  rotate: false
+  xy: 332, 335
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b08
+  rotate: false
+  xy: 417, 335
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b09
+  rotate: false
+  xy: 376, 266
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b10
+  rotate: false
+  xy: 376, 197
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/b11
+  rotate: true
+  xy: 392, 112
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/tx/k
+  rotate: true
+  xy: 222, 274
+  size: 120, 102
+  orig: 120, 102
+  offset: 0, 0
+  index: -1
+images/tx/l
+  rotate: false
+  xy: 332, 404
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+images/tx/lizi1
+  rotate: false
+  xy: 494, 318
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: false
+  xy: 42, 14
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+images/tx/lizi3
+  rotate: false
+  xy: 444, 478
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/tx/lizi4
+  rotate: false
+  xy: 461, 302
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+images/tx/m
+  rotate: false
+  xy: 112, 70
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+images/tx/o
+  rotate: true
+  xy: 77, 26
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+images/tx/p
+  rotate: true
+  xy: 179, 48
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+images/tx/q
+  rotate: false
+  xy: 2, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+images/tx/r
+  rotate: true
+  xy: 112, 48
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1

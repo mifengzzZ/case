@@ -1,0 +1,27 @@
+
+OuRuoSi_skill1_screen.png
+size: 78,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a
+  rotate: false
+  xy: 2, 2
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+tx/b
+  rotate: false
+  xy: 2, 55
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+tx/c
+  rotate: false
+  xy: 2, 109
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1

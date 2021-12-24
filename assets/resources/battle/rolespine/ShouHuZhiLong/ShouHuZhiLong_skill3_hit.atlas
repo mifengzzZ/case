@@ -1,0 +1,153 @@
+
+ShouHuZhiLong_skill3_hit.png
+size: 481,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a
+  rotate: false
+  xy: 87, 4
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+tx/b
+  rotate: false
+  xy: 45, 3
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+tx/baozha2
+  rotate: false
+  xy: 2, 295
+  size: 157, 182
+  orig: 157, 182
+  offset: 0, 0
+  index: -1
+tx/baozha_000
+  rotate: false
+  xy: 256, 44
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+tx/baozha_001
+  rotate: true
+  xy: 131, 166
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+tx/baozha_002
+  rotate: true
+  xy: 2, 164
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+tx/baozha_003
+  rotate: true
+  xy: 2, 164
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+tx/baozha_004
+  rotate: true
+  xy: 2, 34
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+tx/baozha_005
+  rotate: true
+  xy: 131, 38
+  size: 126, 123
+  orig: 126, 123
+  offset: 0, 0
+  index: -1
+tx/baozha_006
+  rotate: false
+  xy: 259, 169
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+tx/c
+  rotate: false
+  xy: 2, 2
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 378, 283
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 256, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tx/sj1_015
+  rotate: false
+  xy: 161, 296
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+tx/sj1_016
+  rotate: true
+  xy: 370, 195
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+tx/sj1_017
+  rotate: true
+  xy: 259, 287
+  size: 93, 117
+  orig: 93, 117
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: true
+  xy: 259, 382
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 161, 367
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: true
+  xy: 378, 382
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 378, 110
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 378, 30
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1

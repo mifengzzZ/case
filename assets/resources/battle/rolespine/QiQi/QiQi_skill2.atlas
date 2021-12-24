@@ -1,0 +1,83 @@
+
+QiQi_skill2.png
+size: 505,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: false
+  xy: 451, 469
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+tx/quan3
+  rotate: false
+  xy: 2, 237
+  size: 278, 268
+  orig: 278, 268
+  offset: 0, 0
+  index: -1
+tx/xian2_014
+  rotate: true
+  xy: 164, 37
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+tx/xian2_015
+  rotate: true
+  xy: 2, 23
+  size: 82, 160
+  orig: 82, 160
+  offset: 0, 0
+  index: -1
+tx/xian2_016
+  rotate: false
+  xy: 366, 279
+  size: 83, 226
+  orig: 83, 226
+  offset: 0, 0
+  index: -1
+tx/xian2_017
+  rotate: false
+  xy: 440, 2
+  size: 63, 275
+  orig: 63, 275
+  offset: 0, 0
+  index: -1
+tx/xian2_018
+  rotate: true
+  xy: 2, 107
+  size: 59, 277
+  orig: 59, 277
+  offset: 0, 0
+  index: -1
+tx/xian2_019
+  rotate: true
+  xy: 2, 168
+  size: 67, 251
+  orig: 67, 251
+  offset: 0, 0
+  index: -1
+tx/xian2_020
+  rotate: false
+  xy: 362, 5
+  size: 76, 249
+  orig: 76, 249
+  offset: 0, 0
+  index: -1
+tx/xian2_021
+  rotate: false
+  xy: 282, 5
+  size: 78, 249
+  orig: 78, 249
+  offset: 0, 0
+  index: -1
+tx/xian2_022
+  rotate: false
+  xy: 282, 256
+  size: 82, 249
+  orig: 82, 249
+  offset: 0, 0
+  index: -1

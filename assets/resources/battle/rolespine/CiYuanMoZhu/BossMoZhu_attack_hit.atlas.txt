@@ -1,0 +1,272 @@
+
+BossMoZhu_attack_hit.png
+size: 497,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj1
+  rotate: false
+  xy: 278, 29
+  size: 38, 83
+  orig: 38, 90
+  offset: 0, 4
+  index: -1
+gy1
+  rotate: false
+  xy: 151, 9
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+heihuo_024
+  rotate: true
+  xy: 334, 292
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+heihuo_025
+  rotate: false
+  xy: 429, 77
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+heihuo_026
+  rotate: false
+  xy: 318, 27
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+heihuo_027
+  rotate: false
+  xy: 332, 73
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+heihuo_028
+  rotate: true
+  xy: 228, 2
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+heihuo_029
+  rotate: false
+  xy: 334, 227
+  size: 112, 49
+  orig: 112, 49
+  offset: 0, 0
+  index: -1
+heihuo_030
+  rotate: true
+  xy: 229, 229
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+heihuo_031
+  rotate: true
+  xy: 176, 229
+  size: 113, 51
+  orig: 113, 51
+  offset: 0, 0
+  index: -1
+heihuo_032
+  rotate: true
+  xy: 124, 227
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+heihuo_033
+  rotate: true
+  xy: 228, 114
+  size: 113, 50
+  orig: 113, 50
+  offset: 0, 0
+  index: -1
+heihuo_034
+  rotate: true
+  xy: 124, 111
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+heihuo_035
+  rotate: true
+  xy: 176, 113
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+heihuo_036
+  rotate: true
+  xy: 280, 115
+  size: 112, 50
+  orig: 112, 50
+  offset: 0, 0
+  index: -1
+heihuo_037
+  rotate: true
+  xy: 281, 232
+  size: 112, 51
+  orig: 112, 51
+  offset: 0, 0
+  index: -1
+heihuo_038
+  rotate: false
+  xy: 332, 173
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+heihuo_039
+  rotate: true
+  xy: 443, 117
+  size: 108, 52
+  orig: 108, 52
+  offset: 0, 0
+  index: -1
+heihuo_040
+  rotate: false
+  xy: 332, 119
+  size: 108, 52
+  orig: 108, 52
+  offset: 0, 0
+  index: -1
+heihuo_041
+  rotate: true
+  xy: 176, 37
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+heihuo_042
+  rotate: true
+  xy: 124, 37
+  size: 72, 50
+  orig: 73, 50
+  offset: 1, 0
+  index: -1
+heihuo_043
+  rotate: false
+  xy: 399, 22
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+heihuo_044
+  rotate: false
+  xy: 448, 227
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+heihuo_045
+  rotate: false
+  xy: 116, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+lizi1_023
+  rotate: false
+  xy: 179, 18
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+lizi1_024
+  rotate: false
+  xy: 198, 18
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+lizi1_025
+  rotate: false
+  xy: 472, 59
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+lizi1_026
+  rotate: false
+  xy: 179, 2
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+lizi1_027
+  rotate: false
+  xy: 306, 17
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+zhakai_025
+  rotate: false
+  xy: 278, 6
+  size: 26, 21
+  orig: 30, 23
+  offset: 2, 1
+  index: -1
+zhakai_026
+  rotate: true
+  xy: 2, 9
+  size: 60, 112
+  orig: 63, 114
+  offset: 1, 1
+  index: -1
+zhakai_027
+  rotate: true
+  xy: 371, 278
+  size: 92, 117
+  orig: 94, 120
+  offset: 0, 1
+  index: -1
+zhakai_028
+  rotate: true
+  xy: 371, 372
+  size: 107, 124
+  orig: 109, 127
+  offset: 1, 1
+  index: -1
+zhakai_029
+  rotate: false
+  xy: 2, 206
+  size: 120, 135
+  orig: 124, 138
+  offset: 2, 1
+  index: -1
+zhakai_030
+  rotate: false
+  xy: 127, 344
+  size: 120, 135
+  orig: 124, 138
+  offset: 2, 1
+  index: -1
+zhakai_031
+  rotate: false
+  xy: 2, 343
+  size: 123, 136
+  orig: 126, 140
+  offset: 1, 2
+  index: -1
+zhakai_032
+  rotate: false
+  xy: 2, 71
+  size: 120, 133
+  orig: 122, 136
+  offset: 1, 1
+  index: -1
+zhakai_033
+  rotate: false
+  xy: 249, 346
+  size: 120, 133
+  orig: 120, 134
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+KaLiFu_skill2_hit.png
+size: 482,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/baodian1
+  rotate: false
+  xy: 2, 5
+  size: 121, 73
+  orig: 131, 79
+  offset: 5, 3
+  index: -1
+tx/dg2
+  rotate: false
+  xy: 125, 12
+  size: 122, 90
+  orig: 135, 99
+  offset: 8, 4
+  index: -1
+tx/dg3
+  rotate: true
+  xy: 313, 2
+  size: 114, 119
+  orig: 119, 122
+  offset: 3, 2
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 450, 264
+  size: 30, 31
+  orig: 31, 31
+  offset: 1, 0
+  index: -1
+tx/sj1_00012
+  rotate: false
+  xy: 249, 8
+  size: 62, 95
+  orig: 82, 110
+  offset: 10, 10
+  index: -1
+tx/sj1_00013
+  rotate: false
+  xy: 208, 105
+  size: 96, 190
+  orig: 111, 195
+  offset: 7, 0
+  index: -1
+tx/sj1_00014
+  rotate: false
+  xy: 2, 80
+  size: 104, 215
+  orig: 120, 223
+  offset: 8, 0
+  index: -1
+tx/sj1_00015
+  rotate: false
+  xy: 108, 104
+  size: 98, 191
+  orig: 124, 202
+  offset: 9, 3
+  index: -1
+tx/sj1_00016
+  rotate: false
+  xy: 306, 118
+  size: 73, 177
+  orig: 114, 185
+  offset: 18, 0
+  index: -1
+tx/sj1_00017
+  rotate: false
+  xy: 381, 147
+  size: 67, 148
+  orig: 82, 153
+  offset: 15, 2
+  index: -1
+tx/yumao_00001
+  rotate: false
+  xy: 434, 55
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+tx/yumao_00002
+  rotate: true
+  xy: 450, 231
+  size: 31, 30
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tx/yumao_00003
+  rotate: false
+  xy: 434, 8
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+tx/yumao_00004
+  rotate: false
+  xy: 434, 98
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+Ling_attack.png
+size: 508,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chentu_029
+  rotate: true
+  xy: 481, 401
+  size: 108, 25
+  orig: 108, 25
+  offset: 0, 0
+  index: -1
+tx/chentu_030
+  rotate: true
+  xy: 466, 153
+  size: 135, 32
+  orig: 135, 32
+  offset: 0, 0
+  index: -1
+tx/chentu_031
+  rotate: false
+  xy: 2, 59
+  size: 209, 61
+  orig: 209, 61
+  offset: 0, 0
+  index: -1
+tx/chentu_032
+  rotate: false
+  xy: 2, 2
+  size: 223, 55
+  orig: 223, 55
+  offset: 0, 0
+  index: -1
+tx/chentu_033
+  rotate: true
+  xy: 370, 45
+  size: 169, 61
+  orig: 169, 61
+  offset: 0, 0
+  index: -1
+tx/chentu_034
+  rotate: false
+  xy: 227, 52
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+tx/ci_030
+  rotate: false
+  xy: 2, 452
+  size: 364, 57
+  orig: 364, 57
+  offset: 0, 0
+  index: -1
+tx/ci_031
+  rotate: false
+  xy: 2, 397
+  size: 327, 53
+  orig: 327, 53
+  offset: 0, 0
+  index: -1
+tx/ci_032
+  rotate: false
+  xy: 2, 346
+  size: 300, 49
+  orig: 300, 49
+  offset: 0, 0
+  index: -1
+tx/ci_033
+  rotate: true
+  xy: 326, 96
+  size: 299, 42
+  orig: 299, 42
+  offset: 0, 0
+  index: -1
+tx/ci_034
+  rotate: true
+  xy: 370, 216
+  size: 293, 40
+  orig: 293, 40
+  offset: 0, 0
+  index: -1
+tx/ci_035
+  rotate: true
+  xy: 433, 50
+  size: 238, 31
+  orig: 238, 31
+  offset: 0, 0
+  index: -1
+tx/qilang_031
+  rotate: false
+  xy: 2, 122
+  size: 123, 222
+  orig: 123, 222
+  offset: 0, 0
+  index: -1
+tx/qilang_032
+  rotate: false
+  xy: 127, 124
+  size: 109, 220
+  orig: 109, 220
+  offset: 0, 0
+  index: -1
+tx/qilang_033
+  rotate: false
+  xy: 238, 124
+  size: 86, 220
+  orig: 86, 220
+  offset: 0, 0
+  index: -1
+tx/qilang_034
+  rotate: false
+  xy: 412, 290
+  size: 67, 219
+  orig: 67, 219
+  offset: 0, 0
+  index: -1

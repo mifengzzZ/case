@@ -1,0 +1,230 @@
+
+JieXiKa_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/feijian1_017
+  rotate: false
+  xy: 260, 34
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+tx/feijian1_018
+  rotate: false
+  xy: 412, 375
+  size: 92, 135
+  orig: 92, 135
+  offset: 0, 0
+  index: -1
+tx/feijian1_019
+  rotate: false
+  xy: 311, 360
+  size: 99, 150
+  orig: 99, 150
+  offset: 0, 0
+  index: -1
+tx/feijian1_020
+  rotate: false
+  xy: 291, 221
+  size: 103, 134
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+tx/feijian1_021
+  rotate: true
+  xy: 156, 111
+  size: 102, 128
+  orig: 102, 128
+  offset: 0, 0
+  index: -1
+tx/feijian1_022
+  rotate: true
+  xy: 149, 10
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 291, 4
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+tx/sj1_016
+  rotate: false
+  xy: 417, 93
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+tx/sj1_017
+  rotate: false
+  xy: 2, 54
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: false
+  xy: 158, 357
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 2, 357
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 2, 202
+  size: 152, 153
+  orig: 152, 153
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 156, 215
+  size: 133, 140
+  orig: 133, 140
+  offset: 0, 0
+  index: -1
+tx/sj1_024
+  rotate: true
+  xy: 396, 246
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+tx/sj1_026
+  rotate: false
+  xy: 396, 163
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+tx/sj1_028
+  rotate: false
+  xy: 2, 40
+  size: 100, 12
+  orig: 100, 12
+  offset: 0, 0
+  index: -1
+tx/yanhuo_018
+  rotate: false
+  xy: 83, 17
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+tx/yanhuo_019
+  rotate: false
+  xy: 260, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+tx/yanhuo_020
+  rotate: true
+  xy: 2, 3
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+tx/yanhuo_021
+  rotate: false
+  xy: 370, 35
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+tx/yanhuo_022
+  rotate: true
+  xy: 468, 120
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+tx/yanhuo_023
+  rotate: false
+  xy: 326, 38
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+tx/yanhuo_024
+  rotate: false
+  xy: 286, 128
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+tx/yanhuo_025
+  rotate: false
+  xy: 332, 128
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+tx/yanhuo_026
+  rotate: false
+  xy: 104, 8
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+tx/yanhuo_027
+  rotate: false
+  xy: 339, 174
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+tx/yanhuo_028
+  rotate: true
+  xy: 291, 174
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+tx/yanhuo_029
+  rotate: false
+  xy: 326, 84
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+tx/yanhuo_030
+  rotate: false
+  xy: 378, 119
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+tx/yanhuo_031
+  rotate: false
+  xy: 423, 120
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+tx/yanhuo_032
+  rotate: true
+  xy: 373, 76
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+tx/yanhuo_033
+  rotate: true
+  xy: 41, 17
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1

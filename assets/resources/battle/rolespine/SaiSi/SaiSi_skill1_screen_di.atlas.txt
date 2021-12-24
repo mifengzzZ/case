@@ -1,0 +1,146 @@
+
+SaiSi_skill1_screen_di.png
+size: 502,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/hailang2_000
+  rotate: false
+  xy: 252, 97
+  size: 123, 93
+  orig: 123, 101
+  offset: 0, 4
+  index: -1
+tx/hailang2_002
+  rotate: false
+  xy: 377, 97
+  size: 123, 93
+  orig: 123, 99
+  offset: 0, 3
+  index: -1
+tx/hailang2_004
+  rotate: false
+  xy: 252, 286
+  size: 123, 92
+  orig: 123, 98
+  offset: 0, 3
+  index: -1
+tx/hailang2_006
+  rotate: false
+  xy: 127, 380
+  size: 123, 90
+  orig: 123, 96
+  offset: 0, 2
+  index: -1
+tx/hailang2_008
+  rotate: false
+  xy: 2, 381
+  size: 123, 89
+  orig: 123, 96
+  offset: 0, 3
+  index: -1
+tx/hailang2_010
+  rotate: false
+  xy: 252, 380
+  size: 123, 90
+  orig: 123, 99
+  offset: 0, 4
+  index: -1
+tx/hailang2_012
+  rotate: false
+  xy: 377, 286
+  size: 123, 92
+  orig: 123, 99
+  offset: 0, 3
+  index: -1
+tx/hailang2_014
+  rotate: false
+  xy: 2, 5
+  size: 123, 93
+  orig: 123, 99
+  offset: 0, 2
+  index: -1
+tx/hailang2_016
+  rotate: false
+  xy: 2, 288
+  size: 123, 91
+  orig: 123, 99
+  offset: 0, 4
+  index: -1
+tx/hailang2_018
+  rotate: false
+  xy: 2, 194
+  size: 123, 92
+  orig: 123, 97
+  offset: 0, 2
+  index: -1
+tx/hailang2_020
+  rotate: false
+  xy: 127, 193
+  size: 123, 92
+  orig: 123, 98
+  offset: 0, 2
+  index: -1
+tx/hailang2_022
+  rotate: false
+  xy: 252, 192
+  size: 123, 92
+  orig: 123, 98
+  offset: 0, 2
+  index: -1
+tx/hailang2_024
+  rotate: false
+  xy: 377, 380
+  size: 123, 90
+  orig: 123, 98
+  offset: 0, 4
+  index: -1
+tx/hailang2_026
+  rotate: false
+  xy: 377, 192
+  size: 123, 92
+  orig: 123, 99
+  offset: 0, 3
+  index: -1
+tx/hailang2_028
+  rotate: false
+  xy: 2, 100
+  size: 123, 92
+  orig: 123, 99
+  offset: 0, 3
+  index: -1
+tx/hailang2_030
+  rotate: false
+  xy: 127, 99
+  size: 123, 92
+  orig: 123, 100
+  offset: 0, 4
+  index: -1
+tx/hailang2_032
+  rotate: false
+  xy: 127, 287
+  size: 123, 91
+  orig: 123, 100
+  offset: 0, 5
+  index: -1
+tx/hailang2_034
+  rotate: false
+  xy: 127, 4
+  size: 123, 93
+  orig: 123, 100
+  offset: 0, 3
+  index: -1
+tx/hailang2_036
+  rotate: false
+  xy: 252, 2
+  size: 123, 93
+  orig: 123, 99
+  offset: 0, 2
+  index: -1
+tx/hailang2_038
+  rotate: false
+  xy: 377, 2
+  size: 123, 93
+  orig: 123, 100
+  offset: 0, 3
+  index: -1

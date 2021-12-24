@@ -1,0 +1,76 @@
+
+ManYue_attack.png
+size: 511,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_000
+  rotate: false
+  xy: 2, 306
+  size: 220, 204
+  orig: 220, 204
+  offset: 0, 0
+  index: -1
+tx/dg1_001
+  rotate: false
+  xy: 2, 113
+  size: 213, 191
+  orig: 213, 191
+  offset: 0, 0
+  index: -1
+tx/dg1_002
+  rotate: false
+  xy: 224, 332
+  size: 195, 178
+  orig: 195, 178
+  offset: 0, 0
+  index: -1
+tx/dg1_003
+  rotate: false
+  xy: 224, 161
+  size: 173, 169
+  orig: 173, 169
+  offset: 0, 0
+  index: -1
+tx/dg1_004
+  rotate: true
+  xy: 351, 4
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+tx/dg1_005
+  rotate: false
+  xy: 217, 2
+  size: 132, 157
+  orig: 132, 157
+  offset: 0, 0
+  index: -1
+tx/dg1_006
+  rotate: false
+  xy: 421, 375
+  size: 46, 135
+  orig: 46, 135
+  offset: 0, 0
+  index: -1
+tx/dg1_007
+  rotate: false
+  xy: 469, 384
+  size: 28, 126
+  orig: 28, 126
+  offset: 0, 0
+  index: -1
+tx/dg1_008
+  rotate: false
+  xy: 399, 213
+  size: 17, 117
+  orig: 17, 117
+  offset: 0, 0
+  index: -1
+tx/dg2
+  rotate: true
+  xy: 2, 5
+  size: 106, 156
+  orig: 106, 156
+  offset: 0, 0
+  index: -1

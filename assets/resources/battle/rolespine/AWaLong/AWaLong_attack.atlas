@@ -1,0 +1,104 @@
+
+AWaLong_attack.png
+size: 507,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy3
+  rotate: true
+  xy: 174, 140
+  size: 114, 273
+  orig: 114, 273
+  offset: 0, 0
+  index: -1
+tx/shandian1_020
+  rotate: true
+  xy: 2, 4
+  size: 265, 73
+  orig: 265, 73
+  offset: 0, 0
+  index: -1
+tx/shandian1_021
+  rotate: false
+  xy: 174, 67
+  size: 270, 71
+  orig: 270, 71
+  offset: 0, 0
+  index: -1
+tx/shandian1_022
+  rotate: false
+  xy: 2, 337
+  size: 278, 68
+  orig: 278, 68
+  offset: 0, 0
+  index: -1
+tx/shandian1_023
+  rotate: false
+  xy: 174, 2
+  size: 236, 63
+  orig: 236, 63
+  offset: 0, 0
+  index: -1
+tx/tuowei1_019
+  rotate: false
+  xy: 2, 407
+  size: 281, 101
+  orig: 281, 101
+  offset: 0, 0
+  index: -1
+tx/tuowei1_020
+  rotate: true
+  xy: 77, 7
+  size: 247, 95
+  orig: 247, 95
+  offset: 0, 0
+  index: -1
+tx/tuowei1_021
+  rotate: false
+  xy: 285, 420
+  size: 209, 88
+  orig: 209, 88
+  offset: 0, 0
+  index: -1
+tx/tuowei1_022
+  rotate: false
+  xy: 285, 339
+  size: 189, 79
+  orig: 189, 79
+  offset: 0, 0
+  index: -1
+tx/tuowei1_023
+  rotate: false
+  xy: 282, 271
+  size: 173, 66
+  orig: 173, 66
+  offset: 0, 0
+  index: -1
+tx/tuowei1_024
+  rotate: false
+  xy: 2, 271
+  size: 163, 64
+  orig: 163, 64
+  offset: 0, 0
+  index: -1
+tx/tuowei1_025
+  rotate: true
+  xy: 457, 223
+  size: 114, 48
+  orig: 114, 48
+  offset: 0, 0
+  index: -1
+tx/tuowei1_026
+  rotate: false
+  xy: 167, 293
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+tx/tuowei1_027
+  rotate: false
+  xy: 167, 256
+  size: 101, 35
+  orig: 101, 35
+  offset: 0, 0
+  index: -1

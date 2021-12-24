@@ -1,0 +1,111 @@
+
+AoSiMan_skill2.png
+size: 491,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gs
+  rotate: false
+  xy: 163, 11
+  size: 144, 42
+  orig: 154, 48
+  offset: 4, 3
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 104, 2
+  size: 34, 34
+  orig: 37, 36
+  offset: 2, 1
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 2, 226
+  size: 265, 269
+  orig: 268, 280
+  offset: 1, 2
+  index: -1
+tx/huaban_000
+  rotate: false
+  xy: 70, 11
+  size: 32, 19
+  orig: 32, 21
+  offset: 0, 1
+  index: -1
+tx/huaban_002
+  rotate: false
+  xy: 2, 9
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+tx/huaban_005
+  rotate: false
+  xy: 36, 9
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+tx/xuli_010
+  rotate: true
+  xy: 360, 28
+  size: 87, 72
+  orig: 92, 76
+  offset: 4, 2
+  index: -1
+tx/xuli_011
+  rotate: false
+  xy: 381, 286
+  size: 108, 105
+  orig: 111, 109
+  offset: 2, 2
+  index: -1
+tx/xuli_012
+  rotate: false
+  xy: 269, 241
+  size: 110, 150
+  orig: 112, 154
+  offset: 0, 1
+  index: -1
+tx/xuli_013
+  rotate: false
+  xy: 80, 38
+  size: 81, 186
+  orig: 84, 189
+  offset: 2, 1
+  index: -1
+tx/xuli_014
+  rotate: false
+  xy: 2, 32
+  size: 76, 192
+  orig: 79, 193
+  offset: 2, 1
+  index: -1
+tx/xuli_015
+  rotate: false
+  xy: 272, 70
+  size: 86, 169
+  orig: 91, 172
+  offset: 2, 1
+  index: -1
+tx/xuli_016
+  rotate: false
+  xy: 381, 117
+  size: 98, 167
+  orig: 103, 170
+  offset: 2, 2
+  index: -1
+tx/xuli_017
+  rotate: true
+  xy: 309, 393
+  size: 102, 169
+  orig: 107, 170
+  offset: 2, 1
+  index: -1
+tx/xuli_018
+  rotate: false
+  xy: 163, 55
+  size: 107, 169
+  orig: 111, 171
+  offset: 2, 2
+  index: -1

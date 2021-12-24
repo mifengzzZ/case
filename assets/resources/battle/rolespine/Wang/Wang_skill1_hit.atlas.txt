@@ -1,0 +1,307 @@
+
+Wang_skill1_hit.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juqi_003
+  rotate: false
+  xy: 445, 182
+  size: 50, 47
+  orig: 52, 49
+  offset: 1, 1
+  index: -1
+juqi_004
+  rotate: false
+  xy: 417, 231
+  size: 44, 40
+  orig: 46, 42
+  offset: 1, 1
+  index: -1
+juqi_005
+  rotate: false
+  xy: 221, 2
+  size: 48, 36
+  orig: 48, 37
+  offset: 0, 1
+  index: -1
+juqi_006
+  rotate: true
+  xy: 434, 362
+  size: 52, 43
+  orig: 53, 45
+  offset: 1, 1
+  index: -1
+juqi_007
+  rotate: false
+  xy: 446, 131
+  size: 49, 49
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+juqi_008
+  rotate: true
+  xy: 174, 2
+  size: 42, 45
+  orig: 44, 47
+  offset: 1, 1
+  index: -1
+juqi_009
+  rotate: true
+  xy: 446, 47
+  size: 31, 37
+  orig: 33, 39
+  offset: 1, 1
+  index: -1
+juqi_010
+  rotate: false
+  xy: 472, 416
+  size: 19, 27
+  orig: 21, 29
+  offset: 1, 1
+  index: -1
+juqi_011
+  rotate: false
+  xy: 485, 61
+  size: 10, 17
+  orig: 12, 18
+  offset: 1, 1
+  index: -1
+juqi_012
+  rotate: false
+  xy: 287, 279
+  size: 1, 1
+  orig: 3, 3
+  offset: 1, 1
+  index: -1
+s1gy1
+  rotate: false
+  xy: 383, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+s1quan2
+  rotate: false
+  xy: 446, 80
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+xiantiao_003
+  rotate: true
+  xy: 472, 445
+  size: 50, 22
+  orig: 52, 26
+  offset: 1, 2
+  index: -1
+xiantiao_004
+  rotate: false
+  xy: 387, 147
+  size: 56, 79
+  orig: 59, 83
+  offset: 2, 3
+  index: -1
+xiantiao_005
+  rotate: false
+  xy: 384, 64
+  size: 60, 81
+  orig: 64, 84
+  offset: 2, 2
+  index: -1
+xiantiao_006
+  rotate: true
+  xy: 2, 5
+  size: 93, 80
+  orig: 100, 84
+  offset: 2, 2
+  index: -1
+xiantiao_007
+  rotate: true
+  xy: 169, 46
+  size: 98, 82
+  orig: 104, 85
+  offset: 2, 2
+  index: -1
+xiantiao_008
+  rotate: true
+  xy: 84, 38
+  size: 102, 83
+  orig: 107, 86
+  offset: 2, 2
+  index: -1
+xiantiao_009
+  rotate: false
+  xy: 154, 146
+  size: 104, 83
+  orig: 109, 86
+  offset: 2, 2
+  index: -1
+xiantiao_010
+  rotate: true
+  xy: 69, 142
+  size: 111, 83
+  orig: 117, 86
+  offset: 3, 2
+  index: -1
+xiantiao_011
+  rotate: false
+  xy: 290, 273
+  size: 127, 82
+  orig: 132, 85
+  offset: 2, 2
+  index: -1
+xiantiao_012
+  rotate: false
+  xy: 154, 282
+  size: 134, 81
+  orig: 139, 84
+  offset: 2, 2
+  index: -1
+xiantiao_013
+  rotate: false
+  xy: 327, 416
+  size: 143, 79
+  orig: 147, 83
+  offset: 2, 3
+  index: -1
+xiantiao_014
+  rotate: true
+  xy: 74, 268
+  size: 149, 78
+  orig: 154, 82
+  offset: 3, 3
+  index: -1
+xiantiao_015
+  rotate: false
+  xy: 2, 419
+  size: 156, 76
+  orig: 160, 80
+  offset: 2, 2
+  index: -1
+xiantiao_016
+  rotate: true
+  xy: 2, 255
+  size: 162, 70
+  orig: 166, 76
+  offset: 2, 4
+  index: -1
+xiantiao_017
+  rotate: false
+  xy: 160, 429
+  size: 165, 66
+  orig: 171, 71
+  offset: 3, 2
+  index: -1
+xiantiao_018
+  rotate: true
+  xy: 2, 100
+  size: 153, 65
+  orig: 158, 70
+  offset: 3, 2
+  index: -1
+xiantiao_019
+  rotate: false
+  xy: 160, 365
+  size: 139, 62
+  orig: 154, 67
+  offset: 12, 3
+  index: -1
+xiantiao_020
+  rotate: false
+  xy: 260, 167
+  size: 125, 59
+  orig: 151, 63
+  offset: 23, 3
+  index: -1
+xiantiao_021
+  rotate: false
+  xy: 301, 357
+  size: 131, 57
+  orig: 147, 58
+  offset: 13, 0
+  index: -1
+xiantiao_022
+  rotate: false
+  xy: 154, 231
+  size: 131, 49
+  orig: 141, 54
+  offset: 7, 4
+  index: -1
+xiantiao_023
+  rotate: false
+  xy: 287, 228
+  size: 128, 43
+  orig: 144, 47
+  offset: 13, 2
+  index: -1
+xiantiao_024
+  rotate: false
+  xy: 260, 123
+  size: 122, 42
+  orig: 137, 46
+  offset: 11, 2
+  index: -1
+xiantiao_025
+  rotate: false
+  xy: 253, 80
+  size: 115, 41
+  orig: 128, 45
+  offset: 9, 2
+  index: -1
+xiantiao_026
+  rotate: false
+  xy: 253, 40
+  size: 105, 38
+  orig: 120, 44
+  offset: 10, 3
+  index: -1
+xiantiao_027
+  rotate: false
+  xy: 271, 3
+  size: 95, 35
+  orig: 112, 42
+  offset: 12, 4
+  index: -1
+xiantiao_028
+  rotate: false
+  xy: 84, 2
+  size: 88, 34
+  orig: 105, 40
+  offset: 13, 4
+  index: -1
+xiantiao_029
+  rotate: true
+  xy: 419, 273
+  size: 82, 31
+  orig: 98, 39
+  offset: 12, 4
+  index: -1
+xiantiao_030
+  rotate: true
+  xy: 452, 288
+  size: 72, 28
+  orig: 87, 38
+  offset: 12, 6
+  index: -1
+xiantiao_031
+  rotate: true
+  xy: 360, 41
+  size: 37, 21
+  orig: 79, 32
+  offset: 39, 4
+  index: -1
+xiantiao_032
+  rotate: false
+  xy: 74, 259
+  size: 27, 7
+  orig: 32, 11
+  offset: 1, 1
+  index: -1
+xiantiao_033
+  rotate: false
+  xy: 260, 228
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

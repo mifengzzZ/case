@@ -1,0 +1,153 @@
+
+YouDuoLa_skill2_screen.png
+size: 480,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/mask
+  rotate: false
+  xy: 420, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_001
+  rotate: true
+  xy: 185, 2
+  size: 221, 58
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_002
+  rotate: true
+  xy: 186, 225
+  size: 221, 58
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_003
+  rotate: true
+  xy: 246, 225
+  size: 221, 56
+  orig: 221, 63
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_004
+  rotate: true
+  xy: 246, 225
+  size: 221, 56
+  orig: 221, 63
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_005
+  rotate: true
+  xy: 363, 12
+  size: 221, 55
+  orig: 221, 63
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_006
+  rotate: true
+  xy: 304, 225
+  size: 221, 56
+  orig: 221, 62
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_007
+  rotate: true
+  xy: 245, 3
+  size: 220, 57
+  orig: 221, 62
+  offset: 1, 0
+  index: -1
+tx/quanpinghuo_008
+  rotate: true
+  xy: 422, 228
+  size: 218, 56
+  orig: 221, 60
+  offset: 3, 0
+  index: -1
+tx/quanpinghuo_009
+  rotate: true
+  xy: 422, 228
+  size: 218, 56
+  orig: 221, 60
+  offset: 3, 0
+  index: -1
+tx/quanpinghuo_010
+  rotate: true
+  xy: 304, 8
+  size: 215, 57
+  orig: 220, 60
+  offset: 5, 0
+  index: -1
+tx/quanpinghuo_011
+  rotate: true
+  xy: 420, 13
+  size: 213, 57
+  orig: 218, 60
+  offset: 5, 0
+  index: -1
+tx/quanpinghuo_012
+  rotate: true
+  xy: 362, 235
+  size: 211, 58
+  orig: 221, 61
+  offset: 10, 0
+  index: -1
+tx/quanpinghuo_013
+  rotate: true
+  xy: 2, 2
+  size: 221, 59
+  orig: 221, 62
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_014
+  rotate: true
+  xy: 2, 2
+  size: 221, 59
+  orig: 221, 62
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_015
+  rotate: true
+  xy: 63, 2
+  size: 221, 59
+  orig: 221, 63
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_016
+  rotate: true
+  xy: 64, 225
+  size: 221, 59
+  orig: 221, 63
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_017
+  rotate: true
+  xy: 2, 225
+  size: 221, 60
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_018
+  rotate: true
+  xy: 124, 2
+  size: 221, 59
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_019
+  rotate: true
+  xy: 124, 2
+  size: 221, 59
+  orig: 221, 64
+  offset: 0, 0
+  index: -1
+tx/quanpinghuo_020
+  rotate: true
+  xy: 125, 225
+  size: 221, 59
+  orig: 221, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+TaLuMoKeSi_skill2_screen.png
+size: 500,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/ggzz
+  rotate: false
+  xy: 432, 157
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00049
+  rotate: false
+  xy: 2, 180
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00050
+  rotate: false
+  xy: 168, 346
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00051
+  rotate: false
+  xy: 2, 14
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00052
+  rotate: false
+  xy: 168, 180
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00053
+  rotate: false
+  xy: 334, 346
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00054
+  rotate: false
+  xy: 168, 14
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00055
+  rotate: false
+  xy: 334, 180
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/ggzz2_00056
+  rotate: false
+  xy: 2, 346
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 432, 135
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+tx/xian2_00051
+  rotate: false
+  xy: 334, 19
+  size: 26, 159
+  orig: 26, 159
+  offset: 0, 0
+  index: -1
+tx/xian2_00052
+  rotate: false
+  xy: 362, 22
+  size: 20, 156
+  orig: 20, 156
+  offset: 0, 0
+  index: -1
+tx/xian2_00053
+  rotate: false
+  xy: 384, 38
+  size: 17, 140
+  orig: 17, 140
+  offset: 0, 0
+  index: -1
+tx/xian2_00054
+  rotate: false
+  xy: 403, 40
+  size: 13, 138
+  orig: 13, 138
+  offset: 0, 0
+  index: -1
+tx/xian2_00055
+  rotate: false
+  xy: 418, 95
+  size: 12, 83
+  orig: 12, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+LuoSi_skill2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/2e
+  rotate: false
+  xy: 2, 322
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+images/tx/2g
+  rotate: false
+  xy: 340, 66
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+images/tx/3a01
+  rotate: false
+  xy: 163, 17
+  size: 86, 14
+  orig: 86, 14
+  offset: 0, 0
+  index: -1
+images/tx/3a02
+  rotate: false
+  xy: 171, 71
+  size: 147, 28
+  orig: 147, 28
+  offset: 0, 0
+  index: -1
+images/tx/3b01
+  rotate: false
+  xy: 2, 185
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3b02
+  rotate: false
+  xy: 193, 375
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3b03
+  rotate: false
+  xy: 2, 48
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3b04
+  rotate: true
+  xy: 362, 343
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3b05
+  rotate: false
+  xy: 193, 238
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3b06
+  rotate: false
+  xy: 171, 101
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3b07
+  rotate: true
+  xy: 362, 174
+  size: 167, 135
+  orig: 167, 135
+  offset: 0, 0
+  index: -1
+images/tx/3h
+  rotate: false
+  xy: 448, 76
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+images/tx/3i
+  rotate: false
+  xy: 171, 33
+  size: 133, 36
+  orig: 133, 36
+  offset: 0, 0
+  index: -1
+images/tx/3k
+  rotate: false
+  xy: 163, 2
+  size: 54, 13
+  orig: 54, 13
+  offset: 0, 0
+  index: -1
+images/tx/3l
+  rotate: false
+  xy: 306, 2
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+images/tx/3o
+  rotate: true
+  xy: 2, 3
+  size: 43, 159
+  orig: 43, 159
+  offset: 0, 0
+  index: -1
+images/tx/lizi1
+  rotate: false
+  xy: 171, 303
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: true
+  xy: 163, 36
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1

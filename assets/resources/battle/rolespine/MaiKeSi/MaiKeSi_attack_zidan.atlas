@@ -1,0 +1,48 @@
+
+MaiKeSi_attack_zidan.png
+size: 330,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/zidan_15
+  rotate: true
+  xy: 267, 2
+  size: 141, 40
+  orig: 141, 40
+  offset: 0, 0
+  index: -1
+tx/zidan_16
+  rotate: false
+  xy: 2, 197
+  size: 326, 63
+  orig: 326, 63
+  offset: 0, 0
+  index: -1
+tx/zidan_17
+  rotate: false
+  xy: 2, 145
+  size: 310, 50
+  orig: 310, 50
+  offset: 0, 0
+  index: -1
+tx/zidan_18
+  rotate: false
+  xy: 2, 101
+  size: 263, 42
+  orig: 263, 42
+  offset: 0, 0
+  index: -1
+tx/zidan_19
+  rotate: false
+  xy: 2, 63
+  size: 235, 36
+  orig: 235, 36
+  offset: 0, 0
+  index: -1
+tx/zidan_20
+  rotate: false
+  xy: 2, 31
+  size: 212, 30
+  orig: 212, 30
+  offset: 0, 0
+  index: -1

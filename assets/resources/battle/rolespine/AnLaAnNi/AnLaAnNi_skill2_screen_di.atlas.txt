@@ -1,0 +1,125 @@
+
+AnLaAnNi_skill2_screen_di.png
+size: 704,625
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 659, 621
+  orig: 659, 621
+  offset: 0, 0
+  index: -1
+niao_000
+  rotate: false
+  xy: 663, 62
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+niao_001
+  rotate: false
+  xy: 663, 7
+  size: 26, 24
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+niao_002
+  rotate: true
+  xy: 663, 33
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+niao_003
+  rotate: true
+  xy: 663, 91
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+niao_004
+  rotate: false
+  xy: 663, 157
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+niao_005
+  rotate: false
+  xy: 663, 283
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+niao_006
+  rotate: true
+  xy: 663, 540
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+niao_007
+  rotate: true
+  xy: 663, 454
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+niao_008
+  rotate: true
+  xy: 663, 321
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+niao_009
+  rotate: false
+  xy: 663, 498
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+niao_010
+  rotate: false
+  xy: 663, 365
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+niao_011
+  rotate: false
+  xy: 663, 236
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+niao_012
+  rotate: false
+  xy: 663, 191
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+niao_013
+  rotate: false
+  xy: 663, 410
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+niao_014
+  rotate: true
+  xy: 663, 582
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+niao_015
+  rotate: false
+  xy: 663, 122
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1

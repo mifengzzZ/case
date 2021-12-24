@@ -1,0 +1,104 @@
+
+AoLuFei_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/e03
+  rotate: false
+  xy: 2, 348
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e04
+  rotate: false
+  xy: 2, 202
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e05
+  rotate: false
+  xy: 124, 348
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e06
+  rotate: false
+  xy: 2, 56
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e07
+  rotate: false
+  xy: 124, 202
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e08
+  rotate: false
+  xy: 246, 348
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e09
+  rotate: false
+  xy: 124, 56
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e10
+  rotate: false
+  xy: 246, 202
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e11
+  rotate: false
+  xy: 368, 348
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/e12
+  rotate: false
+  xy: 246, 56
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+images/tx/lizi1
+  rotate: false
+  xy: 490, 482
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: false
+  xy: 368, 325
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/tx/lizi3
+  rotate: false
+  xy: 56, 33
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/tx/n
+  rotate: false
+  xy: 2, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+WeiWeiAn_skill2_screen_di.png
+size: 962,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 332
+  size: 659, 376
+  orig: 659, 376
+  offset: 0, 0
+  index: -1
+niao_000
+  rotate: false
+  xy: 37, 4
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+niao_001
+  rotate: false
+  xy: 66, 7
+  size: 26, 24
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+niao_002
+  rotate: false
+  xy: 924, 413
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+niao_003
+  rotate: false
+  xy: 616, 268
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+niao_004
+  rotate: false
+  xy: 914, 250
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+niao_005
+  rotate: true
+  xy: 924, 484
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+niao_006
+  rotate: false
+  xy: 882, 6
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+niao_007
+  rotate: true
+  xy: 882, 47
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+niao_008
+  rotate: true
+  xy: 924, 440
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+niao_009
+  rotate: false
+  xy: 901, 284
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+niao_010
+  rotate: false
+  xy: 924, 521
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+niao_011
+  rotate: true
+  xy: 616, 298
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+niao_012
+  rotate: false
+  xy: 882, 91
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+niao_013
+  rotate: false
+  xy: 901, 369
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+niao_014
+  rotate: true
+  xy: 901, 326
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+niao_015
+  rotate: true
+  xy: 2, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+xian1_078
+  rotate: false
+  xy: 663, 566
+  size: 273, 142
+  orig: 307, 161
+  offset: 17, 10
+  index: -1
+xian1_079
+  rotate: false
+  xy: 2, 33
+  size: 266, 147
+  orig: 299, 168
+  offset: 17, 11
+  index: -1
+xian1_080
+  rotate: false
+  xy: 663, 413
+  size: 259, 151
+  orig: 293, 172
+  offset: 19, 11
+  index: -1
+xian1_081
+  rotate: false
+  xy: 367, 180
+  size: 247, 150
+  orig: 282, 170
+  offset: 21, 10
+  index: -1
+xian1_082
+  rotate: false
+  xy: 663, 266
+  size: 236, 145
+  orig: 274, 167
+  offset: 23, 12
+  index: -1
+xian1_083
+  rotate: false
+  xy: 270, 39
+  size: 226, 139
+  orig: 265, 163
+  offset: 24, 14
+  index: -1
+xian1_084
+  rotate: false
+  xy: 616, 132
+  size: 206, 132
+  orig: 250, 154
+  offset: 27, 12
+  index: -1
+xian1_085
+  rotate: false
+  xy: 614, 3
+  size: 195, 127
+  orig: 243, 152
+  offset: 31, 14
+  index: -1
+xian1_086
+  rotate: true
+  xy: 498, 2
+  size: 176, 114
+  orig: 227, 145
+  offset: 33, 18
+  index: -1
+xian1_087
+  rotate: true
+  xy: 811, 20
+  size: 110, 69
+  orig: 172, 121
+  offset: 36, 29
+  index: -1
+xian1_088
+  rotate: true
+  xy: 938, 677
+  size: 31, 22
+  orig: 109, 99
+  offset: 39, 38
+  index: -1
+yun
+  rotate: false
+  xy: 2, 182
+  size: 363, 148
+  orig: 376, 166
+  offset: 13, 1
+  index: -1
+zaobo
+  rotate: false
+  xy: 824, 136
+  size: 88, 128
+  orig: 97, 128
+  offset: 5, 0
+  index: -1

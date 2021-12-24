@@ -1,0 +1,90 @@
+
+MiLiYa_attack_zidan.png
+size: 496,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dian1
+  rotate: false
+  xy: 284, 28
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+tx/dian2
+  rotate: false
+  xy: 423, 165
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 395, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 2, 7
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+tx/yanwu1_000
+  rotate: true
+  xy: 461, 61
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+tx/yanwu1_001
+  rotate: false
+  xy: 423, 99
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/yanwu1_002
+  rotate: false
+  xy: 91, 8
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+tx/yanwu1_003
+  rotate: false
+  xy: 180, 2
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+tx/yanwu1_004
+  rotate: true
+  xy: 318, 110
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+tx/yanwu1_005
+  rotate: true
+  xy: 208, 103
+  size: 120, 108
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+tx/yanwu1_006
+  rotate: true
+  xy: 102, 101
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+tx/yanwu1_007
+  rotate: true
+  xy: 2, 97
+  size: 126, 98
+  orig: 126, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+AKaSa_skill2_screen_di.png
+size: 426,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bbg
+  rotate: false
+  xy: 2, 2
+  size: 400, 191
+  orig: 400, 191
+  offset: 0, 0
+  index: -1
+tx/suipian_1_014
+  rotate: true
+  xy: 404, 172
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+tx/suipian_1_015
+  rotate: true
+  xy: 404, 151
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+tx/suipian_1_016
+  rotate: false
+  xy: 404, 108
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+tx/suipian_1_017
+  rotate: false
+  xy: 404, 130
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1

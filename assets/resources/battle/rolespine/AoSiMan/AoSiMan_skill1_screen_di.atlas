@@ -1,0 +1,20 @@
+
+AoSiMan_skill1_screen_di.png
+size: 354,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/scao
+  rotate: false
+  xy: 2, 2
+  size: 201, 60
+  orig: 201, 60
+  offset: 0, 0
+  index: -1
+skill/sdi
+  rotate: false
+  xy: 2, 64
+  size: 350, 53
+  orig: 350, 53
+  offset: 0, 0
+  index: -1

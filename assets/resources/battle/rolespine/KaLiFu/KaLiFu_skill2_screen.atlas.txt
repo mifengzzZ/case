@@ -1,0 +1,139 @@
+
+KaLiFu_skill2_screen.png
+size: 497,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/attck_00012
+  rotate: false
+  xy: 343, 214
+  size: 126, 70
+  orig: 131, 72
+  offset: 3, 1
+  index: -1
+tx/attck_00013
+  rotate: true
+  xy: 154, 111
+  size: 115, 71
+  orig: 121, 74
+  offset: 3, 1
+  index: -1
+tx/attck_00014
+  rotate: true
+  xy: 191, 10
+  size: 99, 71
+  orig: 105, 74
+  offset: 3, 1
+  index: -1
+tx/attck_00015
+  rotate: false
+  xy: 227, 152
+  size: 99, 74
+  orig: 104, 77
+  offset: 3, 1
+  index: -1
+tx/attck_00016
+  rotate: true
+  xy: 328, 123
+  size: 89, 74
+  orig: 95, 78
+  offset: 4, 2
+  index: -1
+tx/attck_00017
+  rotate: true
+  xy: 404, 128
+  size: 84, 76
+  orig: 90, 80
+  offset: 3, 2
+  index: -1
+tx/attck_00018
+  rotate: true
+  xy: 264, 30
+  size: 87, 77
+  orig: 94, 81
+  offset: 4, 2
+  index: -1
+tx/mask
+  rotate: false
+  xy: 471, 247
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+tx/quanping_00128
+  rotate: false
+  xy: 2, 2
+  size: 187, 93
+  orig: 187, 93
+  offset: 0, 0
+  index: -1
+tx/quanping_00129
+  rotate: false
+  xy: 154, 228
+  size: 187, 93
+  orig: 187, 93
+  offset: 0, 0
+  index: -1
+tx/quanping_00132
+  rotate: true
+  xy: 2, 286
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+tx/quanping_00133
+  rotate: true
+  xy: 2, 97
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+tx/quanping_00134
+  rotate: false
+  xy: 154, 323
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+tx/quanping_00135
+  rotate: true
+  xy: 343, 286
+  size: 187, 150
+  orig: 187, 150
+  offset: 0, 0
+  index: -1
+tx/xian7
+  rotate: false
+  xy: 343, 72
+  size: 133, 49
+  orig: 147, 54
+  offset: 7, 2
+  index: -1
+tx/yumao_00001
+  rotate: false
+  xy: 257, 119
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+tx/yumao_00002
+  rotate: false
+  xy: 471, 261
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+tx/yumao_00003
+  rotate: true
+  xy: 289, 125
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+tx/yumao_00004
+  rotate: false
+  xy: 227, 115
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1

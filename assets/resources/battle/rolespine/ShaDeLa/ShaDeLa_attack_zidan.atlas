@@ -1,0 +1,20 @@
+
+ShaDeLa_attack_zidan.png
+size: 214,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tuowei1
+  rotate: false
+  xy: 2, 2
+  size: 109, 59
+  orig: 109, 59
+  offset: 0, 0
+  index: -1
+tx/zidan1
+  rotate: false
+  xy: 113, 14
+  size: 99, 47
+  orig: 99, 47
+  offset: 0, 0
+  index: -1

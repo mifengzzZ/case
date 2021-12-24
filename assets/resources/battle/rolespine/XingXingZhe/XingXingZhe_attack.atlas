@@ -1,0 +1,34 @@
+
+XingXingZhe_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/1b01
+  rotate: true
+  xy: 197, 55
+  size: 86, 172
+  orig: 86, 172
+  offset: 0, 0
+  index: -1
+images/tx/1b02
+  rotate: true
+  xy: 387, 319
+  size: 171, 88
+  orig: 171, 88
+  offset: 0, 0
+  index: -1
+images/tx/1b03
+  rotate: false
+  xy: 2, 143
+  size: 383, 347
+  orig: 383, 347
+  offset: 0, 0
+  index: -1
+images/tx/1b04
+  rotate: false
+  xy: 2, 2
+  size: 193, 139
+  orig: 193, 139
+  offset: 0, 0
+  index: -1

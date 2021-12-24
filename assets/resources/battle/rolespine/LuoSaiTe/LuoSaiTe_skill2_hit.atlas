@@ -1,0 +1,139 @@
+
+LuoSaiTe_skill2_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/b01
+  rotate: false
+  xy: 2, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+images/tx/b02
+  rotate: false
+  xy: 2, 170
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+images/tx/b03
+  rotate: false
+  xy: 166, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+images/tx/b04
+  rotate: false
+  xy: 2, 2
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+images/tx/b05
+  rotate: false
+  xy: 166, 170
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+images/tx/h
+  rotate: false
+  xy: 166, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+images/tx/i
+  rotate: false
+  xy: 423, 427
+  size: 32, 77
+  orig: 32, 77
+  offset: 0, 0
+  index: -1
+images/tx/m01
+  rotate: false
+  xy: 166, 21
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+images/tx/m02
+  rotate: false
+  xy: 330, 171
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+images/tx/m03
+  rotate: false
+  xy: 386, 171
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+images/tx/m04
+  rotate: false
+  xy: 222, 21
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+images/tx/m05
+  rotate: false
+  xy: 278, 21
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+images/tx/m06
+  rotate: false
+  xy: 423, 371
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+images/tx/o02
+  rotate: false
+  xy: 330, 413
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+images/tx/o03
+  rotate: false
+  xy: 166, 77
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+images/tx/o04
+  rotate: false
+  xy: 330, 320
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+images/tx/o05
+  rotate: false
+  xy: 330, 227
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+images/tx/o06
+  rotate: false
+  xy: 259, 77
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+images/tx/o07
+  rotate: false
+  xy: 352, 78
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

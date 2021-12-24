@@ -1,0 +1,62 @@
+
+XingXingZhe_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/1a02
+  rotate: false
+  xy: 2, 241
+  size: 140, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+images/tx/1a03
+  rotate: false
+  xy: 2, 29
+  size: 140, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+images/tx/1a04
+  rotate: true
+  xy: 144, 311
+  size: 140, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+images/tx/1a05
+  rotate: false
+  xy: 356, 241
+  size: 140, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+images/tx/1a06
+  rotate: true
+  xy: 144, 169
+  size: 140, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+images/tx/2h
+  rotate: true
+  xy: 144, 10
+  size: 157, 174
+  orig: 157, 174
+  offset: 0, 0
+  index: -1
+images/tx/2i
+  rotate: true
+  xy: 356, 105
+  size: 134, 150
+  orig: 134, 150
+  offset: 0, 0
+  index: -1
+images/tx/lizi
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

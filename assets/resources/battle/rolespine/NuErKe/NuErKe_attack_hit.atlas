@@ -1,0 +1,76 @@
+
+NuErKe_attack_hit.png
+size: 396,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 234, 125
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 329, 155
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/sj1_029
+  rotate: true
+  xy: 244, 221
+  size: 164, 105
+  orig: 164, 105
+  offset: 0, 0
+  index: -1
+tx/sj1_030
+  rotate: true
+  xy: 2, 196
+  size: 189, 116
+  orig: 189, 116
+  offset: 0, 0
+  index: -1
+tx/sj1_031
+  rotate: true
+  xy: 2, 16
+  size: 178, 121
+  orig: 178, 121
+  offset: 0, 0
+  index: -1
+tx/sj1_032
+  rotate: true
+  xy: 120, 228
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+tx/sj1_033
+  rotate: false
+  xy: 242, 4
+  size: 142, 119
+  orig: 142, 119
+  offset: 0, 0
+  index: -1
+tx/sj1_034
+  rotate: false
+  xy: 125, 104
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+tx/sj1_035
+  rotate: true
+  xy: 125, 2
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 351, 226
+  size: 159, 31
+  orig: 159, 31
+  offset: 0, 0
+  index: -1

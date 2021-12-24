@@ -1,0 +1,55 @@
+
+XiZhuo_skill1_screen_di.png
+size: 488,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dilie1_061
+  rotate: false
+  xy: 2, 286
+  size: 308, 221
+  orig: 308, 221
+  offset: 0, 0
+  index: -1
+tx/dilie1_062
+  rotate: true
+  xy: 312, 263
+  size: 244, 174
+  orig: 244, 174
+  offset: 0, 0
+  index: -1
+tx/dilie1_063
+  rotate: false
+  xy: 2, 135
+  size: 199, 149
+  orig: 199, 149
+  offset: 0, 0
+  index: -1
+tx/dilie1_064
+  rotate: false
+  xy: 203, 126
+  size: 194, 135
+  orig: 194, 135
+  offset: 0, 0
+  index: -1
+tx/dilie1_065
+  rotate: false
+  xy: 2, 5
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+tx/dilie1_066
+  rotate: false
+  xy: 138, 2
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+tx/dilie1_067
+  rotate: false
+  xy: 271, 11
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1

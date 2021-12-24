@@ -1,0 +1,76 @@
+
+KeKeYaEr_attack_hit.png
+size: 494,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 250, 292
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+tx/sj1_000
+  rotate: false
+  xy: 2, 292
+  size: 246, 218
+  orig: 246, 218
+  offset: 0, 0
+  index: -1
+tx/sj1_001
+  rotate: false
+  xy: 2, 99
+  size: 186, 191
+  orig: 186, 191
+  offset: 0, 0
+  index: -1
+tx/sj1_002
+  rotate: false
+  xy: 250, 343
+  size: 178, 167
+  orig: 178, 167
+  offset: 0, 0
+  index: -1
+tx/sj1_003
+  rotate: true
+  xy: 190, 108
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+tx/sj1_004
+  rotate: true
+  xy: 348, 172
+  size: 169, 120
+  orig: 169, 120
+  offset: 0, 0
+  index: -1
+tx/sj1_005
+  rotate: false
+  xy: 348, 49
+  size: 144, 121
+  orig: 144, 121
+  offset: 0, 0
+  index: -1
+tx/sj1_006
+  rotate: true
+  xy: 190, 6
+  size: 100, 137
+  orig: 100, 137
+  offset: 0, 0
+  index: -1
+tx/sj1_007
+  rotate: true
+  xy: 430, 412
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+tx/sj1_008
+  rotate: true
+  xy: 2, 2
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1

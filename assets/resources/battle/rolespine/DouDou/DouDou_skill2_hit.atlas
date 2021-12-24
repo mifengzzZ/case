@@ -1,0 +1,153 @@
+
+DouDou_skill2_hit.png
+size: 512,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a
+  rotate: false
+  xy: 481, 488
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+tx/b
+  rotate: false
+  xy: 227, 35
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+tx/baozha2
+  rotate: true
+  xy: 171, 54
+  size: 128, 149
+  orig: 128, 149
+  offset: 0, 0
+  index: -1
+tx/baozha_000
+  rotate: false
+  xy: 171, 184
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+tx/baozha_001
+  rotate: false
+  xy: 171, 342
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+tx/baozha_002
+  rotate: false
+  xy: 2, 173
+  size: 167, 164
+  orig: 167, 164
+  offset: 0, 0
+  index: -1
+tx/baozha_003
+  rotate: false
+  xy: 2, 173
+  size: 167, 164
+  orig: 167, 164
+  offset: 0, 0
+  index: -1
+tx/baozha_004
+  rotate: false
+  xy: 2, 339
+  size: 167, 166
+  orig: 167, 166
+  offset: 0, 0
+  index: -1
+tx/baozha_005
+  rotate: false
+  xy: 2, 11
+  size: 164, 160
+  orig: 164, 160
+  offset: 0, 0
+  index: -1
+tx/baozha_006
+  rotate: false
+  xy: 337, 360
+  size: 142, 145
+  orig: 142, 145
+  offset: 0, 0
+  index: -1
+tx/c
+  rotate: true
+  xy: 488, 145
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 329, 187
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 482, 63
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+tx/sj1_015
+  rotate: true
+  xy: 168, 2
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+tx/sj1_016
+  rotate: false
+  xy: 436, 271
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+tx/sj1_017
+  rotate: true
+  xy: 337, 282
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: false
+  xy: 426, 172
+  size: 79, 97
+  orig: 79, 97
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 322, 92
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: true
+  xy: 403, 93
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 322, 22
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 403, 27
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+KaiSeLin_skill1_hit.png
+size: 491,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/sj1_019
+  rotate: false
+  xy: 294, 80
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: true
+  xy: 164, 32
+  size: 157, 128
+  orig: 157, 128
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 317, 386
+  size: 172, 124
+  orig: 172, 124
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 317, 274
+  size: 167, 110
+  orig: 167, 110
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: false
+  xy: 2, 2
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+tx/sj2_018
+  rotate: true
+  xy: 405, 99
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+tx/sj2_019
+  rotate: true
+  xy: 405, 99
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+tx/sj2_020
+  rotate: false
+  xy: 165, 191
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+tx/sj2_021
+  rotate: false
+  xy: 165, 326
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+tx/sj2_022
+  rotate: false
+  xy: 2, 91
+  size: 160, 202
+  orig: 160, 202
+  offset: 0, 0
+  index: -1
+tx/sj2_023
+  rotate: false
+  xy: 2, 295
+  size: 161, 215
+  orig: 161, 215
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: false
+  xy: 307, 191
+  size: 134, 81
+  orig: 134, 81
+  offset: 0, 0
+  index: -1

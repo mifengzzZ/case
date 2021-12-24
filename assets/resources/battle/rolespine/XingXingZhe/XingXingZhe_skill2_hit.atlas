@@ -1,0 +1,76 @@
+
+XingXingZhe_skill2_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/3g
+  rotate: true
+  xy: 460, 429
+  size: 75, 27
+  orig: 75, 27
+  offset: 0, 0
+  index: -1
+images/tx/3h01
+  rotate: true
+  xy: 295, 36
+  size: 185, 102
+  orig: 185, 102
+  offset: 0, 0
+  index: -1
+images/tx/3h02
+  rotate: true
+  xy: 156, 2
+  size: 197, 137
+  orig: 197, 137
+  offset: 0, 0
+  index: -1
+images/tx/3h03
+  rotate: false
+  xy: 2, 356
+  size: 238, 148
+  orig: 238, 148
+  offset: 0, 0
+  index: -1
+images/tx/3h04
+  rotate: false
+  xy: 242, 352
+  size: 216, 152
+  orig: 216, 152
+  offset: 0, 0
+  index: -1
+images/tx/3h05
+  rotate: false
+  xy: 2, 201
+  size: 207, 153
+  orig: 207, 153
+  offset: 0, 0
+  index: -1
+images/tx/3h06
+  rotate: true
+  xy: 2, 10
+  size: 189, 152
+  orig: 189, 152
+  offset: 0, 0
+  index: -1
+images/tx/3h07
+  rotate: false
+  xy: 211, 223
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+images/tx/3h08
+  rotate: true
+  xy: 413, 214
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+images/tx/lizi
+  rotate: false
+  xy: 489, 493
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+NuErKe.png
+size: 357,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NuErKe_Arm_L
+  rotate: false
+  xy: 336, 237
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+NuErKe_Arm_R
+  rotate: true
+  xy: 153, 5
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+NuErKe_Arrow_B
+  rotate: false
+  xy: 338, 173
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+NuErKe_Arrow_F
+  rotate: true
+  xy: 251, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+NuErKe_Belt_BL
+  rotate: false
+  xy: 336, 214
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+NuErKe_Belt_BR
+  rotate: false
+  xy: 348, 63
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+NuErKe_Belt_F
+  rotate: false
+  xy: 199, 178
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+NuErKe_Body_B
+  rotate: false
+  xy: 74, 194
+  size: 134, 68
+  orig: 134, 68
+  offset: 0, 0
+  index: -1
+NuErKe_Body_T
+  rotate: true
+  xy: 153, 27
+  size: 34, 73
+  orig: 34, 77
+  offset: 0, 4
+  index: -1
+NuErKe_Box
+  rotate: false
+  xy: 330, 30
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+NuErKe_Coth_FL
+  rotate: false
+  xy: 321, 82
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+NuErKe_Coth_FR
+  rotate: true
+  xy: 295, 7
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+NuErKe_Coth_Fb
+  rotate: false
+  xy: 272, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+NuErKe_Eardorp_L
+  rotate: true
+  xy: 199, 147
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+NuErKe_Eardorp_R
+  rotate: false
+  xy: 348, 47
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+NuErKe_Eyelid
+  rotate: false
+  xy: 223, 151
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+NuErKe_Foearm_R
+  rotate: true
+  xy: 245, 28
+  size: 27, 33
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+NuErKe_Forearm_L
+  rotate: true
+  xy: 228, 29
+  size: 32, 15
+  orig: 33, 15
+  offset: 1, 0
+  index: -1
+NuErKe_Hair_Ba
+  rotate: false
+  xy: 77, 63
+  size: 93, 82
+  orig: 103, 82
+  offset: 10, 0
+  index: -1
+NuErKe_Hair_Bb
+  rotate: true
+  xy: 2, 4
+  size: 119, 73
+  orig: 119, 75
+  offset: 0, 0
+  index: -1
+NuErKe_Hair_L
+  rotate: true
+  xy: 272, 7
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+NuErKe_Hair_Rb
+  rotate: false
+  xy: 229, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+NuErKe_Hair_T
+  rotate: false
+  xy: 314, 40
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+NuErKe_Hand_L
+  rotate: true
+  xy: 314, 23
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+NuErKe_Hand_RB
+  rotate: false
+  xy: 317, 7
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+NuErKe_Hand_RF
+  rotate: false
+  xy: 330, 44
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+NuErKe_Hat
+  rotate: true
+  xy: 253, 57
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+NuErKe_Hat_Wa
+  rotate: false
+  xy: 191, 12
+  size: 36, 13
+  orig: 40, 13
+  offset: 4, 0
+  index: -1
+NuErKe_Hat_Wc
+  rotate: true
+  xy: 321, 125
+  size: 43, 33
+  orig: 45, 33
+  offset: 2, 0
+  index: -1
+NuErKe_Head
+  rotate: true
+  xy: 320, 59
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+NuErKe_Leg_LB
+  rotate: false
+  xy: 2, 125
+  size: 70, 137
+  orig: 70, 137
+  offset: 0, 0
+  index: -1
+NuErKe_Leg_LF
+  rotate: true
+  xy: 210, 213
+  size: 49, 124
+  orig: 49, 124
+  offset: 0, 0
+  index: -1
+NuErKe_Leg_LFF
+  rotate: false
+  xy: 338, 191
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+NuErKe_Leg_RB
+  rotate: true
+  xy: 74, 147
+  size: 45, 108
+  orig: 45, 108
+  offset: 0, 0
+  index: -1
+NuErKe_Leg_RF
+  rotate: true
+  xy: 77, 2
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+NuErKe_Skirt_F
+  rotate: false
+  xy: 280, 23
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NuErKe_Skirt_L
+  rotate: true
+  xy: 253, 84
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+NuErKe_Skirt_LF
+  rotate: false
+  xy: 295, 170
+  size: 41, 41
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+NuErKe_Tail_BL
+  rotate: false
+  xy: 302, 60
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+NuErKe_Tail_Bb
+  rotate: false
+  xy: 172, 63
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+NuErKe_Weapon_L
+  rotate: true
+  xy: 184, 147
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+NuErKe_Weapon_LT
+  rotate: false
+  xy: 199, 172
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+NuErKe_weapon_R
+  rotate: true
+  xy: 210, 160
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 295, 164
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

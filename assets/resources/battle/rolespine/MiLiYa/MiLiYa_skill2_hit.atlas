@@ -1,0 +1,34 @@
+
+MiLiYa_skill2_hit.png
+size: 486,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: false
+  xy: 357, 2
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+tx/gz1
+  rotate: true
+  xy: 2, 21
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+tx/xian2
+  rotate: false
+  xy: 2, 56
+  size: 353, 122
+  orig: 353, 122
+  offset: 0, 0
+  index: -1
+tx/yumao
+  rotate: true
+  xy: 357, 69
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1

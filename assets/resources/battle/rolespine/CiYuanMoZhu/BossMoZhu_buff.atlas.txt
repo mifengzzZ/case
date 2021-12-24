@@ -1,0 +1,167 @@
+
+BossMoZhu_buff.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diangy
+  rotate: false
+  xy: 434, 151
+  size: 56, 56
+  orig: 58, 57
+  offset: 2, 0
+  index: -1
+dianliu_013
+  rotate: true
+  xy: 255, 331
+  size: 25, 4
+  orig: 30, 6
+  offset: 3, 1
+  index: -1
+dianliu_014
+  rotate: true
+  xy: 486, 397
+  size: 28, 9
+  orig: 32, 10
+  offset: 2, 0
+  index: -1
+dianliu_015
+  rotate: false
+  xy: 458, 256
+  size: 35, 12
+  orig: 39, 13
+  offset: 2, 0
+  index: -1
+dianliu_016
+  rotate: true
+  xy: 391, 2
+  size: 49, 21
+  orig: 54, 22
+  offset: 3, 0
+  index: -1
+dianliu_017
+  rotate: false
+  xy: 313, 10
+  size: 76, 41
+  orig: 80, 41
+  offset: 2, 0
+  index: -1
+dianliu_018
+  rotate: false
+  xy: 313, 53
+  size: 89, 44
+  orig: 92, 44
+  offset: 1, 0
+  index: -1
+dianliu_020
+  rotate: true
+  xy: 264, 2
+  size: 95, 47
+  orig: 115, 47
+  offset: 1, 0
+  index: -1
+dianliu_021
+  rotate: false
+  xy: 259, 99
+  size: 175, 50
+  orig: 177, 51
+  offset: 1, 0
+  index: -1
+dianliu_022
+  rotate: false
+  xy: 240, 151
+  size: 192, 56
+  orig: 194, 56
+  offset: 1, 0
+  index: -1
+dianliu_023
+  rotate: false
+  xy: 248, 209
+  size: 208, 59
+  orig: 210, 59
+  offset: 1, 0
+  index: -1
+dianliu_024
+  rotate: false
+  xy: 267, 361
+  size: 217, 64
+  orig: 219, 64
+  offset: 1, 0
+  index: -1
+dianliu_026
+  rotate: false
+  xy: 2, 144
+  size: 236, 67
+  orig: 238, 67
+  offset: 1, 0
+  index: -1
+dianliu_027
+  rotate: false
+  xy: 2, 283
+  size: 251, 73
+  orig: 253, 73
+  offset: 1, 0
+  index: -1
+dianliu_028
+  rotate: false
+  xy: 2, 358
+  size: 263, 69
+  orig: 265, 70
+  offset: 1, 1
+  index: -1
+dianliu_029
+  rotate: false
+  xy: 2, 429
+  size: 270, 66
+  orig: 274, 66
+  offset: 1, 0
+  index: -1
+dianliu_030
+  rotate: false
+  xy: 274, 427
+  size: 221, 68
+  orig: 223, 69
+  offset: 1, 1
+  index: -1
+dianliu_032
+  rotate: false
+  xy: 2, 213
+  size: 244, 68
+  orig: 246, 69
+  offset: 1, 0
+  index: -1
+dianliu_033
+  rotate: false
+  xy: 2, 88
+  size: 255, 54
+  orig: 258, 55
+  offset: 2, 0
+  index: -1
+dianliu_034
+  rotate: false
+  xy: 267, 317
+  size: 218, 42
+  orig: 240, 61
+  offset: 21, 0
+  index: -1
+dianliu_035
+  rotate: false
+  xy: 255, 270
+  size: 240, 45
+  orig: 243, 65
+  offset: 1, 0
+  index: -1
+dianliu_036
+  rotate: false
+  xy: 2, 43
+  size: 250, 43
+  orig: 252, 43
+  offset: 1, 0
+  index: -1
+dianliu_038
+  rotate: false
+  xy: 2, 6
+  size: 260, 35
+  orig: 265, 37
+  offset: 2, 1
+  index: -1

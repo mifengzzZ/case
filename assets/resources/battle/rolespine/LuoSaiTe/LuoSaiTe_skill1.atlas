@@ -1,0 +1,160 @@
+
+LuoSaiTe_skill1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a01
+  rotate: false
+  xy: 2, 270
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/a03
+  rotate: false
+  xy: 2, 186
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/a05
+  rotate: false
+  xy: 2, 102
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/a06
+  rotate: false
+  xy: 179, 349
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/a07
+  rotate: false
+  xy: 356, 428
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/a09
+  rotate: false
+  xy: 152, 265
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/a11
+  rotate: false
+  xy: 152, 181
+  size: 148, 82
+  orig: 148, 82
+  offset: 0, 0
+  index: -1
+images/tx/d01
+  rotate: false
+  xy: 2, 433
+  size: 175, 77
+  orig: 175, 77
+  offset: 0, 0
+  index: -1
+images/tx/d02
+  rotate: false
+  xy: 2, 354
+  size: 175, 77
+  orig: 175, 77
+  offset: 0, 0
+  index: -1
+images/tx/d03
+  rotate: false
+  xy: 179, 433
+  size: 175, 77
+  orig: 175, 77
+  offset: 0, 0
+  index: -1
+images/tx/f01
+  rotate: false
+  xy: 329, 339
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+images/tx/f02
+  rotate: false
+  xy: 2, 2
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+images/tx/f03
+  rotate: false
+  xy: 152, 102
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+images/tx/g01
+  rotate: true
+  xy: 387, 174
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+images/tx/g02
+  rotate: true
+  xy: 387, 107
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+images/tx/h01
+  rotate: false
+  xy: 302, 164
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images/tx/h02
+  rotate: false
+  xy: 419, 339
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+images/tx/h03
+  rotate: false
+  xy: 274, 101
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+images/tx/i
+  rotate: false
+  xy: 126, 63
+  size: 146, 37
+  orig: 146, 37
+  offset: 0, 0
+  index: -1
+images/tx/i2
+  rotate: false
+  xy: 126, 24
+  size: 114, 37
+  orig: 114, 37
+  offset: 0, 0
+  index: -1
+images/tx/j
+  rotate: false
+  xy: 392, 252
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+images/tx/k
+  rotate: false
+  xy: 302, 249
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1

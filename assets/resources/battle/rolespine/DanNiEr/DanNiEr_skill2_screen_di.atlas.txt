@@ -1,0 +1,13 @@
+
+DanNiEr_skill2_screen_di.png
+size: 552,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 2
+  size: 548, 252
+  orig: 548, 252
+  offset: 0, 0
+  index: -1

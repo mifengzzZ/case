@@ -1,0 +1,83 @@
+
+JiaDiSi_attack.png
+size: 502,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_15
+  rotate: false
+  xy: 2, 295
+  size: 256, 213
+  orig: 256, 213
+  offset: 0, 0
+  index: -1
+tx/dg1_16
+  rotate: false
+  xy: 2, 84
+  size: 235, 209
+  orig: 235, 209
+  offset: 0, 0
+  index: -1
+tx/dg1_17
+  rotate: false
+  xy: 260, 314
+  size: 170, 194
+  orig: 170, 194
+  offset: 0, 0
+  index: -1
+tx/dg1_18
+  rotate: false
+  xy: 347, 9
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+tx/dg1_19
+  rotate: true
+  xy: 347, 160
+  size: 152, 97
+  orig: 152, 97
+  offset: 0, 0
+  index: -1
+tx/dg1_20
+  rotate: false
+  xy: 2, 2
+  size: 151, 80
+  orig: 151, 80
+  offset: 0, 0
+  index: -1
+tx/dg1_21
+  rotate: true
+  xy: 432, 375
+  size: 133, 59
+  orig: 133, 59
+  offset: 0, 0
+  index: -1
+tx/dg1_22
+  rotate: false
+  xy: 213, 7
+  size: 125, 58
+  orig: 125, 58
+  offset: 0, 0
+  index: -1
+tx/dg1_23
+  rotate: true
+  xy: 446, 256
+  size: 117, 54
+  orig: 117, 54
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: true
+  xy: 239, 67
+  size: 226, 106
+  orig: 226, 106
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 155, 26
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

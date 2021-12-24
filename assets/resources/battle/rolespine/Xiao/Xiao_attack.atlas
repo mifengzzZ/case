@@ -1,0 +1,125 @@
+
+Xiao_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/attck_00010
+  rotate: true
+  xy: 2, 30
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+tx/attck_00011
+  rotate: false
+  xy: 37, 33
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1
+tx/attck_00012
+  rotate: true
+  xy: 228, 345
+  size: 165, 91
+  orig: 165, 91
+  offset: 0, 0
+  index: -1
+tx/attck_00013
+  rotate: false
+  xy: 321, 321
+  size: 153, 93
+  orig: 153, 93
+  offset: 0, 0
+  index: -1
+tx/attck_00014
+  rotate: true
+  xy: 379, 9
+  size: 133, 94
+  orig: 133, 94
+  offset: 0, 0
+  index: -1
+tx/attck_00015
+  rotate: false
+  xy: 379, 222
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+tx/attck_00016
+  rotate: false
+  xy: 257, 15
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+tx/attck_00017
+  rotate: true
+  xy: 237, 115
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+tx/attck_00018
+  rotate: false
+  xy: 137, 9
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 37, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+tx/sj1_00012
+  rotate: false
+  xy: 237, 229
+  size: 78, 114
+  orig: 78, 114
+  offset: 0, 0
+  index: -1
+tx/sj1_00013
+  rotate: false
+  xy: 119, 306
+  size: 107, 204
+  orig: 107, 204
+  offset: 0, 0
+  index: -1
+tx/sj1_00014
+  rotate: false
+  xy: 2, 283
+  size: 115, 227
+  orig: 115, 227
+  offset: 0, 0
+  index: -1
+tx/sj1_00015
+  rotate: false
+  xy: 2, 77
+  size: 119, 204
+  orig: 119, 204
+  offset: 0, 0
+  index: -1
+tx/sj1_00016
+  rotate: false
+  xy: 123, 113
+  size: 112, 191
+  orig: 112, 191
+  offset: 0, 0
+  index: -1
+tx/sj1_00017
+  rotate: true
+  xy: 321, 416
+  size: 94, 164
+  orig: 94, 164
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: false
+  xy: 379, 144
+  size: 126, 76
+  orig: 126, 76
+  offset: 0, 0
+  index: -1

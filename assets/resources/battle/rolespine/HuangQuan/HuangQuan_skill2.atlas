@@ -1,0 +1,118 @@
+
+HuangQuan_skill2.png
+size: 510,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/cy1
+  rotate: false
+  xy: 57, 37
+  size: 97, 167
+  orig: 97, 167
+  offset: 0, 0
+  index: -1
+tx/cy2
+  rotate: false
+  xy: 167, 379
+  size: 210, 130
+  orig: 210, 130
+  offset: 0, 0
+  index: -1
+tx/dg2_000
+  rotate: false
+  xy: 2, 3
+  size: 53, 196
+  orig: 53, 196
+  offset: 0, 0
+  index: -1
+tx/dg2_001
+  rotate: false
+  xy: 2, 201
+  size: 53, 308
+  orig: 53, 308
+  offset: 0, 0
+  index: -1
+tx/dg2_002
+  rotate: false
+  xy: 57, 206
+  size: 53, 303
+  orig: 53, 303
+  offset: 0, 0
+  index: -1
+tx/dg2_003
+  rotate: false
+  xy: 112, 209
+  size: 53, 300
+  orig: 53, 300
+  offset: 0, 0
+  index: -1
+tx/dg2_004
+  rotate: true
+  xy: 167, 194
+  size: 53, 268
+  orig: 53, 268
+  offset: 0, 0
+  index: -1
+tx/dg2_005
+  rotate: true
+  xy: 156, 139
+  size: 53, 258
+  orig: 53, 258
+  offset: 0, 0
+  index: -1
+tx/dg3
+  rotate: true
+  xy: 340, 249
+  size: 87, 50
+  orig: 87, 50
+  offset: 0, 0
+  index: -1
+tx/dg4
+  rotate: false
+  xy: 313, 2
+  size: 140, 135
+  orig: 140, 135
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 437, 238
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: true
+  xy: 416, 144
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+tx/xdg_050
+  rotate: false
+  xy: 167, 249
+  size: 171, 128
+  orig: 171, 128
+  offset: 0, 0
+  index: -1
+tx/xdg_051
+  rotate: true
+  xy: 379, 338
+  size: 171, 128
+  orig: 171, 128
+  offset: 0, 0
+  index: -1
+tx/xdg_052
+  rotate: false
+  xy: 156, 9
+  size: 155, 128
+  orig: 155, 128
+  offset: 0, 0
+  index: -1
+tx/xdg_053
+  rotate: true
+  xy: 392, 280
+  size: 56, 116
+  orig: 56, 116
+  offset: 0, 0
+  index: -1

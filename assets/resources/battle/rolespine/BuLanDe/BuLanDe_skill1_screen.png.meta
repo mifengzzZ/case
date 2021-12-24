@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "802cedcd-08c4-4ad5-8ca4-2d962ec9c86b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 426,
+  "height": 506,
+  "platformSettings": {},
+  "subMetas": {
+    "BuLanDe_skill1_screen": {
+      "ver": "1.0.6",
+      "uuid": "7fc84dd6-bf96-44ec-85b6-ec51e2a81450",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "802cedcd-08c4-4ad5-8ca4-2d962ec9c86b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 422,
+      "height": 502,
+      "rawWidth": 426,
+      "rawHeight": 506,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

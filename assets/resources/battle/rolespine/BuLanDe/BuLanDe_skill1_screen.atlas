@@ -1,0 +1,34 @@
+
+BuLanDe_skill1_screen.png
+size: 426,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/mask
+  rotate: false
+  xy: 406, 486
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+tx/sj3_057
+  rotate: false
+  xy: 209, 195
+  size: 195, 309
+  orig: 195, 309
+  offset: 0, 0
+  index: -1
+tx/sj3_058
+  rotate: true
+  xy: 2, 2
+  size: 190, 306
+  orig: 190, 306
+  offset: 0, 0
+  index: -1
+tx/sj3_059
+  rotate: false
+  xy: 2, 194
+  size: 205, 310
+  orig: 205, 310
+  offset: 0, 0
+  index: -1

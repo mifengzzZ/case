@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "fcecb1b0-2729-4476-bf44-248047e71c29",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 923,
+  "height": 660,
+  "platformSettings": {},
+  "subMetas": {
+    "KuLaLa_skill2_debuff_screen": {
+      "ver": "1.0.6",
+      "uuid": "0cc1f7a2-ed21-4a1c-ac90-552c71cce955",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fcecb1b0-2729-4476-bf44-248047e71c29",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 919,
+      "height": 656,
+      "rawWidth": 923,
+      "rawHeight": 660,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

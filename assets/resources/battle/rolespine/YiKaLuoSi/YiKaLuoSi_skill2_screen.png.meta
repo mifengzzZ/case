@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f6c13e8a-4b07-43da-9188-cac6ada1a9a0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 103,
+  "height": 68,
+  "platformSettings": {},
+  "subMetas": {
+    "YiKaLuoSi_skill2_screen": {
+      "ver": "1.0.6",
+      "uuid": "5e9235ef-4cdb-49cf-bcc6-1445717f88c8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f6c13e8a-4b07-43da-9188-cac6ada1a9a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 99,
+      "height": 64,
+      "rawWidth": 103,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

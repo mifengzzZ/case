@@ -1,0 +1,104 @@
+
+OuRuoSi_skill2_screen_di.png
+size: 903,702
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 406
+  size: 621, 294
+  orig: 621, 294
+  offset: 0, 0
+  index: -1
+tx/shandian1_000
+  rotate: false
+  xy: 710, 49
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+tx/shandian1_001
+  rotate: false
+  xy: 710, 102
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+tx/shandian1_002
+  rotate: false
+  xy: 710, 181
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+tx/shandian1_003
+  rotate: false
+  xy: 818, 271
+  size: 83, 429
+  orig: 83, 429
+  offset: 0, 0
+  index: -1
+tx/shandian1_004
+  rotate: false
+  xy: 725, 287
+  size: 91, 413
+  orig: 91, 413
+  offset: 0, 0
+  index: -1
+tx/shandian1_005
+  rotate: false
+  xy: 426, 6
+  size: 95, 398
+  orig: 95, 398
+  offset: 0, 0
+  index: -1
+tx/shandian1_007
+  rotate: false
+  xy: 523, 9
+  size: 94, 395
+  orig: 94, 395
+  offset: 0, 0
+  index: -1
+tx/shandian1_008
+  rotate: false
+  xy: 625, 298
+  size: 98, 402
+  orig: 98, 402
+  offset: 0, 0
+  index: -1
+tx/shandian1_009
+  rotate: true
+  xy: 2, 94
+  size: 102, 415
+  orig: 102, 415
+  offset: 0, 0
+  index: -1
+tx/shandian1_010
+  rotate: true
+  xy: 2, 300
+  size: 104, 422
+  orig: 104, 422
+  offset: 0, 0
+  index: -1
+tx/shandian1_012
+  rotate: true
+  xy: 2, 198
+  size: 100, 422
+  orig: 100, 422
+  offset: 0, 0
+  index: -1
+tx/shandian1_013
+  rotate: true
+  xy: 2, 2
+  size: 90, 415
+  orig: 90, 415
+  offset: 0, 0
+  index: -1
+tx/shandian1_014
+  rotate: false
+  xy: 619, 4
+  size: 89, 292
+  orig: 89, 292
+  offset: 0, 0
+  index: -1

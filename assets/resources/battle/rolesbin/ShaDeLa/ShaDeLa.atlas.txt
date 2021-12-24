@@ -1,0 +1,300 @@
+
+ShaDeLa.png
+size: 463,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShaDeLa_Arm_L
+  rotate: false
+  xy: 97, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+ShaDeLa_Arm_R
+  rotate: true
+  xy: 129, 6
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag
+  rotate: true
+  xy: 2, 21
+  size: 116, 90
+  orig: 116, 90
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag_Biao
+  rotate: true
+  xy: 437, 19
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag_Juan
+  rotate: true
+  xy: 419, 47
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag_Lb
+  rotate: true
+  xy: 154, 3
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag_Lf
+  rotate: false
+  xy: 201, 25
+  size: 38, 29
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag_Tb
+  rotate: false
+  xy: 94, 22
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+ShaDeLa_Bag_Tt
+  rotate: false
+  xy: 194, 4
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+ShaDeLa_Body
+  rotate: true
+  xy: 352, 100
+  size: 37, 49
+  orig: 37, 50
+  offset: 0, 1
+  index: -1
+ShaDeLa_Calf_L
+  rotate: true
+  xy: 163, 56
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+ShaDeLa_Calf_R
+  rotate: true
+  xy: 277, 99
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+ShaDeLa_Eyelid_L
+  rotate: true
+  xy: 360, 4
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+ShaDeLa_Eyelid_R
+  rotate: false
+  xy: 21, 3
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+ShaDeLa_Forearm_L
+  rotate: true
+  xy: 50, 3
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+ShaDeLa_Forearm_R
+  rotate: true
+  xy: 439, 102
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+ShaDeLa_Glass
+  rotate: false
+  xy: 332, 2
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+ShaDeLa_Glass_Line
+  rotate: false
+  xy: 369, 5
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hair_L
+  rotate: false
+  xy: 439, 118
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hair_R
+  rotate: true
+  xy: 347, 3
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hair_T
+  rotate: false
+  xy: 231, 4
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hair_TL
+  rotate: false
+  xy: 356, 39
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hair_TR
+  rotate: true
+  xy: 380, 7
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hand_L
+  rotate: false
+  xy: 74, 3
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+ShaDeLa_Hand_R
+  rotate: true
+  xy: 419, 25
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+ShaDeLa_Head
+  rotate: true
+  xy: 326, 36
+  size: 23, 28
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+ShaDeLa_Kneepad_L
+  rotate: true
+  xy: 355, 14
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+ShaDeLa_Kneepad_R
+  rotate: false
+  xy: 332, 12
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+ShaDeLa_Line_L
+  rotate: true
+  xy: 334, 62
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+ShaDeLa_Line_R
+  rotate: true
+  xy: 2, 9
+  size: 10, 46
+  orig: 10, 46
+  offset: 0, 0
+  index: -1
+ShaDeLa_Skirt_B
+  rotate: false
+  xy: 163, 97
+  size: 112, 40
+  orig: 112, 40
+  offset: 0, 0
+  index: -1
+ShaDeLa_Skirt_Belt
+  rotate: false
+  xy: 291, 35
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+ShaDeLa_Skirt_LF
+  rotate: true
+  xy: 94, 56
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+ShaDeLa_Skirt_LT
+  rotate: false
+  xy: 248, 61
+  size: 84, 34
+  orig: 84, 34
+  offset: 0, 0
+  index: -1
+ShaDeLa_Skirt_RB
+  rotate: true
+  xy: 267, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+ShaDeLa_Skirt_RF
+  rotate: true
+  xy: 437, 32
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+ShaDeLa_Thigh_L
+  rotate: true
+  xy: 150, 25
+  size: 29, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+ShaDeLa_Thigh_R
+  rotate: true
+  xy: 241, 32
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+ShaDeLa_Weapon_L
+  rotate: false
+  xy: 378, 40
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+ShaDeLa_Weapon_LB
+  rotate: false
+  xy: 303, 6
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ShaDeLa_Weapon_R
+  rotate: true
+  xy: 403, 102
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 3
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

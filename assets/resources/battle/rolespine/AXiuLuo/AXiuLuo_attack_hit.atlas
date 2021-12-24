@@ -1,0 +1,83 @@
+
+AXiuLuo_attack_hit.png
+size: 505,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 345, 61
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 296, 99
+  size: 102, 149
+  orig: 102, 149
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 302, 250
+  size: 136, 260
+  orig: 136, 260
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 2, 222
+  size: 145, 288
+  orig: 145, 288
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 149, 251
+  size: 151, 259
+  orig: 151, 259
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: false
+  xy: 149, 2
+  size: 145, 247
+  orig: 145, 247
+  offset: 0, 0
+  index: -1
+tx/sj1_024
+  rotate: false
+  xy: 2, 7
+  size: 138, 213
+  orig: 138, 213
+  offset: 0, 0
+  index: -1
+tx/suipian_022
+  rotate: false
+  xy: 296, 36
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+tx/suipian_023
+  rotate: false
+  xy: 440, 455
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+tx/suipian_024
+  rotate: false
+  xy: 440, 388
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 400, 98
+  size: 150, 101
+  orig: 150, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+KuLaLa_skill1.png
+size: 480,437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_bao1
+  rotate: false
+  xy: 420, 267
+  size: 51, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+tx/a_bao2
+  rotate: false
+  xy: 2, 343
+  size: 237, 92
+  orig: 270, 99
+  offset: 17, 3
+  index: -1
+tx/a_quxian_000
+  rotate: true
+  xy: 206, 208
+  size: 111, 119
+  orig: 116, 124
+  offset: 2, 2
+  index: -1
+tx/a_quxian_001
+  rotate: false
+  xy: 2, 224
+  size: 202, 117
+  orig: 206, 121
+  offset: 2, 1
+  index: -1
+tx/a_quxian_002
+  rotate: false
+  xy: 2, 113
+  size: 201, 109
+  orig: 206, 114
+  offset: 3, 1
+  index: -1
+tx/a_quxian_003
+  rotate: false
+  xy: 241, 321
+  size: 189, 114
+  orig: 194, 118
+  offset: 3, 1
+  index: -1
+tx/a_quxian_004
+  rotate: false
+  xy: 2, 2
+  size: 190, 109
+  orig: 197, 114
+  offset: 4, 2
+  index: -1
+tx/a_quxian_005
+  rotate: false
+  xy: 194, 2
+  size: 103, 109
+  orig: 111, 116
+  offset: 6, 3
+  index: -1
+tx/a_xuehua
+  rotate: false
+  xy: 432, 386
+  size: 46, 49
+  orig: 52, 51
+  offset: 3, 1
+  index: -1
+tx/yuan_031
+  rotate: false
+  xy: 420, 235
+  size: 28, 30
+  orig: 32, 34
+  offset: 2, 2
+  index: -1
+tx/yuan_032
+  rotate: false
+  xy: 389, 73
+  size: 66, 67
+  orig: 69, 71
+  offset: 1, 2
+  index: -1
+tx/yuan_033
+  rotate: false
+  xy: 389, 142
+  size: 83, 83
+  orig: 86, 87
+  offset: 1, 2
+  index: -1
+tx/yuan_034
+  rotate: false
+  xy: 298, 117
+  size: 89, 89
+  orig: 91, 94
+  offset: 1, 3
+  index: -1
+tx/yuan_035
+  rotate: false
+  xy: 327, 227
+  size: 91, 92
+  orig: 94, 96
+  offset: 2, 2
+  index: -1
+tx/yuan_036
+  rotate: false
+  xy: 205, 113
+  size: 91, 93
+  orig: 95, 96
+  offset: 2, 1
+  index: -1
+tx/yuan_037
+  rotate: false
+  xy: 299, 27
+  size: 88, 88
+  orig: 92, 94
+  offset: 3, 2
+  index: -1
+tx/yuan_038
+  rotate: true
+  xy: 389, 8
+  size: 63, 65
+  orig: 66, 69
+  offset: 1, 3
+  index: -1
+tx/yuan_039
+  rotate: false
+  xy: 432, 347
+  size: 42, 37
+  orig: 46, 42
+  offset: 1, 3
+  index: -1

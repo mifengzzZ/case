@@ -1,0 +1,55 @@
+
+KuLaLa_skill2.png
+size: 494,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_quxian_000
+  rotate: true
+  xy: 256, 142
+  size: 139, 149
+  orig: 145, 155
+  offset: 2, 2
+  index: -1
+tx/a_quxian_001
+  rotate: false
+  xy: 2, 280
+  size: 252, 145
+  orig: 258, 151
+  offset: 3, 2
+  index: -1
+tx/a_quxian_002
+  rotate: false
+  xy: 2, 142
+  size: 252, 136
+  orig: 258, 143
+  offset: 3, 2
+  index: -1
+tx/a_quxian_003
+  rotate: false
+  xy: 256, 283
+  size: 236, 142
+  orig: 242, 148
+  offset: 4, 2
+  index: -1
+tx/a_quxian_004
+  rotate: false
+  xy: 2, 2
+  size: 238, 138
+  orig: 246, 143
+  offset: 5, 2
+  index: -1
+tx/a_quxian_005
+  rotate: false
+  xy: 242, 4
+  size: 129, 136
+  orig: 139, 145
+  offset: 7, 4
+  index: -1
+tx/a_xuehua
+  rotate: false
+  xy: 407, 220
+  size: 57, 61
+  orig: 65, 64
+  offset: 4, 2
+  index: -1

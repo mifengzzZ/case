@@ -1,0 +1,97 @@
+
+XiLa_attack.png
+size: 488,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tuowei1_12
+  rotate: false
+  xy: 2, 380
+  size: 428, 111
+  orig: 428, 111
+  offset: 0, 0
+  index: -1
+tx/tuowei1_13
+  rotate: false
+  xy: 2, 274
+  size: 365, 104
+  orig: 365, 104
+  offset: 0, 0
+  index: -1
+tx/tuowei1_14
+  rotate: false
+  xy: 2, 176
+  size: 320, 96
+  orig: 320, 96
+  offset: 0, 0
+  index: -1
+tx/tuowei1_15
+  rotate: false
+  xy: 2, 87
+  size: 284, 87
+  orig: 284, 87
+  offset: 0, 0
+  index: -1
+tx/tuowei1_16
+  rotate: false
+  xy: 2, 14
+  size: 256, 71
+  orig: 256, 71
+  offset: 0, 0
+  index: -1
+tx/tuowei1_17
+  rotate: true
+  xy: 369, 130
+  size: 248, 69
+  orig: 248, 69
+  offset: 0, 0
+  index: -1
+tx/tuowei1_18
+  rotate: false
+  xy: 309, 56
+  size: 172, 51
+  orig: 172, 51
+  offset: 0, 0
+  index: -1
+tx/tuowei1_19
+  rotate: true
+  xy: 440, 329
+  size: 162, 46
+  orig: 162, 46
+  offset: 0, 0
+  index: -1
+tx/tuowei1_20
+  rotate: true
+  xy: 324, 123
+  size: 149, 38
+  orig: 149, 38
+  offset: 0, 0
+  index: -1
+tx/tuowei2_21
+  rotate: false
+  xy: 260, 28
+  size: 225, 24
+  orig: 225, 24
+  offset: 0, 0
+  index: -1
+tx/tuowei2_22
+  rotate: true
+  xy: 440, 109
+  size: 218, 26
+  orig: 218, 26
+  offset: 0, 0
+  index: -1
+tx/tuowei2_23
+  rotate: false
+  xy: 260, 2
+  size: 198, 24
+  orig: 198, 24
+  offset: 0, 0
+  index: -1
+tx/tuowei2_24
+  rotate: true
+  xy: 288, 54
+  size: 120, 19
+  orig: 120, 19
+  offset: 0, 0
+  index: -1

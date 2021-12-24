@@ -1,0 +1,160 @@
+
+ShouHuZhiLong_skill5.png
+size: 811,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s5_gy1
+  rotate: false
+  xy: 166, 17
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+s5_gy2
+  rotate: false
+  xy: 98, 20
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+s5_gy3
+  rotate: false
+  xy: 283, 47
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+s5_juqi1_005
+  rotate: false
+  xy: 2, 13
+  size: 94, 39
+  orig: 94, 39
+  offset: 0, 0
+  index: -1
+s5_juqi1_006
+  rotate: true
+  xy: 672, 188
+  size: 157, 118
+  orig: 157, 118
+  offset: 0, 0
+  index: -1
+s5_juqi1_007
+  rotate: true
+  xy: 511, 211
+  size: 166, 159
+  orig: 166, 159
+  offset: 0, 0
+  index: -1
+s5_juqi1_008
+  rotate: false
+  xy: 166, 134
+  size: 173, 209
+  orig: 173, 209
+  offset: 0, 0
+  index: -1
+s5_juqi1_009
+  rotate: false
+  xy: 329, 369
+  size: 172, 271
+  orig: 172, 271
+  offset: 0, 0
+  index: -1
+s5_juqi1_010
+  rotate: false
+  xy: 2, 345
+  size: 172, 295
+  orig: 172, 295
+  offset: 0, 0
+  index: -1
+s5_juqi1_011
+  rotate: false
+  xy: 676, 347
+  size: 133, 293
+  orig: 133, 293
+  offset: 0, 0
+  index: -1
+s5_juqi1_012
+  rotate: false
+  xy: 176, 346
+  size: 151, 294
+  orig: 151, 294
+  offset: 0, 0
+  index: -1
+s5_juqi1_013
+  rotate: false
+  xy: 2, 54
+  size: 162, 289
+  orig: 162, 289
+  offset: 0, 0
+  index: -1
+s5_juqi1_014
+  rotate: false
+  xy: 503, 379
+  size: 171, 261
+  orig: 171, 261
+  offset: 0, 0
+  index: -1
+s5_juqi1_015
+  rotate: false
+  xy: 341, 172
+  size: 168, 195
+  orig: 168, 195
+  offset: 0, 0
+  index: -1
+s5_juqi1_016
+  rotate: true
+  xy: 341, 2
+  size: 168, 190
+  orig: 168, 190
+  offset: 0, 0
+  index: -1
+s5_juqi1_017
+  rotate: false
+  xy: 533, 94
+  size: 111, 115
+  orig: 111, 115
+  offset: 0, 0
+  index: -1
+s5_juqi1_018
+  rotate: false
+  xy: 533, 12
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+s5_juqi1_019
+  rotate: false
+  xy: 283, 81
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+s5_quan1
+  rotate: false
+  xy: 646, 18
+  size: 148, 168
+  orig: 148, 168
+  offset: 0, 0
+  index: -1
+s5_st_000
+  rotate: false
+  xy: 646, 188
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+s5_st_001
+  rotate: false
+  xy: 318, 52
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+s5_st_002
+  rotate: true
+  xy: 511, 184
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1

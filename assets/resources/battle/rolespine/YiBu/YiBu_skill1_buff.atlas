@@ -1,0 +1,69 @@
+
+YiBu_skill1_buff.png
+size: 495,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1_dian1_003
+  rotate: true
+  xy: 233, 152
+  size: 144, 155
+  orig: 144, 155
+  offset: 0, 0
+  index: -1
+s1_dian1_004
+  rotate: false
+  xy: 2, 2
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+s1_dian1_005
+  rotate: true
+  xy: 2, 157
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+s1_dian1_006
+  rotate: false
+  xy: 390, 204
+  size: 103, 92
+  orig: 103, 92
+  offset: 0, 0
+  index: -1
+s1_dian1_010
+  rotate: false
+  xy: 153, 2
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+s1_dian1_011
+  rotate: false
+  xy: 304, 22
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+s1_dian1_012
+  rotate: true
+  xy: 107, 191
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+s1_gy1
+  rotate: false
+  xy: 2, 294
+  size: 229, 216
+  orig: 229, 216
+  offset: 0, 0
+  index: -1
+s1_gy2
+  rotate: false
+  xy: 233, 298
+  size: 221, 212
+  orig: 221, 212
+  offset: 0, 0
+  index: -1

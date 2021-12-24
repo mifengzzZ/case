@@ -1,0 +1,20 @@
+
+DeGuLa_skill1.png
+size: 256,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy4
+  rotate: false
+  xy: 180, 104
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 2, 2
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1

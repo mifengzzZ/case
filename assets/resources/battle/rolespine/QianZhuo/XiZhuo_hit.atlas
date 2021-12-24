@@ -1,0 +1,139 @@
+
+XiZhuo_hit.png
+size: 496,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: false
+  xy: 2, 246
+  size: 187, 184
+  orig: 187, 184
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 440, 278
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+tx/huo2_000
+  rotate: false
+  xy: 428, 10
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+tx/huo2_001
+  rotate: false
+  xy: 428, 69
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+tx/huo2_002
+  rotate: false
+  xy: 419, 137
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+tx/huo2_003
+  rotate: true
+  xy: 334, 127
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+tx/huo2_004
+  rotate: false
+  xy: 332, 8
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+tx/huo2_005
+  rotate: false
+  xy: 225, 106
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+tx/huo2_006
+  rotate: false
+  xy: 114, 24
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+tx/huo2_007
+  rotate: false
+  xy: 2, 135
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+tx/huo2_008
+  rotate: false
+  xy: 191, 321
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+tx/huo2_009
+  rotate: false
+  xy: 2, 24
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+tx/huo2_010
+  rotate: false
+  xy: 303, 321
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+tx/huo2_011
+  rotate: true
+  xy: 114, 134
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+tx/huo2_012
+  rotate: false
+  xy: 225, 213
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+tx/huo2_013
+  rotate: true
+  xy: 225, 2
+  size: 102, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+tx/huo2_014
+  rotate: false
+  xy: 335, 214
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+tx/huo2_015
+  rotate: true
+  xy: 415, 335
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+tx/st1
+  rotate: true
+  xy: 191, 280
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1

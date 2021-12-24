@@ -1,0 +1,174 @@
+
+AoLaHaMu_skill2_hit.png
+size: 480,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/jian1
+  rotate: false
+  xy: 455, 343
+  size: 13, 136
+  orig: 15, 185
+  offset: 1, 0
+  index: -1
+tx/lizi
+  rotate: false
+  xy: 449, 268
+  size: 29, 29
+  orig: 33, 31
+  offset: 2, 1
+  index: -1
+tx/s1_gy1
+  rotate: false
+  xy: 136, 5
+  size: 58, 58
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+tx/sj2_054
+  rotate: false
+  xy: 2, 2
+  size: 132, 161
+  orig: 135, 164
+  offset: 2, 1
+  index: -1
+tx/sj2_055
+  rotate: false
+  xy: 2, 165
+  size: 203, 225
+  orig: 205, 229
+  offset: 1, 2
+  index: -1
+tx/sj2_056
+  rotate: false
+  xy: 207, 162
+  size: 187, 228
+  orig: 190, 231
+  offset: 1, 1
+  index: -1
+tx/st
+  rotate: false
+  xy: 436, 95
+  size: 35, 49
+  orig: 58, 58
+  offset: 12, 5
+  index: -1
+tx/tuowei
+  rotate: false
+  xy: 2, 392
+  size: 387, 87
+  orig: 409, 95
+  offset: 9, 4
+  index: -1
+tx/yeti_054
+  rotate: false
+  xy: 436, 81
+  size: 34, 12
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+tx/yeti_055
+  rotate: true
+  xy: 447, 28
+  size: 51, 20
+  orig: 52, 21
+  offset: 1, 0
+  index: -1
+tx/yeti_056
+  rotate: true
+  xy: 348, 2
+  size: 67, 32
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+tx/yeti_057
+  rotate: true
+  xy: 196, 2
+  size: 66, 40
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+tx/yeti_058
+  rotate: false
+  xy: 396, 146
+  size: 64, 49
+  orig: 65, 50
+  offset: 1, 0
+  index: -1
+tx/yeti_059
+  rotate: true
+  xy: 382, 14
+  size: 65, 63
+  orig: 67, 64
+  offset: 1, 0
+  index: -1
+tx/yeti_060
+  rotate: true
+  xy: 359, 81
+  size: 63, 75
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+tx/yeti_061
+  rotate: false
+  xy: 391, 396
+  size: 62, 83
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+tx/yeti_062
+  rotate: false
+  xy: 194, 70
+  size: 59, 90
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+tx/yeti_063
+  rotate: false
+  xy: 396, 299
+  size: 57, 95
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+tx/yeti_064
+  rotate: false
+  xy: 136, 65
+  size: 56, 98
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+tx/yeti_065
+  rotate: false
+  xy: 396, 197
+  size: 51, 100
+  orig: 51, 101
+  offset: 0, 0
+  index: -1
+tx/yeti_066
+  rotate: true
+  xy: 255, 116
+  size: 44, 101
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+tx/yeti_067
+  rotate: true
+  xy: 255, 71
+  size: 43, 102
+  orig: 43, 104
+  offset: 0, 0
+  index: -1
+tx/yeti_068
+  rotate: true
+  xy: 255, 27
+  size: 42, 91
+  orig: 42, 94
+  offset: 0, 1
+  index: -1
+tx/yeti_069
+  rotate: true
+  xy: 238, 2
+  size: 23, 68
+  orig: 23, 72
+  offset: 0, 1
+  index: -1

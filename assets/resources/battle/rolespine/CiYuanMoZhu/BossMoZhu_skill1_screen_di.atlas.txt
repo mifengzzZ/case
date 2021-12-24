@@ -1,0 +1,55 @@
+
+BossMoZhu_skill1_screen_di.png
+size: 306,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zaobo1
+  rotate: true
+  xy: 2, 2
+  size: 213, 256
+  orig: 221, 256
+  offset: 5, 0
+  index: -1
+zhizhu_000
+  rotate: false
+  xy: 260, 96
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+zhizhu_001
+  rotate: false
+  xy: 260, 71
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+zhizhu_002
+  rotate: true
+  xy: 260, 169
+  size: 46, 23
+  orig: 47, 23
+  offset: 1, 0
+  index: -1
+zhizhu_003
+  rotate: true
+  xy: 260, 121
+  size: 46, 23
+  orig: 47, 23
+  offset: 1, 0
+  index: -1
+zhizhu_004
+  rotate: false
+  xy: 260, 47
+  size: 44, 22
+  orig: 44, 23
+  offset: 0, 1
+  index: -1
+zhizhu_005
+  rotate: false
+  xy: 260, 23
+  size: 44, 22
+  orig: 44, 23
+  offset: 0, 1
+  index: -1

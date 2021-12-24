@@ -1,0 +1,160 @@
+
+MiTaBi_skill2_screen.png
+size: 989,897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_xuehua
+  rotate: false
+  xy: 909, 79
+  size: 32, 33
+  orig: 36, 35
+  offset: 2, 1
+  index: -1
+bingzhui_064
+  rotate: true
+  xy: 886, 563
+  size: 125, 101
+  orig: 147, 123
+  offset: 13, 10
+  index: -1
+bingzhui_065
+  rotate: true
+  xy: 364, 312
+  size: 306, 150
+  orig: 331, 171
+  offset: 17, 9
+  index: -1
+bingzhui_066
+  rotate: true
+  xy: 2, 219
+  size: 399, 164
+  orig: 416, 184
+  offset: 9, 8
+  index: -1
+bingzhui_067
+  rotate: true
+  xy: 519, 419
+  size: 476, 276
+  orig: 493, 297
+  offset: 10, 8
+  index: -1
+bingzhui_068
+  rotate: false
+  xy: 2, 620
+  size: 515, 275
+  orig: 532, 296
+  offset: 10, 8
+  index: -1
+dilie
+  rotate: true
+  xy: 361, 90
+  size: 220, 149
+  orig: 262, 176
+  offset: 18, 14
+  index: -1
+dilie1
+  rotate: true
+  xy: 797, 469
+  size: 219, 87
+  orig: 225, 92
+  offset: 5, 2
+  index: -1
+feng1_000
+  rotate: false
+  xy: 345, 24
+  size: 156, 64
+  orig: 162, 118
+  offset: 2, 26
+  index: -1
+feng1_001
+  rotate: false
+  xy: 162, 70
+  size: 181, 61
+  orig: 184, 62
+  offset: 0, 0
+  index: -1
+liao_061
+  rotate: true
+  xy: 512, 2
+  size: 227, 180
+  orig: 234, 186
+  offset: 4, 3
+  index: -1
+liao_062
+  rotate: true
+  xy: 168, 133
+  size: 243, 191
+  orig: 248, 197
+  offset: 3, 3
+  index: -1
+liao_063
+  rotate: true
+  xy: 168, 378
+  size: 240, 194
+  orig: 246, 199
+  offset: 2, 3
+  index: -1
+liao_064
+  rotate: false
+  xy: 516, 231
+  size: 222, 186
+  orig: 228, 191
+  offset: 3, 3
+  index: -1
+liao_065
+  rotate: true
+  xy: 740, 201
+  size: 216, 183
+  orig: 222, 188
+  offset: 3, 3
+  index: -1
+liao_066
+  rotate: false
+  xy: 694, 23
+  size: 213, 176
+  orig: 219, 183
+  offset: 3, 4
+  index: -1
+liao_067
+  rotate: true
+  xy: 797, 690
+  size: 205, 170
+  orig: 213, 178
+  offset: 4, 5
+  index: -1
+liao_068
+  rotate: true
+  xy: 2, 22
+  size: 195, 158
+  orig: 204, 167
+  offset: 3, 5
+  index: -1
+mask
+  rotate: false
+  xy: 694, 211
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+st1
+  rotate: true
+  xy: 714, 211
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+xian3
+  rotate: false
+  xy: 909, 114
+  size: 70, 85
+  orig: 70, 88
+  offset: 0, 3
+  index: -1
+zaonp
+  rotate: false
+  xy: 886, 420
+  size: 98, 141
+  orig: 106, 141
+  offset: 4, 0
+  index: -1

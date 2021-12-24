@@ -1,0 +1,132 @@
+
+LiAo_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: false
+  xy: 486, 251
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 2, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: false
+  xy: 151, 222
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 2, 364
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 2, 216
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 151, 367
+  size: 145, 143
+  orig: 145, 143
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 2, 70
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: false
+  xy: 298, 380
+  size: 133, 130
+  orig: 133, 130
+  offset: 0, 0
+  index: -1
+tx/sj1_024
+  rotate: false
+  xy: 298, 252
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+tx/sj1_025
+  rotate: true
+  xy: 151, 109
+  size: 111, 118
+  orig: 111, 118
+  offset: 0, 0
+  index: -1
+tx/sj1_026
+  rotate: true
+  xy: 147, 2
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+tx/sj2
+  rotate: false
+  xy: 433, 432
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+tx/sj3_019
+  rotate: false
+  xy: 68, 14
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+tx/sj3_020
+  rotate: true
+  xy: 417, 161
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+tx/sj3_021
+  rotate: true
+  xy: 429, 276
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+tx/sj3_022
+  rotate: true
+  xy: 390, 36
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+tx/sj3_023
+  rotate: false
+  xy: 271, 58
+  size: 117, 94
+  orig: 117, 94
+  offset: 0, 0
+  index: -1
+tx/sj3_024
+  rotate: false
+  xy: 295, 154
+  size: 120, 96
+  orig: 120, 96
+  offset: 0, 0
+  index: -1

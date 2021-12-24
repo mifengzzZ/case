@@ -1,0 +1,153 @@
+
+YiYeTa_skill2_screen_di.png
+size: 1016,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/beijing
+  rotate: false
+  xy: 2, 697
+  size: 594, 324
+  orig: 594, 324
+  offset: 0, 0
+  index: -1
+tx/huo_061
+  rotate: false
+  xy: 598, 786
+  size: 280, 235
+  orig: 280, 235
+  offset: 0, 0
+  index: -1
+tx/huo_081
+  rotate: false
+  xy: 598, 786
+  size: 280, 235
+  orig: 280, 235
+  offset: 0, 0
+  index: -1
+tx/huo_063
+  rotate: true
+  xy: 264, 266
+  size: 272, 258
+  orig: 272, 258
+  offset: 0, 0
+  index: -1
+tx/huo_083
+  rotate: true
+  xy: 264, 266
+  size: 272, 258
+  orig: 272, 258
+  offset: 0, 0
+  index: -1
+tx/huo_065
+  rotate: false
+  xy: 262, 4
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+tx/huo_085
+  rotate: false
+  xy: 262, 4
+  size: 265, 260
+  orig: 265, 260
+  offset: 0, 0
+  index: -1
+tx/huo_067
+  rotate: false
+  xy: 2, 3
+  size: 258, 261
+  orig: 258, 261
+  offset: 0, 0
+  index: -1
+tx/huo_087
+  rotate: false
+  xy: 2, 3
+  size: 258, 261
+  orig: 258, 261
+  offset: 0, 0
+  index: -1
+tx/huo_069
+  rotate: true
+  xy: 2, 266
+  size: 272, 260
+  orig: 272, 260
+  offset: 0, 0
+  index: -1
+tx/huo_089
+  rotate: true
+  xy: 2, 266
+  size: 272, 260
+  orig: 272, 260
+  offset: 0, 0
+  index: -1
+tx/huo_071
+  rotate: true
+  xy: 529, 2
+  size: 266, 251
+  orig: 266, 251
+  offset: 0, 0
+  index: -1
+tx/huo_091
+  rotate: true
+  xy: 529, 2
+  size: 266, 251
+  orig: 266, 251
+  offset: 0, 0
+  index: -1
+tx/huo_073
+  rotate: true
+  xy: 524, 270
+  size: 268, 247
+  orig: 268, 247
+  offset: 0, 0
+  index: -1
+tx/huo_093
+  rotate: true
+  xy: 524, 270
+  size: 268, 247
+  orig: 268, 247
+  offset: 0, 0
+  index: -1
+tx/huo_075
+  rotate: true
+  xy: 773, 270
+  size: 268, 238
+  orig: 268, 238
+  offset: 0, 0
+  index: -1
+tx/huo_095
+  rotate: true
+  xy: 773, 270
+  size: 268, 238
+  orig: 268, 238
+  offset: 0, 0
+  index: -1
+tx/huo_077
+  rotate: true
+  xy: 782, 4
+  size: 264, 232
+  orig: 264, 232
+  offset: 0, 0
+  index: -1
+tx/huo_097
+  rotate: true
+  xy: 782, 4
+  size: 264, 232
+  orig: 264, 232
+  offset: 0, 0
+  index: -1
+tx/huo_099
+  rotate: false
+  xy: 598, 540
+  size: 273, 244
+  orig: 273, 244
+  offset: 0, 0
+  index: -1
+tx/huo_079
+  rotate: false
+  xy: 598, 540
+  size: 273, 244
+  orig: 273, 244
+  offset: 0, 0
+  index: -1

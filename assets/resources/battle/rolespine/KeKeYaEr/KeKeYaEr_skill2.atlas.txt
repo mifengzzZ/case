@@ -1,0 +1,76 @@
+
+KeKeYaEr_skill2.png
+size: 497,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/lizi1
+  rotate: false
+  xy: 391, 137
+  size: 30, 29
+  orig: 33, 33
+  offset: 2, 2
+  index: -1
+tx/xian1_068
+  rotate: false
+  xy: 2, 2
+  size: 386, 20
+  orig: 388, 20
+  offset: 2, 0
+  index: -1
+tx/xian1_069
+  rotate: true
+  xy: 478, 121
+  size: 338, 10
+  orig: 338, 10
+  offset: 0, 0
+  index: -1
+tx/xian1_070
+  rotate: true
+  xy: 490, 195
+  size: 264, 5
+  orig: 264, 5
+  offset: 0, 0
+  index: -1
+tx/xian1_071
+  rotate: true
+  xy: 374, 51
+  size: 40, 3
+  orig: 40, 3
+  offset: 0, 0
+  index: -1
+tx/xian2_066
+  rotate: false
+  xy: 2, 350
+  size: 474, 109
+  orig: 486, 119
+  offset: 8, 5
+  index: -1
+tx/xian2_067
+  rotate: false
+  xy: 2, 250
+  size: 463, 98
+  orig: 481, 108
+  offset: 14, 5
+  index: -1
+tx/xian2_068
+  rotate: false
+  xy: 2, 168
+  size: 456, 80
+  orig: 475, 90
+  offset: 13, 5
+  index: -1
+tx/xian2_069
+  rotate: false
+  xy: 2, 93
+  size: 387, 73
+  orig: 396, 84
+  offset: 4, 5
+  index: -1
+tx/xian2_070
+  rotate: false
+  xy: 2, 24
+  size: 370, 67
+  orig: 388, 85
+  offset: 13, 7
+  index: -1

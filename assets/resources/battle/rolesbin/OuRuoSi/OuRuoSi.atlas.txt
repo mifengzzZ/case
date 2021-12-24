@@ -1,0 +1,349 @@
+
+OuRuoSi.png
+size: 481,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OuRuoSi_Arm_L
+  rotate: false
+  xy: 277, 8
+  size: 24, 52
+  orig: 25, 52
+  offset: 1, 0
+  index: -1
+OuRuoSi_Arm_LS
+  rotate: true
+  xy: 468, 132
+  size: 15, 11
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+OuRuoSi_Arm_R
+  rotate: false
+  xy: 380, 46
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+OuRuoSi_Body
+  rotate: true
+  xy: 385, 122
+  size: 37, 73
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+OuRuoSi_Calf_L
+  rotate: false
+  xy: 303, 72
+  size: 37, 87
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+OuRuoSi_Calf_R
+  rotate: true
+  xy: 385, 93
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+OuRuoSi_Chest
+  rotate: false
+  xy: 345, 4
+  size: 31, 22
+  orig: 31, 23
+  offset: 0, 1
+  index: -1
+OuRuoSi_Eardorp_L
+  rotate: false
+  xy: 463, 174
+  size: 16, 12
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+OuRuoSi_Eardorp_R
+  rotate: false
+  xy: 460, 144
+  size: 6, 15
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+OuRuoSi_Eyelid_L
+  rotate: false
+  xy: 468, 122
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+OuRuoSi_Eyelid_R
+  rotate: false
+  xy: 460, 136
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+OuRuoSi_Finger_L
+  rotate: true
+  xy: 427, 6
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+OuRuoSi_Finger_R
+  rotate: false
+  xy: 436, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+OuRuoSi_Forearm_L
+  rotate: false
+  xy: 407, 62
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+OuRuoSi_Forearm_R
+  rotate: true
+  xy: 191, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_B
+  rotate: false
+  xy: 446, 38
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_BB
+  rotate: false
+  xy: 2, 69
+  size: 112, 86
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_BT
+  rotate: false
+  xy: 293, 161
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_F
+  rotate: false
+  xy: 248, 3
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_FL
+  rotate: true
+  xy: 212, 3
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_FR
+  rotate: false
+  xy: 267, 4
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_L
+  rotate: true
+  xy: 407, 17
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_LB
+  rotate: false
+  xy: 303, 28
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_R
+  rotate: false
+  xy: 468, 149
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hair_RB
+  rotate: true
+  xy: 303, 2
+  size: 24, 40
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hand_L
+  rotate: false
+  xy: 225, 6
+  size: 21, 12
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hand_La
+  rotate: false
+  xy: 168, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hand_R
+  rotate: false
+  xy: 448, 7
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hat
+  rotate: true
+  xy: 463, 188
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+OuRuoSi_Hat_ear
+  rotate: true
+  xy: 407, 42
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+OuRuoSi_Head
+  rotate: false
+  xy: 443, 62
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_B
+  rotate: false
+  xy: 2, 9
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_BL
+  rotate: false
+  xy: 116, 66
+  size: 108, 89
+  orig: 114, 93
+  offset: 6, 0
+  index: -1
+OuRuoSi_Skirt_BML
+  rotate: false
+  xy: 398, 161
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_BMR
+  rotate: true
+  xy: 225, 20
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_BR
+  rotate: true
+  xy: 226, 62
+  size: 93, 75
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_BTL
+  rotate: true
+  xy: 380, 21
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_BTR
+  rotate: true
+  xy: 378, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_FL
+  rotate: false
+  xy: 171, 25
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_FR
+  rotate: true
+  xy: 344, 28
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+OuRuoSi_Skirt_L
+  rotate: false
+  xy: 344, 52
+  size: 34, 35
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+OuRuoSi_Staff
+  rotate: true
+  xy: 2, 157
+  size: 57, 289
+  orig: 57, 289
+  offset: 0, 0
+  index: -1
+OuRuoSi_Staff_La
+  rotate: false
+  xy: 436, 18
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+OuRuoSi_Staff_Lb
+  rotate: false
+  xy: 456, 18
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+OuRuoSi_Staff_Line
+  rotate: false
+  xy: 342, 89
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+OuRuoSi_Thigh_L
+  rotate: true
+  xy: 98, 8
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+OuRuoSi_Thigh_LS
+  rotate: true
+  xy: 407, 8
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+OuRuoSi_Thigh_R
+  rotate: true
+  xy: 98, 37
+  size: 27, 71
+  orig: 27, 74
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 401, 2
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+TaLuMoKeSi_attack_hit.png
+size: 468,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 335, 57
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+tx/lizi1_001
+  rotate: false
+  xy: 268, 35
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+tx/lizi1_002
+  rotate: false
+  xy: 415, 342
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+tx/lizi1_003
+  rotate: false
+  xy: 415, 412
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 372, 93
+  size: 94, 136
+  orig: 94, 136
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 285, 231
+  size: 128, 244
+  orig: 128, 244
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 2, 204
+  size: 137, 271
+  orig: 137, 271
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 141, 231
+  size: 142, 244
+  orig: 142, 244
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: true
+  xy: 141, 95
+  size: 134, 229
+  orig: 134, 229
+  offset: 0, 0
+  index: -1
+tx/sj1_024
+  rotate: false
+  xy: 2, 6
+  size: 112, 196
+  orig: 112, 196
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: false
+  xy: 116, 2
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+Ying_skill2_hit.png
+size: 489,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 385, 28
+  size: 37, 37
+  orig: 38, 37
+  offset: 1, 0
+  index: -1
+tx/huaban_000
+  rotate: true
+  xy: 293, 135
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+tx/huaban_002
+  rotate: true
+  xy: 279, 135
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+tx/huaban_005
+  rotate: false
+  xy: 18, 3
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+tx/huaban_006
+  rotate: false
+  xy: 33, 5
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+tx/huaban_009
+  rotate: true
+  xy: 305, 135
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+tx/huaban_012
+  rotate: false
+  xy: 317, 136
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+tx/huaban_015
+  rotate: false
+  xy: 2, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 399, 247
+  size: 88, 123
+  orig: 106, 148
+  offset: 9, 12
+  index: -1
+tx/sj1_020
+  rotate: true
+  xy: 150, 4
+  size: 126, 233
+  orig: 142, 253
+  offset: 8, 5
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 2, 105
+  size: 136, 265
+  orig: 151, 279
+  offset: 7, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 140, 132
+  size: 137, 238
+  orig: 157, 257
+  offset: 8, 7
+  index: -1
+tx/sj1_023
+  rotate: false
+  xy: 279, 150
+  size: 118, 220
+  orig: 150, 244
+  offset: 13, 11
+  index: -1
+tx/sj1_024
+  rotate: false
+  xy: 399, 67
+  size: 80, 178
+  orig: 132, 212
+  offset: 30, 17
+  index: -1
+tx/xian1
+  rotate: false
+  xy: 2, 13
+  size: 146, 90
+  orig: 158, 96
+  offset: 6, 3
+  index: -1

@@ -1,0 +1,41 @@
+
+NuoSa_attack.png
+size: 312,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 245, 22
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/tuowei2_017
+  rotate: true
+  xy: 2, 88
+  size: 28, 249
+  orig: 28, 249
+  offset: 0, 0
+  index: -1
+tx/tuowei2_018
+  rotate: true
+  xy: 2, 56
+  size: 30, 241
+  orig: 30, 241
+  offset: 0, 0
+  index: -1
+tx/tuowei2_019
+  rotate: true
+  xy: 2, 26
+  size: 28, 219
+  orig: 28, 219
+  offset: 0, 0
+  index: -1
+tx/tuowei2_020
+  rotate: true
+  xy: 2, 2
+  size: 22, 132
+  orig: 22, 132
+  offset: 0, 0
+  index: -1

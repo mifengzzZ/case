@@ -1,0 +1,146 @@
+
+ShaDeLa_skill1.png
+size: 510,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 331, 141
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+tx/gy6
+  rotate: false
+  xy: 377, 141
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+tx/quan1_038
+  rotate: false
+  xy: 2, 18
+  size: 130, 168
+  orig: 130, 168
+  offset: 0, 0
+  index: -1
+tx/quan1_039
+  rotate: false
+  xy: 2, 346
+  size: 214, 163
+  orig: 214, 163
+  offset: 0, 0
+  index: -1
+tx/quan1_040
+  rotate: false
+  xy: 218, 351
+  size: 214, 158
+  orig: 214, 158
+  offset: 0, 0
+  index: -1
+tx/quan1_041
+  rotate: false
+  xy: 218, 187
+  size: 205, 162
+  orig: 205, 162
+  offset: 0, 0
+  index: -1
+tx/quan1_042
+  rotate: false
+  xy: 2, 188
+  size: 202, 156
+  orig: 202, 156
+  offset: 0, 0
+  index: -1
+tx/quan1_043
+  rotate: true
+  xy: 193, 16
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+tx/sj3_054
+  rotate: false
+  xy: 398, 10
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+tx/sj3_055
+  rotate: false
+  xy: 193, 125
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+tx/sj3_056
+  rotate: true
+  xy: 332, 2
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+tx/sj3_057
+  rotate: false
+  xy: 262, 129
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+tx/sj3_058
+  rotate: false
+  xy: 332, 70
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+tx/sj3_059
+  rotate: false
+  xy: 134, 5
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+tx/yanchen_037
+  rotate: true
+  xy: 478, 114
+  size: 90, 23
+  orig: 90, 23
+  offset: 0, 0
+  index: -1
+tx/yanchen_038
+  rotate: true
+  xy: 478, 206
+  size: 116, 30
+  orig: 116, 30
+  offset: 0, 0
+  index: -1
+tx/yanchen_039
+  rotate: true
+  xy: 434, 324
+  size: 185, 56
+  orig: 185, 56
+  offset: 0, 0
+  index: -1
+tx/yanchen_040
+  rotate: true
+  xy: 425, 124
+  size: 198, 51
+  orig: 198, 51
+  offset: 0, 0
+  index: -1
+tx/yanchen_041
+  rotate: true
+  xy: 134, 36
+  size: 150, 57
+  orig: 150, 57
+  offset: 0, 0
+  index: -1
+tx/yanchen_042
+  rotate: false
+  xy: 419, 47
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1

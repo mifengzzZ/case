@@ -1,0 +1,125 @@
+
+MiSi_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a02
+  rotate: false
+  xy: 338, 173
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+images/tx/a03
+  rotate: false
+  xy: 170, 49
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+images/tx/c01
+  rotate: false
+  xy: 170, 10
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+images/tx/c02
+  rotate: false
+  xy: 249, 87
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+images/tx/c03
+  rotate: false
+  xy: 338, 134
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+images/tx/c04
+  rotate: false
+  xy: 416, 211
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+images/tx/c05
+  rotate: false
+  xy: 461, 211
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+images/tx/c06
+  rotate: false
+  xy: 249, 48
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+images/tx/e01
+  rotate: false
+  xy: 2, 374
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e02
+  rotate: false
+  xy: 2, 250
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e03
+  rotate: false
+  xy: 170, 374
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e04
+  rotate: false
+  xy: 2, 126
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e05
+  rotate: false
+  xy: 170, 250
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e06
+  rotate: false
+  xy: 338, 374
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e07
+  rotate: false
+  xy: 2, 2
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e08
+  rotate: false
+  xy: 170, 126
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+images/tx/e09
+  rotate: false
+  xy: 338, 250
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1

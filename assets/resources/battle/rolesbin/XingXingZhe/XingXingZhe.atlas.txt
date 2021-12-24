@@ -1,0 +1,398 @@
+
+XingXingZhe.png
+size: 497,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 135, 107
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+XingXingZhe_body
+  rotate: false
+  xy: 227, 50
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+XingXingZhe_bozi
+  rotate: true
+  xy: 313, 73
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+XingXingZhe_guajian01
+  rotate: false
+  xy: 454, 35
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+XingXingZhe_guajian02
+  rotate: false
+  xy: 479, 135
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+XingXingZhe_guajian03
+  rotate: false
+  xy: 479, 100
+  size: 15, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+XingXingZhe_guajian04
+  rotate: false
+  xy: 255, 2
+  size: 19, 25
+  orig: 19, 30
+  offset: 0, 5
+  index: -1
+XingXingZhe_qunbai
+  rotate: true
+  xy: 2, 5
+  size: 94, 137
+  orig: 96, 137
+  offset: 1, 0
+  index: -1
+XingXingZhe_qunbaiguajian01
+  rotate: true
+  xy: 426, 327
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+XingXingZhe_tou
+  rotate: false
+  xy: 341, 27
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+XingXingZhe_toufa01
+  rotate: true
+  xy: 276, 65
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+XingXingZhe_toufa02
+  rotate: false
+  xy: 426, 243
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+XingXingZhe_toujiao01
+  rotate: true
+  xy: 439, 101
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+XingXingZhe_toujiao02
+  rotate: true
+  xy: 416, 39
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+XingXingZhe_weiba
+  rotate: true
+  xy: 335, 150
+  size: 182, 89
+  orig: 182, 89
+  offset: 0, 0
+  index: -1
+XingXingZhe_wuqi
+  rotate: false
+  xy: 2, 334
+  size: 380, 52
+  orig: 380, 55
+  offset: 0, 3
+  index: -1
+XingXingZhe_xiong
+  rotate: true
+  xy: 467, 201
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian01
+  rotate: true
+  xy: 440, 35
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian02
+  rotate: true
+  xy: 341, 18
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian03
+  rotate: false
+  xy: 467, 84
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian04
+  rotate: false
+  xy: 467, 64
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian05
+  rotate: false
+  xy: 487, 69
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian06
+  rotate: false
+  xy: 467, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian07
+  rotate: true
+  xy: 346, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian08
+  rotate: false
+  xy: 414, 338
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian09
+  rotate: true
+  xy: 313, 65
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian10
+  rotate: true
+  xy: 206, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaoguajian11
+  rotate: false
+  xy: 369, 11
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaopiaodai01
+  rotate: true
+  xy: 141, 9
+  size: 14, 63
+  orig: 14, 63
+  offset: 0, 0
+  index: -1
+XingXingZhe_yaopiaodai02
+  rotate: false
+  xy: 419, 96
+  size: 18, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+XingXingZhe_youchibang01
+  rotate: false
+  xy: 426, 151
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+XingXingZhe_youchibang02
+  rotate: true
+  xy: 309, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+XingXingZhe_youchibang03
+  rotate: false
+  xy: 247, 127
+  size: 86, 205
+  orig: 86, 205
+  offset: 0, 0
+  index: -1
+XingXingZhe_youchibang04
+  rotate: true
+  xy: 276, 2
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+XingXingZhe_youchibang05
+  rotate: false
+  xy: 141, 25
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+XingXingZhe_youchibang06
+  rotate: true
+  xy: 467, 175
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+XingXingZhe_youdabi
+  rotate: true
+  xy: 369, 28
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+XingXingZhe_youjiao
+  rotate: true
+  xy: 227, 29
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+XingXingZhe_youshou
+  rotate: true
+  xy: 478, 84
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+XingXingZhe_youshouzhi01
+  rotate: true
+  xy: 354, 13
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+XingXingZhe_youshouzhi02
+  rotate: true
+  xy: 328, 2
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+XingXingZhe_youxiaobi
+  rotate: false
+  xy: 419, 60
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+XingXingZhe_youxiaotui
+  rotate: false
+  xy: 309, 15
+  size: 30, 48
+  orig: 34, 64
+  offset: 2, 8
+  index: -1
+XingXingZhe_zhuanshi
+  rotate: false
+  xy: 384, 334
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuochibang01
+  rotate: false
+  xy: 135, 126
+  size: 110, 206
+  orig: 110, 206
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuochibang02
+  rotate: false
+  xy: 2, 101
+  size: 131, 231
+  orig: 131, 232
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuochibang03
+  rotate: false
+  xy: 231, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuochibang04
+  rotate: true
+  xy: 480, 49
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuochibang05
+  rotate: true
+  xy: 335, 67
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuodabi
+  rotate: false
+  xy: 313, 97
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuojian01
+  rotate: false
+  xy: 443, 48
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuojiao
+  rotate: false
+  xy: 384, 355
+  size: 40, 31
+  orig: 56, 31
+  offset: 8, 0
+  index: -1
+XingXingZhe_zuoshou
+  rotate: false
+  xy: 443, 69
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuoxiaobi
+  rotate: true
+  xy: 369, 47
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+XingXingZhe_zuoxiaotui
+  rotate: false
+  xy: 467, 156
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+pidao2
+  rotate: true
+  xy: 467, 151
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+honghuanglh.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/b01
+  rotate: false
+  xy: 2, 346
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b02
+  rotate: false
+  xy: 2, 239
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b03
+  rotate: false
+  xy: 129, 346
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b04
+  rotate: false
+  xy: 2, 132
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b05
+  rotate: false
+  xy: 129, 239
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b06
+  rotate: false
+  xy: 256, 346
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b07
+  rotate: false
+  xy: 2, 25
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b08
+  rotate: false
+  xy: 129, 132
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b09
+  rotate: false
+  xy: 256, 239
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b10
+  rotate: false
+  xy: 383, 346
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b11
+  rotate: false
+  xy: 129, 25
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b12
+  rotate: false
+  xy: 256, 132
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b13
+  rotate: false
+  xy: 383, 239
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b14
+  rotate: false
+  xy: 256, 25
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b15
+  rotate: false
+  xy: 383, 132
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+images/b16
+  rotate: false
+  xy: 383, 25
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1

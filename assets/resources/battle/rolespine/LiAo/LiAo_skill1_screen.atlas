@@ -1,0 +1,48 @@
+
+LiAo_skill1_screen.png
+size: 426,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/quanping_015
+  rotate: false
+  xy: 214, 13
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+tx/quanping_016
+  rotate: false
+  xy: 2, 331
+  size: 210, 163
+  orig: 210, 163
+  offset: 0, 0
+  index: -1
+tx/quanping_017
+  rotate: false
+  xy: 214, 178
+  size: 208, 151
+  orig: 208, 151
+  offset: 0, 0
+  index: -1
+tx/quanping_018
+  rotate: false
+  xy: 2, 166
+  size: 210, 163
+  orig: 210, 163
+  offset: 0, 0
+  index: -1
+tx/quanping_019
+  rotate: false
+  xy: 214, 331
+  size: 210, 163
+  orig: 210, 163
+  offset: 0, 0
+  index: -1
+tx/quanping_020
+  rotate: false
+  xy: 2, 2
+  size: 208, 162
+  orig: 208, 162
+  offset: 0, 0
+  index: -1

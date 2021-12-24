@@ -1,0 +1,286 @@
+
+ShaDeLa_skill2.png
+size: 511,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dian1_020
+  rotate: false
+  xy: 225, 64
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+tx/dian1_023
+  rotate: false
+  xy: 225, 39
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+tx/dian1_025
+  rotate: true
+  xy: 225, 144
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+tx/dian1_028
+  rotate: false
+  xy: 162, 15
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+tx/dian1_030
+  rotate: true
+  xy: 190, 10
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+tx/dian1_033
+  rotate: true
+  xy: 225, 89
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+tx/dian1_037
+  rotate: true
+  xy: 225, 116
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+tx/dian1_039
+  rotate: true
+  xy: 87, 9
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+tx/dian1_042
+  rotate: false
+  xy: 225, 14
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+tx/dian_059
+  rotate: true
+  xy: 387, 171
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+tx/dian_060
+  rotate: false
+  xy: 2, 7
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+tx/dian_061
+  rotate: true
+  xy: 248, 16
+  size: 63, 119
+  orig: 63, 119
+  offset: 0, 0
+  index: -1
+tx/dian_062
+  rotate: false
+  xy: 401, 381
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+tx/dian_063
+  rotate: false
+  xy: 450, 166
+  size: 13, 126
+  orig: 13, 126
+  offset: 0, 0
+  index: -1
+tx/dian_064
+  rotate: true
+  xy: 369, 66
+  size: 13, 139
+  orig: 13, 139
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 465, 219
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 465, 179
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+tx/huo_060
+  rotate: false
+  xy: 464, 87
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+tx/huo_061
+  rotate: false
+  xy: 87, 59
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+tx/huo_062
+  rotate: false
+  xy: 465, 259
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+tx/huo_063
+  rotate: true
+  xy: 464, 108
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+tx/huo_064
+  rotate: true
+  xy: 451, 303
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+tx/huo_065
+  rotate: false
+  xy: 387, 103
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+tx/huo_066
+  rotate: true
+  xy: 387, 216
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+tx/huo_067
+  rotate: false
+  xy: 369, 2
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+tx/huo_068
+  rotate: false
+  xy: 446, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+tx/huo_069
+  rotate: false
+  xy: 387, 294
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+tx/huo_070
+  rotate: true
+  xy: 461, 462
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+tx/huo_071
+  rotate: true
+  xy: 461, 413
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+tx/huo_072
+  rotate: false
+  xy: 113, 7
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+tx/huo_073
+  rotate: true
+  xy: 490, 82
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+tx/huo_074
+  rotate: false
+  xy: 87, 33
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tx/huo_075
+  rotate: false
+  xy: 401, 365
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+tx/qianghua_091
+  rotate: true
+  xy: 2, 90
+  size: 220, 110
+  orig: 220, 110
+  offset: 0, 0
+  index: -1
+tx/sj1_005
+  rotate: false
+  xy: 252, 210
+  size: 133, 150
+  orig: 133, 150
+  offset: 0, 0
+  index: -1
+tx/sj1_006
+  rotate: true
+  xy: 114, 172
+  size: 138, 133
+  orig: 138, 133
+  offset: 0, 0
+  index: -1
+tx/sj1_007
+  rotate: false
+  xy: 249, 81
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+tx/sj1_008
+  rotate: true
+  xy: 114, 37
+  size: 133, 109
+  orig: 133, 109
+  offset: 0, 0
+  index: -1
+tx/xian3
+  rotate: false
+  xy: 2, 312
+  size: 248, 197
+  orig: 248, 197
+  offset: 0, 0
+  index: -1
+tx/yuan2
+  rotate: false
+  xy: 252, 362
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1

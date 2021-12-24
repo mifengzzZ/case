@@ -1,0 +1,566 @@
+
+AiLiSi.png
+size: 434,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AiLiSi_Arm_L
+  rotate: true
+  xy: 358, 86
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+AiLiSi_Arm_R
+  rotate: false
+  xy: 365, 173
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+AiLiSi_Belt_BL
+  rotate: false
+  xy: 307, 2
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+AiLiSi_Belt_BR
+  rotate: true
+  xy: 390, 245
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+AiLiSi_Body
+  rotate: true
+  xy: 88, 58
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+AiLiSi_Calf_L
+  rotate: true
+  xy: 310, 279
+  size: 31, 64
+  orig: 31, 64
+  offset: 0, 0
+  index: -1
+AiLiSi_Calf_R
+  rotate: true
+  xy: 299, 148
+  size: 23, 66
+  orig: 23, 68
+  offset: 0, 0
+  index: -1
+AiLiSi_Crithara_B
+  rotate: false
+  xy: 2, 57
+  size: 84, 190
+  orig: 84, 190
+  offset: 0, 0
+  index: -1
+AiLiSi_Crithara_Bowknot_B
+  rotate: false
+  xy: 245, 186
+  size: 11, 55
+  orig: 11, 55
+  offset: 0, 0
+  index: -1
+AiLiSi_Crithara_Bowknot_T
+  rotate: false
+  xy: 342, 9
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+AiLiSi_Crithara_F
+  rotate: false
+  xy: 2, 249
+  size: 114, 199
+  orig: 126, 199
+  offset: 12, 0
+  index: -1
+AiLiSi_Crithara_Line
+  rotate: false
+  xy: 431, 356
+  size: 1, 92
+  orig: 1, 92
+  offset: 0, 0
+  index: -1
+AiLiSi_Crithara_T
+  rotate: false
+  xy: 238, 375
+  size: 129, 73
+  orig: 129, 73
+  offset: 0, 0
+  index: -1
+AiLiSi_Ear_L
+  rotate: false
+  xy: 233, 2
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+AiLiSi_Ear_R
+  rotate: true
+  xy: 425, 34
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+AiLiSi_Eyelid_L
+  rotate: false
+  xy: 342, 2
+  size: 9, 5
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+AiLiSi_Eyelid_R
+  rotate: true
+  xy: 107, 243
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+AiLiSi_Finger_Ra
+  rotate: false
+  xy: 376, 279
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+AiLiSi_Finger_Rb
+  rotate: true
+  xy: 299, 138
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+AiLiSi_Flower_L
+  rotate: false
+  xy: 393, 37
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+AiLiSi_Flower_Leaf
+  rotate: false
+  xy: 256, 2
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+AiLiSi_Flower_R
+  rotate: true
+  xy: 222, 280
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+AiLiSi_Flower_RB
+  rotate: false
+  xy: 426, 64
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+AiLiSi_Foot_L
+  rotate: false
+  xy: 406, 111
+  size: 23, 27
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+AiLiSi_Foot_R
+  rotate: true
+  xy: 57, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+AiLiSi_Forearm_L
+  rotate: true
+  xy: 391, 54
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+AiLiSi_Forearm_R
+  rotate: false
+  xy: 408, 72
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+AiLiSi_Grape_TB
+  rotate: false
+  xy: 422, 170
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_B
+  rotate: false
+  xy: 408, 45
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Fa
+  rotate: false
+  xy: 369, 375
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Fb
+  rotate: false
+  xy: 389, 20
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Fc
+  rotate: false
+  xy: 386, 148
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_L
+  rotate: true
+  xy: 357, 38
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_R
+  rotate: true
+  xy: 200, 2
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Ta
+  rotate: true
+  xy: 298, 5
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Tb
+  rotate: true
+  xy: 367, 149
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Tc
+  rotate: true
+  xy: 276, 5
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Td
+  rotate: false
+  xy: 406, 34
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Te
+  rotate: true
+  xy: 395, 89
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+AiLiSi_Hair_Tf
+  rotate: false
+  xy: 389, 2
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+AiLiSi_Hand_L
+  rotate: true
+  xy: 422, 183
+  size: 18, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+AiLiSi_Hand_R
+  rotate: false
+  xy: 402, 21
+  size: 15, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+AiLiSi_Head
+  rotate: true
+  xy: 408, 89
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+AiLiSi_Skirt_BB
+  rotate: true
+  xy: 387, 169
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+AiLiSi_Skirt_BF
+  rotate: false
+  xy: 88, 184
+  size: 101, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+AiLiSi_Skirt_BL
+  rotate: true
+  xy: 118, 243
+  size: 43, 102
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+AiLiSi_Skirt_BM
+  rotate: false
+  xy: 88, 107
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+AiLiSi_Skirt_BR
+  rotate: false
+  xy: 366, 210
+  size: 22, 67
+  orig: 22, 68
+  offset: 0, 1
+  index: -1
+AiLiSi_Skirt_FL
+  rotate: true
+  xy: 238, 312
+  size: 61, 139
+  orig: 61, 140
+  offset: 0, 0
+  index: -1
+AiLiSi_Thigh_L
+  rotate: true
+  xy: 238, 280
+  size: 30, 70
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+AiLiSi_Thigh_R
+  rotate: false
+  xy: 173, 112
+  size: 20, 70
+  orig: 20, 72
+  offset: 0, 2
+  index: -1
+Shadow
+  rotate: false
+  xy: 88, 243
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/g1
+  rotate: false
+  xy: 356, 5
+  size: 31, 31
+  orig: 32, 33
+  offset: 1, 1
+  index: -1
+tx/g2
+  rotate: false
+  xy: 357, 52
+  size: 32, 32
+  orig: 33, 32
+  offset: 1, 0
+  index: -1
+tx/g3_022
+  rotate: false
+  xy: 57, 28
+  size: 27, 27
+  orig: 33, 33
+  offset: 3, 3
+  index: -1
+tx/g3_023
+  rotate: false
+  xy: 390, 203
+  size: 40, 40
+  orig: 46, 46
+  offset: 3, 3
+  index: -1
+tx/g3_024
+  rotate: false
+  xy: 152, 58
+  size: 46, 47
+  orig: 52, 51
+  offset: 3, 2
+  index: -1
+tx/g3_025
+  rotate: true
+  xy: 258, 177
+  size: 48, 49
+  orig: 54, 53
+  offset: 3, 2
+  index: -1
+tx/g3_026
+  rotate: true
+  xy: 249, 126
+  size: 49, 48
+  orig: 54, 54
+  offset: 3, 3
+  index: -1
+tx/g3_027
+  rotate: false
+  xy: 307, 98
+  size: 49, 48
+  orig: 54, 54
+  offset: 3, 3
+  index: -1
+tx/g3_028
+  rotate: false
+  xy: 358, 100
+  size: 46, 46
+  orig: 53, 52
+  offset: 4, 2
+  index: -1
+tx/g3_029
+  rotate: false
+  xy: 222, 243
+  size: 34, 35
+  orig: 43, 42
+  offset: 5, 3
+  index: -1
+tx/g3_030
+  rotate: true
+  xy: 406, 140
+  size: 27, 26
+  orig: 36, 34
+  offset: 5, 4
+  index: -1
+tx/hudie_000
+  rotate: false
+  xy: 310, 226
+  size: 54, 51
+  orig: 66, 59
+  offset: 6, 4
+  index: -1
+tx/hudie_001
+  rotate: false
+  xy: 254, 72
+  size: 51, 52
+  orig: 62, 61
+  offset: 5, 5
+  index: -1
+tx/hudie_002
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 63, 63
+  offset: 5, 5
+  index: -1
+tx/hudie_003
+  rotate: true
+  xy: 191, 184
+  size: 57, 52
+  orig: 67, 60
+  offset: 5, 4
+  index: -1
+tx/hudie_004
+  rotate: true
+  xy: 200, 69
+  size: 55, 52
+  orig: 67, 60
+  offset: 6, 4
+  index: -1
+tx/hudie_005
+  rotate: true
+  xy: 195, 126
+  size: 56, 52
+  orig: 68, 60
+  offset: 6, 4
+  index: -1
+tx/hudie_006
+  rotate: false
+  xy: 369, 393
+  size: 60, 55
+  orig: 72, 63
+  offset: 7, 4
+  index: -1
+tx/hudie_007
+  rotate: false
+  xy: 146, 2
+  size: 52, 54
+  orig: 64, 64
+  offset: 7, 5
+  index: -1
+tx/hudie_008
+  rotate: false
+  xy: 307, 47
+  size: 48, 49
+  orig: 58, 60
+  offset: 5, 5
+  index: -1
+tx/hudie_009
+  rotate: false
+  xy: 88, 2
+  size: 56, 54
+  orig: 67, 63
+  offset: 7, 4
+  index: -1
+tx/hudie_010
+  rotate: true
+  xy: 379, 286
+  size: 48, 49
+  orig: 60, 57
+  offset: 6, 4
+  index: -1
+tx/hudie_011
+  rotate: true
+  xy: 258, 227
+  size: 51, 50
+  orig: 62, 58
+  offset: 5, 4
+  index: -1
+tx/hudie_012
+  rotate: true
+  xy: 254, 18
+  size: 52, 51
+  orig: 64, 59
+  offset: 6, 4
+  index: -1
+tx/hudie_013
+  rotate: true
+  xy: 379, 336
+  size: 55, 50
+  orig: 66, 60
+  offset: 5, 5
+  index: -1
+tx/hudie_014
+  rotate: true
+  xy: 200, 12
+  size: 55, 52
+  orig: 67, 60
+  offset: 6, 4
+  index: -1
+tx/hudie_015
+  rotate: false
+  xy: 309, 173
+  size: 54, 51
+  orig: 66, 59
+  offset: 6, 4
+  index: -1
+tx/wuqig
+  rotate: false
+  xy: 118, 288
+  size: 118, 160
+  orig: 126, 167
+  offset: 5, 3
+  index: -1

@@ -1,0 +1,216 @@
+
+AKaSa_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dgtw_016
+  rotate: false
+  xy: 2, 119
+  size: 298, 124
+  orig: 298, 124
+  offset: 0, 0
+  index: -1
+dgtw_017
+  rotate: false
+  xy: 2, 245
+  size: 303, 131
+  orig: 303, 131
+  offset: 0, 0
+  index: -1
+dgtw_018
+  rotate: false
+  xy: 307, 204
+  size: 193, 127
+  orig: 193, 127
+  offset: 0, 0
+  index: -1
+dgtw_019
+  rotate: false
+  xy: 2, 14
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+dgtw_020
+  rotate: true
+  xy: 302, 20
+  size: 129, 89
+  orig: 129, 89
+  offset: 0, 0
+  index: -1
+hitlizi1
+  rotate: false
+  xy: 233, 17
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+hitsj1_026
+  rotate: true
+  xy: 158, 6
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+hitsj1_027
+  rotate: false
+  xy: 201, 26
+  size: 30, 91
+  orig: 30, 91
+  offset: 0, 0
+  index: -1
+hitsj1_028
+  rotate: false
+  xy: 124, 14
+  size: 32, 103
+  orig: 32, 103
+  offset: 0, 0
+  index: -1
+hitsj1_029
+  rotate: true
+  xy: 393, 115
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+hitsj1_030
+  rotate: false
+  xy: 477, 333
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+hitsj1_031
+  rotate: true
+  xy: 427, 3
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+hitsj2
+  rotate: true
+  xy: 393, 37
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+hityan1
+  rotate: false
+  xy: 233, 58
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+suipian_1_014
+  rotate: true
+  xy: 393, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+suipian_1_015
+  rotate: true
+  xy: 450, 344
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+suipian_1_016
+  rotate: false
+  xy: 488, 421
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+suipian_1_017
+  rotate: false
+  xy: 488, 455
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+twx2_026
+  rotate: true
+  xy: 327, 444
+  size: 41, 159
+  orig: 41, 159
+  offset: 0, 0
+  index: -1
+twx2_027
+  rotate: true
+  xy: 321, 401
+  size: 41, 154
+  orig: 41, 154
+  offset: 0, 0
+  index: -1
+twx2_028
+  rotate: true
+  xy: 307, 333
+  size: 41, 141
+  orig: 41, 141
+  offset: 0, 0
+  index: -1
+twx2_029
+  rotate: false
+  xy: 158, 24
+  size: 41, 93
+  orig: 41, 93
+  offset: 0, 0
+  index: -1
+twx_027
+  rotate: false
+  xy: 2, 470
+  size: 323, 40
+  orig: 323, 40
+  offset: 0, 0
+  index: -1
+twx_028
+  rotate: false
+  xy: 2, 438
+  size: 317, 30
+  orig: 317, 30
+  offset: 0, 0
+  index: -1
+twx_029
+  rotate: false
+  xy: 2, 407
+  size: 314, 29
+  orig: 314, 29
+  offset: 0, 0
+  index: -1
+twx_030
+  rotate: false
+  xy: 2, 378
+  size: 306, 27
+  orig: 306, 27
+  offset: 0, 0
+  index: -1
+twx_031
+  rotate: false
+  xy: 302, 176
+  size: 204, 26
+  orig: 204, 26
+  offset: 0, 0
+  index: -1
+twx_032
+  rotate: false
+  xy: 302, 151
+  size: 185, 23
+  orig: 185, 23
+  offset: 0, 0
+  index: -1
+twx_033
+  rotate: false
+  xy: 327, 487
+  size: 171, 23
+  orig: 171, 23
+  offset: 0, 0
+  index: -1
+twx_034
+  rotate: false
+  xy: 310, 376
+  size: 152, 23
+  orig: 152, 23
+  offset: 0, 0
+  index: -1

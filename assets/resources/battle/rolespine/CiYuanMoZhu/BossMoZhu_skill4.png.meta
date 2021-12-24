@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "92bb2e13-3372-4f1b-9d8a-29f6c3d0c6c7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1092,
+  "height": 815,
+  "platformSettings": {},
+  "subMetas": {
+    "BossMoZhu_skill4": {
+      "ver": "1.0.6",
+      "uuid": "4713b850-be81-4de9-80fc-8db3aaa84926",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "92bb2e13-3372-4f1b-9d8a-29f6c3d0c6c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1088,
+      "height": 811,
+      "rawWidth": 1092,
+      "rawHeight": 815,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

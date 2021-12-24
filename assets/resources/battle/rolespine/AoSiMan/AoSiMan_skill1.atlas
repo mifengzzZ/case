@@ -1,0 +1,62 @@
+
+AoSiMan_skill1.png
+size: 492,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_015
+  rotate: true
+  xy: 2, 169
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+tx/dg1_016
+  rotate: true
+  xy: 311, 182
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+tx/dg1_017
+  rotate: false
+  xy: 2, 2
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+tx/dg1_018
+  rotate: false
+  xy: 164, 17
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+tx/dg1_019
+  rotate: false
+  xy: 311, 39
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+tx/dg1_020
+  rotate: false
+  xy: 192, 171
+  size: 71, 128
+  orig: 71, 128
+  offset: 0, 0
+  index: -1
+tx/dg1_021
+  rotate: true
+  xy: 192, 301
+  size: 59, 114
+  orig: 59, 114
+  offset: 0, 0
+  index: -1
+tx/dg1_022
+  rotate: true
+  xy: 164, 2
+  size: 13, 87
+  orig: 13, 87
+  offset: 0, 0
+  index: -1

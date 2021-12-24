@@ -1,0 +1,76 @@
+
+JiaDiSi_skill1.png
+size: 491,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 2, 2
+  size: 163, 66
+  orig: 170, 80
+  offset: 5, 8
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 427, 23
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 376, 15
+  size: 49, 50
+  orig: 51, 51
+  offset: 1, 0
+  index: -1
+tx/juqi_36
+  rotate: false
+  xy: 215, 362
+  size: 274, 111
+  orig: 284, 116
+  offset: 3, 5
+  index: -1
+tx/juqi_37
+  rotate: true
+  xy: 2, 167
+  size: 306, 211
+  orig: 314, 211
+  offset: 3, 0
+  index: -1
+tx/juqi_38
+  rotate: false
+  xy: 257, 151
+  size: 227, 209
+  orig: 240, 211
+  offset: 9, 0
+  index: -1
+tx/juqi_39
+  rotate: true
+  xy: 257, 15
+  size: 134, 117
+  orig: 143, 130
+  offset: 3, 4
+  index: -1
+tx/xian1
+  rotate: false
+  xy: 70, 6
+  size: 32, 159
+  orig: 36, 167
+  offset: 2, 4
+  index: -1
+tx/yuan1
+  rotate: false
+  xy: 376, 67
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+tx/zaobo
+  rotate: false
+  xy: 104, 12
+  size: 151, 153
+  orig: 156, 156
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,202 @@
+
+SuLa_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/huaban_017
+  rotate: true
+  xy: 383, 42
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+tx/huaban_018
+  rotate: false
+  xy: 467, 64
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+tx/huaban_019
+  rotate: true
+  xy: 424, 13
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+tx/huaban_020
+  rotate: false
+  xy: 289, 40
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+tx/huaban_021
+  rotate: false
+  xy: 336, 42
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+tx/huaban_022
+  rotate: false
+  xy: 171, 4
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+tx/huaban_023
+  rotate: true
+  xy: 473, 216
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+tx/huaban_024
+  rotate: true
+  xy: 468, 18
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+tx/huaban_025
+  rotate: false
+  xy: 420, 105
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+tx/huaban_026
+  rotate: true
+  xy: 462, 301
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tx/huaban_027
+  rotate: false
+  xy: 381, 6
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+tx/huaban_028
+  rotate: false
+  xy: 289, 3
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+tx/huaban_029
+  rotate: true
+  xy: 462, 257
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+tx/huaban_030
+  rotate: false
+  xy: 467, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+tx/huaban_031
+  rotate: true
+  xy: 424, 59
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+tx/huaban_032
+  rotate: false
+  xy: 336, 2
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+tx/tuowei1_010
+  rotate: true
+  xy: 462, 347
+  size: 73, 15
+  orig: 73, 15
+  offset: 0, 0
+  index: -1
+tx/tuowei1_012
+  rotate: true
+  xy: 317, 234
+  size: 186, 72
+  orig: 186, 72
+  offset: 0, 0
+  index: -1
+tx/tuowei1_014
+  rotate: false
+  xy: 317, 422
+  size: 172, 88
+  orig: 172, 88
+  offset: 0, 0
+  index: -1
+tx/tuowei1_016
+  rotate: false
+  xy: 2, 32
+  size: 167, 87
+  orig: 167, 87
+  offset: 0, 0
+  index: -1
+tx/tuowei1_018
+  rotate: false
+  xy: 317, 151
+  size: 154, 81
+  orig: 154, 81
+  offset: 0, 0
+  index: -1
+tx/tuowei1_020
+  rotate: true
+  xy: 214, 6
+  size: 144, 73
+  orig: 144, 73
+  offset: 0, 0
+  index: -1
+tx/tuowei1_022
+  rotate: false
+  xy: 289, 86
+  size: 129, 63
+  orig: 129, 63
+  offset: 0, 0
+  index: -1
+tx/tuowei1_024
+  rotate: true
+  xy: 171, 43
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+tx/tuowei2_012
+  rotate: false
+  xy: 2, 121
+  size: 103, 389
+  orig: 103, 389
+  offset: 0, 0
+  index: -1
+tx/tuowei2_013
+  rotate: false
+  xy: 107, 125
+  size: 103, 385
+  orig: 103, 385
+  offset: 0, 0
+  index: -1
+tx/tuowei2_014
+  rotate: false
+  xy: 212, 152
+  size: 103, 358
+  orig: 103, 358
+  offset: 0, 0
+  index: -1
+tx/tuowei3
+  rotate: false
+  xy: 391, 235
+  size: 69, 185
+  orig: 69, 185
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ShouHuZhiLong_skill2_screen.png
+size: 381,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mask
+  rotate: false
+  xy: 347, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+s2_yu1
+  rotate: true
+  xy: 347, 10
+  size: 56, 2
+  orig: 56, 2
+  offset: 0, 0
+  index: -1
+s2_yu2
+  rotate: false
+  xy: 2, 2
+  size: 343, 98
+  orig: 353, 99
+  offset: 6, 0
+  index: -1

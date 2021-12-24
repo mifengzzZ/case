@@ -1,0 +1,76 @@
+
+HuangQuan_skill1_hit.png
+size: 498,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 2, 115
+  size: 343, 115
+  orig: 343, 115
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 386, 52
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/sj1_000
+  rotate: false
+  xy: 386, 2
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+tx/sj1_001
+  rotate: false
+  xy: 223, 17
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+tx/sj1_002
+  rotate: false
+  xy: 347, 118
+  size: 117, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+tx/sj1_003
+  rotate: false
+  xy: 2, 27
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+tx/sj1_004
+  rotate: false
+  xy: 114, 28
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+tx/sj1_005
+  rotate: true
+  xy: 324, 8
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+tx/sj1_006
+  rotate: true
+  xy: 453, 33
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+tx/sj1_007
+  rotate: false
+  xy: 2, 10
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1

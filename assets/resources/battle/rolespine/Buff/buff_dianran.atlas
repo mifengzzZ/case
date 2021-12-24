@@ -1,0 +1,265 @@
+
+buff_dianran.png
+size: 770,673
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gy1
+  rotate: false
+  xy: 2, 532
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+images/huo_000
+  rotate: false
+  xy: 582, 9
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1
+images/huo_001
+  rotate: false
+  xy: 483, 9
+  size: 97, 124
+  orig: 97, 124
+  offset: 0, 0
+  index: -1
+images/huo_002
+  rotate: false
+  xy: 291, 13
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+images/huo_003
+  rotate: true
+  xy: 209, 268
+  size: 104, 124
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+images/huo_004
+  rotate: true
+  xy: 630, 466
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+images/huo_005
+  rotate: false
+  xy: 206, 140
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+images/huo_006
+  rotate: false
+  xy: 2, 268
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+images/huo_007
+  rotate: false
+  xy: 127, 544
+  size: 107, 127
+  orig: 107, 127
+  offset: 0, 0
+  index: -1
+images/huo_008
+  rotate: true
+  xy: 500, 467
+  size: 101, 128
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+images/huo_009
+  rotate: true
+  xy: 369, 467
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+images/huo_010
+  rotate: false
+  xy: 106, 136
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+images/huo_011
+  rotate: false
+  xy: 2, 2
+  size: 97, 132
+  orig: 97, 132
+  offset: 0, 0
+  index: -1
+images/huo_012
+  rotate: true
+  xy: 236, 471
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+images/huo_013
+  rotate: false
+  xy: 101, 2
+  size: 95, 132
+  orig: 95, 132
+  offset: 0, 0
+  index: -1
+images/huo_014
+  rotate: false
+  xy: 310, 138
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+images/huo_015
+  rotate: false
+  xy: 107, 268
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+images/huo_016
+  rotate: true
+  xy: 605, 369
+  size: 95, 128
+  orig: 95, 128
+  offset: 0, 0
+  index: -1
+images/huo_017
+  rotate: false
+  xy: 111, 400
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+images/huo_018
+  rotate: true
+  xy: 605, 270
+  size: 97, 125
+  orig: 97, 125
+  offset: 0, 0
+  index: -1
+images/huo_019
+  rotate: true
+  xy: 335, 269
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+images/huo_020
+  rotate: false
+  xy: 599, 143
+  size: 96, 125
+  orig: 96, 125
+  offset: 0, 0
+  index: -1
+images/huo_021
+  rotate: false
+  xy: 406, 139
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+images/huo_022
+  rotate: false
+  xy: 2, 136
+  size: 102, 130
+  orig: 102, 130
+  offset: 0, 0
+  index: -1
+images/huo_023
+  rotate: true
+  xy: 368, 569
+  size: 102, 130
+  orig: 102, 130
+  offset: 0, 0
+  index: -1
+images/huo_024
+  rotate: false
+  xy: 2, 400
+  size: 107, 130
+  orig: 107, 130
+  offset: 0, 0
+  index: -1
+images/huo_025
+  rotate: true
+  xy: 236, 568
+  size: 103, 130
+  orig: 103, 130
+  offset: 0, 0
+  index: -1
+images/huo_026
+  rotate: true
+  xy: 500, 570
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+images/huo_027
+  rotate: true
+  xy: 633, 570
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+images/huo_028
+  rotate: true
+  xy: 464, 267
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+images/huo_029
+  rotate: true
+  xy: 474, 368
+  size: 97, 129
+  orig: 97, 129
+  offset: 0, 0
+  index: -1
+images/huo_030
+  rotate: true
+  xy: 210, 374
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1
+images/huo_031
+  rotate: true
+  xy: 342, 371
+  size: 94, 130
+  orig: 94, 130
+  offset: 0, 0
+  index: -1
+images/huo_032
+  rotate: false
+  xy: 508, 135
+  size: 89, 130
+  orig: 89, 130
+  offset: 0, 0
+  index: -1
+images/huo_033
+  rotate: false
+  xy: 198, 5
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+images/huo_034
+  rotate: false
+  xy: 677, 16
+  size: 91, 125
+  orig: 91, 125
+  offset: 0, 0
+  index: -1
+images/huo_035
+  rotate: false
+  xy: 392, 11
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1

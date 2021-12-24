@@ -1,0 +1,97 @@
+
+YiLiYa_skill2_screen_di.png
+size: 998,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 120
+  size: 789, 360
+  orig: 789, 360
+  offset: 0, 0
+  index: -1
+tx/gy6
+  rotate: true
+  xy: 872, 2
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+tx/zaobo_00054
+  rotate: false
+  xy: 935, 17
+  size: 61, 43
+  orig: 67, 48
+  offset: 4, 2
+  index: -1
+tx/zaobo_00055
+  rotate: true
+  xy: 872, 62
+  size: 155, 77
+  orig: 160, 81
+  offset: 3, 2
+  index: -1
+tx/zaobo_00056
+  rotate: false
+  xy: 506, 39
+  size: 250, 79
+  orig: 256, 83
+  offset: 4, 2
+  index: -1
+tx/zaobo_00057
+  rotate: true
+  xy: 875, 220
+  size: 260, 80
+  orig: 265, 84
+  offset: 3, 2
+  index: -1
+tx/zaobo_00058
+  rotate: true
+  xy: 793, 219
+  size: 261, 80
+  orig: 267, 84
+  offset: 3, 2
+  index: -1
+tx/zaobo_00059
+  rotate: false
+  xy: 2, 38
+  size: 260, 80
+  orig: 266, 84
+  offset: 3, 2
+  index: -1
+tx/zaobo_00060
+  rotate: false
+  xy: 264, 38
+  size: 240, 80
+  orig: 247, 84
+  offset: 3, 2
+  index: -1
+tx/zaobo_00061
+  rotate: true
+  xy: 793, 15
+  size: 202, 77
+  orig: 209, 82
+  offset: 3, 2
+  index: -1
+tx/zaobo_00062
+  rotate: true
+  xy: 951, 68
+  size: 150, 45
+  orig: 158, 51
+  offset: 4, 3
+  index: -1
+tx/zaobo_00063
+  rotate: true
+  xy: 957, 355
+  size: 125, 36
+  orig: 131, 42
+  offset: 2, 3
+  index: -1
+tx/zaobo_00064
+  rotate: true
+  xy: 758, 96
+  size: 22, 21
+  orig: 29, 28
+  offset: 3, 4
+  index: -1

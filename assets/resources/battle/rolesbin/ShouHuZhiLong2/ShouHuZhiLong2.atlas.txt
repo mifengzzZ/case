@@ -1,0 +1,306 @@
+
+ShouHuZhiLong2.png
+size: 1020,862
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 856
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Arm_Fa
+  rotate: true
+  xy: 899, 626
+  size: 138, 105
+  orig: 138, 105
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Arm_Fb
+  rotate: false
+  xy: 746, 682
+  size: 151, 82
+  orig: 151, 82
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Body
+  rotate: false
+  xy: 570, 529
+  size: 231, 151
+  orig: 231, 151
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Calf_B
+  rotate: false
+  xy: 106, 804
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Calf_F
+  rotate: false
+  xy: 801, 833
+  size: 78, 27
+  orig: 79, 27
+  offset: 1, 0
+  index: -1
+ShouHuZhiLong2_Eyelid
+  rotate: false
+  xy: 21, 854
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Finger_B1
+  rotate: true
+  xy: 286, 839
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Finger_B2
+  rotate: true
+  xy: 668, 835
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Finger_B3
+  rotate: true
+  xy: 47, 846
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Finger_F1
+  rotate: true
+  xy: 881, 831
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Finger_F2
+  rotate: true
+  xy: 733, 835
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Finger_F3
+  rotate: true
+  xy: 433, 837
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Foot_B
+  rotate: true
+  xy: 489, 788
+  size: 46, 120
+  orig: 46, 121
+  offset: 0, 1
+  index: -1
+ShouHuZhiLong2_Foot_F
+  rotate: true
+  xy: 611, 785
+  size: 48, 90
+  orig: 48, 93
+  offset: 0, 1
+  index: -1
+ShouHuZhiLong2_Hat_B
+  rotate: false
+  xy: 191, 731
+  size: 189, 62
+  orig: 189, 62
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Hat_F
+  rotate: false
+  xy: 160, 620
+  size: 245, 97
+  orig: 245, 97
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Hat_M
+  rotate: false
+  xy: 329, 838
+  size: 102, 22
+  orig: 102, 22
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Head
+  rotate: false
+  xy: 800, 779
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Horn
+  rotate: false
+  xy: 703, 783
+  size: 95, 50
+  orig: 95, 50
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Jaw
+  rotate: false
+  xy: 981, 828
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Panoply_B
+  rotate: true
+  xy: 81, 843
+  size: 17, 140
+  orig: 17, 140
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Panoply_F
+  rotate: true
+  xy: 541, 702
+  size: 79, 203
+  orig: 79, 203
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail01
+  rotate: true
+  xy: 2, 449
+  size: 169, 227
+  orig: 171, 227
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail02
+  rotate: true
+  xy: 407, 582
+  size: 118, 161
+  orig: 118, 161
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail03
+  rotate: false
+  xy: 2, 649
+  size: 156, 91
+  orig: 156, 91
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail04
+  rotate: false
+  xy: 2, 742
+  size: 187, 60
+  orig: 187, 60
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail05
+  rotate: false
+  xy: 324, 795
+  size: 163, 40
+  orig: 163, 40
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail_C1
+  rotate: false
+  xy: 515, 836
+  size: 151, 24
+  orig: 151, 24
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail_C2
+  rotate: false
+  xy: 2, 807
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail_C3
+  rotate: false
+  xy: 927, 830
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail_C4
+  rotate: false
+  xy: 478, 837
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tail_C5
+  rotate: false
+  xy: 261, 840
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Thigh_B
+  rotate: false
+  xy: 854, 766
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Thigh_F
+  rotate: true
+  xy: 382, 719
+  size: 67, 157
+  orig: 67, 157
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tooth_B
+  rotate: false
+  xy: 223, 841
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Tooth_T
+  rotate: false
+  xy: 29, 847
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Wing
+  rotate: true
+  xy: 194, 797
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Wing_B1
+  rotate: true
+  xy: 645, 2
+  size: 525, 343
+  orig: 525, 343
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Wing_B3
+  rotate: false
+  xy: 231, 196
+  size: 412, 331
+  orig: 412, 331
+  offset: 0, 0
+  index: -1
+
+ShouHuZhiLong22.png
+size: 975,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShouHuZhiLong2_Wing_F1
+  rotate: true
+  xy: 2, 2
+  size: 570, 508
+  orig: 570, 508
+  offset: 0, 0
+  index: -1
+ShouHuZhiLong2_Wing_F3
+  rotate: true
+  xy: 512, 97
+  size: 475, 461
+  orig: 475, 461
+  offset: 0, 0
+  index: -1

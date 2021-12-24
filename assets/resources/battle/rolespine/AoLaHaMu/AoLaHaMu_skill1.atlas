@@ -1,0 +1,41 @@
+
+AoLaHaMu_skill1.png
+size: 280,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/s1_gy1
+  rotate: false
+  xy: 92, 5
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+tx/sj_huohua_000
+  rotate: false
+  xy: 235, 27
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+tx/sj_huohua_001
+  rotate: true
+  xy: 2, 3
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+tx/sj_huohua_002
+  rotate: true
+  xy: 158, 17
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+tx/sj_huohua_003
+  rotate: true
+  xy: 235, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+YouDuoLa_jump1.png
+size: 147,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/heilizi
+  rotate: false
+  xy: 81, 100
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tx/jian1
+  rotate: false
+  xy: 2, 2
+  size: 77, 162
+  orig: 77, 162
+  offset: 0, 0
+  index: -1
+tx/yanwu
+  rotate: true
+  xy: 81, 30
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1

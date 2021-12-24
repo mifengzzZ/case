@@ -1,0 +1,160 @@
+
+ShouHuZhiLong_skill2_screen_di.png
+size: 800,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/hailang2_000
+  rotate: false
+  xy: 2, 367
+  size: 154, 116
+  orig: 154, 126
+  offset: 0, 5
+  index: -1
+tx/hailang2_002
+  rotate: false
+  xy: 2, 249
+  size: 154, 116
+  orig: 154, 124
+  offset: 0, 4
+  index: -1
+tx/hailang2_004
+  rotate: false
+  xy: 158, 16
+  size: 154, 114
+  orig: 154, 122
+  offset: 0, 4
+  index: -1
+tx/hailang2_006
+  rotate: false
+  xy: 470, 137
+  size: 154, 113
+  orig: 154, 121
+  offset: 0, 3
+  index: -1
+tx/hailang2_008
+  rotate: false
+  xy: 626, 26
+  size: 154, 111
+  orig: 154, 120
+  offset: 0, 4
+  index: -1
+tx/hailang2_010
+  rotate: false
+  xy: 626, 254
+  size: 154, 113
+  orig: 154, 123
+  offset: 0, 5
+  index: -1
+tx/hailang2_012
+  rotate: false
+  xy: 314, 134
+  size: 154, 114
+  orig: 154, 123
+  offset: 0, 4
+  index: -1
+tx/hailang2_014
+  rotate: false
+  xy: 2, 14
+  size: 154, 115
+  orig: 154, 123
+  offset: 0, 3
+  index: -1
+tx/hailang2_016
+  rotate: false
+  xy: 158, 367
+  size: 154, 116
+  orig: 154, 123
+  offset: 0, 2
+  index: -1
+tx/hailang2_018
+  rotate: false
+  xy: 470, 22
+  size: 154, 113
+  orig: 154, 122
+  offset: 0, 5
+  index: -1
+tx/hailang2_020
+  rotate: false
+  xy: 158, 132
+  size: 154, 115
+  orig: 154, 123
+  offset: 0, 3
+  index: -1
+tx/hailang2_022
+  rotate: false
+  xy: 470, 252
+  size: 154, 114
+  orig: 154, 122
+  offset: 0, 3
+  index: -1
+tx/hailang2_024
+  rotate: false
+  xy: 626, 139
+  size: 154, 113
+  orig: 154, 123
+  offset: 0, 5
+  index: -1
+tx/hailang2_026
+  rotate: false
+  xy: 314, 250
+  size: 154, 115
+  orig: 154, 123
+  offset: 0, 3
+  index: -1
+tx/hailang2_028
+  rotate: false
+  xy: 626, 369
+  size: 154, 114
+  orig: 154, 123
+  offset: 0, 4
+  index: -1
+tx/hailang2_030
+  rotate: false
+  xy: 470, 368
+  size: 154, 115
+  orig: 154, 125
+  offset: 0, 5
+  index: -1
+tx/hailang2_032
+  rotate: false
+  xy: 314, 18
+  size: 154, 114
+  orig: 154, 125
+  offset: 0, 6
+  index: -1
+tx/hailang2_034
+  rotate: false
+  xy: 2, 131
+  size: 154, 116
+  orig: 154, 125
+  offset: 0, 4
+  index: -1
+tx/hailang2_036
+  rotate: false
+  xy: 158, 249
+  size: 154, 116
+  orig: 154, 124
+  offset: 0, 3
+  index: -1
+tx/hailang2_038
+  rotate: false
+  xy: 314, 367
+  size: 154, 116
+  orig: 154, 125
+  offset: 0, 4
+  index: -1
+tx/s2_pao
+  rotate: false
+  xy: 782, 466
+  size: 16, 17
+  orig: 20, 20
+  offset: 2, 2
+  index: -1
+tx/s2_shuiquan
+  rotate: false
+  xy: 2, 2
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1

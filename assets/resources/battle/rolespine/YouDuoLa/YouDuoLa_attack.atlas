@@ -1,0 +1,41 @@
+
+YouDuoLa_attack.png
+size: 487,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_015
+  rotate: false
+  xy: 168, 126
+  size: 154, 380
+  orig: 154, 380
+  offset: 0, 0
+  index: -1
+tx/dg1_016
+  rotate: false
+  xy: 2, 120
+  size: 164, 386
+  orig: 164, 386
+  offset: 0, 0
+  index: -1
+tx/dg1_017
+  rotate: false
+  xy: 324, 259
+  size: 161, 247
+  orig: 161, 247
+  offset: 0, 0
+  index: -1
+tx/dg1_018
+  rotate: true
+  xy: 324, 125
+  size: 132, 152
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+tx/dg1_019
+  rotate: true
+  xy: 2, 2
+  size: 116, 163
+  orig: 116, 163
+  offset: 0, 0
+  index: -1

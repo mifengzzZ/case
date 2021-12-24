@@ -1,0 +1,34 @@
+
+zhiliao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a
+  rotate: true
+  xy: 2, 2
+  size: 32, 94
+  orig: 32, 94
+  offset: 0, 0
+  index: -1
+images/b
+  rotate: false
+  xy: 2, 36
+  size: 157, 163
+  orig: 157, 163
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: false
+  xy: 161, 84
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+images/e
+  rotate: false
+  xy: 277, 139
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

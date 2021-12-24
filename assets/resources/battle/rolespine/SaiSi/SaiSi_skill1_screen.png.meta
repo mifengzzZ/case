@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5e80a236-323e-4e61-9f8a-d41a7fe973fd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 497,
+  "height": 478,
+  "platformSettings": {},
+  "subMetas": {
+    "SaiSi_skill1_screen": {
+      "ver": "1.0.6",
+      "uuid": "0a775452-ab04-42a9-9a56-7c8422919903",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5e80a236-323e-4e61-9f8a-d41a7fe973fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 493,
+      "height": 474,
+      "rawWidth": 497,
+      "rawHeight": 478,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

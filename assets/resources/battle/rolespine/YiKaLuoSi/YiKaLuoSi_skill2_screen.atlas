@@ -1,0 +1,20 @@
+
+YiKaLuoSi_skill2_screen.png
+size: 103,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gz1
+  rotate: false
+  xy: 2, 2
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 69, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

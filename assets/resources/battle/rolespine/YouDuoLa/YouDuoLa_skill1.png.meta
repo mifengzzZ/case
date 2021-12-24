@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f60ccf3a-f089-47c9-bdd0-99d6ef03f741",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 507,
+  "platformSettings": {},
+  "subMetas": {
+    "YouDuoLa_skill1": {
+      "ver": "1.0.6",
+      "uuid": "59359067-dd24-4676-9d13-a2e0fab26916",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f60ccf3a-f089-47c9-bdd0-99d6ef03f741",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 508,
+      "height": 503,
+      "rawWidth": 512,
+      "rawHeight": 507,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

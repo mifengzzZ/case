@@ -1,0 +1,83 @@
+
+NuErKe_attack.png
+size: 497,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 138, 2
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 409, 40
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/quan_025
+  rotate: true
+  xy: 233, 21
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+tx/quan_026
+  rotate: false
+  xy: 352, 307
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+tx/quan_027
+  rotate: false
+  xy: 178, 113
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/quan_028
+  rotate: true
+  xy: 178, 279
+  size: 171, 172
+  orig: 171, 172
+  offset: 0, 0
+  index: -1
+tx/quan_029
+  rotate: false
+  xy: 2, 275
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+tx/quan_030
+  rotate: false
+  xy: 2, 98
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+tx/quan_031
+  rotate: false
+  xy: 344, 106
+  size: 137, 171
+  orig: 137, 171
+  offset: 0, 0
+  index: -1
+tx/quan_032
+  rotate: true
+  xy: 2, 3
+  size: 93, 134
+  orig: 93, 134
+  offset: 0, 0
+  index: -1
+tx/quan_033
+  rotate: false
+  xy: 326, 10
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1

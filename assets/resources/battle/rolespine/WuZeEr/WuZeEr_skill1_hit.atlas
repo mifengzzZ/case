@@ -1,0 +1,90 @@
+
+WuZeEr_skill1_hit.png
+size: 511,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 310, 36
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 310, 89
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+tx/sj_024
+  rotate: false
+  xy: 2, 19
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+tx/sj_025
+  rotate: false
+  xy: 121, 2
+  size: 187, 154
+  orig: 187, 154
+  offset: 0, 0
+  index: -1
+tx/sj_026
+  rotate: false
+  xy: 203, 329
+  size: 200, 174
+  orig: 200, 174
+  offset: 0, 0
+  index: -1
+tx/sj_027
+  rotate: false
+  xy: 203, 158
+  size: 197, 169
+  orig: 197, 169
+  offset: 0, 0
+  index: -1
+tx/xian1_043
+  rotate: false
+  xy: 405, 253
+  size: 66, 250
+  orig: 66, 250
+  offset: 0, 0
+  index: -1
+tx/xian1_044
+  rotate: false
+  xy: 2, 111
+  size: 68, 392
+  orig: 68, 392
+  offset: 0, 0
+  index: -1
+tx/xian1_045
+  rotate: false
+  xy: 72, 117
+  size: 47, 386
+  orig: 47, 386
+  offset: 0, 0
+  index: -1
+tx/xian1_046
+  rotate: false
+  xy: 121, 159
+  size: 40, 344
+  orig: 40, 344
+  offset: 0, 0
+  index: -1
+tx/xian1_047
+  rotate: false
+  xy: 163, 162
+  size: 38, 341
+  orig: 38, 341
+  offset: 0, 0
+  index: -1
+tx/xian1_048
+  rotate: false
+  xy: 473, 298
+  size: 36, 205
+  orig: 36, 205
+  offset: 0, 0
+  index: -1

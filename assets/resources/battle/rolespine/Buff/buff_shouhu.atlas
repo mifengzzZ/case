@@ -1,0 +1,265 @@
+
+buff_shouhu.png
+size: 762,727
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dun1
+  rotate: false
+  xy: 2, 505
+  size: 104, 220
+  orig: 104, 220
+  offset: 0, 0
+  index: -1
+images/dun2_002
+  rotate: false
+  xy: 403, 18
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+images/dun2_004
+  rotate: true
+  xy: 636, 256
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+images/dun2_006
+  rotate: true
+  xy: 636, 342
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+images/dun2_008
+  rotate: false
+  xy: 479, 7
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+images/dun2_010
+  rotate: true
+  xy: 618, 139
+  size: 92, 140
+  orig: 92, 140
+  offset: 0, 0
+  index: -1
+images/dun2_012
+  rotate: true
+  xy: 464, 139
+  size: 92, 152
+  orig: 92, 152
+  offset: 0, 0
+  index: -1
+images/dun2_014
+  rotate: true
+  xy: 598, 633
+  size: 92, 162
+  orig: 92, 162
+  offset: 0, 0
+  index: -1
+images/dun2_016
+  rotate: false
+  xy: 303, 115
+  size: 92, 194
+  orig: 92, 194
+  offset: 0, 0
+  index: -1
+images/dun2_018
+  rotate: false
+  xy: 308, 525
+  size: 92, 200
+  orig: 92, 200
+  offset: 0, 0
+  index: -1
+images/dun2_020
+  rotate: false
+  xy: 301, 311
+  size: 94, 204
+  orig: 94, 204
+  offset: 0, 0
+  index: -1
+images/dun2_022
+  rotate: false
+  xy: 208, 517
+  size: 98, 208
+  orig: 98, 208
+  offset: 0, 0
+  index: -1
+images/dun2_024
+  rotate: false
+  xy: 108, 515
+  size: 98, 210
+  orig: 98, 210
+  offset: 0, 0
+  index: -1
+images/dun2_026
+  rotate: false
+  xy: 2, 288
+  size: 101, 215
+  orig: 101, 215
+  offset: 0, 0
+  index: -1
+images/dun2_028
+  rotate: false
+  xy: 2, 71
+  size: 101, 215
+  orig: 101, 215
+  offset: 0, 0
+  index: -1
+images/dun2_030
+  rotate: false
+  xy: 105, 288
+  size: 100, 215
+  orig: 100, 215
+  offset: 0, 0
+  index: -1
+images/dun2_032
+  rotate: false
+  xy: 105, 71
+  size: 99, 215
+  orig: 99, 215
+  offset: 0, 0
+  index: -1
+images/dun2_034
+  rotate: false
+  xy: 206, 71
+  size: 95, 215
+  orig: 95, 215
+  offset: 0, 0
+  index: -1
+images/dun2_036
+  rotate: false
+  xy: 207, 303
+  size: 92, 210
+  orig: 92, 210
+  offset: 0, 0
+  index: -1
+images/dun2_038
+  rotate: true
+  xy: 403, 634
+  size: 91, 193
+  orig: 91, 193
+  offset: 0, 0
+  index: -1
+images/dun2_040
+  rotate: false
+  xy: 315, 3
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+images/dun2_042
+  rotate: true
+  xy: 303, 75
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+images/zaobo1_000
+  rotate: true
+  xy: 560, 566
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_002
+  rotate: true
+  xy: 403, 499
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_004
+  rotate: true
+  xy: 479, 299
+  size: 64, 155
+  orig: 64, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_006
+  rotate: true
+  xy: 479, 233
+  size: 64, 155
+  orig: 64, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_008
+  rotate: true
+  xy: 560, 499
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_010
+  rotate: true
+  xy: 158, 3
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_012
+  rotate: true
+  xy: 2, 2
+  size: 67, 154
+  orig: 67, 154
+  offset: 0, 0
+  index: -1
+images/zaobo1_014
+  rotate: true
+  xy: 572, 5
+  size: 65, 152
+  orig: 65, 152
+  offset: 0, 0
+  index: -1
+images/zaobo1_016
+  rotate: true
+  xy: 572, 72
+  size: 65, 153
+  orig: 65, 153
+  offset: 0, 0
+  index: -1
+images/zaobo1_018
+  rotate: true
+  xy: 403, 432
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_020
+  rotate: true
+  xy: 560, 432
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_022
+  rotate: true
+  xy: 403, 566
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_024
+  rotate: false
+  xy: 397, 275
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_026
+  rotate: false
+  xy: 397, 118
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1
+images/zaobo1_028
+  rotate: true
+  xy: 479, 365
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "193712f2-dbf8-4ca4-babf-2768eff2f836",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "MiSi_attack_zidan": {
+      "ver": "1.0.6",
+      "uuid": "364fdbe7-7468-4214-aca4-0264e9c9177d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "193712f2-dbf8-4ca4-babf-2768eff2f836",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -45,
+      "offsetY": 32.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 418,
+      "height": 187,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,97 @@
+
+KaiSeLin_skill2_screen_di.png
+size: 848,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: true
+  xy: 2, 79
+  size: 659, 313
+  orig: 659, 313
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 2, 45
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tx/quanping_000
+  rotate: true
+  xy: 727, 561
+  size: 177, 110
+  orig: 177, 110
+  offset: 0, 0
+  index: -1
+tx/quanping_001
+  rotate: true
+  xy: 680, 18
+  size: 187, 144
+  orig: 187, 144
+  offset: 0, 0
+  index: -1
+tx/quanping_002
+  rotate: false
+  xy: 481, 85
+  size: 197, 161
+  orig: 197, 161
+  offset: 0, 0
+  index: -1
+tx/quanping_003
+  rotate: false
+  xy: 317, 576
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_004
+  rotate: false
+  xy: 522, 576
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_005
+  rotate: false
+  xy: 317, 412
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_006
+  rotate: false
+  xy: 522, 412
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_007
+  rotate: true
+  xy: 317, 207
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_008
+  rotate: true
+  xy: 317, 2
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_009
+  rotate: false
+  xy: 481, 248
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+tx/quanping_011
+  rotate: true
+  xy: 686, 207
+  size: 203, 160
+  orig: 203, 160
+  offset: 0, 0
+  index: -1

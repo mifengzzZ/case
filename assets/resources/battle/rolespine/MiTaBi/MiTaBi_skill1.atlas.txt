@@ -1,0 +1,55 @@
+
+MiTaBi_skill1.png
+size: 446,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_xuehua
+  rotate: false
+  xy: 386, 16
+  size: 51, 55
+  orig: 59, 58
+  offset: 4, 2
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 235, 133
+  size: 202, 201
+  orig: 230, 228
+  offset: 14, 14
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 386, 73
+  size: 58, 58
+  orig: 58, 59
+  offset: 0, 1
+  index: -1
+tx/quan2
+  rotate: false
+  xy: 2, 104
+  size: 231, 230
+  orig: 231, 230
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 2, 8
+  size: 43, 185
+  orig: 60, 185
+  offset: 8, 0
+  index: -1
+tx/xian2
+  rotate: false
+  xy: 2, 53
+  size: 237, 49
+  orig: 248, 52
+  offset: 6, 1
+  index: -1
+tx/xue1
+  rotate: true
+  xy: 241, 2
+  size: 129, 143
+  orig: 129, 144
+  offset: 0, 1
+  index: -1

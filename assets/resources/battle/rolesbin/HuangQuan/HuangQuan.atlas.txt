@@ -1,0 +1,244 @@
+
+HuangQuan.png
+size: 450,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HuangQuan_biyan
+  rotate: false
+  xy: 421, 41
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+HuangQuan_body
+  rotate: true
+  xy: 91, 2
+  size: 36, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+HuangQuan_qunbai
+  rotate: false
+  xy: 332, 62
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+HuangQuan_toufa01
+  rotate: false
+  xy: 421, 25
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+HuangQuan_toufa02
+  rotate: false
+  xy: 242, 2
+  size: 45, 28
+  orig: 45, 29
+  offset: 0, 1
+  index: -1
+HuangQuan_toufa03
+  rotate: true
+  xy: 384, 7
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+HuangQuan_toufa04
+  rotate: false
+  xy: 433, 63
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+HuangQuan_toufa05
+  rotate: true
+  xy: 305, 47
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+HuangQuan_toufa06
+  rotate: true
+  xy: 380, 108
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+HuangQuan_wuqi
+  rotate: false
+  xy: 2, 96
+  size: 177, 41
+  orig: 177, 41
+  offset: 0, 0
+  index: -1
+HuangQuan_xiong
+  rotate: true
+  xy: 428, 34
+  size: 27, 20
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+HuangQuan_yao
+  rotate: false
+  xy: 384, 30
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+HuangQuan_yifu01
+  rotate: true
+  xy: 2, 40
+  size: 54, 144
+  orig: 54, 144
+  offset: 0, 0
+  index: -1
+HuangQuan_yifu02
+  rotate: true
+  xy: 282, 92
+  size: 45, 96
+  orig: 45, 96
+  offset: 0, 0
+  index: -1
+HuangQuan_yifu03
+  rotate: true
+  xy: 181, 92
+  size: 45, 99
+  orig: 45, 99
+  offset: 0, 0
+  index: -1
+HuangQuan_youdabi
+  rotate: true
+  xy: 332, 47
+  size: 13, 48
+  orig: 13, 48
+  offset: 0, 0
+  index: -1
+HuangQuan_youdatui
+  rotate: true
+  xy: 243, 32
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+HuangQuan_youjiao
+  rotate: true
+  xy: 2, 2
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+HuangQuan_youxiaobi
+  rotate: false
+  xy: 372, 3
+  size: 10, 42
+  orig: 11, 42
+  offset: 1, 0
+  index: -1
+HuangQuan_youyixiu01
+  rotate: true
+  xy: 175, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+HuangQuan_youyixiu02
+  rotate: false
+  xy: 444, 71
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+HuangQuan_youyixiu03
+  rotate: false
+  xy: 289, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+HuangQuan_youyixiu04
+  rotate: false
+  xy: 244, 59
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+HuangQuan_zuodabi
+  rotate: true
+  xy: 175, 9
+  size: 12, 51
+  orig: 12, 51
+  offset: 0, 0
+  index: -1
+HuangQuan_zuodatui
+  rotate: true
+  xy: 175, 23
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+HuangQuan_zuojiao
+  rotate: true
+  xy: 148, 64
+  size: 26, 94
+  orig: 26, 94
+  offset: 0, 0
+  index: -1
+HuangQuan_zuoshou
+  rotate: true
+  xy: 433, 81
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+HuangQuan_zuoxiaobi
+  rotate: false
+  xy: 390, 48
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+HuangQuan_zuoyixiu01
+  rotate: true
+  xy: 384, 20
+  size: 8, 35
+  orig: 8, 35
+  offset: 0, 0
+  index: -1
+HuangQuan_zuoyixiu02
+  rotate: false
+  xy: 319, 2
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+HuangQuan_zuoyixiu03
+  rotate: false
+  xy: 339, 7
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+HuangQuan_zuoyixiu04
+  rotate: false
+  xy: 148, 48
+  size: 93, 14
+  orig: 93, 17
+  offset: 0, 3
+  index: -1
+HuangQuan_zuoyixiu05
+  rotate: false
+  xy: 390, 63
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 444, 15
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+MiTaBi_skill1_screen.png
+size: 390,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/quan1
+  rotate: true
+  xy: 2, 2
+  size: 257, 270
+  orig: 282, 295
+  offset: 15, 12
+  index: -1
+tx/st1
+  rotate: true
+  xy: 274, 108
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+tx/yanwu2
+  rotate: true
+  xy: 274, 143
+  size: 116, 114
+  orig: 127, 126
+  offset: 8, 10
+  index: -1

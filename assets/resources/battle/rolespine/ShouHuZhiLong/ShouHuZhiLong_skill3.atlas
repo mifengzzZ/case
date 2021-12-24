@@ -1,0 +1,167 @@
+
+ShouHuZhiLong_skill3.png
+size: 853,771
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s3_gy1
+  rotate: false
+  xy: 2, 5
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+s3_gy2
+  rotate: false
+  xy: 344, 121
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+s3_gy3
+  rotate: false
+  xy: 781, 234
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+s3_juqi1_005
+  rotate: true
+  xy: 781, 332
+  size: 115, 67
+  orig: 115, 67
+  offset: 0, 0
+  index: -1
+s3_juqi1_006
+  rotate: true
+  xy: 707, 586
+  size: 183, 144
+  orig: 183, 144
+  offset: 0, 0
+  index: -1
+s3_juqi1_007
+  rotate: false
+  xy: 384, 2
+  size: 190, 180
+  orig: 190, 180
+  offset: 0, 0
+  index: -1
+s3_juqi1_008
+  rotate: false
+  xy: 384, 184
+  size: 197, 236
+  orig: 197, 236
+  offset: 0, 0
+  index: -1
+s3_juqi1_009
+  rotate: false
+  xy: 199, 474
+  size: 199, 295
+  orig: 199, 295
+  offset: 0, 0
+  index: -1
+s3_juqi1_010
+  rotate: false
+  xy: 2, 447
+  size: 195, 322
+  orig: 195, 322
+  offset: 0, 0
+  index: -1
+s3_juqi1_011
+  rotate: true
+  xy: 400, 422
+  size: 156, 318
+  orig: 156, 318
+  offset: 0, 0
+  index: -1
+s3_juqi1_012
+  rotate: false
+  xy: 2, 124
+  size: 179, 321
+  orig: 179, 321
+  offset: 0, 0
+  index: -1
+s3_juqi1_013
+  rotate: true
+  xy: 400, 580
+  size: 189, 305
+  orig: 189, 305
+  offset: 0, 0
+  index: -1
+s3_juqi1_014
+  rotate: false
+  xy: 183, 155
+  size: 199, 290
+  orig: 199, 290
+  offset: 0, 0
+  index: -1
+s3_juqi1_015
+  rotate: false
+  xy: 583, 203
+  size: 196, 217
+  orig: 196, 217
+  offset: 0, 0
+  index: -1
+s3_juqi1_016
+  rotate: true
+  xy: 583, 8
+  size: 193, 216
+  orig: 193, 216
+  offset: 0, 0
+  index: -1
+s3_juqi1_017
+  rotate: true
+  xy: 720, 449
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+s3_juqi1_018
+  rotate: true
+  xy: 120, 3
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+s3_juqi1_019
+  rotate: false
+  xy: 781, 268
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+s3_juqi1_020
+  rotate: false
+  xy: 379, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+s3_quan1
+  rotate: false
+  xy: 214, 25
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+s3_yezi_000
+  rotate: false
+  xy: 199, 453
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+s3_yezi_001
+  rotate: false
+  xy: 214, 4
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+s3_yezi_002
+  rotate: false
+  xy: 183, 134
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1

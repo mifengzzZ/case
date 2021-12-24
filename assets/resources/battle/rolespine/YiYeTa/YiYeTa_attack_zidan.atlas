@@ -1,0 +1,27 @@
+
+YiYeTa_attack_zidan.png
+size: 398,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tuowei1
+  rotate: true
+  xy: 2, 141
+  size: 83, 394
+  orig: 83, 394
+  offset: 0, 0
+  index: -1
+tx/zidan1
+  rotate: true
+  xy: 2, 35
+  size: 104, 313
+  orig: 104, 313
+  offset: 0, 0
+  index: -1
+tx/zidan2
+  rotate: true
+  xy: 2, 2
+  size: 31, 212
+  orig: 31, 212
+  offset: 0, 0
+  index: -1

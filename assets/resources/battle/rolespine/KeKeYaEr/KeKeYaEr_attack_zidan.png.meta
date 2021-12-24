@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "52eebf65-2d9f-4bc4-8e06-87012ac470b5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 311,
+  "height": 270,
+  "platformSettings": {},
+  "subMetas": {
+    "KeKeYaEr_attack_zidan": {
+      "ver": "1.0.6",
+      "uuid": "a69db110-1a22-49b5-a7b9-b72709ffc35a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "52eebf65-2d9f-4bc4-8e06-87012ac470b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 307,
+      "height": 266,
+      "rawWidth": 311,
+      "rawHeight": 270,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,167 @@
+
+XiZhuo_skill2_screen.png
+size: 497,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dian1_071
+  rotate: true
+  xy: 278, 197
+  size: 103, 113
+  orig: 105, 114
+  offset: 1, 1
+  index: -1
+tx/dian1_072
+  rotate: false
+  xy: 197, 250
+  size: 79, 226
+  orig: 79, 226
+  offset: 0, 0
+  index: -1
+tx/dian1_074
+  rotate: false
+  xy: 2, 245
+  size: 78, 231
+  orig: 78, 231
+  offset: 0, 0
+  index: -1
+tx/dian1_075
+  rotate: false
+  xy: 118, 16
+  size: 98, 229
+  orig: 98, 229
+  offset: 0, 0
+  index: -1
+tx/dian1_076
+  rotate: true
+  xy: 278, 302
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+tx/dian1_077
+  rotate: false
+  xy: 82, 247
+  size: 113, 229
+  orig: 113, 229
+  offset: 0, 0
+  index: -1
+tx/dian1_078
+  rotate: false
+  xy: 2, 14
+  size: 114, 229
+  orig: 114, 229
+  offset: 0, 0
+  index: -1
+tx/dian1_079
+  rotate: true
+  xy: 278, 372
+  size: 104, 212
+  orig: 104, 212
+  offset: 0, 0
+  index: -1
+tx/dian1_080
+  rotate: true
+  xy: 278, 372
+  size: 104, 212
+  orig: 104, 212
+  offset: 0, 0
+  index: -1
+tx/dian2_069
+  rotate: true
+  xy: 304, 90
+  size: 36, 45
+  orig: 41, 51
+  offset: 3, 3
+  index: -1
+tx/dian2_070
+  rotate: false
+  xy: 218, 178
+  size: 54, 70
+  orig: 59, 75
+  offset: 3, 2
+  index: -1
+tx/dian2_071
+  rotate: true
+  xy: 371, 107
+  size: 74, 88
+  orig: 79, 94
+  offset: 3, 4
+  index: -1
+tx/dian2_073
+  rotate: true
+  xy: 393, 271
+  size: 29, 40
+  orig: 36, 49
+  offset: 3, 5
+  index: -1
+tx/dian2_074
+  rotate: true
+  xy: 274, 128
+  size: 67, 95
+  orig: 72, 101
+  offset: 3, 3
+  index: -1
+tx/dian2_075
+  rotate: true
+  xy: 393, 183
+  size: 86, 95
+  orig: 91, 101
+  offset: 3, 3
+  index: -1
+tx/dian2_076
+  rotate: false
+  xy: 435, 286
+  size: 60, 84
+  orig: 66, 90
+  offset: 3, 3
+  index: -1
+tx/dian2_077
+  rotate: true
+  xy: 304, 4
+  size: 84, 79
+  orig: 88, 86
+  offset: 2, 4
+  index: -1
+tx/dian2_078
+  rotate: true
+  xy: 385, 23
+  size: 82, 69
+  orig: 88, 73
+  offset: 3, 0
+  index: -1
+tx/dian2_079
+  rotate: true
+  xy: 218, 98
+  size: 78, 49
+  orig: 85, 58
+  offset: 3, 5
+  index: -1
+tx/dian2_080
+  rotate: false
+  xy: 2, 2
+  size: 62, 10
+  orig: 78, 21
+  offset: 8, 6
+  index: -1
+tx/gy6
+  rotate: true
+  xy: 218, 3
+  size: 93, 84
+  orig: 101, 90
+  offset: 4, 3
+  index: -1
+tx/lizi1
+  rotate: false
+  xy: 461, 151
+  size: 30, 30
+  orig: 38, 36
+  offset: 4, 3
+  index: -1
+tx/mask
+  rotate: false
+  xy: 269, 105
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+ShouHuZhiLong_skill1_screen_di.png
+size: 1005,721
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mask
+  rotate: false
+  xy: 542, 703
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+s1_huo1_000
+  rotate: false
+  xy: 2, 482
+  size: 532, 119
+  orig: 532, 119
+  offset: 0, 0
+  index: -1
+s1_huo1_002
+  rotate: false
+  xy: 2, 361
+  size: 532, 119
+  orig: 532, 119
+  offset: 0, 0
+  index: -1
+s1_huo1_004
+  rotate: false
+  xy: 2, 240
+  size: 528, 119
+  orig: 528, 119
+  offset: 0, 0
+  index: -1
+s1_huo1_006
+  rotate: false
+  xy: 2, 603
+  size: 538, 116
+  orig: 538, 116
+  offset: 0, 0
+  index: -1
+s1_huo1_008
+  rotate: true
+  xy: 536, 121
+  size: 480, 112
+  orig: 480, 112
+  offset: 0, 0
+  index: -1
+s1_huo1_010
+  rotate: true
+  xy: 890, 242
+  size: 477, 113
+  orig: 477, 113
+  offset: 0, 0
+  index: -1
+s1_huo1_012
+  rotate: false
+  xy: 2, 2
+  size: 513, 115
+  orig: 513, 115
+  offset: 0, 0
+  index: -1
+s1_huo1_014
+  rotate: true
+  xy: 650, 218
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+s1_huo1_016
+  rotate: true
+  xy: 769, 226
+  size: 493, 119
+  orig: 493, 119
+  offset: 0, 0
+  index: -1
+s1_huo1_018
+  rotate: false
+  xy: 2, 119
+  size: 518, 119
+  orig: 518, 119
+  offset: 0, 0
+  index: -1
+s1_lizi1_000
+  rotate: false
+  xy: 650, 200
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

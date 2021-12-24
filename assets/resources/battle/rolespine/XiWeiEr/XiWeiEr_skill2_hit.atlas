@@ -1,0 +1,160 @@
+
+XiWeiEr_skill2_hit.png
+size: 512,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: false
+  xy: 334, 13
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/jian2
+  rotate: true
+  xy: 215, 484
+  size: 22, 207
+  orig: 22, 207
+  offset: 0, 0
+  index: -1
+tx/sj2_054
+  rotate: true
+  xy: 215, 332
+  size: 150, 182
+  orig: 150, 182
+  offset: 0, 0
+  index: -1
+tx/sj2_055
+  rotate: true
+  xy: 2, 19
+  size: 228, 254
+  orig: 228, 254
+  offset: 0, 0
+  index: -1
+tx/sj2_056
+  rotate: false
+  xy: 2, 249
+  size: 211, 257
+  orig: 211, 257
+  offset: 0, 0
+  index: -1
+tx/xuehua
+  rotate: true
+  xy: 215, 255
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+tx/yeti_054
+  rotate: true
+  xy: 488, 293
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+tx/yeti_055
+  rotate: true
+  xy: 473, 333
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+tx/yeti_056
+  rotate: true
+  xy: 401, 2
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+tx/yeti_057
+  rotate: false
+  xy: 414, 151
+  size: 73, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+tx/yeti_058
+  rotate: false
+  xy: 399, 336
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+tx/yeti_059
+  rotate: false
+  xy: 258, 65
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+tx/yeti_060
+  rotate: true
+  xy: 299, 259
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+tx/yeti_061
+  rotate: true
+  xy: 308, 187
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+tx/yeti_062
+  rotate: true
+  xy: 385, 264
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+tx/yeti_063
+  rotate: true
+  xy: 403, 198
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+tx/yeti_064
+  rotate: false
+  xy: 448, 38
+  size: 62, 111
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+tx/yeti_065
+  rotate: true
+  xy: 334, 79
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+tx/yeti_066
+  rotate: false
+  xy: 424, 393
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+tx/yeti_067
+  rotate: false
+  xy: 258, 138
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1
+tx/yeti_068
+  rotate: true
+  xy: 308, 138
+  size: 47, 104
+  orig: 47, 104
+  offset: 0, 0
+  index: -1
+tx/yeti_069
+  rotate: false
+  xy: 475, 426
+  size: 25, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1

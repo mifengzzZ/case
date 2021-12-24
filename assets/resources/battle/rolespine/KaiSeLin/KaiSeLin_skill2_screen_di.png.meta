@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "17096141-6dc7-4c29-b9f6-f93d7e5ceaa2",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 848,
+  "height": 740,
+  "platformSettings": {},
+  "subMetas": {
+    "KaiSeLin_skill2_screen_di": {
+      "ver": "1.0.6",
+      "uuid": "e312fb3f-6361-46a0-b686-16d6b4b28087",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "17096141-6dc7-4c29-b9f6-f93d7e5ceaa2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 844,
+      "height": 736,
+      "rawWidth": 848,
+      "rawHeight": 740,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

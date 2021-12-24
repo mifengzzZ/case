@@ -1,0 +1,139 @@
+
+TaLuMoKeSi_skill2.png
+size: 497,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chentu_00013
+  rotate: true
+  xy: 475, 235
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+tx/chentu_00014
+  rotate: true
+  xy: 120, 166
+  size: 126, 52
+  orig: 126, 52
+  offset: 0, 0
+  index: -1
+tx/chentu_00015
+  rotate: true
+  xy: 340, 128
+  size: 147, 66
+  orig: 147, 66
+  offset: 0, 0
+  index: -1
+tx/chentu_00016
+  rotate: false
+  xy: 174, 126
+  size: 164, 71
+  orig: 164, 71
+  offset: 0, 0
+  index: -1
+tx/chentu_00017
+  rotate: false
+  xy: 2, 2
+  size: 164, 97
+  orig: 164, 97
+  offset: 0, 0
+  index: -1
+tx/chentu_00018
+  rotate: false
+  xy: 184, 277
+  size: 166, 97
+  orig: 166, 97
+  offset: 0, 0
+  index: -1
+tx/chentu_00019
+  rotate: false
+  xy: 174, 199
+  size: 164, 76
+  orig: 164, 76
+  offset: 0, 0
+  index: -1
+tx/chentu_00020
+  rotate: false
+  xy: 168, 50
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+tx/chentu_00021
+  rotate: false
+  xy: 184, 376
+  size: 172, 97
+  orig: 172, 97
+  offset: 0, 0
+  index: -1
+tx/chentu_00022
+  rotate: true
+  xy: 408, 138
+  size: 141, 65
+  orig: 141, 65
+  offset: 0, 0
+  index: -1
+tx/chentu_00023
+  rotate: true
+  xy: 330, 11
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+tx/chentu_00024
+  rotate: false
+  xy: 358, 377
+  size: 137, 96
+  orig: 137, 96
+  offset: 0, 0
+  index: -1
+tx/chentu_00025
+  rotate: false
+  xy: 358, 281
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+tx/chentu_00026
+  rotate: true
+  xy: 392, 12
+  size: 114, 94
+  orig: 114, 94
+  offset: 0, 0
+  index: -1
+tx/chentu_00027
+  rotate: true
+  xy: 168, 15
+  size: 33, 85
+  orig: 33, 85
+  offset: 0, 0
+  index: -1
+tx/chentu_00028
+  rotate: true
+  xy: 120, 101
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 120, 119
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 2, 294
+  size: 180, 179
+  orig: 180, 179
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 2, 101
+  size: 191, 116
+  orig: 191, 116
+  offset: 0, 0
+  index: -1

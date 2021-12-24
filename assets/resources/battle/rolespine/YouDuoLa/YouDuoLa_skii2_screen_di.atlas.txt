@@ -1,0 +1,118 @@
+
+YouDuoLa_skii2_screen_di.png
+size: 975,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaiCengTa_BianFu_a
+  rotate: false
+  xy: 904, 345
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+BaiCengTa_BianFu_b
+  rotate: true
+  xy: 904, 291
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+BaiCengTa_BianFu_c
+  rotate: false
+  xy: 904, 426
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+BaiCengTa_BianFu_d
+  rotate: true
+  xy: 904, 380
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+tx/bg
+  rotate: false
+  xy: 2, 170
+  size: 900, 720
+  orig: 900, 720
+  offset: 0, 0
+  index: -1
+tx/zaobo1_002
+  rotate: true
+  xy: 904, 588
+  size: 147, 56
+  orig: 152, 63
+  offset: 2, 4
+  index: -1
+tx/zaobo1_003
+  rotate: false
+  xy: 503, 6
+  size: 266, 78
+  orig: 272, 83
+  offset: 4, 2
+  index: -1
+tx/zaobo1_004
+  rotate: false
+  xy: 246, 3
+  size: 255, 81
+  orig: 261, 85
+  offset: 4, 2
+  index: -1
+tx/zaobo1_005
+  rotate: false
+  xy: 2, 86
+  size: 268, 82
+  orig: 276, 86
+  offset: 6, 2
+  index: -1
+tx/zaobo1_006
+  rotate: false
+  xy: 272, 86
+  size: 267, 82
+  orig: 273, 86
+  offset: 3, 2
+  index: -1
+tx/zaobo1_007
+  rotate: false
+  xy: 541, 86
+  size: 264, 82
+  orig: 272, 86
+  offset: 4, 2
+  index: -1
+tx/zaobo1_008
+  rotate: false
+  xy: 2, 2
+  size: 242, 82
+  orig: 249, 85
+  offset: 3, 2
+  index: -1
+tx/zaobo1_009
+  rotate: false
+  xy: 771, 6
+  size: 202, 78
+  orig: 209, 82
+  offset: 3, 2
+  index: -1
+tx/zaobo1_010
+  rotate: true
+  xy: 904, 737
+  size: 153, 65
+  orig: 167, 76
+  offset: 4, 3
+  index: -1
+tx/zaobo1_011
+  rotate: true
+  xy: 904, 461
+  size: 125, 36
+  orig: 133, 42
+  offset: 4, 3
+  index: -1
+tx/zaobo1_012
+  rotate: true
+  xy: 904, 264
+  size: 25, 23
+  orig: 32, 29
+  offset: 3, 3
+  index: -1

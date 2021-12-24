@@ -1,0 +1,34 @@
+
+DanNiEr_skill2_screen.png
+size: 993,793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/mask
+  rotate: false
+  xy: 726, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tx/s2_gy2
+  rotate: true
+  xy: 2, 2
+  size: 789, 360
+  orig: 789, 360
+  offset: 0, 0
+  index: -1
+tx/s2_kuang1
+  rotate: true
+  xy: 364, 4
+  size: 787, 360
+  orig: 787, 360
+  offset: 0, 0
+  index: -1
+tx/xian7
+  rotate: true
+  xy: 726, 66
+  size: 725, 265
+  orig: 804, 292
+  offset: 40, 13
+  index: -1

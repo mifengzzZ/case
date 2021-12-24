@@ -1,0 +1,83 @@
+
+Ying_skill2_screen_di.png
+size: 1005,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 200
+  size: 1001, 482
+  orig: 1001, 482
+  offset: 0, 0
+  index: -1
+tx/feng1_125
+  rotate: true
+  xy: 687, 24
+  size: 174, 103
+  orig: 174, 103
+  offset: 0, 0
+  index: -1
+tx/feng1_126
+  rotate: true
+  xy: 582, 23
+  size: 175, 103
+  orig: 175, 103
+  offset: 0, 0
+  index: -1
+tx/feng1_127
+  rotate: false
+  xy: 2, 100
+  size: 202, 98
+  orig: 202, 98
+  offset: 0, 0
+  index: -1
+tx/feng1_128
+  rotate: false
+  xy: 206, 110
+  size: 207, 88
+  orig: 207, 88
+  offset: 0, 0
+  index: -1
+tx/feng1_129
+  rotate: false
+  xy: 2, 4
+  size: 204, 94
+  orig: 204, 94
+  offset: 0, 0
+  index: -1
+tx/feng1_130
+  rotate: false
+  xy: 208, 7
+  size: 192, 101
+  orig: 192, 101
+  offset: 0, 0
+  index: -1
+tx/feng1_131
+  rotate: true
+  xy: 792, 38
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+tx/feng1_132
+  rotate: false
+  xy: 415, 115
+  size: 164, 83
+  orig: 164, 83
+  offset: 0, 0
+  index: -1
+tx/feng1_133
+  rotate: true
+  xy: 896, 27
+  size: 171, 93
+  orig: 171, 93
+  offset: 0, 0
+  index: -1
+tx/feng1_134
+  rotate: false
+  xy: 402, 2
+  size: 178, 106
+  orig: 178, 106
+  offset: 0, 0
+  index: -1

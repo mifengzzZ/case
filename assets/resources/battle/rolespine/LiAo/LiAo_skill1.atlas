@@ -1,0 +1,55 @@
+
+LiAo_skill1.png
+size: 486,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gs
+  rotate: false
+  xy: 2, 372
+  size: 394, 80
+  orig: 394, 80
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: true
+  xy: 398, 400
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+tx/gy4
+  rotate: true
+  xy: 279, 136
+  size: 208, 205
+  orig: 208, 205
+  offset: 0, 0
+  index: -1
+tx/gy5
+  rotate: true
+  xy: 398, 346
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+tx/lizi2
+  rotate: false
+  xy: 413, 88
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 279, 2
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+tx/quan2
+  rotate: false
+  xy: 2, 96
+  size: 275, 274
+  orig: 275, 274
+  offset: 0, 0
+  index: -1

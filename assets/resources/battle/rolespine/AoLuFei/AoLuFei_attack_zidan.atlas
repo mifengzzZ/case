@@ -1,0 +1,34 @@
+
+AoLuFei_attack_zidan.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/o
+  rotate: true
+  xy: 2, 2
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+images/tx/p
+  rotate: false
+  xy: 149, 34
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+images/tx/q
+  rotate: true
+  xy: 103, 24
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+images/tx/zida
+  rotate: false
+  xy: 2, 36
+  size: 99, 26
+  orig: 99, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+zuzhou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao_000
+  rotate: false
+  xy: 469, 481
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_001
+  rotate: false
+  xy: 307, 18
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_002
+  rotate: false
+  xy: 469, 450
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_003
+  rotate: false
+  xy: 337, 18
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_004
+  rotate: false
+  xy: 469, 419
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_005
+  rotate: false
+  xy: 367, 18
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_006
+  rotate: false
+  xy: 397, 18
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_007
+  rotate: false
+  xy: 469, 388
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+qipao_008
+  rotate: false
+  xy: 468, 357
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+xian_000
+  rotate: true
+  xy: 76, 236
+  size: 122, 55
+  orig: 122, 55
+  offset: 0, 0
+  index: -1
+xian_001
+  rotate: false
+  xy: 345, 451
+  size: 122, 59
+  orig: 122, 59
+  offset: 0, 0
+  index: -1
+xian_002
+  rotate: true
+  xy: 2, 11
+  size: 119, 62
+  orig: 119, 62
+  offset: 0, 0
+  index: -1
+xian_003
+  rotate: true
+  xy: 74, 121
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+xian_004
+  rotate: true
+  xy: 183, 24
+  size: 107, 67
+  orig: 107, 67
+  offset: 0, 0
+  index: -1
+xian_005
+  rotate: false
+  xy: 339, 209
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+xian_006
+  rotate: false
+  xy: 230, 372
+  size: 112, 67
+  orig: 112, 67
+  offset: 0, 0
+  index: -1
+xian_007
+  rotate: true
+  xy: 141, 133
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+xian_008
+  rotate: true
+  xy: 118, 3
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+xian_009
+  rotate: true
+  xy: 208, 133
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+xian_010
+  rotate: false
+  xy: 336, 279
+  size: 115, 60
+  orig: 115, 60
+  offset: 0, 0
+  index: -1
+xian_011
+  rotate: true
+  xy: 202, 250
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+xian_012
+  rotate: true
+  xy: 133, 250
+  size: 114, 67
+  orig: 114, 67
+  offset: 0, 0
+  index: -1
+xian_013
+  rotate: false
+  xy: 230, 441
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+xian_014
+  rotate: true
+  xy: 2, 246
+  size: 112, 72
+  orig: 112, 72
+  offset: 0, 0
+  index: -1
+xian_015
+  rotate: false
+  xy: 2, 360
+  size: 111, 74
+  orig: 111, 74
+  offset: 0, 0
+  index: -1
+xian_016
+  rotate: false
+  xy: 2, 436
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+xian_017
+  rotate: false
+  xy: 116, 437
+  size: 112, 73
+  orig: 112, 73
+  offset: 0, 0
+  index: -1
+xian_018
+  rotate: true
+  xy: 2, 132
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+xian_019
+  rotate: false
+  xy: 116, 366
+  size: 111, 69
+  orig: 111, 69
+  offset: 0, 0
+  index: -1
+xian_020
+  rotate: true
+  xy: 267, 259
+  size: 111, 67
+  orig: 111, 67
+  offset: 0, 0
+  index: -1
+xian_021
+  rotate: true
+  xy: 272, 151
+  size: 106, 65
+  orig: 106, 65
+  offset: 0, 0
+  index: -1
+xian_022
+  rotate: true
+  xy: 445, 129
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+xian_023
+  rotate: false
+  xy: 339, 147
+  size: 104, 60
+  orig: 104, 60
+  offset: 0, 0
+  index: -1
+xian_024
+  rotate: true
+  xy: 453, 229
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+xian_025
+  rotate: true
+  xy: 252, 17
+  size: 114, 53
+  orig: 114, 53
+  offset: 0, 0
+  index: -1
+xian_026
+  rotate: true
+  xy: 66, 2
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+xian_027
+  rotate: false
+  xy: 307, 49
+  size: 119, 46
+  orig: 119, 46
+  offset: 0, 0
+  index: -1
+xian_028
+  rotate: false
+  xy: 307, 97
+  size: 120, 48
+  orig: 120, 48
+  offset: 0, 0
+  index: -1
+xian_029
+  rotate: false
+  xy: 345, 398
+  size: 122, 51
+  orig: 122, 51
+  offset: 0, 0
+  index: -1
+xian_030
+  rotate: false
+  xy: 344, 341
+  size: 122, 55
+  orig: 122, 55
+  offset: 0, 0
+  index: -1

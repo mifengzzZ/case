@@ -1,0 +1,55 @@
+
+XingXingZhe_skill1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/2c01
+  rotate: false
+  xy: 2, 75
+  size: 373, 58
+  orig: 373, 58
+  offset: 0, 0
+  index: -1
+images/tx/2c02
+  rotate: false
+  xy: 2, 373
+  size: 507, 107
+  orig: 507, 107
+  offset: 0, 0
+  index: -1
+images/tx/2c03
+  rotate: false
+  xy: 2, 135
+  size: 405, 91
+  orig: 405, 91
+  offset: 0, 0
+  index: -1
+images/tx/2c04
+  rotate: false
+  xy: 2, 2
+  size: 299, 71
+  orig: 299, 71
+  offset: 0, 0
+  index: -1
+images/tx/2f
+  rotate: false
+  xy: 2, 228
+  size: 420, 143
+  orig: 420, 143
+  offset: 0, 0
+  index: -1
+images/tx/2j
+  rotate: false
+  xy: 424, 308
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+images/tx/lizi
+  rotate: false
+  xy: 377, 106
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+AWaLong_skill1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_032
+  rotate: false
+  xy: 88, 140
+  size: 145, 108
+  orig: 145, 108
+  offset: 0, 0
+  index: -1
+tx/dg1_033
+  rotate: false
+  xy: 88, 37
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+tx/dg1_034
+  rotate: true
+  xy: 235, 129
+  size: 119, 95
+  orig: 119, 95
+  offset: 0, 0
+  index: -1
+tx/dg1_035
+  rotate: false
+  xy: 332, 166
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+tx/dg1_036
+  rotate: false
+  xy: 224, 43
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+tx/dg1_037
+  rotate: false
+  xy: 390, 25
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+tx/dg1_038
+  rotate: true
+  xy: 317, 57
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+tx/dg1_039
+  rotate: true
+  xy: 320, 8
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+tx/dg1_040
+  rotate: false
+  xy: 473, 255
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 2, 284
+  size: 94, 226
+  orig: 94, 226
+  offset: 0, 0
+  index: -1
+tx/shandian1_020
+  rotate: false
+  xy: 98, 250
+  size: 219, 60
+  orig: 219, 60
+  offset: 0, 0
+  index: -1
+tx/shandian1_021
+  rotate: false
+  xy: 98, 392
+  size: 224, 59
+  orig: 224, 59
+  offset: 0, 0
+  index: -1
+tx/shandian1_022
+  rotate: false
+  xy: 98, 453
+  size: 230, 57
+  orig: 230, 57
+  offset: 0, 0
+  index: -1
+tx/shandian1_023
+  rotate: false
+  xy: 304, 315
+  size: 195, 52
+  orig: 195, 52
+  offset: 0, 0
+  index: -1
+tx/tuowei1_019
+  rotate: true
+  xy: 2, 49
+  size: 233, 84
+  orig: 233, 84
+  offset: 0, 0
+  index: -1
+tx/tuowei1_020
+  rotate: false
+  xy: 98, 312
+  size: 204, 78
+  orig: 204, 78
+  offset: 0, 0
+  index: -1
+tx/tuowei1_021
+  rotate: false
+  xy: 330, 437
+  size: 173, 73
+  orig: 173, 73
+  offset: 0, 0
+  index: -1
+tx/tuowei1_022
+  rotate: false
+  xy: 324, 369
+  size: 156, 66
+  orig: 156, 66
+  offset: 0, 0
+  index: -1
+tx/tuowei1_023
+  rotate: false
+  xy: 319, 259
+  size: 143, 54
+  orig: 143, 54
+  offset: 0, 0
+  index: -1
+tx/tuowei1_024
+  rotate: false
+  xy: 332, 111
+  size: 135, 53
+  orig: 135, 53
+  offset: 0, 0
+  index: -1
+tx/tuowei1_025
+  rotate: false
+  xy: 224, 2
+  size: 94, 39
+  orig: 94, 39
+  offset: 0, 0
+  index: -1
+tx/tuowei1_026
+  rotate: true
+  xy: 436, 169
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+tx/tuowei1_027
+  rotate: false
+  xy: 2, 18
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1

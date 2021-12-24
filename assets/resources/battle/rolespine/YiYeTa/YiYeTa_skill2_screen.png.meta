@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a4fdd6d7-7875-4ec5-846a-3ed41fba087e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1009,
+  "height": 929,
+  "platformSettings": {},
+  "subMetas": {
+    "YiYeTa_skill2_screen": {
+      "ver": "1.0.6",
+      "uuid": "24c94232-f809-4a85-a6e0-a9b8aca57133",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a4fdd6d7-7875-4ec5-846a-3ed41fba087e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1005,
+      "height": 925,
+      "rawWidth": 1009,
+      "rawHeight": 929,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

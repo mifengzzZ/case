@@ -1,0 +1,41 @@
+
+AXiuLuo_attack.png
+size: 504,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_014
+  rotate: true
+  xy: 131, 161
+  size: 310, 114
+  orig: 310, 114
+  offset: 0, 0
+  index: -1
+tx/dg1_015
+  rotate: true
+  xy: 2, 137
+  size: 334, 127
+  orig: 334, 127
+  offset: 0, 0
+  index: -1
+tx/dg1_016
+  rotate: false
+  xy: 247, 345
+  size: 255, 126
+  orig: 255, 126
+  offset: 0, 0
+  index: -1
+tx/dg1_017
+  rotate: true
+  xy: 320, 48
+  size: 295, 133
+  orig: 295, 133
+  offset: 0, 0
+  index: -1
+tx/dg1_018
+  rotate: false
+  xy: 2, 2
+  size: 316, 133
+  orig: 316, 133
+  offset: 0, 0
+  index: -1

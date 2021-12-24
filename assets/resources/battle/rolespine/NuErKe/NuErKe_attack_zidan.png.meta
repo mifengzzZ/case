@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4a08fc8f-a407-4eab-ba06-808b68872bdd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 22,
+  "height": 211,
+  "platformSettings": {},
+  "subMetas": {
+    "NuErKe_attack_zidan": {
+      "ver": "1.0.6",
+      "uuid": "76779f07-c985-4d8e-a993-f7effe89f5c1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4a08fc8f-a407-4eab-ba06-808b68872bdd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 18,
+      "height": 207,
+      "rawWidth": 22,
+      "rawHeight": 211,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,139 @@
+
+AoLuFei_skill2_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/lizi1
+  rotate: false
+  xy: 493, 495
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: true
+  xy: 464, 349
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+images/tx/lizi3
+  rotate: false
+  xy: 464, 320
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+images/tx/lizi4
+  rotate: false
+  xy: 464, 292
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+images/tx/m
+  rotate: false
+  xy: 380, 204
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+images/tx/n
+  rotate: false
+  xy: 376, 134
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+images/tx/w01
+  rotate: false
+  xy: 2, 384
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w03
+  rotate: false
+  xy: 2, 258
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w05
+  rotate: false
+  xy: 128, 384
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w07
+  rotate: false
+  xy: 2, 132
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w08
+  rotate: false
+  xy: 128, 258
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w09
+  rotate: false
+  xy: 254, 384
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w10
+  rotate: false
+  xy: 2, 6
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w11
+  rotate: false
+  xy: 128, 132
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/w12
+  rotate: false
+  xy: 254, 258
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+images/tx/y
+  rotate: false
+  xy: 254, 146
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+images/tx/z01
+  rotate: false
+  xy: 380, 284
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+images/tx/z02
+  rotate: false
+  xy: 128, 2
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+images/tx/z03
+  rotate: false
+  xy: 380, 379
+  size: 111, 129
+  orig: 111, 129
+  offset: 0, 0
+  index: -1

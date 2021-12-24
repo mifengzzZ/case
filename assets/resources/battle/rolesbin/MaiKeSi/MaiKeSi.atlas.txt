@@ -1,0 +1,272 @@
+
+MaiKeSi.png
+size: 465,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MaiKeSi_biyan
+  rotate: true
+  xy: 457, 37
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+MaiKeSi_body
+  rotate: true
+  xy: 188, 28
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+MaiKeSi_lian
+  rotate: true
+  xy: 188, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+MaiKeSi_pifeng01
+  rotate: true
+  xy: 105, 101
+  size: 51, 173
+  orig: 51, 173
+  offset: 0, 0
+  index: -1
+MaiKeSi_pifeng02
+  rotate: true
+  xy: 221, 4
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+MaiKeSi_pifeng03
+  rotate: false
+  xy: 280, 73
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+MaiKeSi_pifeng04
+  rotate: false
+  xy: 2, 7
+  size: 101, 145
+  orig: 105, 145
+  offset: 2, 0
+  index: -1
+MaiKeSi_toufa01
+  rotate: true
+  xy: 371, 44
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+MaiKeSi_toufa02
+  rotate: false
+  xy: 265, 28
+  size: 11, 13
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+MaiKeSi_toufa03
+  rotate: true
+  xy: 371, 63
+  size: 30, 35
+  orig: 30, 37
+  offset: 0, 2
+  index: -1
+MaiKeSi_toufa04
+  rotate: true
+  xy: 333, 15
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+MaiKeSi_toufa05
+  rotate: false
+  xy: 305, 5
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+MaiKeSi_toufa06
+  rotate: true
+  xy: 333, 29
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+MaiKeSi_wuqi
+  rotate: true
+  xy: 105, 75
+  size: 24, 144
+  orig: 24, 144
+  offset: 0, 0
+  index: -1
+MaiKeSi_xiong
+  rotate: true
+  xy: 346, 63
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+MaiKeSi_xiongdai01
+  rotate: false
+  xy: 280, 15
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+MaiKeSi_yiling01
+  rotate: false
+  xy: 381, 125
+  size: 79, 27
+  orig: 79, 28
+  offset: 0, 0
+  index: -1
+MaiKeSi_yiling02
+  rotate: false
+  xy: 105, 3
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+MaiKeSi_youdabi
+  rotate: false
+  xy: 445, 51
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+MaiKeSi_youdatui
+  rotate: true
+  xy: 374, 95
+  size: 28, 69
+  orig: 28, 69
+  offset: 0, 0
+  index: -1
+MaiKeSi_youjiao
+  rotate: true
+  xy: 280, 96
+  size: 27, 92
+  orig: 27, 92
+  offset: 0, 0
+  index: -1
+MaiKeSi_youshou
+  rotate: true
+  xy: 401, 3
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+MaiKeSi_youshouwan
+  rotate: true
+  xy: 411, 23
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+MaiKeSi_youxiaobi
+  rotate: false
+  xy: 408, 59
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+MaiKeSi_zuodabi
+  rotate: true
+  xy: 331, 44
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+MaiKeSi_zuodatui
+  rotate: true
+  xy: 265, 43
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+MaiKeSi_zuojiao
+  rotate: true
+  xy: 280, 125
+  size: 27, 99
+  orig: 27, 99
+  offset: 0, 0
+  index: -1
+MaiKeSi_zuoshou
+  rotate: true
+  xy: 280, 4
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+MaiKeSi_zuoxiaobi
+  rotate: false
+  xy: 445, 81
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 274, 82
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/wuya_00
+  rotate: false
+  xy: 388, 23
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+tx/wuya_02
+  rotate: false
+  xy: 251, 78
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tx/wuya_04
+  rotate: false
+  xy: 356, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+tx/wuya_06
+  rotate: false
+  xy: 434, 32
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+tx/wuya_08
+  rotate: false
+  xy: 364, 23
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+tx/wuya_10
+  rotate: false
+  xy: 411, 37
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+tx/wuya_12
+  rotate: false
+  xy: 378, 3
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+tx/wuya_14
+  rotate: false
+  xy: 422, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1

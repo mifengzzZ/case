@@ -1,0 +1,34 @@
+
+XiaTiYa_attack.png
+size: 487,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_013
+  rotate: false
+  xy: 2, 210
+  size: 275, 207
+  orig: 275, 207
+  offset: 0, 0
+  index: -1
+tx/dg1_014
+  rotate: false
+  xy: 2, 2
+  size: 275, 206
+  orig: 275, 206
+  offset: 0, 0
+  index: -1
+tx/dg1_015
+  rotate: true
+  xy: 279, 168
+  size: 249, 206
+  orig: 249, 206
+  offset: 0, 0
+  index: -1
+tx/dg1_016
+  rotate: true
+  xy: 279, 76
+  size: 90, 187
+  orig: 90, 187
+  offset: 0, 0
+  index: -1

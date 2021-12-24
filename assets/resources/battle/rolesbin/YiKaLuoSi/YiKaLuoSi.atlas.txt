@@ -1,0 +1,244 @@
+
+YiKaLuoSi.png
+size: 388,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: true
+  xy: 158, 2
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_body
+  rotate: true
+  xy: 182, 23
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng01
+  rotate: false
+  xy: 305, 30
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng02
+  rotate: false
+  xy: 164, 10
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng03
+  rotate: false
+  xy: 271, 109
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng04
+  rotate: false
+  xy: 359, 119
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng05
+  rotate: true
+  xy: 160, 106
+  size: 66, 109
+  orig: 72, 110
+  offset: 6, 0
+  index: -1
+YiKaLuoSi_pifeng07
+  rotate: true
+  xy: 273, 38
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng08
+  rotate: false
+  xy: 361, 226
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng09
+  rotate: false
+  xy: 160, 175
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng10
+  rotate: false
+  xy: 66, 91
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_pifeng6
+  rotate: false
+  xy: 329, 111
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_tou
+  rotate: false
+  xy: 340, 39
+  size: 26, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_toufa01
+  rotate: true
+  xy: 66, 21
+  size: 68, 114
+  orig: 73, 116
+  offset: 0, 2
+  index: -1
+YiKaLuoSi_toufa012
+  rotate: false
+  xy: 299, 15
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_toufa03
+  rotate: false
+  xy: 95, 3
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_toufa04
+  rotate: false
+  xy: 182, 7
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_toushi01
+  rotate: true
+  xy: 329, 73
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_toushi02
+  rotate: true
+  xy: 305, 70
+  size: 56, 22
+  orig: 56, 22
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_toushi03
+  rotate: true
+  xy: 184, 174
+  size: 47, 116
+  orig: 47, 116
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_wuqi
+  rotate: false
+  xy: 2, 197
+  size: 180, 65
+  orig: 180, 65
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_youchibang
+  rotate: true
+  xy: 184, 223
+  size: 39, 175
+  orig: 50, 175
+  offset: 11, 0
+  index: -1
+YiKaLuoSi_youdabi
+  rotate: true
+  xy: 51, 2
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_youdatui
+  rotate: false
+  xy: 328, 146
+  size: 29, 75
+  orig: 29, 75
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_youjiao
+  rotate: true
+  xy: 182, 65
+  size: 39, 89
+  orig: 39, 89
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_youshou
+  rotate: true
+  xy: 160, 92
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_youshouzhang
+  rotate: false
+  xy: 246, 8
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_youxiaobi
+  rotate: true
+  xy: 264, 16
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_zuochibang
+  rotate: false
+  xy: 2, 22
+  size: 62, 173
+  orig: 62, 173
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_zuodabi
+  rotate: true
+  xy: 2, 2
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_zuodatui
+  rotate: false
+  xy: 359, 142
+  size: 24, 79
+  orig: 24, 79
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_zuojiao
+  rotate: false
+  xy: 302, 128
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_zuoshou
+  rotate: false
+  xy: 348, 14
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+YiKaLuoSi_zuoxiaobi
+  rotate: false
+  xy: 368, 40
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1

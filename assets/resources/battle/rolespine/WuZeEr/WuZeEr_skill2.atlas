@@ -1,0 +1,62 @@
+
+WuZeEr_skill2.png
+size: 511,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: true
+  xy: 197, 6
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+tx/xian1_043
+  rotate: true
+  xy: 148, 427
+  size: 81, 310
+  orig: 81, 310
+  offset: 0, 0
+  index: -1
+tx/xian1_044
+  rotate: false
+  xy: 2, 22
+  size: 84, 486
+  orig: 84, 486
+  offset: 0, 0
+  index: -1
+tx/xian1_045
+  rotate: false
+  xy: 88, 30
+  size: 58, 478
+  orig: 58, 478
+  offset: 0, 0
+  index: -1
+tx/xian1_046
+  rotate: false
+  xy: 460, 81
+  size: 49, 427
+  orig: 49, 427
+  offset: 0, 0
+  index: -1
+tx/xian1_047
+  rotate: false
+  xy: 148, 2
+  size: 47, 423
+  orig: 47, 423
+  offset: 0, 0
+  index: -1
+tx/xian1_048
+  rotate: true
+  xy: 197, 380
+  size: 45, 255
+  orig: 45, 255
+  offset: 0, 0
+  index: -1
+tx/zaobo
+  rotate: false
+  xy: 197, 127
+  size: 252, 251
+  orig: 252, 251
+  offset: 0, 0
+  index: -1

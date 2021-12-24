@@ -1,0 +1,125 @@
+
+LiAo_skill2_screen.png
+size: 508,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/quanping2_069
+  rotate: false
+  xy: 2, 60
+  size: 239, 77
+  orig: 239, 77
+  offset: 0, 0
+  index: -1
+tx/quanping2_070
+  rotate: false
+  xy: 2, 415
+  size: 288, 89
+  orig: 288, 89
+  offset: 0, 0
+  index: -1
+tx/quanping2_071
+  rotate: false
+  xy: 2, 229
+  size: 279, 89
+  orig: 279, 89
+  offset: 0, 0
+  index: -1
+tx/quanping2_072
+  rotate: false
+  xy: 2, 320
+  size: 279, 93
+  orig: 279, 93
+  offset: 0, 0
+  index: -1
+tx/quanping2_073
+  rotate: false
+  xy: 2, 139
+  size: 273, 88
+  orig: 273, 88
+  offset: 0, 0
+  index: -1
+tx/quanping2_074
+  rotate: false
+  xy: 292, 420
+  size: 212, 84
+  orig: 212, 84
+  offset: 0, 0
+  index: -1
+tx/quanping2_075
+  rotate: false
+  xy: 292, 342
+  size: 197, 76
+  orig: 197, 76
+  offset: 0, 0
+  index: -1
+tx/quanping2_076
+  rotate: false
+  xy: 283, 271
+  size: 162, 69
+  orig: 162, 69
+  offset: 0, 0
+  index: -1
+tx/quanping2_077
+  rotate: false
+  xy: 2, 2
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+tx/quanping2_078
+  rotate: false
+  xy: 129, 5
+  size: 124, 53
+  orig: 124, 53
+  offset: 0, 0
+  index: -1
+tx/quanping2_079
+  rotate: true
+  xy: 463, 34
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+tx/quanping_015
+  rotate: false
+  xy: 388, 189
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+tx/quanping_016
+  rotate: false
+  xy: 283, 189
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+tx/quanping_017
+  rotate: false
+  xy: 359, 31
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+tx/quanping_018
+  rotate: false
+  xy: 277, 107
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+tx/quanping_019
+  rotate: false
+  xy: 382, 107
+  size: 103, 80
+  orig: 103, 80
+  offset: 0, 0
+  index: -1
+tx/quanping_020
+  rotate: false
+  xy: 255, 25
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1

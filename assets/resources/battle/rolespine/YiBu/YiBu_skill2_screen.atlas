@@ -1,0 +1,118 @@
+
+YiBu_skill2_screen.png
+size: 508,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chilun_001
+  rotate: false
+  xy: 412, 17
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+tx/chilun_003
+  rotate: false
+  xy: 412, 57
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 489, 493
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+tx/s2_gz
+  rotate: false
+  xy: 103, 2
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+tx/s4_dg1_060
+  rotate: false
+  xy: 2, 315
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+tx/s4_dg1_061
+  rotate: false
+  xy: 2, 119
+  size: 242, 194
+  orig: 242, 194
+  offset: 0, 0
+  index: -1
+tx/s4_dg1_062
+  rotate: false
+  xy: 246, 316
+  size: 241, 194
+  orig: 241, 194
+  offset: 0, 0
+  index: -1
+tx/s4_dg1_063
+  rotate: false
+  xy: 246, 120
+  size: 239, 194
+  orig: 239, 194
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_060
+  rotate: false
+  xy: 2, 2
+  size: 99, 34
+  orig: 99, 34
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_061
+  rotate: false
+  xy: 2, 2
+  size: 99, 34
+  orig: 99, 34
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_062
+  rotate: false
+  xy: 181, 12
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_063
+  rotate: false
+  xy: 181, 12
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_064
+  rotate: false
+  xy: 301, 13
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_065
+  rotate: false
+  xy: 301, 13
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_066
+  rotate: false
+  xy: 2, 38
+  size: 177, 79
+  orig: 177, 79
+  offset: 0, 0
+  index: -1
+tx/s4_dg2_067
+  rotate: false
+  xy: 2, 38
+  size: 177, 79
+  orig: 177, 79
+  offset: 0, 0
+  index: -1

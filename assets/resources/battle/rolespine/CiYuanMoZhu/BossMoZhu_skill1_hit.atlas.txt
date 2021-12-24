@@ -1,0 +1,139 @@
+
+BossMoZhu_skill1_hit.png
+size: 496,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 428, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 2, 102
+  size: 174, 175
+  orig: 176, 177
+  offset: 1, 1
+  index: -1
+tx/st1
+  rotate: false
+  xy: 425, 48
+  size: 43, 36
+  orig: 45, 36
+  offset: 1, 0
+  index: -1
+tx/yeti1_000
+  rotate: true
+  xy: 387, 12
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+tx/yeti1_001
+  rotate: true
+  xy: 354, 2
+  size: 34, 31
+  orig: 35, 33
+  offset: 1, 2
+  index: -1
+tx/yeti1_002
+  rotate: false
+  xy: 428, 86
+  size: 48, 45
+  orig: 50, 45
+  offset: 2, 0
+  index: -1
+tx/yeti1_003
+  rotate: false
+  xy: 432, 215
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+tx/yeti1_004
+  rotate: false
+  xy: 352, 116
+  size: 74, 75
+  orig: 75, 76
+  offset: 1, 0
+  index: -1
+tx/yeti1_005
+  rotate: false
+  xy: 271, 16
+  size: 81, 85
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+tx/yeti1_006
+  rotate: false
+  xy: 184, 12
+  size: 85, 88
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+tx/yeti1_007
+  rotate: false
+  xy: 178, 187
+  size: 87, 90
+  orig: 89, 92
+  offset: 2, 2
+  index: -1
+tx/yeti1_008
+  rotate: false
+  xy: 2, 10
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+tx/yeti1_009
+  rotate: true
+  xy: 93, 10
+  size: 90, 89
+  orig: 90, 92
+  offset: 0, 2
+  index: -1
+tx/yeti1_010
+  rotate: false
+  xy: 267, 193
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+tx/yeti1_011
+  rotate: false
+  xy: 178, 102
+  size: 89, 83
+  orig: 89, 85
+  offset: 0, 2
+  index: -1
+tx/yeti1_012
+  rotate: true
+  xy: 269, 103
+  size: 88, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+tx/yeti1_013
+  rotate: false
+  xy: 360, 199
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+tx/yeti1_014
+  rotate: false
+  xy: 354, 38
+  size: 69, 76
+  orig: 70, 76
+  offset: 1, 0
+  index: -1
+tx/yeti1_015
+  rotate: false
+  xy: 271, 4
+  size: 15, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3f5bd9df-2497-4a31-bec0-b5ab31c6b458",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 484,
+  "height": 425,
+  "platformSettings": {},
+  "subMetas": {
+    "BOSS_BingLong_debuff_enter": {
+      "ver": "1.0.6",
+      "uuid": "65c2131e-8403-4bc5-8493-57ba0bf09f23",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3f5bd9df-2497-4a31-bec0-b5ab31c6b458",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 480,
+      "height": 421,
+      "rawWidth": 484,
+      "rawHeight": 425,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

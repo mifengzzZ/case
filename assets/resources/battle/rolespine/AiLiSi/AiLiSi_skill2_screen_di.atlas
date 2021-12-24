@@ -1,0 +1,20 @@
+
+AiLiSi_skill2_screen_di.png
+size: 794,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 2
+  size: 659, 318
+  orig: 659, 318
+  offset: 0, 0
+  index: -1
+tx/yinghuochong
+  rotate: false
+  xy: 663, 192
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1

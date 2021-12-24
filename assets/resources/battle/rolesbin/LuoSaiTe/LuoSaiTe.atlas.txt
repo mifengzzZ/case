@@ -1,0 +1,300 @@
+
+LuoSaiTe.png
+size: 395,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LuoSaiTe_Arm_L
+  rotate: false
+  xy: 254, 7
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Arm_R
+  rotate: false
+  xy: 357, 2
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Bag_B
+  rotate: false
+  xy: 228, 54
+  size: 40, 52
+  orig: 46, 52
+  offset: 6, 0
+  index: -1
+LuoSaiTe_Bag_Line
+  rotate: false
+  xy: 180, 36
+  size: 17, 70
+  orig: 17, 71
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Bag_R
+  rotate: true
+  xy: 287, 41
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Belt
+  rotate: true
+  xy: 313, 62
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Belt_RB
+  rotate: true
+  xy: 345, 5
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Belt_T
+  rotate: true
+  xy: 334, 10
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Body
+  rotate: false
+  xy: 35, 24
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Calf_L
+  rotate: false
+  xy: 119, 27
+  size: 26, 79
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Calf_LR
+  rotate: false
+  xy: 87, 27
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Calf_R
+  rotate: false
+  xy: 147, 33
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Eyelid_L
+  rotate: false
+  xy: 334, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Eyelid_R
+  rotate: true
+  xy: 35, 18
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Forearm_L
+  rotate: true
+  xy: 44, 2
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Forearm_R
+  rotate: false
+  xy: 171, 3
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Glass
+  rotate: false
+  xy: 313, 42
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Gun_L
+  rotate: false
+  xy: 330, 63
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Gun_R
+  rotate: true
+  xy: 2, 14
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hair_F
+  rotate: false
+  xy: 375, 2
+  size: 9, 15
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hair_L
+  rotate: true
+  xy: 353, 44
+  size: 17, 22
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hair_R
+  rotate: false
+  xy: 375, 19
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hand_L
+  rotate: false
+  xy: 271, 40
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hand_R
+  rotate: false
+  xy: 151, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hand_RB
+  rotate: false
+  xy: 377, 49
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hat
+  rotate: false
+  xy: 270, 62
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Hat_B
+  rotate: false
+  xy: 190, 2
+  size: 15, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Head
+  rotate: false
+  xy: 274, 8
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Thigh_L
+  rotate: false
+  xy: 199, 40
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+LuoSaiTe_Thigh_R
+  rotate: true
+  xy: 87, 2
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 147, 27
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/e01
+  rotate: false
+  xy: 2, 2
+  size: 40, 10
+  orig: 47, 18
+  offset: 1, 4
+  index: -1
+tx/e02
+  rotate: false
+  xy: 228, 40
+  size: 41, 12
+  orig: 47, 18
+  offset: 1, 4
+  index: -1
+tx/e03
+  rotate: true
+  xy: 373, 65
+  size: 41, 13
+  orig: 47, 18
+  offset: 2, 3
+  index: -1
+tx/e04
+  rotate: true
+  xy: 357, 64
+  size: 42, 14
+  orig: 47, 18
+  offset: 1, 2
+  index: -1
+tx/e05
+  rotate: true
+  xy: 318, 3
+  size: 37, 14
+  orig: 47, 18
+  offset: 2, 2
+  index: -1
+tx/e06
+  rotate: true
+  xy: 301, 2
+  size: 37, 15
+  orig: 47, 18
+  offset: 4, 1
+  index: -1
+tx/e07
+  rotate: true
+  xy: 207, 2
+  size: 36, 15
+  orig: 47, 18
+  offset: 7, 1
+  index: -1
+tx/e08
+  rotate: true
+  xy: 224, 3
+  size: 35, 13
+  orig: 47, 18
+  offset: 9, 2
+  index: -1
+tx/e09
+  rotate: true
+  xy: 239, 5
+  size: 33, 13
+  orig: 47, 18
+  offset: 11, 1
+  index: -1
+tx/e10
+  rotate: true
+  xy: 345, 15
+  size: 25, 10
+  orig: 47, 18
+  offset: 19, 2
+  index: -1
+tx/e11
+  rotate: true
+  xy: 384, 26
+  size: 21, 9
+  orig: 47, 18
+  offset: 21, 2
+  index: -1

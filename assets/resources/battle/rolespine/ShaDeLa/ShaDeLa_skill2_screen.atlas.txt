@@ -1,0 +1,230 @@
+
+ShaDeLa_skill2_screen.png
+size: 977,953
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dian2
+  rotate: false
+  xy: 943, 485
+  size: 32, 139
+  orig: 34, 141
+  offset: 1, 1
+  index: -1
+tx/lizi2_000
+  rotate: false
+  xy: 821, 336
+  size: 23, 24
+  orig: 25, 26
+  offset: 1, 1
+  index: -1
+tx/lizi2_001
+  rotate: false
+  xy: 612, 212
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+tx/lizi2_002
+  rotate: false
+  xy: 494, 14
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+tx/mask
+  rotate: false
+  xy: 959, 940
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+tx/quanping2_111
+  rotate: false
+  xy: 364, 73
+  size: 246, 158
+  orig: 248, 160
+  offset: 1, 1
+  index: -1
+tx/quanping2_113
+  rotate: false
+  xy: 715, 626
+  size: 246, 158
+  orig: 248, 160
+  offset: 1, 1
+  index: -1
+tx/quanping2_114
+  rotate: false
+  xy: 697, 467
+  size: 244, 157
+  orig: 247, 160
+  offset: 2, 1
+  index: -1
+tx/quanping2_115
+  rotate: false
+  xy: 693, 362
+  size: 188, 103
+  orig: 191, 107
+  offset: 1, 2
+  index: -1
+tx/quanping2_116
+  rotate: true
+  xy: 883, 299
+  size: 166, 92
+  orig: 170, 95
+  offset: 2, 1
+  index: -1
+tx/quanping2_117
+  rotate: true
+  xy: 821, 115
+  size: 182, 102
+  orig: 186, 105
+  offset: 2, 1
+  index: -1
+tx/quanping2_119
+  rotate: false
+  xy: 633, 236
+  size: 186, 124
+  orig: 188, 126
+  offset: 1, 1
+  index: -1
+tx/quanping2_120
+  rotate: false
+  xy: 633, 121
+  size: 186, 113
+  orig: 189, 115
+  offset: 1, 1
+  index: -1
+tx/quanping2_126
+  rotate: false
+  xy: 612, 23
+  size: 179, 96
+  orig: 183, 98
+  offset: 2, 1
+  index: -1
+tx/quanping_103
+  rotate: false
+  xy: 364, 233
+  size: 267, 179
+  orig: 267, 179
+  offset: 0, 0
+  index: -1
+tx/quanping_104
+  rotate: true
+  xy: 2, 401
+  size: 359, 179
+  orig: 359, 179
+  offset: 0, 0
+  index: -1
+tx/quanping_105
+  rotate: false
+  xy: 354, 772
+  size: 359, 179
+  orig: 359, 179
+  offset: 0, 0
+  index: -1
+tx/quanping_106
+  rotate: true
+  xy: 183, 401
+  size: 359, 170
+  orig: 359, 170
+  offset: 0, 0
+  index: -1
+tx/quanping_107
+  rotate: false
+  xy: 355, 591
+  size: 340, 179
+  orig: 340, 179
+  offset: 0, 0
+  index: -1
+tx/quanping_108
+  rotate: true
+  xy: 2, 40
+  size: 359, 179
+  orig: 359, 179
+  offset: 0, 0
+  index: -1
+tx/quanping_109
+  rotate: true
+  xy: 183, 40
+  size: 359, 179
+  orig: 359, 179
+  offset: 0, 0
+  index: -1
+tx/st_000
+  rotate: false
+  xy: 944, 227
+  size: 22, 70
+  orig: 25, 76
+  offset: 2, 2
+  index: -1
+tx/st_002
+  rotate: true
+  xy: 494, 37
+  size: 34, 70
+  orig: 34, 75
+  offset: 0, 3
+  index: -1
+tx/xian1_056
+  rotate: false
+  xy: 925, 134
+  size: 17, 163
+  orig: 17, 163
+  offset: 0, 0
+  index: -1
+tx/xian1_057
+  rotate: true
+  xy: 2, 8
+  size: 30, 165
+  orig: 30, 171
+  offset: 0, 3
+  index: -1
+tx/xian2_056
+  rotate: false
+  xy: 793, 44
+  size: 129, 69
+  orig: 142, 77
+  offset: 6, 4
+  index: -1
+tx/xian2_057
+  rotate: false
+  xy: 364, 2
+  size: 128, 69
+  orig: 141, 77
+  offset: 6, 4
+  index: -1
+tx/xian4
+  rotate: false
+  xy: 644, 415
+  size: 47, 174
+  orig: 51, 180
+  offset: 2, 3
+  index: -1
+tx/xian5
+  rotate: false
+  xy: 169, 18
+  size: 23, 20
+  orig: 23, 22
+  offset: 0, 1
+  index: -1
+tx/yun1
+  rotate: false
+  xy: 355, 414
+  size: 287, 175
+  orig: 287, 179
+  offset: 0, 1
+  index: -1
+tx/yun2
+  rotate: false
+  xy: 715, 786
+  size: 242, 165
+  orig: 242, 170
+  offset: 0, 3
+  index: -1
+tx/yun3
+  rotate: false
+  xy: 2, 762
+  size: 350, 189
+  orig: 350, 193
+  offset: 0, 3
+  index: -1

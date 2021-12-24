@@ -1,0 +1,181 @@
+
+DeGuLa_skill1_hit.png
+size: 498,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 2, 344
+  size: 153, 152
+  orig: 153, 152
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 424, 187
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+tx/sj1_000
+  rotate: false
+  xy: 157, 280
+  size: 133, 100
+  orig: 133, 100
+  offset: 0, 0
+  index: -1
+tx/sj1_001
+  rotate: false
+  xy: 2, 232
+  size: 151, 110
+  orig: 151, 110
+  offset: 0, 0
+  index: -1
+tx/sj1_002
+  rotate: false
+  xy: 157, 382
+  size: 143, 114
+  orig: 143, 114
+  offset: 0, 0
+  index: -1
+tx/sj1_003
+  rotate: false
+  xy: 2, 115
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+tx/sj1_004
+  rotate: false
+  xy: 302, 384
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+tx/sj1_005
+  rotate: true
+  xy: 155, 180
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+tx/sj1_006
+  rotate: false
+  xy: 2, 2
+  size: 92, 111
+  orig: 92, 111
+  offset: 0, 0
+  index: -1
+tx/yeti_000
+  rotate: true
+  xy: 431, 86
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+tx/yeti_001
+  rotate: false
+  xy: 363, 187
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+tx/yeti_002
+  rotate: true
+  xy: 426, 369
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+tx/yeti_003
+  rotate: true
+  xy: 194, 2
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
+tx/yeti_004
+  rotate: true
+  xy: 230, 87
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+tx/yeti_005
+  rotate: false
+  xy: 334, 5
+  size: 95, 84
+  orig: 95, 84
+  offset: 0, 0
+  index: -1
+tx/yeti_006
+  rotate: false
+  xy: 132, 92
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+tx/yeti_007
+  rotate: false
+  xy: 96, 2
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+tx/yeti_008
+  rotate: true
+  xy: 272, 182
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+tx/yeti_009
+  rotate: false
+  xy: 313, 91
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+tx/yeti_010
+  rotate: true
+  xy: 292, 284
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+tx/yeti_011
+  rotate: true
+  xy: 269, 11
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+tx/yeti_012
+  rotate: false
+  xy: 383, 304
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+tx/yeti_013
+  rotate: false
+  xy: 383, 245
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+tx/yeti_014
+  rotate: false
+  xy: 426, 443
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+tx/yeti_015
+  rotate: false
+  xy: 411, 137
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1

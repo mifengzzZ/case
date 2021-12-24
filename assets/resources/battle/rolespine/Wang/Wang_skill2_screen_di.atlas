@@ -1,0 +1,20 @@
+
+Wang_skill2_screen_di.png
+size: 588,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/mask
+  rotate: false
+  xy: 554, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tx/s2_bg
+  rotate: false
+  xy: 2, 2
+  size: 550, 254
+  orig: 550, 254
+  offset: 0, 0
+  index: -1

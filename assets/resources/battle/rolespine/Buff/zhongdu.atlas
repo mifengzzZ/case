@@ -1,0 +1,111 @@
+
+zhongdu.png
+size: 494,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a
+  rotate: false
+  xy: 324, 18
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+images/b01
+  rotate: false
+  xy: 2, 245
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b02
+  rotate: false
+  xy: 2, 84
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b03
+  rotate: false
+  xy: 84, 245
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b04
+  rotate: false
+  xy: 84, 84
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b05
+  rotate: true
+  xy: 2, 2
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b06
+  rotate: false
+  xy: 166, 245
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b07
+  rotate: false
+  xy: 166, 84
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b08
+  rotate: false
+  xy: 248, 245
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b09
+  rotate: false
+  xy: 248, 84
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b10
+  rotate: true
+  xy: 163, 2
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b11
+  rotate: false
+  xy: 330, 245
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b12
+  rotate: false
+  xy: 330, 84
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/b13
+  rotate: false
+  xy: 412, 245
+  size: 80, 159
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+images/c
+  rotate: false
+  xy: 412, 192
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

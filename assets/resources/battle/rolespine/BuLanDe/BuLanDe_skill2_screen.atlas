@@ -1,0 +1,167 @@
+
+BuLanDe_skill2_screen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gz1
+  rotate: false
+  xy: 264, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+tx/quanpinbao_132
+  rotate: false
+  xy: 205, 85
+  size: 153, 94
+  orig: 153, 94
+  offset: 0, 0
+  index: -1
+tx/quanpinbao_134
+  rotate: true
+  xy: 2, 58
+  size: 205, 102
+  orig: 205, 102
+  offset: 0, 0
+  index: -1
+tx/quanpinbao_136
+  rotate: true
+  xy: 407, 305
+  size: 205, 102
+  orig: 205, 102
+  offset: 0, 0
+  index: -1
+tx/quanpinbao_138
+  rotate: true
+  xy: 106, 58
+  size: 205, 97
+  orig: 205, 97
+  offset: 0, 0
+  index: -1
+tx/quanping_135
+  rotate: false
+  xy: 2, 389
+  size: 204, 121
+  orig: 204, 121
+  offset: 0, 0
+  index: -1
+tx/quanping_136
+  rotate: false
+  xy: 2, 389
+  size: 204, 121
+  orig: 204, 121
+  offset: 0, 0
+  index: -1
+tx/quanping_137
+  rotate: false
+  xy: 2, 265
+  size: 198, 122
+  orig: 198, 122
+  offset: 0, 0
+  index: -1
+tx/quanping_138
+  rotate: false
+  xy: 208, 391
+  size: 197, 119
+  orig: 197, 119
+  offset: 0, 0
+  index: -1
+tx/quanping_139
+  rotate: false
+  xy: 208, 275
+  size: 193, 114
+  orig: 193, 114
+  offset: 0, 0
+  index: -1
+tx/quanping_140
+  rotate: true
+  xy: 403, 120
+  size: 183, 107
+  orig: 183, 107
+  offset: 0, 0
+  index: -1
+tx/quanping_141
+  rotate: true
+  xy: 403, 120
+  size: 183, 107
+  orig: 183, 107
+  offset: 0, 0
+  index: -1
+tx/quanping_142
+  rotate: false
+  xy: 205, 181
+  size: 168, 92
+  orig: 168, 92
+  offset: 0, 0
+  index: -1
+tx/quanping_143
+  rotate: false
+  xy: 360, 35
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+tx/quanping_144
+  rotate: false
+  xy: 264, 17
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+tx/quanping_145
+  rotate: true
+  xy: 205, 2
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+tx/quanping_146
+  rotate: true
+  xy: 205, 2
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+tx/quanping_147
+  rotate: false
+  xy: 2, 8
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+tx/quanping_148
+  rotate: true
+  xy: 459, 47
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+tx/quanping_149
+  rotate: true
+  xy: 375, 236
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+tx/quanping_150
+  rotate: false
+  xy: 80, 37
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+tx/quanping_151
+  rotate: false
+  xy: 80, 37
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+tx/quanping_152
+  rotate: true
+  xy: 202, 379
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+Ling_skill1.png
+size: 511,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chentu_029
+  rotate: true
+  xy: 459, 257
+  size: 82, 19
+  orig: 82, 19
+  offset: 0, 0
+  index: -1
+tx/chentu_030
+  rotate: false
+  xy: 257, 24
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+tx/chentu_031
+  rotate: true
+  xy: 209, 31
+  size: 160, 46
+  orig: 160, 46
+  offset: 0, 0
+  index: -1
+tx/chentu_032
+  rotate: true
+  xy: 243, 252
+  size: 170, 42
+  orig: 170, 42
+  offset: 0, 0
+  index: -1
+tx/chentu_033
+  rotate: false
+  xy: 257, 51
+  size: 129, 47
+  orig: 129, 47
+  offset: 0, 0
+  index: -1
+tx/chentu_034
+  rotate: false
+  xy: 388, 32
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+tx/ci_030
+  rotate: false
+  xy: 2, 466
+  size: 278, 44
+  orig: 278, 44
+  offset: 0, 0
+  index: -1
+tx/ci_031
+  rotate: false
+  xy: 2, 424
+  size: 250, 40
+  orig: 250, 40
+  offset: 0, 0
+  index: -1
+tx/ci_032
+  rotate: true
+  xy: 169, 192
+  size: 230, 38
+  orig: 230, 38
+  offset: 0, 0
+  index: -1
+tx/ci_033
+  rotate: true
+  xy: 209, 193
+  size: 229, 32
+  orig: 229, 32
+  offset: 0, 0
+  index: -1
+tx/ci_034
+  rotate: false
+  xy: 282, 480
+  size: 224, 30
+  orig: 224, 30
+  offset: 0, 0
+  index: -1
+tx/ci_035
+  rotate: false
+  xy: 282, 454
+  size: 182, 24
+  orig: 182, 24
+  offset: 0, 0
+  index: -1
+tx/dg2_048
+  rotate: false
+  xy: 2, 298
+  size: 165, 124
+  orig: 165, 124
+  offset: 0, 0
+  index: -1
+tx/dg2_049
+  rotate: false
+  xy: 2, 173
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+tx/dg2_050
+  rotate: false
+  xy: 287, 329
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+tx/dg2_051
+  rotate: false
+  xy: 437, 341
+  size: 59, 111
+  orig: 59, 111
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 257, 100
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 462, 49
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+tx/mask3
+  rotate: false
+  xy: 508, 509
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tx/qilang_031
+  rotate: true
+  xy: 287, 233
+  size: 94, 170
+  orig: 94, 170
+  offset: 0, 0
+  index: -1
+tx/qilang_032
+  rotate: false
+  xy: 2, 2
+  size: 83, 169
+  orig: 83, 169
+  offset: 0, 0
+  index: -1
+tx/qilang_033
+  rotate: false
+  xy: 87, 3
+  size: 66, 168
+  orig: 66, 168
+  offset: 0, 0
+  index: -1
+tx/qilang_034
+  rotate: false
+  xy: 155, 4
+  size: 52, 167
+  orig: 52, 167
+  offset: 0, 0
+  index: -1
+tx/yuan2
+  rotate: true
+  xy: 389, 87
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1

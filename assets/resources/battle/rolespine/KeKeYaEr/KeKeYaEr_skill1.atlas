@@ -1,0 +1,83 @@
+
+KeKeYaEr_skill1.png
+size: 512,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_037
+  rotate: true
+  xy: 352, 35
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+tx/dg1_038
+  rotate: false
+  xy: 229, 126
+  size: 154, 80
+  orig: 154, 80
+  offset: 0, 0
+  index: -1
+tx/dg1_039
+  rotate: true
+  xy: 435, 194
+  size: 154, 75
+  orig: 154, 75
+  offset: 0, 0
+  index: -1
+tx/dg1_040
+  rotate: false
+  xy: 205, 44
+  size: 145, 80
+  orig: 145, 80
+  offset: 0, 0
+  index: -1
+tx/dg1_041
+  rotate: false
+  xy: 385, 115
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+tx/dg1_042
+  rotate: false
+  xy: 2, 2
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+tx/dg2_038
+  rotate: false
+  xy: 2, 338
+  size: 235, 166
+  orig: 235, 166
+  offset: 0, 0
+  index: -1
+tx/dg2_039
+  rotate: false
+  xy: 2, 176
+  size: 225, 160
+  orig: 225, 160
+  offset: 0, 0
+  index: -1
+tx/dg2_040
+  rotate: false
+  xy: 239, 350
+  size: 220, 154
+  orig: 220, 154
+  offset: 0, 0
+  index: -1
+tx/dg2_041
+  rotate: false
+  xy: 2, 28
+  size: 201, 146
+  orig: 201, 146
+  offset: 0, 0
+  index: -1
+tx/dg2_042
+  rotate: false
+  xy: 239, 208
+  size: 194, 140
+  orig: 194, 140
+  offset: 0, 0
+  index: -1

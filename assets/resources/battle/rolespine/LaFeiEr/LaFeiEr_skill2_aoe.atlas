@@ -1,0 +1,76 @@
+
+LaFeiEr_skill2_aoe.png
+size: 511,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/lizi1
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 376, 38
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+tx/quanping1_055
+  rotate: false
+  xy: 2, 156
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_056
+  rotate: false
+  xy: 189, 291
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_057
+  rotate: false
+  xy: 2, 21
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_058
+  rotate: false
+  xy: 189, 156
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_059
+  rotate: true
+  xy: 376, 239
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_060
+  rotate: false
+  xy: 189, 21
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_061
+  rotate: true
+  xy: 376, 52
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+tx/quanping1_062
+  rotate: false
+  xy: 2, 291
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1

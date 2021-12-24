@@ -1,0 +1,27 @@
+
+bingdong.png
+size: 211,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bing
+  rotate: true
+  xy: 2, 2
+  size: 160, 110
+  orig: 160, 110
+  offset: 0, 0
+  index: -1
+images/xuehua
+  rotate: false
+  xy: 114, 9
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+images/yanwu
+  rotate: false
+  xy: 114, 73
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1

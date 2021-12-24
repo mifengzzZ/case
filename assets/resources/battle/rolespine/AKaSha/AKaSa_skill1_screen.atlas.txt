@@ -1,0 +1,97 @@
+
+AKaSa_skill1_screen.png
+size: 468,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/feibiao1
+  rotate: true
+  xy: 194, 296
+  size: 175, 172
+  orig: 191, 182
+  offset: 9, 5
+  index: -1
+tx/suipian_1_014
+  rotate: false
+  xy: 368, 314
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+tx/suipian_1_015
+  rotate: true
+  xy: 154, 278
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+tx/suipian_1_016
+  rotate: false
+  xy: 306, 53
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+tx/suipian_1_017
+  rotate: false
+  xy: 306, 95
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+tx/yuandg_037
+  rotate: false
+  xy: 2, 317
+  size: 190, 154
+  orig: 190, 155
+  offset: 0, 0
+  index: -1
+tx/yuandg_038
+  rotate: true
+  xy: 2, 128
+  size: 187, 150
+  orig: 187, 151
+  offset: 0, 0
+  index: -1
+tx/yuandg_039
+  rotate: false
+  xy: 154, 134
+  size: 185, 142
+  orig: 185, 146
+  offset: 0, 0
+  index: -1
+tx/yuandg_040
+  rotate: true
+  xy: 341, 124
+  size: 170, 125
+  orig: 181, 137
+  offset: 0, 0
+  index: -1
+tx/yuandg_041
+  rotate: false
+  xy: 154, 7
+  size: 150, 125
+  orig: 154, 133
+  offset: 0, 0
+  index: -1
+tx/yuandg_042
+  rotate: false
+  xy: 2, 2
+  size: 135, 124
+  orig: 137, 129
+  offset: 0, 0
+  index: -1
+tx/yuandg_043
+  rotate: true
+  xy: 332, 4
+  size: 118, 120
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+tx/yuandg_044
+  rotate: false
+  xy: 368, 355
+  size: 94, 116
+  orig: 101, 123
+  offset: 0, 0
+  index: -1

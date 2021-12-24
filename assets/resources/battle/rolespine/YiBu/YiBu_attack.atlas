@@ -1,0 +1,76 @@
+
+YiBu_attack.png
+size: 495,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/d01
+  rotate: false
+  xy: 2, 327
+  size: 304, 135
+  orig: 304, 135
+  offset: 0, 0
+  index: -1
+images/tx/d02
+  rotate: false
+  xy: 2, 71
+  size: 246, 254
+  orig: 246, 254
+  offset: 0, 0
+  index: -1
+images/tx/d03
+  rotate: false
+  xy: 308, 179
+  size: 173, 283
+  orig: 173, 283
+  offset: 0, 0
+  index: -1
+images/tx/d04
+  rotate: false
+  xy: 366, 16
+  size: 48, 161
+  orig: 48, 161
+  offset: 0, 0
+  index: -1
+images/tx/e01
+  rotate: false
+  xy: 71, 11
+  size: 142, 58
+  orig: 142, 58
+  offset: 0, 0
+  index: -1
+images/tx/e02
+  rotate: false
+  xy: 250, 63
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+images/tx/e03
+  rotate: false
+  xy: 416, 46
+  size: 77, 131
+  orig: 77, 131
+  offset: 0, 0
+  index: -1
+images/tx/l1
+  rotate: false
+  xy: 2, 2
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+images/tx/l3
+  rotate: false
+  xy: 250, 272
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+images/tx/lizi
+  rotate: false
+  xy: 215, 52
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

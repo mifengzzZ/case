@@ -1,0 +1,188 @@
+
+xiao_skill1_screen.png
+size: 497,403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dilie
+  rotate: true
+  xy: 472, 58
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+tx/tuowei1_00097
+  rotate: true
+  xy: 2, 2
+  size: 122, 127
+  orig: 133, 141
+  offset: 6, 5
+  index: -1
+tx/tuowei1_00098
+  rotate: false
+  xy: 2, 126
+  size: 167, 138
+  orig: 180, 150
+  offset: 8, 5
+  index: -1
+tx/tuowei1_00099
+  rotate: false
+  xy: 2, 266
+  size: 175, 135
+  orig: 192, 144
+  offset: 12, 4
+  index: -1
+tx/tuowei1_00100
+  rotate: false
+  xy: 179, 274
+  size: 172, 127
+  orig: 189, 141
+  offset: 12, 4
+  index: -1
+tx/tuowei1_00101
+  rotate: false
+  xy: 179, 142
+  size: 158, 130
+  orig: 175, 142
+  offset: 12, 5
+  index: -1
+tx/tuowei1_00102
+  rotate: true
+  xy: 353, 240
+  size: 161, 138
+  orig: 179, 149
+  offset: 13, 4
+  index: -1
+tx/tuowei1_00103
+  rotate: true
+  xy: 339, 126
+  size: 112, 133
+  orig: 127, 145
+  offset: 10, 5
+  index: -1
+tx/tuowei1_00104
+  rotate: false
+  xy: 204, 8
+  size: 89, 132
+  orig: 105, 147
+  offset: 11, 5
+  index: -1
+tx/tuowei1_00105
+  rotate: true
+  xy: 295, 49
+  size: 75, 125
+  orig: 86, 138
+  offset: 6, 5
+  index: -1
+tx/tuowei1_00106
+  rotate: false
+  xy: 131, 3
+  size: 71, 121
+  orig: 90, 139
+  offset: 14, 6
+  index: -1
+tx/tuowei1_00107
+  rotate: true
+  xy: 295, 3
+  size: 44, 87
+  orig: 68, 114
+  offset: 14, 12
+  index: -1
+tx/tuowei1_00108
+  rotate: true
+  xy: 295, 3
+  size: 44, 87
+  orig: 68, 114
+  offset: 14, 12
+  index: -1
+tx/xian3_00101
+  rotate: false
+  xy: 295, 130
+  size: 19, 10
+  orig: 20, 10
+  offset: 1, 0
+  index: -1
+tx/xian3_00102
+  rotate: true
+  xy: 422, 33
+  size: 91, 11
+  orig: 91, 11
+  offset: 0, 0
+  index: -1
+tx/xian3_00103
+  rotate: true
+  xy: 474, 139
+  size: 99, 12
+  orig: 99, 12
+  offset: 0, 0
+  index: -1
+tx/xian3_00104
+  rotate: true
+  xy: 435, 28
+  size: 96, 9
+  orig: 96, 9
+  offset: 0, 0
+  index: -1
+tx/xian3_00105
+  rotate: true
+  xy: 171, 186
+  size: 78, 5
+  orig: 78, 5
+  offset: 0, 0
+  index: -1
+tx/xian3_00106
+  rotate: false
+  xy: 204, 3
+  size: 71, 3
+  orig: 71, 3
+  offset: 0, 0
+  index: -1
+tx/xian3_00107
+  rotate: true
+  xy: 493, 333
+  size: 68, 2
+  orig: 68, 2
+  offset: 0, 0
+  index: -1
+tx/xian3_00108
+  rotate: true
+  xy: 493, 297
+  size: 34, 2
+  orig: 34, 2
+  offset: 0, 0
+  index: -1
+tx/xian3_00109
+  rotate: true
+  xy: 339, 241
+  size: 31, 1
+  orig: 31, 1
+  offset: 0, 0
+  index: -1
+tx/xian4_00097
+  rotate: true
+  xy: 482, 75
+  size: 62, 8
+  orig: 63, 8
+  offset: 1, 0
+  index: -1
+tx/xian4_00098
+  rotate: true
+  xy: 446, 48
+  size: 76, 10
+  orig: 76, 10
+  offset: 0, 0
+  index: -1
+tx/xian4_00099
+  rotate: true
+  xy: 458, 52
+  size: 72, 12
+  orig: 73, 12
+  offset: 1, 0
+  index: -1
+tx/zhipian_00
+  rotate: false
+  xy: 384, 28
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

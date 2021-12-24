@@ -1,0 +1,62 @@
+
+HuangQuan_skill1.png
+size: 350,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg2_000
+  rotate: false
+  xy: 292, 122
+  size: 56, 209
+  orig: 56, 209
+  offset: 0, 0
+  index: -1
+tx/dg2_001
+  rotate: false
+  xy: 2, 4
+  size: 56, 327
+  orig: 56, 327
+  offset: 0, 0
+  index: -1
+tx/dg2_002
+  rotate: false
+  xy: 60, 9
+  size: 56, 322
+  orig: 56, 322
+  offset: 0, 0
+  index: -1
+tx/dg2_003
+  rotate: false
+  xy: 118, 12
+  size: 56, 319
+  orig: 56, 319
+  offset: 0, 0
+  index: -1
+tx/dg2_004
+  rotate: false
+  xy: 176, 46
+  size: 56, 285
+  orig: 56, 285
+  offset: 0, 0
+  index: -1
+tx/dg2_005
+  rotate: false
+  xy: 234, 56
+  size: 56, 275
+  orig: 56, 275
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 176, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 292, 73
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1

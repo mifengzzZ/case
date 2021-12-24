@@ -1,0 +1,181 @@
+
+KaiSeLin_attack.png
+size: 496,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/ci1_029
+  rotate: false
+  xy: 2, 433
+  size: 222, 62
+  orig: 222, 62
+  offset: 0, 0
+  index: -1
+tx/ci1_030
+  rotate: false
+  xy: 226, 435
+  size: 200, 60
+  orig: 200, 60
+  offset: 0, 0
+  index: -1
+tx/ci1_031
+  rotate: false
+  xy: 226, 375
+  size: 180, 58
+  orig: 180, 58
+  offset: 0, 0
+  index: -1
+tx/ci1_032
+  rotate: false
+  xy: 2, 377
+  size: 178, 54
+  orig: 178, 54
+  offset: 0, 0
+  index: -1
+tx/ci1_033
+  rotate: false
+  xy: 2, 274
+  size: 170, 49
+  orig: 170, 49
+  offset: 0, 0
+  index: -1
+tx/ci1_034
+  rotate: false
+  xy: 144, 140
+  size: 132, 39
+  orig: 132, 39
+  offset: 0, 0
+  index: -1
+tx/dg1_016
+  rotate: true
+  xy: 182, 255
+  size: 176, 39
+  orig: 176, 39
+  offset: 0, 0
+  index: -1
+tx/dg1_017
+  rotate: false
+  xy: 2, 325
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+tx/dg1_018
+  rotate: false
+  xy: 2, 224
+  size: 158, 48
+  orig: 158, 48
+  offset: 0, 0
+  index: -1
+tx/dg1_019
+  rotate: false
+  xy: 223, 325
+  size: 158, 48
+  orig: 158, 48
+  offset: 0, 0
+  index: -1
+tx/dg1_020
+  rotate: false
+  xy: 223, 275
+  size: 158, 48
+  orig: 158, 48
+  offset: 0, 0
+  index: -1
+tx/dg1_021
+  rotate: false
+  xy: 223, 225
+  size: 153, 48
+  orig: 153, 48
+  offset: 0, 0
+  index: -1
+tx/qilang1_029
+  rotate: true
+  xy: 278, 152
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+tx/qilang1_030
+  rotate: true
+  xy: 408, 269
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+tx/qilang1_031
+  rotate: false
+  xy: 378, 183
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+tx/qilang1_032
+  rotate: false
+  xy: 378, 183
+  size: 114, 84
+  orig: 114, 84
+  offset: 0, 0
+  index: -1
+tx/qilang1_033
+  rotate: true
+  xy: 2, 12
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+tx/qilang1_034
+  rotate: false
+  xy: 383, 101
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+tx/qilang1_035
+  rotate: false
+  xy: 162, 181
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 383, 10
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 88, 13
+  size: 128, 105
+  orig: 128, 105
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 2, 120
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: true
+  xy: 218, 2
+  size: 136, 90
+  orig: 136, 90
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: true
+  xy: 310, 20
+  size: 130, 71
+  orig: 130, 71
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 428, 386
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1

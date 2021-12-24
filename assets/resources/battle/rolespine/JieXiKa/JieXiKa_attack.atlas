@@ -1,0 +1,83 @@
+
+JieXiKa_attack.png
+size: 497,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 449, 111
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+tx/qianhua_015
+  rotate: false
+  xy: 2, 343
+  size: 266, 132
+  orig: 266, 132
+  offset: 0, 0
+  index: -1
+tx/qianhua_016
+  rotate: true
+  xy: 200, 33
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+tx/xian1_015
+  rotate: false
+  xy: 2, 141
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tx/xian1_016
+  rotate: true
+  xy: 270, 346
+  size: 129, 200
+  orig: 129, 200
+  offset: 0, 0
+  index: -1
+tx/xian1_017
+  rotate: false
+  xy: 133, 145
+  size: 128, 196
+  orig: 128, 196
+  offset: 0, 0
+  index: -1
+tx/xian1_018
+  rotate: true
+  xy: 2, 11
+  size: 128, 196
+  orig: 128, 196
+  offset: 0, 0
+  index: -1
+tx/xian1_019
+  rotate: false
+  xy: 263, 155
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+tx/xian1_020
+  rotate: false
+  xy: 380, 158
+  size: 115, 186
+  orig: 115, 186
+  offset: 0, 0
+  index: -1
+tx/xian1_021
+  rotate: false
+  xy: 267, 2
+  size: 89, 151
+  orig: 89, 151
+  offset: 0, 0
+  index: -1
+tx/xian1_022
+  rotate: false
+  xy: 358, 2
+  size: 89, 151
+  orig: 89, 151
+  offset: 0, 0
+  index: -1

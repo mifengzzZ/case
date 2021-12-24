@@ -1,0 +1,41 @@
+
+BuLanDe_attack.png
+size: 461,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_019
+  rotate: false
+  xy: 2, 405
+  size: 305, 98
+  orig: 305, 98
+  offset: 0, 0
+  index: -1
+tx/dg1_020
+  rotate: true
+  xy: 2, 2
+  size: 250, 134
+  orig: 250, 134
+  offset: 0, 0
+  index: -1
+tx/dg1_022
+  rotate: false
+  xy: 2, 254
+  size: 278, 149
+  orig: 278, 149
+  offset: 0, 0
+  index: -1
+tx/dg1_023
+  rotate: false
+  xy: 138, 80
+  size: 278, 149
+  orig: 278, 149
+  offset: 0, 0
+  index: -1
+tx/dg1_024
+  rotate: true
+  xy: 309, 231
+  size: 272, 150
+  orig: 272, 150
+  offset: 0, 0
+  index: -1

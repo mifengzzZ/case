@@ -1,0 +1,167 @@
+
+Xiao_attack_hit.png
+size: 497,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy2
+  rotate: false
+  xy: 245, 68
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tx/huo_00002
+  rotate: false
+  xy: 2, 4
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+tx/huo_00003
+  rotate: true
+  xy: 161, 63
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+tx/huo_00004
+  rotate: false
+  xy: 288, 103
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+tx/huo_00005
+  rotate: false
+  xy: 161, 96
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+tx/huo_00006
+  rotate: false
+  xy: 111, 92
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+tx/huo_00007
+  rotate: false
+  xy: 56, 34
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+tx/huo_00008
+  rotate: false
+  xy: 2, 88
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+tx/huo_00009
+  rotate: false
+  xy: 2, 33
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+tx/huo_00010
+  rotate: false
+  xy: 56, 89
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+tx/huo_00011
+  rotate: false
+  xy: 207, 101
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+tx/huo_00012
+  rotate: false
+  xy: 248, 103
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+tx/huo_00013
+  rotate: true
+  xy: 207, 66
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+tx/huo_00014
+  rotate: true
+  xy: 56, 2
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+tx/huo_00015
+  rotate: true
+  xy: 30, 4
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+tx/sj2_00012
+  rotate: false
+  xy: 95, 6
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+tx/sj2_00013
+  rotate: false
+  xy: 337, 152
+  size: 158, 159
+  orig: 158, 159
+  offset: 0, 0
+  index: -1
+tx/sj2_00014
+  rotate: false
+  xy: 170, 144
+  size: 165, 167
+  orig: 165, 167
+  offset: 0, 0
+  index: -1
+tx/sj2_00015
+  rotate: false
+  xy: 2, 313
+  size: 168, 167
+  orig: 168, 167
+  offset: 0, 0
+  index: -1
+tx/sj2_00016
+  rotate: false
+  xy: 2, 144
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+tx/sj2_00017
+  rotate: false
+  xy: 172, 313
+  size: 166, 167
+  orig: 166, 167
+  offset: 0, 0
+  index: -1
+tx/sj2_00018
+  rotate: false
+  xy: 340, 327
+  size: 145, 153
+  orig: 145, 153
+  offset: 0, 0
+  index: -1
+tx/sj2_00019
+  rotate: true
+  xy: 337, 6
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+JieXiKa_skill2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/baodian1_036
+  rotate: false
+  xy: 399, 91
+  size: 56, 100
+  orig: 56, 100
+  offset: 0, 0
+  index: -1
+tx/baodian1_037
+  rotate: false
+  xy: 457, 105
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+tx/baodian1_038
+  rotate: false
+  xy: 438, 378
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+tx/baodian1_039
+  rotate: false
+  xy: 438, 439
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+tx/baodian1_040
+  rotate: true
+  xy: 444, 205
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+tx/baodian1_041
+  rotate: false
+  xy: 305, 2
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+tx/baodian1_042
+  rotate: true
+  xy: 457, 143
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+tx/feijian1_017
+  rotate: false
+  xy: 305, 83
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+tx/feijian1_018
+  rotate: true
+  xy: 243, 378
+  size: 132, 193
+  orig: 132, 193
+  offset: 0, 0
+  index: -1
+tx/feijian1_019
+  rotate: false
+  xy: 2, 174
+  size: 142, 215
+  orig: 142, 215
+  offset: 0, 0
+  index: -1
+tx/feijian1_020
+  rotate: false
+  xy: 146, 184
+  size: 148, 192
+  orig: 148, 192
+  offset: 0, 0
+  index: -1
+tx/feijian1_021
+  rotate: false
+  xy: 296, 193
+  size: 146, 183
+  orig: 146, 183
+  offset: 0, 0
+  index: -1
+tx/feijian1_022
+  rotate: false
+  xy: 161, 26
+  size: 142, 156
+  orig: 142, 156
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 457, 63
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: true
+  xy: 389, 40
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+tx/qianhua_015
+  rotate: false
+  xy: 2, 391
+  size: 239, 119
+  orig: 239, 119
+  offset: 0, 0
+  index: -1
+tx/qianhua_016
+  rotate: true
+  xy: 444, 277
+  size: 99, 59
+  orig: 99, 59
+  offset: 0, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 2, 14
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1

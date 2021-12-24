@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b93f092c-b363-49b7-b238-ff74eb4a878f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "YouDuoLa_skii1_debuff_hit": {
+      "ver": "1.0.6",
+      "uuid": "11db6b23-643e-4346-942e-79a570bbe751",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b93f092c-b363-49b7-b238-ff74eb4a878f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 508,
+      "height": 508,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,76 @@
+
+LiLi_skill1_hit.png
+size: 418,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 354, 113
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 2, 51
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+tx/sj_00
+  rotate: true
+  xy: 96, 13
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+tx/sj_01
+  rotate: true
+  xy: 329, 19
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+tx/sj_02
+  rotate: false
+  xy: 280, 87
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+tx/sj_03
+  rotate: false
+  xy: 204, 74
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+tx/sj_04
+  rotate: false
+  xy: 127, 69
+  size: 75, 106
+  orig: 75, 106
+  offset: 0, 0
+  index: -1
+tx/sj_05
+  rotate: true
+  xy: 225, 2
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+tx/sj_06
+  rotate: true
+  xy: 127, 6
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+tx/sj_07
+  rotate: true
+  xy: 2, 5
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1

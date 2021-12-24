@@ -1,0 +1,41 @@
+
+LaRuiOu_attack.png
+size: 473,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/dg1_021
+  rotate: false
+  xy: 295, 2
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: -1
+images/tx/dg1_022
+  rotate: false
+  xy: 295, 129
+  size: 176, 148
+  orig: 176, 148
+  offset: 0, 0
+  index: -1
+images/tx/dg1_023
+  rotate: true
+  xy: 2, 92
+  size: 185, 151
+  orig: 185, 151
+  offset: 0, 0
+  index: -1
+images/tx/dg1_024
+  rotate: true
+  xy: 155, 83
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+images/tx/dg1_025
+  rotate: false
+  xy: 2, 29
+  size: 140, 61
+  orig: 140, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+AiLiSi_skill2.png
+size: 494,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_053
+  rotate: false
+  xy: 418, 164
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+tx/dg1_054
+  rotate: false
+  xy: 148, 8
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+tx/dg1_055
+  rotate: false
+  xy: 152, 130
+  size: 143, 113
+  orig: 143, 113
+  offset: 0, 0
+  index: -1
+tx/dg1_056
+  rotate: false
+  xy: 2, 118
+  size: 144, 123
+  orig: 144, 123
+  offset: 0, 0
+  index: -1
+tx/dg1_057
+  rotate: false
+  xy: 154, 369
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+tx/dg1_058
+  rotate: false
+  xy: 2, 369
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1
+tx/dg1_059
+  rotate: false
+  xy: 2, 243
+  size: 148, 124
+  orig: 148, 124
+  offset: 0, 0
+  index: -1
+tx/dg1_060
+  rotate: false
+  xy: 152, 245
+  size: 143, 122
+  orig: 143, 122
+  offset: 0, 0
+  index: -1
+tx/dg1_061
+  rotate: false
+  xy: 300, 374
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+tx/dg1_062
+  rotate: false
+  xy: 300, 252
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+tx/dg1_063
+  rotate: false
+  xy: 297, 132
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+tx/dg1_064
+  rotate: false
+  xy: 2, 2
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+tx/dg1_065
+  rotate: false
+  xy: 284, 19
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+tx/dg1_066
+  rotate: false
+  xy: 393, 26
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+tx/dg1_067
+  rotate: false
+  xy: 438, 400
+  size: 54, 95
+  orig: 54, 95
+  offset: 0, 0
+  index: -1
+tx/dg1_068
+  rotate: false
+  xy: 438, 352
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 418, 136
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

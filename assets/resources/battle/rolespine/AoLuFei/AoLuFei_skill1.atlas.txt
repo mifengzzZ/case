@@ -1,0 +1,153 @@
+
+AoLuFei_skill1.png
+size: 497,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/c03
+  rotate: true
+  xy: 406, 331
+  size: 137, 36
+  orig: 153, 39
+  offset: 6, 2
+  index: -1
+images/tx/c04
+  rotate: true
+  xy: 368, 327
+  size: 141, 36
+  orig: 153, 39
+  offset: 6, 2
+  index: -1
+images/tx/c05
+  rotate: false
+  xy: 2, 68
+  size: 152, 34
+  orig: 153, 39
+  offset: 0, 2
+  index: -1
+images/tx/c06
+  rotate: false
+  xy: 2, 34
+  size: 153, 32
+  orig: 153, 39
+  offset: 0, 3
+  index: -1
+images/tx/c07
+  rotate: false
+  xy: 2, 2
+  size: 153, 30
+  orig: 153, 39
+  offset: 0, 3
+  index: -1
+images/tx/lizi1
+  rotate: false
+  xy: 444, 424
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: true
+  xy: 359, 166
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+images/tx/lizi3
+  rotate: false
+  xy: 473, 446
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+images/tx/lizi4
+  rotate: false
+  xy: 383, 168
+  size: 21, 21
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+images/tx/m
+  rotate: true
+  xy: 359, 249
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+images/tx/n
+  rotate: false
+  xy: 359, 191
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+images/tx/o
+  rotate: false
+  xy: 156, 73
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+images/tx/p
+  rotate: false
+  xy: 177, 200
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+images/tx/q
+  rotate: false
+  xy: 444, 437
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+images/tx/r
+  rotate: false
+  xy: 177, 222
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+images/tx/s1
+  rotate: false
+  xy: 203, 166
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+images/tx/s2
+  rotate: false
+  xy: 177, 11
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+images/tx/s3
+  rotate: false
+  xy: 332, 11
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+images/tx/t
+  rotate: false
+  xy: 2, 104
+  size: 173, 164
+  orig: 179, 172
+  offset: 2, 4
+  index: -1
+images/tx/u
+  rotate: false
+  xy: 203, 321
+  size: 163, 147
+  orig: 171, 156
+  offset: 4, 4
+  index: -1
+images/tx/v
+  rotate: false
+  xy: 2, 270
+  size: 199, 198
+  orig: 205, 206
+  offset: 3, 4
+  index: -1

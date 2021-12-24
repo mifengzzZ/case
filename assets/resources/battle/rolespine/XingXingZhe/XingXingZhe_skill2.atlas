@@ -1,0 +1,160 @@
+
+XingXingZhe_skill2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/3a01
+  rotate: false
+  xy: 105, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+images/tx/3a02
+  rotate: false
+  xy: 139, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+images/tx/3a03
+  rotate: false
+  xy: 338, 430
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+images/tx/3a04
+  rotate: false
+  xy: 273, 376
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+images/tx/3b01
+  rotate: false
+  xy: 170, 309
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b02
+  rotate: false
+  xy: 2, 201
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b03
+  rotate: false
+  xy: 2, 106
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b04
+  rotate: false
+  xy: 2, 11
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b05
+  rotate: true
+  xy: 105, 193
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b06
+  rotate: true
+  xy: 105, 90
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b07
+  rotate: true
+  xy: 200, 206
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3b08
+  rotate: true
+  xy: 200, 103
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+images/tx/3c01
+  rotate: false
+  xy: 2, 458
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3c02
+  rotate: false
+  xy: 2, 404
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3c03
+  rotate: false
+  xy: 170, 458
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3c04
+  rotate: false
+  xy: 2, 350
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3c05
+  rotate: false
+  xy: 170, 404
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3c06
+  rotate: false
+  xy: 338, 458
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3c07
+  rotate: false
+  xy: 2, 296
+  size: 166, 52
+  orig: 166, 52
+  offset: 0, 0
+  index: -1
+images/tx/3e
+  rotate: false
+  xy: 169, 75
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+images/tx/3f
+  rotate: false
+  xy: 105, 30
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+images/tx/lizi
+  rotate: false
+  xy: 170, 301
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

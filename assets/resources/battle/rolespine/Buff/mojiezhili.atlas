@@ -1,0 +1,195 @@
+
+mojiezhili.png
+size: 459,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b01
+  rotate: false
+  xy: 2, 202
+  size: 160, 58
+  orig: 160, 58
+  offset: 0, 0
+  index: -1
+images/b02
+  rotate: true
+  xy: 380, 348
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+images/b03
+  rotate: false
+  xy: 268, 199
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+images/b04
+  rotate: false
+  xy: 172, 202
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+images/b05
+  rotate: false
+  xy: 173, 301
+  size: 157, 29
+  orig: 157, 29
+  offset: 0, 0
+  index: -1
+images/b06
+  rotate: false
+  xy: 190, 373
+  size: 158, 38
+  orig: 158, 38
+  offset: 0, 0
+  index: -1
+images/b07
+  rotate: false
+  xy: 340, 126
+  size: 111, 53
+  orig: 111, 53
+  offset: 0, 0
+  index: -1
+images/b08
+  rotate: true
+  xy: 265, 97
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+images/b09
+  rotate: false
+  xy: 246, 2
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+images/b10
+  rotate: true
+  xy: 41, 78
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+images/b11
+  rotate: false
+  xy: 2, 262
+  size: 168, 57
+  orig: 168, 57
+  offset: 0, 0
+  index: -1
+images/b12
+  rotate: false
+  xy: 2, 435
+  size: 194, 45
+  orig: 194, 45
+  offset: 0, 0
+  index: -1
+images/b13
+  rotate: false
+  xy: 2, 386
+  size: 186, 47
+  orig: 186, 47
+  offset: 0, 0
+  index: -1
+images/c01
+  rotate: false
+  xy: 173, 332
+  size: 153, 39
+  orig: 153, 39
+  offset: 0, 0
+  index: -1
+images/c02
+  rotate: true
+  xy: 200, 84
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+images/c03
+  rotate: false
+  xy: 365, 181
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+images/c04
+  rotate: false
+  xy: 150, 2
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+images/c05
+  rotate: false
+  xy: 198, 413
+  size: 162, 32
+  orig: 162, 32
+  offset: 0, 0
+  index: -1
+images/c06
+  rotate: false
+  xy: 172, 276
+  size: 150, 23
+  orig: 150, 23
+  offset: 0, 0
+  index: -1
+images/c07
+  rotate: false
+  xy: 350, 19
+  size: 94, 42
+  orig: 94, 42
+  offset: 0, 0
+  index: -1
+images/c08
+  rotate: false
+  xy: 350, 63
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+images/c09
+  rotate: false
+  xy: 41, 2
+  size: 107, 66
+  orig: 107, 66
+  offset: 0, 0
+  index: -1
+images/c10
+  rotate: true
+  xy: 128, 70
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+images/c11
+  rotate: false
+  xy: 2, 321
+  size: 169, 63
+  orig: 169, 63
+  offset: 0, 0
+  index: -1
+images/c12
+  rotate: true
+  xy: 2, 26
+  size: 174, 37
+  orig: 174, 37
+  offset: 0, 0
+  index: -1
+images/c13
+  rotate: false
+  xy: 198, 447
+  size: 180, 33
+  orig: 180, 33
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: true
+  xy: 365, 255
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1

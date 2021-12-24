@@ -1,0 +1,34 @@
+
+KeKeYaEr_attack_zidan.png
+size: 311,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tuowei1_015
+  rotate: true
+  xy: 2, 192
+  size: 76, 303
+  orig: 76, 303
+  offset: 0, 0
+  index: -1
+tx/tuowei1_016
+  rotate: true
+  xy: 2, 75
+  size: 56, 293
+  orig: 56, 293
+  offset: 0, 0
+  index: -1
+tx/tuowei1_017
+  rotate: true
+  xy: 2, 133
+  size: 57, 307
+  orig: 57, 307
+  offset: 0, 0
+  index: -1
+tx/zidan1
+  rotate: true
+  xy: 2, 2
+  size: 71, 223
+  orig: 71, 223
+  offset: 0, 0
+  index: -1

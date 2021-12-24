@@ -1,0 +1,76 @@
+
+LaRuiOu_attack_hit.png
+size: 475,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/gy1
+  rotate: false
+  xy: 2, 2
+  size: 343, 115
+  orig: 343, 115
+  offset: 0, 0
+  index: -1
+images/tx/gy2
+  rotate: true
+  xy: 347, 27
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+images/tx/sj1_025
+  rotate: false
+  xy: 413, 43
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+images/tx/sj1_026
+  rotate: false
+  xy: 355, 139
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+images/tx/sj1_027
+  rotate: true
+  xy: 2, 119
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+images/tx/sj1_028
+  rotate: true
+  xy: 117, 126
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+images/tx/sj1_029
+  rotate: true
+  xy: 205, 129
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+images/tx/sj1_030
+  rotate: true
+  xy: 293, 131
+  size: 105, 60
+  orig: 105, 60
+  offset: 0, 0
+  index: -1
+images/tx/sj1_031
+  rotate: false
+  xy: 355, 94
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+images/tx/sj1_032
+  rotate: true
+  xy: 456, 170
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1

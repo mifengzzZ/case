@@ -1,0 +1,146 @@
+
+XiZhuo_skill1_screen.png
+size: 481,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy4
+  rotate: false
+  xy: 412, 269
+  size: 50, 50
+  orig: 52, 51
+  offset: 2, 1
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 136, 16
+  size: 51, 51
+  orig: 52, 51
+  offset: 1, 0
+  index: -1
+tx/huo2_000
+  rotate: false
+  xy: 408, 175
+  size: 41, 40
+  orig: 56, 54
+  offset: 7, 7
+  index: -1
+tx/huo2_001
+  rotate: false
+  xy: 408, 217
+  size: 50, 50
+  orig: 62, 62
+  offset: 6, 6
+  index: -1
+tx/huo2_002
+  rotate: false
+  xy: 75, 9
+  size: 59, 58
+  orig: 70, 70
+  offset: 5, 6
+  index: -1
+tx/huo2_003
+  rotate: false
+  xy: 412, 321
+  size: 67, 68
+  orig: 79, 78
+  offset: 6, 5
+  index: -1
+tx/huo2_004
+  rotate: false
+  xy: 382, 25
+  size: 77, 80
+  orig: 88, 90
+  offset: 6, 5
+  index: -1
+tx/huo2_005
+  rotate: true
+  xy: 313, 198
+  size: 91, 93
+  orig: 101, 98
+  offset: 5, 0
+  index: -1
+tx/huo2_006
+  rotate: false
+  xy: 313, 291
+  size: 97, 98
+  orig: 102, 102
+  offset: 1, 0
+  index: -1
+tx/huo2_007
+  rotate: false
+  xy: 211, 188
+  size: 99, 99
+  orig: 103, 102
+  offset: 1, 0
+  index: -1
+tx/huo2_008
+  rotate: false
+  xy: 211, 289
+  size: 100, 100
+  orig: 103, 102
+  offset: 1, 0
+  index: -1
+tx/huo2_009
+  rotate: false
+  xy: 2, 69
+  size: 101, 100
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_010
+  rotate: false
+  xy: 105, 69
+  size: 100, 100
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_011
+  rotate: true
+  xy: 211, 90
+  size: 96, 97
+  orig: 103, 102
+  offset: 1, 0
+  index: -1
+tx/huo2_012
+  rotate: true
+  xy: 312, 107
+  size: 89, 93
+  orig: 102, 100
+  offset: 2, 0
+  index: -1
+tx/huo2_013
+  rotate: true
+  xy: 207, 2
+  size: 86, 87
+  orig: 96, 99
+  offset: 4, 7
+  index: -1
+tx/huo2_014
+  rotate: true
+  xy: 296, 3
+  size: 85, 84
+  orig: 97, 99
+  offset: 7, 10
+  index: -1
+tx/huo2_015
+  rotate: false
+  xy: 2, 13
+  size: 71, 54
+  orig: 90, 73
+  offset: 13, 13
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 2, 171
+  size: 207, 218
+  orig: 228, 238
+  offset: 12, 10
+  index: -1
+tx/st1
+  rotate: false
+  xy: 407, 144
+  size: 35, 29
+  orig: 37, 29
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,321 @@
+
+WeiWeiAn.png
+size: 434,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 237, 4
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+WeiWeiAN_Arm_RB
+  rotate: true
+  xy: 331, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+WeiWeiAN_Eyelid
+  rotate: true
+  xy: 126, 19
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Arm_L
+  rotate: true
+  xy: 369, 77
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Arm_LB
+  rotate: false
+  xy: 413, 50
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Arm_R
+  rotate: false
+  xy: 215, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Calf_L
+  rotate: false
+  xy: 409, 86
+  size: 23, 51
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Calf_R
+  rotate: true
+  xy: 308, 61
+  size: 17, 53
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Eyebrow
+  rotate: false
+  xy: 299, 38
+  size: 11, 2
+  orig: 11, 2
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Finger_L
+  rotate: false
+  xy: 343, 6
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Foot_L
+  rotate: false
+  xy: 369, 98
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Foot_R
+  rotate: true
+  xy: 135, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Forearm_L
+  rotate: false
+  xy: 365, 23
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Forearm_R
+  rotate: false
+  xy: 331, 16
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+WeiWeiAn_HEad
+  rotate: true
+  xy: 257, 9
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hair_BB
+  rotate: false
+  xy: 2, 2
+  size: 85, 69
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hair_BL
+  rotate: true
+  xy: 312, 2
+  size: 11, 17
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hair_BR
+  rotate: false
+  xy: 237, 10
+  size: 18, 25
+  orig: 19, 27
+  offset: 0, 1
+  index: -1
+WeiWeiAn_Hair_F
+  rotate: true
+  xy: 399, 60
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hair_L
+  rotate: false
+  xy: 197, 2
+  size: 16, 27
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hair_R
+  rotate: true
+  xy: 363, 59
+  size: 16, 34
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hand_L
+  rotate: false
+  xy: 172, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hand_R
+  rotate: true
+  xy: 287, 9
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hand_RB
+  rotate: false
+  xy: 384, 24
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat
+  rotate: false
+  xy: 89, 32
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat_B
+  rotate: false
+  xy: 353, 40
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat_Line_L
+  rotate: false
+  xy: 135, 35
+  size: 37, 36
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat_Line_R
+  rotate: true
+  xy: 257, 36
+  size: 25, 40
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat_M
+  rotate: false
+  xy: 349, 17
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat_ML
+  rotate: false
+  xy: 312, 15
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Hat_MR
+  rotate: true
+  xy: 405, 78
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Knot_L
+  rotate: false
+  xy: 400, 34
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Knot_Leg_B
+  rotate: false
+  xy: 389, 39
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Knot_Leg_T
+  rotate: true
+  xy: 366, 3
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Knot_R
+  rotate: false
+  xy: 412, 63
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Neck
+  rotate: true
+  xy: 349, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Skirt_B
+  rotate: false
+  xy: 308, 80
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Skirt_BF
+  rotate: true
+  xy: 89, 2
+  size: 28, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Skirt_F
+  rotate: false
+  xy: 209, 63
+  size: 97, 74
+  orig: 97, 74
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Staff
+  rotate: true
+  xy: 2, 73
+  size: 64, 205
+  orig: 64, 205
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Thigh_L
+  rotate: true
+  xy: 206, 37
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+WeiWeiAn_Thigh_R
+  rotate: true
+  xy: 299, 42
+  size: 17, 52
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+WeiWeiAnv_Body
+  rotate: false
+  xy: 174, 31
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+WeiWeiAnv_Body_Knot
+  rotate: true
+  xy: 400, 45
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+WeiWeiAnv_Hair_LB
+  rotate: true
+  xy: 126, 8
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+DouDou_skill1.png
+size: 509,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a
+  rotate: true
+  xy: 348, 2
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+tx/b
+  rotate: true
+  xy: 380, 2
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+tx/baobao
+  rotate: true
+  xy: 455, 96
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+tx/baodian222
+  rotate: false
+  xy: 455, 43
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+tx/c
+  rotate: true
+  xy: 412, 2
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+tx/cjj_035
+  rotate: true
+  xy: 2, 117
+  size: 206, 135
+  orig: 206, 135
+  offset: 0, 0
+  index: -1
+tx/cjj_036
+  rotate: false
+  xy: 190, 379
+  size: 206, 131
+  orig: 206, 131
+  offset: 0, 0
+  index: -1
+tx/cjj_037
+  rotate: false
+  xy: 190, 249
+  size: 206, 128
+  orig: 206, 128
+  offset: 0, 0
+  index: -1
+tx/cjj_038
+  rotate: false
+  xy: 139, 126
+  size: 200, 121
+  orig: 200, 121
+  offset: 0, 0
+  index: -1
+tx/cjj_039
+  rotate: true
+  xy: 398, 325
+  size: 185, 89
+  orig: 185, 89
+  offset: 0, 0
+  index: -1
+tx/cjj_040
+  rotate: false
+  xy: 2, 33
+  size: 181, 82
+  orig: 181, 82
+  offset: 0, 0
+  index: -1
+tx/cjj_041
+  rotate: false
+  xy: 185, 54
+  size: 166, 70
+  orig: 166, 70
+  offset: 0, 0
+  index: -1
+tx/cjj_042
+  rotate: false
+  xy: 185, 19
+  size: 161, 33
+  orig: 161, 33
+  offset: 0, 0
+  index: -1
+tx/cjj_043
+  rotate: false
+  xy: 341, 186
+  size: 158, 34
+  orig: 158, 34
+  offset: 0, 0
+  index: -1
+tx/cjj_044
+  rotate: false
+  xy: 341, 150
+  size: 151, 34
+  orig: 151, 34
+  offset: 0, 0
+  index: -1
+tx/cjj_045
+  rotate: false
+  xy: 2, 3
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+tx/cjj_046
+  rotate: true
+  xy: 489, 394
+  size: 116, 17
+  orig: 116, 17
+  offset: 0, 0
+  index: -1
+tx/gy8
+  rotate: false
+  xy: 2, 325
+  size: 186, 185
+  orig: 186, 185
+  offset: 0, 0
+  index: -1
+tx/lizi99
+  rotate: false
+  xy: 398, 222
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+tx/quan4
+  rotate: false
+  xy: 353, 49
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1

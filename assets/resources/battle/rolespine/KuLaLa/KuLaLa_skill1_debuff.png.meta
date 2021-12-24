@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "980f1e49-9e52-49b5-967b-4a445d810207",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 497,
+  "height": 481,
+  "platformSettings": {},
+  "subMetas": {
+    "KuLaLa_skill1_debuff": {
+      "ver": "1.0.6",
+      "uuid": "cd8999c4-d1ef-4550-951b-bf15fa27f23d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "980f1e49-9e52-49b5-967b-4a445d810207",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 493,
+      "height": 477,
+      "rawWidth": 497,
+      "rawHeight": 481,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

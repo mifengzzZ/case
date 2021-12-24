@@ -1,0 +1,90 @@
+
+WeiWeiAn_attack.png
+size: 445,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_gy1
+  rotate: false
+  xy: 244, 55
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+tx/a_gy2
+  rotate: false
+  xy: 2, 3
+  size: 126, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_011
+  rotate: false
+  xy: 156, 2
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_012
+  rotate: false
+  xy: 303, 8
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_013
+  rotate: false
+  xy: 311, 125
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_014
+  rotate: false
+  xy: 311, 125
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_015
+  rotate: false
+  xy: 311, 253
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_016
+  rotate: false
+  xy: 158, 89
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_017
+  rotate: false
+  xy: 158, 234
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_018
+  rotate: false
+  xy: 2, 76
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+tx/a_yuan1_019
+  rotate: false
+  xy: 2, 230
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+tx/lizi2
+  rotate: true
+  xy: 130, 51
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+XiLa_attack_hit.png
+size: 493,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gc1_22
+  rotate: false
+  xy: 240, 390
+  size: 170, 62
+  orig: 170, 62
+  offset: 0, 0
+  index: -1
+tx/gc1_23
+  rotate: false
+  xy: 2, 377
+  size: 236, 75
+  orig: 236, 75
+  offset: 0, 0
+  index: -1
+tx/gc1_24
+  rotate: false
+  xy: 2, 295
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+tx/gc1_25
+  rotate: false
+  xy: 2, 208
+  size: 147, 85
+  orig: 147, 85
+  offset: 0, 0
+  index: -1
+tx/gc2_22
+  rotate: true
+  xy: 412, 346
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+tx/gc2_23
+  rotate: false
+  xy: 151, 200
+  size: 116, 93
+  orig: 116, 93
+  offset: 0, 0
+  index: -1
+tx/gc2_24
+  rotate: false
+  xy: 124, 107
+  size: 118, 91
+  orig: 118, 91
+  offset: 0, 0
+  index: -1
+tx/gc2_25
+  rotate: false
+  xy: 240, 295
+  size: 117, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+tx/gc2_26
+  rotate: false
+  xy: 269, 199
+  size: 117, 94
+  orig: 117, 94
+  offset: 0, 0
+  index: -1
+tx/gc2_27
+  rotate: false
+  xy: 123, 10
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+tx/gc2_28
+  rotate: false
+  xy: 2, 9
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+tx/gc2_29
+  rotate: false
+  xy: 2, 108
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: true
+  xy: 369, 2
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+tx/quan1_17
+  rotate: true
+  xy: 434, 205
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+tx/quan1_18
+  rotate: false
+  xy: 359, 295
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+tx/quan1_19
+  rotate: false
+  xy: 434, 230
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: -1
+tx/quan1_20
+  rotate: false
+  xy: 369, 76
+  size: 61, 121
+  orig: 61, 121
+  offset: 0, 0
+  index: -1
+tx/quan1_21
+  rotate: true
+  xy: 244, 135
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+tx/quan1_22
+  rotate: true
+  xy: 244, 71
+  size: 62, 123
+  orig: 62, 123
+  offset: 0, 0
+  index: -1
+tx/quan1_23
+  rotate: true
+  xy: 242, 8
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+tx/quan1_24
+  rotate: false
+  xy: 388, 204
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+tx/quan1_25
+  rotate: false
+  xy: 204, 315
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1

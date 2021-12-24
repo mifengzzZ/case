@@ -1,0 +1,524 @@
+
+DeGuLa.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DeGuLa_Arm_L
+  rotate: true
+  xy: 361, 90
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+DeGuLa_Arm_R
+  rotate: false
+  xy: 475, 306
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Body
+  rotate: false
+  xy: 226, 2
+  size: 52, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_La
+  rotate: false
+  xy: 409, 90
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Lb
+  rotate: true
+  xy: 401, 2
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Lc
+  rotate: false
+  xy: 270, 45
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Ld
+  rotate: true
+  xy: 310, 71
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Ra
+  rotate: true
+  xy: 237, 91
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Rb
+  rotate: false
+  xy: 170, 122
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Rc
+  rotate: false
+  xy: 361, 116
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+DeGuLa_Bat_Wing_Rd
+  rotate: true
+  xy: 310, 98
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+DeGuLa_Belt
+  rotate: true
+  xy: 475, 270
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+DeGuLa_Belt_A
+  rotate: false
+  xy: 428, 210
+  size: 8, 42
+  orig: 8, 45
+  offset: 0, 0
+  index: -1
+DeGuLa_Belt_B
+  rotate: false
+  xy: 474, 167
+  size: 11, 36
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+DeGuLa_Belt_C
+  rotate: false
+  xy: 170, 249
+  size: 10, 66
+  orig: 10, 70
+  offset: 0, 0
+  index: -1
+DeGuLa_Belt_Cap
+  rotate: false
+  xy: 469, 67
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+DeGuLa_Belt_T
+  rotate: false
+  xy: 469, 128
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+DeGuLa_Body
+  rotate: true
+  xy: 415, 347
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+DeGuLa_Calf_L
+  rotate: false
+  xy: 473, 412
+  size: 22, 83
+  orig: 22, 84
+  offset: 0, 0
+  index: -1
+DeGuLa_Calf_R
+  rotate: false
+  xy: 448, 266
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_BAb
+  rotate: false
+  xy: 415, 393
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_BAf
+  rotate: true
+  xy: 226, 23
+  size: 66, 42
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_BB
+  rotate: false
+  xy: 2, 317
+  size: 185, 178
+  orig: 185, 178
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_BF
+  rotate: true
+  xy: 2, 122
+  size: 193, 166
+  orig: 194, 166
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_BM
+  rotate: false
+  xy: 364, 2
+  size: 35, 38
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_FB
+  rotate: false
+  xy: 364, 42
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_FF
+  rotate: true
+  xy: 403, 202
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+DeGuLa_Cloth_FT
+  rotate: false
+  xy: 310, 36
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+DeGuLa_Collar_LB
+  rotate: true
+  xy: 473, 394
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+DeGuLa_Collar_LF
+  rotate: false
+  xy: 409, 118
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+DeGuLa_Collar_RB
+  rotate: true
+  xy: 438, 196
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+DeGuLa_Collar_RF
+  rotate: false
+  xy: 408, 48
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+DeGuLa_Ear
+  rotate: false
+  xy: 487, 169
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+DeGuLa_Eyelid
+  rotate: false
+  xy: 226, 103
+  size: 9, 7
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+DeGuLa_Foot_L
+  rotate: true
+  xy: 437, 133
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+DeGuLa_Foot_R
+  rotate: false
+  xy: 426, 169
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+DeGuLa_Forearm_L
+  rotate: false
+  xy: 403, 169
+  size: 21, 31
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+DeGuLa_Forearm_La
+  rotate: true
+  xy: 305, 20
+  size: 14, 50
+  orig: 14, 51
+  offset: 0, 1
+  index: -1
+DeGuLa_Forearm_R
+  rotate: true
+  xy: 270, 24
+  size: 19, 33
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+DeGuLa_Forearm_Ra
+  rotate: false
+  xy: 480, 347
+  size: 13, 45
+  orig: 13, 46
+  offset: 0, 1
+  index: -1
+DeGuLa_Hair_BB
+  rotate: false
+  xy: 469, 81
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+DeGuLa_Hair_BL
+  rotate: false
+  xy: 226, 95
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+DeGuLa_Hair_LB
+  rotate: true
+  xy: 443, 51
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+DeGuLa_Hair_RB
+  rotate: false
+  xy: 462, 169
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+DeGuLa_Hair_RF
+  rotate: false
+  xy: 487, 184
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+DeGuLa_Hand_L
+  rotate: false
+  xy: 475, 228
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+DeGuLa_Hand_La
+  rotate: true
+  xy: 407, 254
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+DeGuLa_Hand_R
+  rotate: false
+  xy: 475, 253
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+DeGuLa_Hand_Ra
+  rotate: true
+  xy: 299, 2
+  size: 16, 23
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+DeGuLa_Head
+  rotate: false
+  xy: 437, 97
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+DeGuLa_Line_L
+  rotate: false
+  xy: 474, 205
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+DeGuLa_Line_R
+  rotate: false
+  xy: 226, 112
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+DeGuLa_Neck
+  rotate: true
+  xy: 469, 147
+  size: 18, 26
+  orig: 18, 27
+  offset: 0, 1
+  index: -1
+DeGuLa_Outside
+  rotate: true
+  xy: 300, 246
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+DeGuLa_Thigh_L
+  rotate: false
+  xy: 271, 149
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+DeGuLa_Thigh_R
+  rotate: false
+  xy: 361, 169
+  size: 40, 83
+  orig: 40, 86
+  offset: 0, 1
+  index: -1
+DeGuLa_Tie
+  rotate: true
+  xy: 280, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+DeGuLa_Weapon_R
+  rotate: true
+  xy: 189, 465
+  size: 30, 223
+  orig: 30, 223
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 408, 42
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 438, 228
+  size: 35, 36
+  orig: 37, 38
+  offset: 1, 1
+  index: -1
+tx/heidian
+  rotate: false
+  xy: 468, 102
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tx/wu
+  rotate: false
+  xy: 443, 63
+  size: 24, 32
+  orig: 26, 35
+  offset: 2, 2
+  index: -1
+tx/yanwu_100
+  rotate: true
+  xy: 307, 152
+  size: 100, 52
+  orig: 115, 59
+  offset: 5, 5
+  index: -1
+tx/yanwu_101
+  rotate: true
+  xy: 407, 270
+  size: 75, 39
+  orig: 91, 45
+  offset: 11, 3
+  index: -1
+tx/yanwu_102
+  rotate: true
+  xy: 271, 92
+  size: 55, 37
+  orig: 66, 44
+  offset: 3, 3
+  index: -1
+tx/yanwu_103
+  rotate: true
+  xy: 427, 9
+  size: 37, 34
+  orig: 47, 42
+  offset: 4, 4
+  index: -1
+tx/yanwu_104
+  rotate: false
+  xy: 324, 2
+  size: 20, 16
+  orig: 34, 26
+  offset: 7, 5
+  index: -1
+tx/yanwu_89
+  rotate: false
+  xy: 170, 159
+  size: 99, 83
+  orig: 105, 90
+  offset: 3, 5
+  index: -1
+tx/yanwu_91
+  rotate: false
+  xy: 300, 254
+  size: 105, 97
+  orig: 112, 101
+  offset: 3, 2
+  index: -1
+tx/yanwu_92
+  rotate: false
+  xy: 189, 244
+  size: 109, 107
+  orig: 115, 111
+  offset: 3, 2
+  index: -1
+tx/yanwu_94
+  rotate: true
+  xy: 304, 353
+  size: 110, 109
+  orig: 116, 113
+  offset: 3, 2
+  index: -1
+tx/yanwu_95
+  rotate: false
+  xy: 189, 353
+  size: 113, 110
+  orig: 120, 116
+  offset: 3, 3
+  index: -1
+tx/yanwu_97
+  rotate: false
+  xy: 2, 9
+  size: 113, 111
+  orig: 119, 117
+  offset: 2, 3
+  index: -1
+tx/yanwu_98
+  rotate: true
+  xy: 117, 10
+  size: 110, 107
+  orig: 118, 115
+  offset: 3, 3
+  index: -1

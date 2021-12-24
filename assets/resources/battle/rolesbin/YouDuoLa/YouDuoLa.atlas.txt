@@ -1,0 +1,356 @@
+
+YouDuoLa.png
+size: 434,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 365, 14
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+YouDuoLa_Arm_L
+  rotate: false
+  xy: 217, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+YouDuoLa_Arm_LF
+  rotate: true
+  xy: 54, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+YouDuoLa_Arm_R
+  rotate: true
+  xy: 242, 36
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+YouDuoLa_Body
+  rotate: true
+  xy: 283, 73
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+YouDuoLa_Calf
+  rotate: true
+  xy: 2, 2
+  size: 15, 50
+  orig: 15, 52
+  offset: 0, 0
+  index: -1
+YouDuoLa_Calf_L
+  rotate: true
+  xy: 167, 2
+  size: 29, 48
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+YouDuoLa_Calf_R
+  rotate: true
+  xy: 282, 48
+  size: 23, 55
+  orig: 23, 57
+  offset: 0, 2
+  index: -1
+YouDuoLa_Chest
+  rotate: false
+  xy: 355, 20
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+YouDuoLa_Eyelid
+  rotate: false
+  xy: 416, 28
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+YouDuoLa_Finger_L
+  rotate: true
+  xy: 374, 4
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+YouDuoLa_Finger_R
+  rotate: false
+  xy: 417, 37
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot
+  rotate: false
+  xy: 311, 22
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_L
+  rotate: false
+  xy: 339, 29
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_Ll
+  rotate: false
+  xy: 403, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_Lr
+  rotate: false
+  xy: 365, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_R
+  rotate: true
+  xy: 355, 45
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_Rl
+  rotate: false
+  xy: 389, 32
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_Rr
+  rotate: false
+  xy: 417, 46
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+YouDuoLa_Foot_b
+  rotate: false
+  xy: 353, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+YouDuoLa_Forearm_L
+  rotate: true
+  xy: 307, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+YouDuoLa_Forearm_R
+  rotate: true
+  xy: 228, 33
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+YouDuoLa_Get
+  rotate: true
+  xy: 171, 58
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_B
+  rotate: true
+  xy: 402, 59
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_F
+  rotate: false
+  xy: 423, 82
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_L
+  rotate: false
+  xy: 268, 2
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_LB
+  rotate: false
+  xy: 242, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_LF
+  rotate: true
+  xy: 75, 3
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_R
+  rotate: true
+  xy: 279, 36
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hair_T
+  rotate: false
+  xy: 425, 29
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hand_L
+  rotate: true
+  xy: 339, 17
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+YouDuoLa_Hand_R
+  rotate: false
+  xy: 401, 32
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+YouDuoLa_Head
+  rotate: false
+  xy: 284, 6
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+YouDuoLa_Horn_L
+  rotate: false
+  xy: 328, 5
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+YouDuoLa_Horn_R
+  rotate: false
+  xy: 68, 7
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+YouDuoLa_Skirt_B
+  rotate: true
+  xy: 171, 33
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+YouDuoLa_Skirt_FL
+  rotate: true
+  xy: 75, 9
+  size: 25, 90
+  orig: 25, 91
+  offset: 0, 0
+  index: -1
+YouDuoLa_Skirt_FR
+  rotate: true
+  xy: 197, 92
+  size: 14, 84
+  orig: 14, 84
+  offset: 0, 0
+  index: -1
+YouDuoLa_Tail
+  rotate: false
+  xy: 2, 19
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+YouDuoLa_Thigh_L
+  rotate: true
+  xy: 355, 79
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+YouDuoLa_Thigh_R
+  rotate: true
+  xy: 181, 57
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+YouDuoLa_Weapon1_Flower1
+  rotate: false
+  xy: 401, 43
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+YouDuoLa_Weapon1_Line
+  rotate: true
+  xy: 2, 96
+  size: 10, 193
+  orig: 10, 196
+  offset: 0, 1
+  index: -1
+YouDuoLa_Weapon_End
+  rotate: true
+  xy: 241, 58
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+YouDuoLa_Weapon_Flower1
+  rotate: true
+  xy: 389, 19
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+YouDuoLa_Weapon_Flower6
+  rotate: true
+  xy: 339, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+YouDuoLa_Weapon_Hand
+  rotate: true
+  xy: 355, 60
+  size: 17, 45
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+YouDuoLa_Weapon_Line4
+  rotate: true
+  xy: 242, 48
+  size: 8, 38
+  orig: 8, 38
+  offset: 0, 0
+  index: -1
+YouDuoLa_Wing_L
+  rotate: true
+  xy: 75, 63
+  size: 31, 104
+  orig: 31, 104
+  offset: 0, 0
+  index: -1
+YouDuoLa_Wing_R
+  rotate: true
+  xy: 75, 36
+  size: 25, 94
+  orig: 25, 94
+  offset: 0, 0
+  index: -1

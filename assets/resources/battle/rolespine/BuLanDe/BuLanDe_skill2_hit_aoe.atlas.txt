@@ -1,0 +1,153 @@
+
+BuLanDe_skill2_hit_aoe.png
+size: 467,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/baodian1
+  rotate: false
+  xy: 287, 63
+  size: 89, 54
+  orig: 96, 58
+  offset: 3, 2
+  index: -1
+tx/dian2_010
+  rotate: false
+  xy: 114, 2
+  size: 111, 69
+  orig: 121, 73
+  offset: 5, 0
+  index: -1
+tx/dian2_011
+  rotate: true
+  xy: 287, 119
+  size: 98, 97
+  orig: 110, 104
+  offset: 7, 1
+  index: -1
+tx/dian2_012
+  rotate: false
+  xy: 357, 341
+  size: 108, 140
+  orig: 119, 146
+  offset: 5, 1
+  index: -1
+tx/dian2_013
+  rotate: false
+  xy: 2, 158
+  size: 104, 152
+  orig: 116, 159
+  offset: 5, 1
+  index: -1
+tx/dian2_014
+  rotate: false
+  xy: 2, 312
+  size: 114, 169
+  orig: 123, 176
+  offset: 7, 1
+  index: -1
+tx/dian2_015
+  rotate: true
+  xy: 114, 73
+  size: 113, 108
+  orig: 123, 121
+  offset: 9, 5
+  index: -1
+tx/dian2_016
+  rotate: false
+  xy: 386, 135
+  size: 73, 101
+  orig: 82, 103
+  offset: 7, 1
+  index: -1
+tx/sj1_000
+  rotate: true
+  xy: 386, 64
+  size: 69, 75
+  orig: 70, 75
+  offset: 1, 0
+  index: -1
+tx/sj1_001
+  rotate: true
+  xy: 277, 219
+  size: 110, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+tx/sj1_002
+  rotate: true
+  xy: 108, 188
+  size: 122, 87
+  orig: 123, 87
+  offset: 0, 0
+  index: -1
+tx/sj1_003
+  rotate: true
+  xy: 197, 203
+  size: 116, 78
+  orig: 117, 78
+  offset: 1, 0
+  index: -1
+tx/sj1_004
+  rotate: true
+  xy: 224, 87
+  size: 114, 61
+  orig: 114, 62
+  offset: 0, 1
+  index: -1
+tx/sj2_021
+  rotate: true
+  xy: 227, 20
+  size: 65, 58
+  orig: 72, 65
+  offset: 4, 3
+  index: -1
+tx/sj2_022
+  rotate: true
+  xy: 368, 238
+  size: 101, 95
+  orig: 111, 105
+  offset: 5, 5
+  index: -1
+tx/sj2_023
+  rotate: false
+  xy: 2, 20
+  size: 110, 136
+  orig: 120, 146
+  offset: 6, 5
+  index: -1
+tx/sj2_024
+  rotate: false
+  xy: 238, 331
+  size: 117, 150
+  orig: 127, 160
+  offset: 5, 5
+  index: -1
+tx/sj2_025
+  rotate: false
+  xy: 118, 321
+  size: 118, 160
+  orig: 128, 170
+  offset: 5, 5
+  index: -1
+tx/suipian_022
+  rotate: false
+  xy: 287, 27
+  size: 39, 34
+  orig: 41, 36
+  offset: 1, 1
+  index: -1
+tx/suipian_023
+  rotate: true
+  xy: 328, 5
+  size: 25, 41
+  orig: 27, 43
+  offset: 1, 1
+  index: -1
+tx/suipian_024
+  rotate: true
+  xy: 328, 32
+  size: 29, 38
+  orig: 31, 40
+  offset: 1, 1
+  index: -1

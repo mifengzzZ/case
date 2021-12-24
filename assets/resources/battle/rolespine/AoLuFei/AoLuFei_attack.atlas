@@ -1,0 +1,76 @@
+
+AoLuFei_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/d01
+  rotate: true
+  xy: 305, 177
+  size: 333, 181
+  orig: 333, 181
+  offset: 0, 0
+  index: -1
+images/tx/d02
+  rotate: false
+  xy: 2, 54
+  size: 286, 215
+  orig: 286, 215
+  offset: 0, 0
+  index: -1
+images/tx/d03
+  rotate: false
+  xy: 2, 271
+  size: 301, 239
+  orig: 301, 239
+  offset: 0, 0
+  index: -1
+images/tx/lizi1
+  rotate: true
+  xy: 42, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: false
+  xy: 392, 143
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+images/tx/lizi3
+  rotate: false
+  xy: 42, 20
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/tx/m
+  rotate: false
+  xy: 290, 83
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+images/tx/o
+  rotate: false
+  xy: 488, 468
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+images/tx/p
+  rotate: true
+  xy: 290, 61
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+images/tx/q
+  rotate: false
+  xy: 2, 8
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+BuLanDe.png
+size: 403,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BuLanDe_Arm_L
+  rotate: false
+  xy: 154, 17
+  size: 30, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+BuLanDe_Arm_R
+  rotate: false
+  xy: 375, 144
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+BuLanDe_Belt_B
+  rotate: false
+  xy: 152, 217
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+BuLanDe_Belt_L
+  rotate: true
+  xy: 116, 4
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+BuLanDe_Belt_R
+  rotate: false
+  xy: 397, 132
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+BuLanDe_Body
+  rotate: false
+  xy: 350, 198
+  size: 39, 67
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+BuLanDe_Calf_L
+  rotate: true
+  xy: 101, 51
+  size: 27, 78
+  orig: 27, 78
+  offset: 0, 0
+  index: -1
+BuLanDe_Calf_R
+  rotate: true
+  xy: 290, 47
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+BuLanDe_Claok_B
+  rotate: false
+  xy: 2, 212
+  size: 148, 174
+  orig: 148, 174
+  offset: 0, 0
+  index: -1
+BuLanDe_Eyelid_L
+  rotate: false
+  xy: 181, 52
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+BuLanDe_Eyelid_R
+  rotate: false
+  xy: 286, 168
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+BuLanDe_Forearm_L
+  rotate: false
+  xy: 350, 172
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+BuLanDe_Forearm_R
+  rotate: false
+  xy: 251, 20
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+BuLanDe_Hair_Lf
+  rotate: false
+  xy: 336, 2
+  size: 12, 43
+  orig: 12, 45
+  offset: 0, 0
+  index: -1
+BuLanDe_Hair_Rf
+  rotate: true
+  xy: 224, 4
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+BuLanDe_Hair_T
+  rotate: true
+  xy: 186, 8
+  size: 34, 36
+  orig: 34, 39
+  offset: 0, 3
+  index: -1
+BuLanDe_Hand_L
+  rotate: false
+  xy: 375, 130
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+BuLanDe_Hand_R
+  rotate: true
+  xy: 350, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+BuLanDe_Hand_RF
+  rotate: true
+  xy: 391, 233
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+BuLanDe_Hat
+  rotate: false
+  xy: 350, 14
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+BuLanDe_Head
+  rotate: false
+  xy: 224, 12
+  size: 25, 30
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck
+  rotate: true
+  xy: 99, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_B
+  rotate: false
+  xy: 99, 17
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_Ba
+  rotate: false
+  xy: 181, 59
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_Bb
+  rotate: false
+  xy: 366, 350
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_Bc
+  rotate: false
+  xy: 366, 364
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_Bd
+  rotate: false
+  xy: 391, 246
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_L
+  rotate: true
+  xy: 382, 185
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_LB
+  rotate: true
+  xy: 145, 6
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_Lf
+  rotate: true
+  xy: 290, 2
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+BuLanDe_Neck_RB
+  rotate: true
+  xy: 251, 2
+  size: 16, 33
+  orig: 22, 34
+  offset: 1, 1
+  index: -1
+BuLanDe_Neck_Rf
+  rotate: true
+  xy: 382, 167
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+BuLanDe_Thigh_L
+  rotate: false
+  xy: 375, 307
+  size: 26, 79
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+BuLanDe_Thigh_R
+  rotate: true
+  xy: 337, 267
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+BuLanDe_Weapon_R
+  rotate: true
+  xy: 152, 261
+  size: 46, 183
+  orig: 46, 183
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 397, 148
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/dggy
+  rotate: true
+  xy: 152, 309
+  size: 77, 212
+  orig: 83, 220
+  offset: 3, 4
+  index: -1
+tx/dian1_020
+  rotate: false
+  xy: 2, 3
+  size: 95, 59
+  orig: 104, 63
+  offset: 5, 0
+  index: -1
+tx/dian1_021
+  rotate: true
+  xy: 290, 86
+  size: 84, 83
+  orig: 95, 89
+  offset: 6, 1
+  index: -1
+tx/dian1_022
+  rotate: false
+  xy: 191, 139
+  size: 93, 120
+  orig: 103, 125
+  offset: 5, 1
+  index: -1
+tx/dian1_023
+  rotate: false
+  xy: 101, 80
+  size: 88, 130
+  orig: 100, 136
+  offset: 5, 1
+  index: -1
+tx/dian1_024
+  rotate: false
+  xy: 2, 64
+  size: 97, 146
+  orig: 105, 151
+  offset: 6, 1
+  index: -1
+tx/dian1_025
+  rotate: false
+  xy: 191, 44
+  size: 97, 93
+  orig: 106, 104
+  offset: 8, 4
+  index: -1
+tx/dian1_026
+  rotate: false
+  xy: 286, 172
+  size: 62, 87
+  orig: 70, 89
+  offset: 6, 1
+  index: -1

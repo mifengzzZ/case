@@ -1,0 +1,20 @@
+
+AnLaAnNi_skill1_screen.png
+size: 80,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy6
+  rotate: false
+  xy: 2, 2
+  size: 42, 41
+  orig: 45, 48
+  offset: 2, 4
+  index: -1
+tx/mask
+  rotate: false
+  xy: 46, 11
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

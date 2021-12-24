@@ -1,0 +1,265 @@
+
+buff_shanghaidun.png
+size: 787,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dun1
+  rotate: false
+  xy: 2, 436
+  size: 98, 206
+  orig: 98, 206
+  offset: 0, 0
+  index: -1
+images/dun2_002
+  rotate: true
+  xy: 460, 270
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+images/dun2_004
+  rotate: false
+  xy: 460, 9
+  size: 80, 109
+  orig: 80, 109
+  offset: 0, 0
+  index: -1
+images/dun2_006
+  rotate: false
+  xy: 375, 2
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+images/dun2_008
+  rotate: true
+  xy: 655, 112
+  size: 85, 122
+  orig: 85, 122
+  offset: 0, 0
+  index: -1
+images/dun2_010
+  rotate: false
+  xy: 566, 5
+  size: 87, 132
+  orig: 87, 132
+  offset: 0, 0
+  index: -1
+images/dun2_012
+  rotate: true
+  xy: 641, 199
+  size: 88, 143
+  orig: 88, 143
+  offset: 0, 0
+  index: -1
+images/dun2_014
+  rotate: false
+  xy: 381, 489
+  size: 88, 153
+  orig: 88, 153
+  offset: 0, 0
+  index: -1
+images/dun2_016
+  rotate: false
+  xy: 370, 266
+  size: 88, 182
+  orig: 88, 182
+  offset: 0, 0
+  index: -1
+images/dun2_018
+  rotate: false
+  xy: 285, 61
+  size: 88, 188
+  orig: 88, 188
+  offset: 0, 0
+  index: -1
+images/dun2_020
+  rotate: false
+  xy: 289, 450
+  size: 90, 192
+  orig: 90, 192
+  offset: 0, 0
+  index: -1
+images/dun2_022
+  rotate: false
+  xy: 196, 447
+  size: 91, 195
+  orig: 91, 195
+  offset: 0, 0
+  index: -1
+images/dun2_024
+  rotate: false
+  xy: 190, 31
+  size: 93, 199
+  orig: 93, 199
+  offset: 0, 0
+  index: -1
+images/dun2_026
+  rotate: false
+  xy: 2, 232
+  size: 94, 202
+  orig: 94, 202
+  offset: 0, 0
+  index: -1
+images/dun2_028
+  rotate: false
+  xy: 2, 28
+  size: 94, 202
+  orig: 94, 202
+  offset: 0, 0
+  index: -1
+images/dun2_030
+  rotate: false
+  xy: 98, 232
+  size: 93, 202
+  orig: 93, 202
+  offset: 0, 0
+  index: -1
+images/dun2_032
+  rotate: false
+  xy: 102, 440
+  size: 92, 202
+  orig: 92, 202
+  offset: 0, 0
+  index: -1
+images/dun2_034
+  rotate: false
+  xy: 98, 28
+  size: 90, 202
+  orig: 90, 202
+  offset: 0, 0
+  index: -1
+images/dun2_036
+  rotate: false
+  xy: 193, 239
+  size: 87, 199
+  orig: 87, 199
+  offset: 0, 0
+  index: -1
+images/dun2_038
+  rotate: false
+  xy: 282, 251
+  size: 86, 194
+  orig: 86, 194
+  offset: 0, 0
+  index: -1
+images/dun2_040
+  rotate: false
+  xy: 556, 283
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+images/dun2_042
+  rotate: true
+  xy: 285, 20
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+images/zaobo1_000
+  rotate: false
+  xy: 503, 124
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_002
+  rotate: false
+  xy: 471, 498
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_004
+  rotate: false
+  xy: 660, 498
+  size: 60, 144
+  orig: 60, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_006
+  rotate: false
+  xy: 713, 352
+  size: 60, 144
+  orig: 60, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_008
+  rotate: false
+  xy: 524, 352
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_010
+  rotate: false
+  xy: 375, 120
+  size: 62, 144
+  orig: 62, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_012
+  rotate: false
+  xy: 439, 120
+  size: 62, 144
+  orig: 62, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_014
+  rotate: false
+  xy: 566, 139
+  size: 61, 142
+  orig: 61, 142
+  offset: 0, 0
+  index: -1
+images/zaobo1_016
+  rotate: false
+  xy: 722, 499
+  size: 61, 143
+  orig: 61, 143
+  offset: 0, 0
+  index: -1
+images/zaobo1_018
+  rotate: false
+  xy: 534, 498
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_020
+  rotate: false
+  xy: 587, 352
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_022
+  rotate: false
+  xy: 460, 343
+  size: 62, 144
+  orig: 62, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_024
+  rotate: false
+  xy: 597, 498
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_026
+  rotate: true
+  xy: 641, 289
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1
+images/zaobo1_028
+  rotate: false
+  xy: 650, 352
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1

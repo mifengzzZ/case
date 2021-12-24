@@ -1,0 +1,174 @@
+
+QiQi_skill3_screen.png
+size: 509,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/mask3
+  rotate: false
+  xy: 143, 98
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tx/quanping_113
+  rotate: false
+  xy: 143, 2
+  size: 88, 19
+  orig: 88, 19
+  offset: 0, 0
+  index: -1
+tx/quanping_114
+  rotate: true
+  xy: 446, 369
+  size: 125, 60
+  orig: 125, 60
+  offset: 0, 0
+  index: -1
+tx/quanping_115
+  rotate: false
+  xy: 150, 260
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+tx/quanping_116
+  rotate: false
+  xy: 2, 417
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_117
+  rotate: false
+  xy: 2, 338
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_118
+  rotate: false
+  xy: 150, 417
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_119
+  rotate: false
+  xy: 2, 259
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_120
+  rotate: false
+  xy: 298, 338
+  size: 143, 77
+  orig: 143, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_121
+  rotate: false
+  xy: 150, 338
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_122
+  rotate: false
+  xy: 2, 101
+  size: 142, 77
+  orig: 142, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_123
+  rotate: false
+  xy: 298, 417
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_124
+  rotate: false
+  xy: 2, 180
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_125
+  rotate: false
+  xy: 150, 181
+  size: 142, 77
+  orig: 142, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_126
+  rotate: false
+  xy: 150, 102
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_127
+  rotate: false
+  xy: 2, 22
+  size: 139, 77
+  orig: 139, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_128
+  rotate: false
+  xy: 296, 259
+  size: 139, 77
+  orig: 139, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_129
+  rotate: false
+  xy: 294, 180
+  size: 139, 77
+  orig: 139, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_130
+  rotate: false
+  xy: 290, 101
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_131
+  rotate: false
+  xy: 146, 23
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_132
+  rotate: true
+  xy: 430, 46
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_133
+  rotate: false
+  xy: 286, 22
+  size: 136, 77
+  orig: 136, 77
+  offset: 0, 0
+  index: -1
+tx/quanping_134
+  rotate: true
+  xy: 437, 200
+  size: 136, 55
+  orig: 136, 55
+  offset: 0, 0
+  index: -1
+tx/quanping_135
+  rotate: false
+  xy: 2, 2
+  size: 108, 18
+  orig: 108, 18
+  offset: 0, 0
+  index: -1

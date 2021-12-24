@@ -1,0 +1,356 @@
+
+AKaSa.png
+size: 341,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AKaSa_Arm_L
+  rotate: true
+  xy: 219, 75
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+AKaSa_Arm_R
+  rotate: false
+  xy: 315, 225
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+AKaSa_Body
+  rotate: false
+  xy: 197, 114
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+AKaSa_Calf_L
+  rotate: false
+  xy: 98, 22
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+AKaSa_Calf_R
+  rotate: true
+  xy: 250, 103
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+AKaSa_Cloak_LB
+  rotate: false
+  xy: 92, 171
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+AKaSa_Cloak_LT
+  rotate: false
+  xy: 2, 165
+  size: 88, 97
+  orig: 88, 97
+  offset: 0, 0
+  index: -1
+AKaSa_Cloak_RB
+  rotate: false
+  xy: 162, 189
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+AKaSa_Cloak_RT
+  rotate: false
+  xy: 148, 89
+  size: 47, 80
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+AKaSa_Eyelid
+  rotate: true
+  xy: 315, 214
+  size: 9, 7
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+AKaSa_Foot_L
+  rotate: true
+  xy: 250, 87
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+AKaSa_Foot_Lt
+  rotate: true
+  xy: 318, 24
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+AKaSa_Foot_R
+  rotate: false
+  xy: 292, 73
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+AKaSa_Foot_Rt
+  rotate: true
+  xy: 321, 2
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+AKaSa_Forearm_L
+  rotate: true
+  xy: 324, 185
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+AKaSa_Forearm_R
+  rotate: false
+  xy: 267, 17
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_F
+  rotate: false
+  xy: 324, 103
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_FL
+  rotate: true
+  xy: 189, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_LB
+  rotate: true
+  xy: 60, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_LF
+  rotate: false
+  xy: 299, 42
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_RB
+  rotate: true
+  xy: 318, 36
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_RF
+  rotate: true
+  xy: 250, 75
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_RFf
+  rotate: false
+  xy: 247, 2
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+AKaSa_Hair_T
+  rotate: true
+  xy: 314, 150
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+AKaSa_Hand_L
+  rotate: true
+  xy: 324, 116
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+AKaSa_Hand_Lb
+  rotate: true
+  xy: 315, 203
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+AKaSa_Hand_R
+  rotate: false
+  xy: 230, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+AKaSa_Hand_Rb
+  rotate: false
+  xy: 88, 6
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+AKaSa_Hat
+  rotate: false
+  xy: 162, 171
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+AKaSa_Head
+  rotate: false
+  xy: 267, 36
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+AKaSa_Iron
+  rotate: false
+  xy: 88, 48
+  size: 8, 115
+  orig: 8, 126
+  offset: 0, 5
+  index: -1
+AKaSa_Neck
+  rotate: true
+  xy: 211, 2
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+AKaSa_Neck_B
+  rotate: false
+  xy: 299, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+AKaSa_Neck_F
+  rotate: false
+  xy: 333, 139
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+AKaSa_Neck_L
+  rotate: true
+  xy: 60, 23
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+AKaSa_Neck_R
+  rotate: true
+  xy: 314, 137
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+AKaSa_Paw_LB
+  rotate: true
+  xy: 321, 13
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+AKaSa_Paw_LT
+  rotate: false
+  xy: 197, 89
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+AKaSa_Paw_RB
+  rotate: true
+  xy: 274, 79
+  size: 6, 16
+  orig: 6, 17
+  offset: 0, 1
+  index: -1
+AKaSa_Paw_RT
+  rotate: false
+  xy: 299, 18
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+AKaSa_Scapula_R
+  rotate: false
+  xy: 318, 50
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+AKaSa_Thigh_L
+  rotate: false
+  xy: 152, 12
+  size: 35, 75
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+AKaSa_Thigh_R
+  rotate: true
+  xy: 212, 17
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+AKaSa_Weapon_La
+  rotate: true
+  xy: 2, 70
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+AKaSa_Weapon_R
+  rotate: false
+  xy: 189, 17
+  size: 21, 70
+  orig: 21, 70
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 255, 11
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/AKaSa_Weapon_R
+  rotate: false
+  xy: 98, 80
+  size: 48, 89
+  orig: 53, 96
+  offset: 2, 4
+  index: -1
+tx/AKaSa_pose1
+  rotate: false
+  xy: 250, 135
+  size: 62, 62
+  orig: 82, 80
+  offset: 10, 9
+  index: -1
+tx/AKaSa_pose2
+  rotate: false
+  xy: 2, 2
+  size: 56, 66
+  orig: 74, 85
+  offset: 9, 9
+  index: -1
+tx/AKaSa_pose3
+  rotate: true
+  xy: 237, 199
+  size: 63, 76
+  orig: 81, 94
+  offset: 9, 9
+  index: -1

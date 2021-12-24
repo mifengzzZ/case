@@ -1,0 +1,153 @@
+
+LuoSi_skill1_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/2a01
+  rotate: false
+  xy: 128, 9
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+images/tx/2a02
+  rotate: false
+  xy: 2, 385
+  size: 142, 125
+  orig: 142, 125
+  offset: 0, 0
+  index: -1
+images/tx/2a03
+  rotate: false
+  xy: 2, 17
+  size: 124, 72
+  orig: 124, 72
+  offset: 0, 0
+  index: -1
+images/tx/2a04
+  rotate: false
+  xy: 395, 105
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+images/tx/2c01
+  rotate: true
+  xy: 2, 238
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c02
+  rotate: false
+  xy: 146, 389
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c03
+  rotate: true
+  xy: 2, 91
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c04
+  rotate: false
+  xy: 293, 389
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c05
+  rotate: true
+  xy: 125, 238
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c06
+  rotate: true
+  xy: 125, 91
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c07
+  rotate: false
+  xy: 248, 266
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c08
+  rotate: false
+  xy: 248, 143
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2c09
+  rotate: false
+  xy: 248, 20
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+images/tx/2d01
+  rotate: true
+  xy: 395, 258
+  size: 129, 34
+  orig: 129, 34
+  offset: 0, 0
+  index: -1
+images/tx/2d02
+  rotate: true
+  xy: 395, 127
+  size: 129, 34
+  orig: 129, 34
+  offset: 0, 0
+  index: -1
+images/tx/2d03
+  rotate: true
+  xy: 440, 381
+  size: 129, 34
+  orig: 129, 34
+  offset: 0, 0
+  index: -1
+images/tx/2d04
+  rotate: true
+  xy: 476, 381
+  size: 129, 34
+  orig: 129, 34
+  offset: 0, 0
+  index: -1
+images/tx/2h
+  rotate: false
+  xy: 431, 313
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+images/tx/3i
+  rotate: false
+  xy: 128, 61
+  size: 106, 28
+  orig: 106, 28
+  offset: 0, 0
+  index: -1
+images/tx/lizi1
+  rotate: false
+  xy: 2, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: false
+  xy: 236, 84
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+TaLuMoKeSi_attack.png
+size: 477,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_016
+  rotate: false
+  xy: 2, 256
+  size: 254, 217
+  orig: 254, 217
+  offset: 0, 0
+  index: -1
+tx/dg1_017
+  rotate: true
+  xy: 2, 2
+  size: 252, 217
+  orig: 252, 217
+  offset: 0, 0
+  index: -1
+tx/dg1_018
+  rotate: false
+  xy: 221, 5
+  size: 251, 217
+  orig: 251, 217
+  offset: 0, 0
+  index: -1
+tx/dg1_019
+  rotate: true
+  xy: 258, 224
+  size: 249, 217
+  orig: 249, 217
+  offset: 0, 0
+  index: -1

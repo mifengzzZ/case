@@ -1,0 +1,27 @@
+
+ShouHuZhiLong_skill4_screen_di.png
+size: 329,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/mask
+  rotate: false
+  xy: 212, 153
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+tx/s4_yun
+  rotate: false
+  xy: 2, 2
+  size: 208, 172
+  orig: 250, 185
+  offset: 27, 6
+  index: -1
+tx/xingkong
+  rotate: false
+  xy: 2, 176
+  size: 325, 333
+  orig: 333, 333
+  offset: 8, 0
+  index: -1

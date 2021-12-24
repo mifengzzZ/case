@@ -1,0 +1,83 @@
+
+MaAiEr_skill2_screen_di.png
+size: 1012,889
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 595
+  size: 479, 292
+  orig: 479, 292
+  offset: 0, 0
+  index: -1
+huo_018
+  rotate: false
+  xy: 483, 754
+  size: 524, 133
+  orig: 524, 133
+  offset: 0, 0
+  index: -1
+huo_019
+  rotate: true
+  xy: 138, 71
+  size: 522, 132
+  orig: 522, 132
+  offset: 0, 0
+  index: -1
+huo_020
+  rotate: false
+  xy: 483, 625
+  size: 515, 127
+  orig: 515, 127
+  offset: 0, 0
+  index: -1
+huo_021
+  rotate: true
+  xy: 2, 67
+  size: 526, 134
+  orig: 526, 134
+  offset: 0, 0
+  index: -1
+huo_022
+  rotate: true
+  xy: 809, 144
+  size: 479, 127
+  orig: 479, 127
+  offset: 0, 0
+  index: -1
+huo_023
+  rotate: false
+  xy: 539, 2
+  size: 471, 128
+  orig: 471, 128
+  offset: 0, 0
+  index: -1
+huo_024
+  rotate: true
+  xy: 407, 96
+  size: 497, 130
+  orig: 497, 130
+  offset: 0, 0
+  index: -1
+huo_025
+  rotate: true
+  xy: 675, 132
+  size: 491, 132
+  orig: 491, 132
+  offset: 0, 0
+  index: -1
+huo_026
+  rotate: true
+  xy: 539, 132
+  size: 491, 134
+  orig: 491, 134
+  offset: 0, 0
+  index: -1
+huo_027
+  rotate: true
+  xy: 272, 87
+  size: 506, 133
+  orig: 506, 133
+  offset: 0, 0
+  index: -1

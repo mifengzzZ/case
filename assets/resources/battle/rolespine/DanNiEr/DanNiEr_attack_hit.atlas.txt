@@ -1,0 +1,146 @@
+
+DanNiEr_attack_hit.png
+size: 436,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/fangkuai_000
+  rotate: false
+  xy: 299, 5
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+tx/fangkuai_001
+  rotate: false
+  xy: 368, 136
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 2, 198
+  size: 191, 191
+  orig: 220, 216
+  offset: 14, 13
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 362, 11
+  size: 64, 64
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+tx/huo1_000
+  rotate: false
+  xy: 388, 212
+  size: 27, 27
+  orig: 33, 33
+  offset: 3, 3
+  index: -1
+tx/huo1_001
+  rotate: false
+  xy: 394, 352
+  size: 34, 37
+  orig: 40, 41
+  offset: 3, 2
+  index: -1
+tx/huo1_002
+  rotate: true
+  xy: 388, 241
+  size: 45, 46
+  orig: 49, 50
+  offset: 2, 2
+  index: -1
+tx/huo1_003
+  rotate: false
+  xy: 374, 77
+  size: 54, 57
+  orig: 59, 61
+  offset: 3, 2
+  index: -1
+tx/huo1_004
+  rotate: false
+  xy: 300, 134
+  size: 66, 72
+  orig: 71, 76
+  offset: 3, 2
+  index: -1
+tx/huo1_005
+  rotate: false
+  xy: 195, 198
+  size: 82, 86
+  orig: 86, 90
+  offset: 2, 2
+  index: -1
+tx/huo1_006
+  rotate: true
+  xy: 2, 4
+  size: 89, 95
+  orig: 93, 99
+  offset: 2, 2
+  index: -1
+tx/huo1_007
+  rotate: false
+  xy: 104, 96
+  size: 95, 100
+  orig: 100, 104
+  offset: 3, 2
+  index: -1
+tx/huo1_008
+  rotate: false
+  xy: 195, 286
+  size: 97, 103
+  orig: 103, 107
+  offset: 3, 2
+  index: -1
+tx/huo1_009
+  rotate: false
+  xy: 294, 288
+  size: 98, 101
+  orig: 103, 105
+  offset: 3, 2
+  index: -1
+tx/huo1_010
+  rotate: false
+  xy: 2, 95
+  size: 100, 101
+  orig: 105, 106
+  offset: 2, 3
+  index: -1
+tx/huo1_011
+  rotate: true
+  xy: 201, 98
+  size: 98, 97
+  orig: 104, 104
+  offset: 3, 5
+  index: -1
+tx/huo1_012
+  rotate: true
+  xy: 201, 2
+  size: 94, 96
+  orig: 101, 100
+  offset: 4, 2
+  index: -1
+tx/huo1_013
+  rotate: false
+  xy: 104, 2
+  size: 80, 92
+  orig: 88, 97
+  offset: 6, 3
+  index: -1
+tx/huo1_014
+  rotate: true
+  xy: 294, 208
+  size: 78, 92
+  orig: 84, 97
+  offset: 4, 3
+  index: -1
+tx/huo1_015
+  rotate: false
+  xy: 300, 77
+  size: 72, 55
+  orig: 78, 59
+  offset: 4, 2
+  index: -1

@@ -1,0 +1,62 @@
+
+YiKaLuoSi_attack_hit.png
+size: 477,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 437, 466
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+tx/sj1_00012
+  rotate: true
+  xy: 282, 2
+  size: 99, 143
+  orig: 99, 143
+  offset: 0, 0
+  index: -1
+tx/sj1_00013
+  rotate: false
+  xy: 300, 246
+  size: 135, 257
+  orig: 135, 257
+  offset: 0, 0
+  index: -1
+tx/sj1_00014
+  rotate: false
+  xy: 2, 217
+  size: 144, 286
+  orig: 144, 286
+  offset: 0, 0
+  index: -1
+tx/sj1_00015
+  rotate: false
+  xy: 148, 246
+  size: 150, 257
+  orig: 150, 257
+  offset: 0, 0
+  index: -1
+tx/sj1_00016
+  rotate: true
+  xy: 148, 103
+  size: 141, 241
+  orig: 141, 241
+  offset: 0, 0
+  index: -1
+tx/sj1_00017
+  rotate: false
+  xy: 2, 9
+  size: 118, 206
+  orig: 118, 206
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: false
+  xy: 122, 5
+  size: 158, 96
+  orig: 158, 96
+  offset: 0, 0
+  index: -1

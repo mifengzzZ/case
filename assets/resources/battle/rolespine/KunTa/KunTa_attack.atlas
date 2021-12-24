@@ -1,0 +1,69 @@
+
+KunTa_attack.png
+size: 506,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_00
+  rotate: false
+  xy: 2, 275
+  size: 239, 230
+  orig: 239, 230
+  offset: 0, 0
+  index: -1
+tx/dg1_01
+  rotate: true
+  xy: 243, 349
+  size: 156, 244
+  orig: 156, 244
+  offset: 0, 0
+  index: -1
+tx/dg1_02
+  rotate: true
+  xy: 243, 219
+  size: 128, 233
+  orig: 128, 233
+  offset: 0, 0
+  index: -1
+tx/dg1_03
+  rotate: true
+  xy: 2, 148
+  size: 125, 211
+  orig: 125, 211
+  offset: 0, 0
+  index: -1
+tx/dg1_04
+  rotate: false
+  xy: 215, 21
+  size: 112, 196
+  orig: 112, 196
+  offset: 0, 0
+  index: -1
+tx/dg1_05
+  rotate: true
+  xy: 2, 35
+  size: 111, 186
+  orig: 111, 186
+  offset: 0, 0
+  index: -1
+tx/dg1_06
+  rotate: true
+  xy: 329, 120
+  size: 97, 128
+  orig: 97, 128
+  offset: 0, 0
+  index: -1
+tx/dg1_07
+  rotate: false
+  xy: 329, 2
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+tx/dg1_08
+  rotate: false
+  xy: 423, 18
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1

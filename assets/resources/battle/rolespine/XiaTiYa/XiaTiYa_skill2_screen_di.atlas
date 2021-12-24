@@ -1,0 +1,174 @@
+
+XiaTiYa_skill2_screen_di.png
+size: 998,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 811
+  size: 433, 198
+  orig: 433, 198
+  offset: 0, 0
+  index: -1
+tx/quanping1_031
+  rotate: false
+  xy: 793, 435
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+tx/quanping1_032
+  rotate: true
+  xy: 408, 599
+  size: 210, 163
+  orig: 210, 163
+  offset: 0, 0
+  index: -1
+tx/quanping1_033
+  rotate: true
+  xy: 843, 801
+  size: 208, 151
+  orig: 208, 151
+  offset: 0, 0
+  index: -1
+tx/zaobo1_005
+  rotate: false
+  xy: 2, 422
+  size: 201, 192
+  orig: 201, 192
+  offset: 0, 0
+  index: -1
+tx/zaobo1_007
+  rotate: false
+  xy: 205, 617
+  size: 201, 192
+  orig: 201, 192
+  offset: 0, 0
+  index: -1
+tx/zaobo1_009
+  rotate: false
+  xy: 204, 229
+  size: 201, 191
+  orig: 201, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_011
+  rotate: true
+  xy: 407, 396
+  size: 201, 191
+  orig: 201, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_013
+  rotate: false
+  xy: 407, 204
+  size: 201, 190
+  orig: 201, 190
+  offset: 0, 0
+  index: -1
+tx/zaobo1_015
+  rotate: true
+  xy: 573, 613
+  size: 201, 190
+  orig: 201, 190
+  offset: 0, 0
+  index: -1
+tx/zaobo1_017
+  rotate: false
+  xy: 389, 11
+  size: 201, 191
+  orig: 201, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_019
+  rotate: true
+  xy: 600, 410
+  size: 201, 191
+  orig: 201, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_021
+  rotate: true
+  xy: 610, 207
+  size: 201, 191
+  orig: 201, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_023
+  rotate: false
+  xy: 640, 817
+  size: 201, 192
+  orig: 201, 192
+  offset: 0, 0
+  index: -1
+tx/zaobo1_025
+  rotate: false
+  xy: 2, 227
+  size: 200, 193
+  orig: 200, 193
+  offset: 0, 0
+  index: -1
+tx/zaobo1_027
+  rotate: false
+  xy: 205, 422
+  size: 200, 193
+  orig: 200, 193
+  offset: 0, 0
+  index: -1
+tx/zaobo1_029
+  rotate: true
+  xy: 803, 600
+  size: 199, 193
+  orig: 199, 193
+  offset: 0, 0
+  index: -1
+tx/zaobo1_031
+  rotate: true
+  xy: 803, 234
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+tx/zaobo1_033
+  rotate: true
+  xy: 610, 7
+  size: 198, 191
+  orig: 198, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_035
+  rotate: true
+  xy: 803, 33
+  size: 199, 192
+  orig: 199, 192
+  offset: 0, 0
+  index: -1
+tx/zaobo1_037
+  rotate: true
+  xy: 196, 2
+  size: 200, 191
+  orig: 200, 191
+  offset: 0, 0
+  index: -1
+tx/zaobo1_039
+  rotate: true
+  xy: 2, 24
+  size: 201, 192
+  orig: 201, 192
+  offset: 0, 0
+  index: -1
+tx/zaobo1_041
+  rotate: false
+  xy: 2, 616
+  size: 201, 193
+  orig: 201, 193
+  offset: 0, 0
+  index: -1
+tx/zaobo1_043
+  rotate: false
+  xy: 437, 816
+  size: 201, 193
+  orig: 201, 193
+  offset: 0, 0
+  index: -1

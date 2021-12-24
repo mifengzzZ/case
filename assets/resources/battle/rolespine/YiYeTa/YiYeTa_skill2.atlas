@@ -1,0 +1,104 @@
+
+YiYeTa_skill2.png
+size: 475,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_gy1
+  rotate: false
+  xy: 423, 231
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+tx/chushou_006
+  rotate: false
+  xy: 2, 27
+  size: 236, 143
+  orig: 236, 143
+  offset: 0, 0
+  index: -1
+tx/chushou_007
+  rotate: false
+  xy: 2, 172
+  size: 366, 133
+  orig: 366, 133
+  offset: 0, 0
+  index: -1
+tx/chushou_008
+  rotate: false
+  xy: 2, 307
+  size: 396, 130
+  orig: 396, 130
+  offset: 0, 0
+  index: -1
+tx/chushou_009
+  rotate: false
+  xy: 240, 64
+  size: 231, 106
+  orig: 231, 106
+  offset: 0, 0
+  index: -1
+tx/dian2_007
+  rotate: true
+  xy: 414, 13
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+tx/dian2_010
+  rotate: false
+  xy: 370, 194
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+tx/dian2_012
+  rotate: false
+  xy: 400, 387
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+tx/dian2_015
+  rotate: false
+  xy: 286, 14
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+tx/dian2_017
+  rotate: true
+  xy: 240, 2
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+tx/dian2_020
+  rotate: false
+  xy: 351, 14
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+tx/dian2_024
+  rotate: false
+  xy: 400, 335
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+tx/dian2_026
+  rotate: true
+  xy: 370, 250
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+tx/dian2_029
+  rotate: false
+  xy: 422, 279
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1

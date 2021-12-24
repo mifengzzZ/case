@@ -1,0 +1,167 @@
+
+AKaSa_attack_hit.png
+size: 481,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/agy1
+  rotate: false
+  xy: 130, 191
+  size: 139, 84
+  orig: 139, 84
+  offset: 0, 0
+  index: -1
+tx/agy2
+  rotate: true
+  xy: 2, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+tx/agy3
+  rotate: false
+  xy: 391, 152
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+tx/asj1_001
+  rotate: false
+  xy: 306, 96
+  size: 83, 109
+  orig: 83, 109
+  offset: 0, 0
+  index: -1
+tx/asj1_002
+  rotate: false
+  xy: 2, 41
+  size: 121, 212
+  orig: 121, 212
+  offset: 0, 0
+  index: -1
+tx/asj1_003
+  rotate: false
+  xy: 2, 255
+  size: 126, 240
+  orig: 126, 240
+  offset: 0, 0
+  index: -1
+tx/asj1_004
+  rotate: false
+  xy: 130, 277
+  size: 131, 218
+  orig: 131, 218
+  offset: 0, 0
+  index: -1
+tx/asj1_005
+  rotate: false
+  xy: 263, 295
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+tx/asj1_006
+  rotate: false
+  xy: 381, 329
+  size: 70, 166
+  orig: 70, 166
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 313, 4
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 45, 7
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tx/sj1_015
+  rotate: true
+  xy: 405, 5
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+tx/sj1_016
+  rotate: true
+  xy: 216, 7
+  size: 79, 95
+  orig: 79, 95
+  offset: 0, 0
+  index: -1
+tx/sj1_017
+  rotate: true
+  xy: 271, 207
+  size: 86, 107
+  orig: 86, 107
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: false
+  xy: 125, 81
+  size: 88, 108
+  orig: 88, 108
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 215, 88
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 391, 233
+  size: 88, 94
+  orig: 88, 94
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 125, 2
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: true
+  xy: 405, 64
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+tx/suipian_1_014
+  rotate: true
+  xy: 453, 468
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+tx/suipian_1_015
+  rotate: false
+  xy: 453, 446
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+tx/suipian_1_016
+  rotate: true
+  xy: 271, 191
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+tx/suipian_1_017
+  rotate: false
+  xy: 79, 15
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

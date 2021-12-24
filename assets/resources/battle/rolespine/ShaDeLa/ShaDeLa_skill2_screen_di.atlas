@@ -1,0 +1,13 @@
+
+ShaDeLa_skill2_screen_di.png
+size: 663,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 2
+  size: 659, 868
+  orig: 659, 868
+  offset: 0, 0
+  index: -1

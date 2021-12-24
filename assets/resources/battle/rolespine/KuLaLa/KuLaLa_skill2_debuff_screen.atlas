@@ -1,0 +1,20 @@
+
+KuLaLa_skill2_debuff_screen.png
+size: 923,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/kuang1
+  rotate: false
+  xy: 2, 2
+  size: 645, 656
+  orig: 645, 656
+  offset: 0, 0
+  index: -1
+tx/kuang2
+  rotate: true
+  xy: 649, 72
+  size: 586, 272
+  orig: 586, 272
+  offset: 0, 0
+  index: -1

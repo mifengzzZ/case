@@ -1,0 +1,146 @@
+
+xiao_skill2.png
+size: 504,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/baodian1
+  rotate: false
+  xy: 369, 201
+  size: 133, 81
+  orig: 133, 81
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: true
+  xy: 34, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 47, 255
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+tx/gz1
+  rotate: false
+  xy: 82, 264
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+tx/quan1
+  rotate: false
+  xy: 369, 71
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+tx/xian2_00050
+  rotate: true
+  xy: 68, 6
+  size: 43, 142
+  orig: 43, 142
+  offset: 0, 0
+  index: -1
+tx/xian2_00051
+  rotate: false
+  xy: 2, 255
+  size: 43, 248
+  orig: 43, 248
+  offset: 0, 0
+  index: -1
+tx/xian2_00052
+  rotate: false
+  xy: 2, 11
+  size: 30, 242
+  orig: 30, 242
+  offset: 0, 0
+  index: -1
+tx/xian2_00053
+  rotate: false
+  xy: 34, 37
+  size: 23, 216
+  orig: 23, 216
+  offset: 0, 0
+  index: -1
+tx/xian2_00054
+  rotate: false
+  xy: 47, 289
+  size: 24, 214
+  orig: 24, 214
+  offset: 0, 0
+  index: -1
+tx/xian2_00055
+  rotate: true
+  xy: 113, 279
+  size: 18, 128
+  orig: 18, 128
+  offset: 0, 0
+  index: -1
+tx/xian6_00056
+  rotate: true
+  xy: 185, 302
+  size: 201, 110
+  orig: 201, 110
+  offset: 0, 0
+  index: -1
+tx/xian6_00057
+  rotate: true
+  xy: 73, 299
+  size: 204, 110
+  orig: 204, 110
+  offset: 0, 0
+  index: -1
+tx/xian6_00058
+  rotate: true
+  xy: 59, 51
+  size: 202, 110
+  orig: 202, 110
+  offset: 0, 0
+  index: -1
+tx/xian6_00059
+  rotate: false
+  xy: 297, 393
+  size: 200, 110
+  orig: 200, 110
+  offset: 0, 0
+  index: -1
+tx/xian6_00060
+  rotate: false
+  xy: 297, 284
+  size: 182, 107
+  orig: 182, 107
+  offset: 0, 0
+  index: -1
+tx/xian6_00061
+  rotate: true
+  xy: 171, 112
+  size: 165, 105
+  orig: 165, 105
+  offset: 0, 0
+  index: -1
+tx/xian6_00062
+  rotate: false
+  xy: 212, 10
+  size: 132, 100
+  orig: 132, 100
+  offset: 0, 0
+  index: -1
+tx/xian6_00063
+  rotate: true
+  xy: 278, 117
+  size: 165, 89
+  orig: 165, 89
+  offset: 0, 0
+  index: -1
+tx/xian6_00064
+  rotate: false
+  xy: 346, 3
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1

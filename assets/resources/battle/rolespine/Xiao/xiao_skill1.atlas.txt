@@ -1,0 +1,153 @@
+
+xiao_skill1.png
+size: 497,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_00050
+  rotate: false
+  xy: 322, 326
+  size: 142, 104
+  orig: 142, 107
+  offset: 0, 0
+  index: -1
+tx/dg1_00051
+  rotate: false
+  xy: 323, 144
+  size: 140, 104
+  orig: 142, 106
+  offset: 1, 0
+  index: -1
+tx/dg1_00052
+  rotate: false
+  xy: 117, 104
+  size: 115, 104
+  orig: 128, 106
+  offset: 13, 0
+  index: -1
+tx/dg1_00053
+  rotate: true
+  xy: 309, 95
+  size: 47, 84
+  orig: 51, 96
+  offset: 3, 9
+  index: -1
+tx/gy1
+  rotate: true
+  xy: 428, 112
+  size: 30, 31
+  orig: 31, 31
+  offset: 1, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 395, 111
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 466, 385
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+tx/sj1_00012
+  rotate: true
+  xy: 117, 29
+  size: 73, 105
+  orig: 82, 119
+  offset: 4, 6
+  index: -1
+tx/sj1_00013
+  rotate: false
+  xy: 116, 234
+  size: 103, 196
+  orig: 112, 213
+  offset: 4, 8
+  index: -1
+tx/sj1_00014
+  rotate: false
+  xy: 2, 209
+  size: 112, 221
+  orig: 120, 237
+  offset: 4, 8
+  index: -1
+tx/sj1_00015
+  rotate: false
+  xy: 2, 8
+  size: 113, 199
+  orig: 124, 213
+  offset: 4, 7
+  index: -1
+tx/sj1_00016
+  rotate: false
+  xy: 221, 246
+  size: 99, 184
+  orig: 117, 200
+  offset: 8, 9
+  index: -1
+tx/sj1_00017
+  rotate: true
+  xy: 322, 250
+  size: 74, 151
+  orig: 98, 171
+  offset: 13, 11
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 234, 87
+  size: 121, 73
+  orig: 131, 79
+  offset: 5, 3
+  index: -1
+tx/xian2_00050
+  rotate: true
+  xy: 322, 2
+  size: 40, 134
+  orig: 41, 136
+  offset: 1, 0
+  index: -1
+tx/xian2_00051
+  rotate: true
+  xy: 224, 44
+  size: 41, 231
+  orig: 41, 238
+  offset: 0, 4
+  index: -1
+tx/xian2_00052
+  rotate: false
+  xy: 465, 21
+  size: 29, 227
+  orig: 29, 232
+  offset: 0, 3
+  index: -1
+tx/xian2_00053
+  rotate: true
+  xy: 116, 210
+  size: 22, 205
+  orig: 22, 207
+  offset: 0, 0
+  index: -1
+tx/xian2_00054
+  rotate: true
+  xy: 117, 5
+  size: 22, 203
+  orig: 23, 205
+  offset: 1, 0
+  index: -1
+tx/xian2_00055
+  rotate: false
+  xy: 475, 266
+  size: 17, 117
+  orig: 17, 122
+  offset: 0, 1
+  index: -1
+tx/zhipian_00
+  rotate: true
+  xy: 466, 402
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+MiSi_skill2_aoe.png
+size: 496,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/10d01
+  rotate: false
+  xy: 2, 4
+  size: 113, 89
+  orig: 117, 94
+  offset: 2, 2
+  index: -1
+images/tx/10d02
+  rotate: false
+  xy: 2, 95
+  size: 155, 156
+  orig: 158, 160
+  offset: 2, 2
+  index: -1
+images/tx/10d03
+  rotate: true
+  xy: 2, 253
+  size: 180, 145
+  orig: 186, 151
+  offset: 2, 3
+  index: -1
+images/tx/8b01
+  rotate: false
+  xy: 260, 297
+  size: 99, 136
+  orig: 102, 141
+  offset: 1, 3
+  index: -1
+images/tx/8b02
+  rotate: false
+  xy: 159, 144
+  size: 113, 125
+  orig: 117, 130
+  offset: 2, 3
+  index: -1
+images/tx/8b03
+  rotate: false
+  xy: 149, 271
+  size: 109, 162
+  orig: 113, 167
+  offset: 2, 2
+  index: -1
+images/tx/8b04
+  rotate: false
+  xy: 117, 4
+  size: 110, 89
+  orig: 114, 94
+  offset: 2, 3
+  index: -1
+images/tx/8b05
+  rotate: true
+  xy: 311, 2
+  size: 32, 36
+  orig: 36, 41
+  offset: 2, 2
+  index: -1
+images/tx/8b06
+  rotate: true
+  xy: 159, 95
+  size: 47, 113
+  orig: 52, 118
+  offset: 3, 3
+  index: -1
+images/tx/f
+  rotate: false
+  xy: 229, 13
+  size: 80, 80
+  orig: 82, 80
+  offset: 1, 0
+  index: -1
+images/tx/q
+  rotate: false
+  xy: 274, 199
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+images/tx/q2
+  rotate: false
+  xy: 352, 29
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+images/tx/r
+  rotate: false
+  xy: 361, 312
+  size: 80, 52
+  orig: 80, 54
+  offset: 0, 2
+  index: -1
+images/tx/s
+  rotate: false
+  xy: 361, 366
+  size: 89, 67
+  orig: 96, 76
+  offset: 4, 6
+  index: -1
+images/tx/t1
+  rotate: true
+  xy: 359, 79
+  size: 57, 44
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+images/tx/t2
+  rotate: false
+  xy: 453, 6
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+images/tx/t3
+  rotate: true
+  xy: 405, 34
+  size: 53, 46
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+images/tx/v02
+  rotate: true
+  xy: 459, 135
+  size: 60, 30
+  orig: 91, 45
+  offset: 11, 0
+  index: -1
+images/tx/v03
+  rotate: true
+  xy: 456, 58
+  size: 75, 37
+  orig: 91, 45
+  offset: 4, 0
+  index: -1
+images/tx/v04
+  rotate: false
+  xy: 274, 96
+  size: 83, 40
+  orig: 91, 45
+  offset: 2, 0
+  index: -1
+images/tx/v05
+  rotate: true
+  xy: 443, 257
+  size: 88, 41
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+images/tx/v06
+  rotate: true
+  xy: 415, 172
+  size: 83, 42
+  orig: 91, 45
+  offset: 5, 0
+  index: -1
+images/tx/v07
+  rotate: true
+  xy: 452, 347
+  size: 86, 42
+  orig: 91, 45
+  offset: 4, 0
+  index: -1
+images/tx/v08
+  rotate: true
+  xy: 372, 224
+  size: 86, 41
+  orig: 91, 45
+  offset: 3, 0
+  index: -1
+images/tx/v09
+  rotate: true
+  xy: 372, 138
+  size: 84, 41
+  orig: 91, 45
+  offset: 3, 0
+  index: -1
+images/tx/v10
+  rotate: false
+  xy: 274, 157
+  size: 82, 40
+  orig: 91, 45
+  offset: 3, 1
+  index: -1
+images/tx/v11
+  rotate: true
+  xy: 415, 89
+  size: 81, 39
+  orig: 91, 45
+  offset: 3, 2
+  index: -1
+images/tx/v12
+  rotate: true
+  xy: 311, 36
+  size: 58, 39
+  orig: 91, 45
+  offset: 3, 2
+  index: -1
+images/tx/v13
+  rotate: true
+  xy: 459, 197
+  size: 58, 32
+  orig: 91, 45
+  offset: 3, 2
+  index: -1

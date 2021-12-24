@@ -1,0 +1,41 @@
+
+MiTaBi_hit.png
+size: 392,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_xuehua
+  rotate: false
+  xy: 325, 63
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/a_yanwu
+  rotate: false
+  xy: 259, 129
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 2, 2
+  size: 255, 253
+  orig: 255, 253
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 259, 62
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+tx/st1
+  rotate: false
+  xy: 259, 31
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1

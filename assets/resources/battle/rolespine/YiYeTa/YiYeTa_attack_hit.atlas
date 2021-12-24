@@ -1,0 +1,83 @@
+
+YiYeTa_attack_hit.png
+size: 496,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_gy1
+  rotate: false
+  xy: 407, 104
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tx/a_sj1
+  rotate: false
+  xy: 2, 12
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+tx/a_sj2
+  rotate: false
+  xy: 186, 81
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+tx/zha1_019
+  rotate: false
+  xy: 186, 384
+  size: 278, 86
+  orig: 278, 86
+  offset: 0, 0
+  index: -1
+tx/zha1_020
+  rotate: true
+  xy: 2, 172
+  size: 298, 92
+  orig: 298, 92
+  offset: 0, 0
+  index: -1
+tx/zha1_021
+  rotate: true
+  xy: 96, 177
+  size: 293, 88
+  orig: 293, 88
+  offset: 0, 0
+  index: -1
+tx/zha1_022
+  rotate: false
+  xy: 186, 302
+  size: 238, 80
+  orig: 238, 80
+  offset: 0, 0
+  index: -1
+tx/zha1_023
+  rotate: true
+  xy: 426, 165
+  size: 217, 68
+  orig: 217, 68
+  offset: 0, 0
+  index: -1
+tx/zha1_024
+  rotate: false
+  xy: 162, 14
+  size: 207, 65
+  orig: 207, 65
+  offset: 0, 0
+  index: -1
+tx/zha1_025
+  rotate: false
+  xy: 371, 40
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+tx/zha1_026
+  rotate: false
+  xy: 371, 2
+  size: 100, 36
+  orig: 100, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,335 @@
+
+DouDou.png
+size: 481,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DouDou_Arm_L
+  rotate: false
+  xy: 384, 32
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+DouDou_Arm_R
+  rotate: false
+  xy: 407, 28
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+DouDou_Belt
+  rotate: false
+  xy: 290, 2
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+DouDou_Belt_B
+  rotate: false
+  xy: 274, 6
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+DouDou_Belt_L
+  rotate: false
+  xy: 443, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+DouDou_Body
+  rotate: false
+  xy: 322, 62
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+DouDou_Calf_L
+  rotate: false
+  xy: 415, 95
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+DouDou_Calf_R
+  rotate: true
+  xy: 363, 66
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+DouDou_Chest
+  rotate: false
+  xy: 290, 19
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+DouDou_Cloth_B
+  rotate: false
+  xy: 325, 2
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+DouDou_Cloth_L
+  rotate: true
+  xy: 392, 9
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+DouDou_Cloth_R
+  rotate: true
+  xy: 342, 134
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+DouDou_Ear_L
+  rotate: false
+  xy: 212, 2
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+DouDou_Ear_R
+  rotate: false
+  xy: 345, 22
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+DouDou_Eyelid_L
+  rotate: false
+  xy: 430, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+DouDou_Eyelid_R
+  rotate: false
+  xy: 411, 2
+  size: 4, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+DouDou_Finger_R
+  rotate: true
+  xy: 199, 2
+  size: 9, 11
+  orig: 10, 13
+  offset: 1, 0
+  index: -1
+DouDou_Foot_L
+  rotate: false
+  xy: 363, 29
+  size: 19, 35
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+DouDou_Foot_R
+  rotate: false
+  xy: 451, 85
+  size: 28, 24
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+DouDou_Forearm_L
+  rotate: true
+  xy: 418, 83
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+DouDou_Forearm_Lb
+  rotate: true
+  xy: 418, 70
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+DouDou_Forearm_R
+  rotate: false
+  xy: 159, 2
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+DouDou_Hair_BL
+  rotate: false
+  xy: 259, 46
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+DouDou_Hair_BR
+  rotate: true
+  xy: 129, 13
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+DouDou_Hair_F
+  rotate: true
+  xy: 183, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+DouDou_Hair_FL
+  rotate: false
+  xy: 458, 56
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+DouDou_Hair_FR
+  rotate: true
+  xy: 231, 2
+  size: 7, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+DouDou_Hair_L
+  rotate: true
+  xy: 426, 32
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+DouDou_Hair_R
+  rotate: false
+  xy: 430, 11
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+DouDou_Hand_L
+  rotate: false
+  xy: 444, 50
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+DouDou_Hand_R
+  rotate: false
+  xy: 443, 6
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+DouDou_Hat
+  rotate: false
+  xy: 363, 2
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+DouDou_Head
+  rotate: false
+  xy: 259, 12
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+DouDou_Knee_L
+  rotate: false
+  xy: 231, 11
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+DouDou_Knee_R
+  rotate: false
+  xy: 322, 22
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+DouDou_Pelivs
+  rotate: false
+  xy: 259, 2
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+DouDou_Shield_B
+  rotate: true
+  xy: 129, 134
+  size: 80, 211
+  orig: 80, 211
+  offset: 0, 0
+  index: -1
+DouDou_Shield_Ba
+  rotate: true
+  xy: 129, 2
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+DouDou_Shield_Bb
+  rotate: true
+  xy: 452, 72
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+DouDou_Shield_Bs
+  rotate: false
+  xy: 453, 111
+  size: 26, 47
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+DouDou_Shield_F
+  rotate: false
+  xy: 2, 4
+  size: 125, 210
+  orig: 125, 210
+  offset: 0, 0
+  index: -1
+DouDou_Skirt_B
+  rotate: false
+  xy: 342, 144
+  size: 109, 70
+  orig: 109, 70
+  offset: 0, 0
+  index: -1
+DouDou_Skirt_L
+  rotate: false
+  xy: 129, 47
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+DouDou_Skirt_R
+  rotate: false
+  xy: 426, 46
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+DouDou_Thigh_L
+  rotate: false
+  xy: 453, 160
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+DouDou_Thigh_R
+  rotate: false
+  xy: 363, 89
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 392, 3
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

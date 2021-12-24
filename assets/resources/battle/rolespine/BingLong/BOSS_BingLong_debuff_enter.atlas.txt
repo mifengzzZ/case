@@ -1,0 +1,104 @@
+
+BOSS_BingLong_debuff_enter.png
+size: 484,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_xuehua
+  rotate: false
+  xy: 420, 69
+  size: 59, 58
+  orig: 65, 64
+  offset: 3, 3
+  index: -1
+tx/a_yanwu
+  rotate: false
+  xy: 2, 11
+  size: 120, 122
+  orig: 128, 126
+  offset: 6, 4
+  index: -1
+tx/baodian1
+  rotate: false
+  xy: 395, 336
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+tx/baodian2
+  rotate: true
+  xy: 420, 129
+  size: 60, 59
+  orig: 62, 62
+  offset: 1, 1
+  index: -1
+tx/feng1_011
+  rotate: true
+  xy: 124, 2
+  size: 152, 101
+  orig: 173, 112
+  offset: 14, 5
+  index: -1
+tx/feng1_012
+  rotate: false
+  xy: 196, 241
+  size: 157, 100
+  orig: 177, 112
+  offset: 13, 6
+  index: -1
+tx/feng1_013
+  rotate: false
+  xy: 2, 331
+  size: 192, 92
+  orig: 207, 105
+  offset: 7, 7
+  index: -1
+tx/feng1_014
+  rotate: false
+  xy: 196, 343
+  size: 197, 80
+  orig: 213, 95
+  offset: 8, 7
+  index: -1
+tx/feng1_015
+  rotate: true
+  xy: 2, 135
+  size: 194, 90
+  orig: 210, 104
+  offset: 8, 7
+  index: -1
+tx/feng1_016
+  rotate: true
+  xy: 94, 156
+  size: 173, 97
+  orig: 194, 110
+  offset: 9, 6
+  index: -1
+tx/feng1_017
+  rotate: true
+  xy: 355, 191
+  size: 143, 95
+  orig: 161, 110
+  offset: 10, 6
+  index: -1
+tx/feng1_018
+  rotate: false
+  xy: 193, 160
+  size: 142, 79
+  orig: 165, 91
+  offset: 13, 6
+  index: -1
+tx/feng1_019
+  rotate: true
+  xy: 330, 2
+  size: 156, 88
+  orig: 174, 101
+  offset: 10, 6
+  index: -1
+tx/feng1_020
+  rotate: true
+  xy: 227, 5
+  size: 153, 101
+  orig: 171, 114
+  offset: 12, 6
+  index: -1

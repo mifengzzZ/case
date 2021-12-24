@@ -1,0 +1,76 @@
+
+KunTa_attack_hit.png
+size: 420,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 357, 114
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: true
+  xy: 2, 48
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+tx/sj_00
+  rotate: true
+  xy: 96, 10
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+tx/sj_01
+  rotate: true
+  xy: 332, 19
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+tx/sj_02
+  rotate: false
+  xy: 283, 87
+  size: 72, 88
+  orig: 72, 88
+  offset: 0, 0
+  index: -1
+tx/sj_03
+  rotate: false
+  xy: 207, 74
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+tx/sj_04
+  rotate: false
+  xy: 130, 69
+  size: 75, 106
+  orig: 75, 106
+  offset: 0, 0
+  index: -1
+tx/sj_05
+  rotate: true
+  xy: 228, 2
+  size: 70, 102
+  orig: 70, 102
+  offset: 0, 0
+  index: -1
+tx/sj_06
+  rotate: true
+  xy: 130, 6
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+tx/sj_07
+  rotate: true
+  xy: 2, 2
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1

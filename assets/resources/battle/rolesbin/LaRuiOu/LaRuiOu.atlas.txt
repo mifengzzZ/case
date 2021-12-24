@@ -1,0 +1,174 @@
+
+LaRuiOu.png
+size: 264,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LaRuiOu_Arm_L
+  rotate: false
+  xy: 197, 25
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+LaRuiOu_Arm_R
+  rotate: false
+  xy: 196, 60
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+LaRuiOu_Body
+  rotate: false
+  xy: 89, 55
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+LaRuiOu_Eyelid_L
+  rotate: false
+  xy: 233, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+LaRuiOu_Eyelid_R
+  rotate: false
+  xy: 157, 55
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+LaRuiOu_Forearm_L
+  rotate: true
+  xy: 233, 79
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+LaRuiOu_Forearm_R
+  rotate: true
+  xy: 183, 3
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hair_B
+  rotate: false
+  xy: 157, 60
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hair_BT
+  rotate: true
+  xy: 148, 2
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hair_F
+  rotate: false
+  xy: 222, 3
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hair_LB
+  rotate: false
+  xy: 215, 27
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hair_LT
+  rotate: false
+  xy: 215, 60
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hair_RB
+  rotate: true
+  xy: 227, 23
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hand_L
+  rotate: true
+  xy: 209, 2
+  size: 19, 11
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hand_R
+  rotate: false
+  xy: 233, 11
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hand_RB
+  rotate: false
+  xy: 249, 42
+  size: 13, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+LaRuiOu_Hat
+  rotate: false
+  xy: 227, 37
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+LaRuiOu_Head
+  rotate: true
+  xy: 233, 55
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+LaRuiOu_Leg_L
+  rotate: true
+  xy: 89, 25
+  size: 28, 106
+  orig: 28, 106
+  offset: 0, 0
+  index: -1
+LaRuiOu_Leg_R
+  rotate: true
+  xy: 157, 97
+  size: 40, 103
+  orig: 40, 103
+  offset: 0, 0
+  index: -1
+LaRuiOu_Scapula_L
+  rotate: true
+  xy: 249, 20
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+LaRuiOu_Weapon
+  rotate: false
+  xy: 2, 17
+  size: 85, 120
+  orig: 85, 120
+  offset: 0, 0
+  index: -1
+LaRuiOu_Weapon_B
+  rotate: false
+  xy: 2, 2
+  size: 144, 13
+  orig: 144, 13
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 89, 19
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

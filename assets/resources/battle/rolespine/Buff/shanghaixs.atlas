@@ -1,0 +1,104 @@
+
+shanghaixs.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: false
+  xy: 2, 327
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a02
+  rotate: false
+  xy: 2, 176
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a03
+  rotate: false
+  xy: 127, 327
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a04
+  rotate: false
+  xy: 2, 25
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a05
+  rotate: false
+  xy: 127, 176
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a06
+  rotate: false
+  xy: 252, 327
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a07
+  rotate: false
+  xy: 127, 25
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: false
+  xy: 252, 176
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a09
+  rotate: false
+  xy: 377, 327
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a10
+  rotate: false
+  xy: 252, 25
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/a11
+  rotate: false
+  xy: 377, 176
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: false
+  xy: 377, 47
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+images/e
+  rotate: true
+  xy: 2, 2
+  size: 21, 133
+  orig: 21, 133
+  offset: 0, 0
+  index: -1
+images/f
+  rotate: false
+  xy: 377, 69
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1

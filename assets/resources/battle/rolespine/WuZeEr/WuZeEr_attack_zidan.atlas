@@ -1,0 +1,20 @@
+
+WuZeEr_attack_zidan.png
+size: 158,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/zidan_018
+  rotate: false
+  xy: 2, 2
+  size: 84, 232
+  orig: 84, 232
+  offset: 0, 0
+  index: -1
+tx/zidan_019
+  rotate: false
+  xy: 88, 40
+  size: 68, 194
+  orig: 68, 194
+  offset: 0, 0
+  index: -1

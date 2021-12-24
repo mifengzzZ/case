@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "16012313-27dd-48af-9656-01e6869a091c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 448,
+  "height": 388,
+  "platformSettings": {},
+  "subMetas": {
+    "KuLaLa_skill1_buff": {
+      "ver": "1.0.6",
+      "uuid": "0a104141-9e6a-4d32-864a-12dc043d2f7f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "16012313-27dd-48af-9656-01e6869a091c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 444,
+      "height": 384,
+      "rawWidth": 448,
+      "rawHeight": 388,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

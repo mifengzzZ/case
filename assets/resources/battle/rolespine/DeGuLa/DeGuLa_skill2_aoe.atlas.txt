@@ -1,0 +1,279 @@
+
+DeGuLa_skill2_aoe.png
+size: 497,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bf_00
+  rotate: true
+  xy: 231, 41
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+tx/bf_01
+  rotate: false
+  xy: 478, 36
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+tx/bf_02
+  rotate: false
+  xy: 452, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+tx/bf_03
+  rotate: false
+  xy: 235, 217
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+tx/bf_04
+  rotate: true
+  xy: 213, 215
+  size: 18, 20
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+tx/bf_05
+  rotate: false
+  xy: 470, 3
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+tx/bf_06
+  rotate: false
+  xy: 176, 217
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+tx/bf_07
+  rotate: false
+  xy: 171, 16
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+tx/bf_08
+  rotate: true
+  xy: 235, 238
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+tx/bf_09
+  rotate: false
+  xy: 381, 13
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+tx/bf_10
+  rotate: false
+  xy: 138, 6
+  size: 31, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+tx/bf_11
+  rotate: false
+  xy: 420, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+tx/bf_12
+  rotate: false
+  xy: 176, 201
+  size: 34, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+tx/bf_13
+  rotate: false
+  xy: 210, 2
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+tx/bf_14
+  rotate: true
+  xy: 118, 2
+  size: 29, 18
+  orig: 31, 18
+  offset: 2, 0
+  index: -1
+tx/bf_15
+  rotate: false
+  xy: 231, 19
+  size: 23, 20
+  orig: 27, 21
+  offset: 3, 1
+  index: -1
+tx/dilie
+  rotate: false
+  xy: 118, 33
+  size: 111, 28
+  orig: 115, 28
+  offset: 4, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 441, 25
+  size: 35, 35
+  orig: 44, 51
+  offset: 8, 8
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 133, 201
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+tx/yanwu_100
+  rotate: false
+  xy: 2, 2
+  size: 114, 59
+  orig: 132, 68
+  offset: 6, 6
+  index: -1
+tx/yanwu_101
+  rotate: true
+  xy: 379, 113
+  size: 85, 45
+  orig: 104, 51
+  offset: 13, 3
+  index: -1
+tx/yanwu_102
+  rotate: false
+  xy: 191, 276
+  size: 63, 43
+  orig: 76, 50
+  offset: 4, 3
+  index: -1
+tx/yanwu_103
+  rotate: false
+  xy: 191, 235
+  size: 42, 39
+  orig: 54, 48
+  offset: 5, 4
+  index: -1
+tx/yanwu_104
+  rotate: true
+  xy: 212, 190
+  size: 23, 18
+  orig: 39, 30
+  offset: 8, 6
+  index: -1
+tx/yanwu_89
+  rotate: true
+  xy: 394, 213
+  size: 115, 96
+  orig: 121, 104
+  offset: 3, 6
+  index: -1
+tx/yanwu_90
+  rotate: true
+  xy: 393, 330
+  size: 118, 100
+  orig: 125, 106
+  offset: 4, 3
+  index: -1
+tx/yanwu_91
+  rotate: false
+  xy: 256, 88
+  size: 121, 110
+  orig: 128, 116
+  offset: 3, 3
+  index: -1
+tx/yanwu_92
+  rotate: true
+  xy: 131, 63
+  size: 125, 123
+  orig: 132, 128
+  offset: 3, 3
+  index: -1
+tx/yanwu_93
+  rotate: false
+  xy: 265, 324
+  size: 126, 124
+  orig: 133, 129
+  offset: 4, 3
+  index: -1
+tx/yanwu_94
+  rotate: false
+  xy: 2, 63
+  size: 127, 125
+  orig: 133, 130
+  offset: 3, 3
+  index: -1
+tx/yanwu_95
+  rotate: false
+  xy: 134, 321
+  size: 129, 127
+  orig: 138, 133
+  offset: 4, 3
+  index: -1
+tx/yanwu_96
+  rotate: false
+  xy: 2, 320
+  size: 130, 128
+  orig: 138, 133
+  offset: 4, 2
+  index: -1
+tx/yanwu_97
+  rotate: false
+  xy: 2, 190
+  size: 129, 128
+  orig: 137, 134
+  offset: 3, 3
+  index: -1
+tx/yanwu_98
+  rotate: false
+  xy: 265, 200
+  size: 127, 122
+  orig: 135, 132
+  offset: 3, 4
+  index: -1
+tx/yanwu_99
+  rotate: false
+  xy: 256, 8
+  size: 123, 78
+  orig: 133, 94
+  offset: 4, 8
+  index: -1
+tx/zhakai_88
+  rotate: true
+  xy: 441, 62
+  size: 73, 53
+  orig: 74, 55
+  offset: 1, 0
+  index: -1
+tx/zhakai_89
+  rotate: true
+  xy: 426, 137
+  size: 74, 61
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+tx/zhakai_90
+  rotate: true
+  xy: 381, 37
+  size: 74, 58
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+tx/zhakai_91
+  rotate: true
+  xy: 133, 244
+  size: 74, 56
+  orig: 74, 60
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,27 @@
+
+BossMoZhu_attack.png
+size: 399,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuowei1_024
+  rotate: false
+  xy: 2, 2
+  size: 354, 106
+  orig: 367, 116
+  offset: 8, 5
+  index: -1
+tuowei1_025
+  rotate: false
+  xy: 2, 204
+  size: 395, 106
+  orig: 408, 115
+  offset: 8, 4
+  index: -1
+tuowei1_026
+  rotate: false
+  xy: 2, 110
+  size: 384, 92
+  orig: 392, 97
+  offset: 8, 1
+  index: -1

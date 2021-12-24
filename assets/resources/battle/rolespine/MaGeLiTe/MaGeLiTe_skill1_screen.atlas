@@ -1,0 +1,118 @@
+
+MaGeLiTe_skill1_screen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/sj3_057
+  rotate: true
+  xy: 424, 284
+  size: 94, 73
+  orig: 94, 73
+  offset: 0, 0
+  index: -1
+tx/sj3_058
+  rotate: false
+  xy: 153, 264
+  size: 136, 119
+  orig: 136, 119
+  offset: 0, 0
+  index: -1
+tx/sj3_059
+  rotate: false
+  xy: 153, 385
+  size: 145, 125
+  orig: 145, 125
+  offset: 0, 0
+  index: -1
+tx/sj3_060
+  rotate: false
+  xy: 2, 250
+  size: 147, 128
+  orig: 147, 128
+  offset: 0, 0
+  index: -1
+tx/sj3_061
+  rotate: false
+  xy: 2, 380
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+tx/sj3_062
+  rotate: false
+  xy: 2, 116
+  size: 143, 132
+  orig: 143, 132
+  offset: 0, 0
+  index: -1
+tx/sj3_063
+  rotate: false
+  xy: 300, 380
+  size: 136, 130
+  orig: 136, 130
+  offset: 0, 0
+  index: -1
+tx/sj3_064
+  rotate: false
+  xy: 291, 248
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+tx/sj3_065
+  rotate: true
+  xy: 280, 29
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+tx/sj3_066
+  rotate: false
+  xy: 410, 12
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+tx/sj4_057
+  rotate: false
+  xy: 136, 2
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+tx/sj4_058
+  rotate: true
+  xy: 418, 117
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+tx/sj4_059
+  rotate: false
+  xy: 147, 94
+  size: 131, 93
+  orig: 131, 93
+  offset: 0, 0
+  index: -1
+tx/sj4_060
+  rotate: false
+  xy: 285, 155
+  size: 131, 91
+  orig: 131, 91
+  offset: 0, 0
+  index: -1
+tx/sj4_061
+  rotate: false
+  xy: 2, 21
+  size: 132, 93
+  orig: 132, 93
+  offset: 0, 0
+  index: -1
+tx/sj4_062
+  rotate: false
+  xy: 151, 189
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1

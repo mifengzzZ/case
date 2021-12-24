@@ -1,0 +1,216 @@
+
+xuruo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a01
+  rotate: false
+  xy: 494, 39
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+images/a02
+  rotate: true
+  xy: 326, 10
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+images/a03
+  rotate: true
+  xy: 297, 100
+  size: 6, 40
+  orig: 6, 40
+  offset: 0, 0
+  index: -1
+images/a04
+  rotate: false
+  xy: 452, 60
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+images/a05
+  rotate: true
+  xy: 326, 23
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+images/a06
+  rotate: true
+  xy: 378, 11
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+images/a07
+  rotate: true
+  xy: 394, 109
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+images/a08
+  rotate: true
+  xy: 306, 74
+  size: 24, 72
+  orig: 24, 72
+  offset: 0, 0
+  index: -1
+images/a09
+  rotate: true
+  xy: 63, 65
+  size: 24, 95
+  orig: 24, 95
+  offset: 0, 0
+  index: -1
+images/a10
+  rotate: true
+  xy: 297, 108
+  size: 18, 95
+  orig: 18, 95
+  offset: 0, 0
+  index: -1
+images/a11
+  rotate: true
+  xy: 2, 2
+  size: 21, 92
+  orig: 21, 92
+  offset: 0, 0
+  index: -1
+images/b01
+  rotate: true
+  xy: 381, 63
+  size: 17, 64
+  orig: 17, 64
+  offset: 0, 0
+  index: -1
+images/b02
+  rotate: true
+  xy: 313, 46
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+images/b03
+  rotate: true
+  xy: 182, 4
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+images/b04
+  rotate: true
+  xy: 239, 67
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+images/b05
+  rotate: false
+  xy: 467, 7
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+images/b06
+  rotate: true
+  xy: 380, 82
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1
+images/b07
+  rotate: true
+  xy: 381, 36
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+images/b08
+  rotate: true
+  xy: 160, 66
+  size: 25, 77
+  orig: 25, 77
+  offset: 0, 0
+  index: -1
+images/b09
+  rotate: true
+  xy: 80, 32
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+images/b10
+  rotate: true
+  xy: 138, 93
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+images/b11
+  rotate: true
+  xy: 2, 25
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+images/b12
+  rotate: true
+  xy: 254, 3
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+images/b13
+  rotate: true
+  xy: 63, 91
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+images/b14
+  rotate: true
+  xy: 161, 33
+  size: 31, 71
+  orig: 31, 71
+  offset: 0, 0
+  index: -1
+images/b15
+  rotate: true
+  xy: 216, 96
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+images/b16
+  rotate: true
+  xy: 96, 2
+  size: 28, 84
+  orig: 28, 84
+  offset: 0, 0
+  index: -1
+images/b17
+  rotate: true
+  xy: 234, 40
+  size: 24, 77
+  orig: 24, 77
+  offset: 0, 0
+  index: -1
+images/b18
+  rotate: false
+  xy: 470, 73
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+images/c
+  rotate: false
+  xy: 2, 62
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1

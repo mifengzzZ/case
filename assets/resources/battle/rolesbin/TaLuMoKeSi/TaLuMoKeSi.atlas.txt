@@ -1,0 +1,300 @@
+
+TaLuMoKeSi.png
+size: 481,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LuMoKeSi_Body_BT
+  rotate: false
+  xy: 175, 140
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+LuMoKeSi_Cloak_F
+  rotate: false
+  xy: 269, 55
+  size: 55, 45
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+LuMoKeSi_Skirt_B
+  rotate: true
+  xy: 267, 4
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+LuMoKeSi_Skirt_F
+  rotate: false
+  xy: 333, 103
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+LuMoKeSi_Thigh_LF
+  rotate: false
+  xy: 445, 162
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+LuMoKeSi_Thigh_RF
+  rotate: true
+  xy: 435, 70
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 420, 310
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Arm_L
+  rotate: true
+  xy: 199, 68
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Arm_R
+  rotate: true
+  xy: 420, 389
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Belt
+  rotate: false
+  xy: 333, 84
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Belt_T
+  rotate: true
+  xy: 255, 173
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Body
+  rotate: true
+  xy: 118, 48
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Body_B
+  rotate: true
+  xy: 175, 172
+  size: 113, 78
+  orig: 114, 78
+  offset: 1, 0
+  index: -1
+TaLuMoKeSi_Calf_LB
+  rotate: false
+  xy: 333, 137
+  size: 63, 68
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Calf_LF
+  rotate: false
+  xy: 398, 144
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Calf_RB
+  rotate: false
+  xy: 451, 209
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Calf_RF
+  rotate: true
+  xy: 2, 5
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Eyelid_L
+  rotate: false
+  xy: 398, 139
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Eyelid_R
+  rotate: false
+  xy: 250, 168
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Finger_R
+  rotate: true
+  xy: 170, 16
+  size: 30, 27
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Foot_LB
+  rotate: false
+  xy: 116, 8
+  size: 52, 38
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Foot_LF
+  rotate: false
+  xy: 71, 9
+  size: 43, 39
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Foot_RB
+  rotate: false
+  xy: 398, 78
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Foot_RF
+  rotate: false
+  xy: 326, 58
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Forearm_R
+  rotate: false
+  xy: 326, 8
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hair_BB
+  rotate: false
+  xy: 2, 50
+  size: 114, 87
+  orig: 114, 87
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hair_TB
+  rotate: true
+  xy: 406, 95
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hair_TF
+  rotate: false
+  xy: 420, 47
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hair_TL
+  rotate: false
+  xy: 420, 32
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hand_R
+  rotate: true
+  xy: 451, 246
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Head
+  rotate: false
+  xy: 451, 277
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hron_L
+  rotate: false
+  xy: 420, 351
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Hron_R
+  rotate: false
+  xy: 420, 316
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Kneet_LF
+  rotate: false
+  xy: 445, 121
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Kneet_RF
+  rotate: false
+  xy: 380, 9
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Pelivs
+  rotate: false
+  xy: 255, 216
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Scapua_L
+  rotate: true
+  xy: 269, 102
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Tail
+  rotate: false
+  xy: 2, 287
+  size: 248, 145
+  orig: 248, 145
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Thigh_LB
+  rotate: false
+  xy: 199, 2
+  size: 66, 64
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Weapon_L
+  rotate: true
+  xy: 252, 310
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+TaLuMoKeSi_Weapon_R
+  rotate: false
+  xy: 2, 139
+  size: 171, 146
+  orig: 171, 146
+  offset: 0, 0
+  index: -1
+tx/jian1
+  rotate: false
+  xy: 364, 207
+  size: 85, 101
+  orig: 93, 105
+  offset: 4, 3
+  index: -1

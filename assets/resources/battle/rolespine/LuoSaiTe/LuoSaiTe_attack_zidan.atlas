@@ -1,0 +1,20 @@
+
+LuoSaiTe_attack_zidan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/c11
+  rotate: false
+  xy: 2, 2
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+images/tx/c12
+  rotate: true
+  xy: 2, 34
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

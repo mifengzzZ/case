@@ -34,6 +34,12 @@ export default class NewClass extends cc.Component {
             case 3:
                 cc.director.loadScene('Scrollview1');
                 break;
+            case 4:
+                cc.director.loadScene('yuanxingtouxiang');
+                break;
+            case 5:
+                cc.director.loadScene('battleScene');
+                break;
         }
     }
 }

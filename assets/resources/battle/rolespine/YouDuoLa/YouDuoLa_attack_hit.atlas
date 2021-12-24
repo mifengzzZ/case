@@ -1,0 +1,146 @@
+
+YouDuoLa_attack_hit.png
+size: 512,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg2_014
+  rotate: false
+  xy: 171, 133
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+tx/dg2_015
+  rotate: true
+  xy: 181, 7
+  size: 124, 93
+  orig: 124, 93
+  offset: 0, 0
+  index: -1
+tx/dg2_016
+  rotate: false
+  xy: 363, 214
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+tx/dg2_017
+  rotate: true
+  xy: 276, 38
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 477, 408
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 437, 116
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 2, 106
+  size: 107, 187
+  orig: 107, 187
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 2, 295
+  size: 111, 212
+  orig: 111, 212
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: false
+  xy: 115, 314
+  size: 115, 193
+  orig: 115, 193
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: true
+  xy: 2, 2
+  size: 102, 177
+  orig: 102, 177
+  offset: 0, 0
+  index: -1
+tx/sj1_024
+  rotate: false
+  xy: 297, 81
+  size: 62, 146
+  orig: 62, 146
+  offset: 0, 0
+  index: -1
+tx/tuowei1_014
+  rotate: true
+  xy: 232, 309
+  size: 51, 228
+  orig: 51, 228
+  offset: 0, 0
+  index: -1
+tx/tuowei1_016
+  rotate: true
+  xy: 232, 435
+  size: 72, 221
+  orig: 72, 221
+  offset: 0, 0
+  index: -1
+tx/tuowei1_017
+  rotate: true
+  xy: 171, 229
+  size: 78, 190
+  orig: 78, 190
+  offset: 0, 0
+  index: -1
+tx/tuowei1_018
+  rotate: true
+  xy: 232, 362
+  size: 71, 209
+  orig: 71, 209
+  offset: 0, 0
+  index: -1
+tx/tuowei1_019
+  rotate: false
+  xy: 111, 134
+  size: 58, 159
+  orig: 58, 159
+  offset: 0, 0
+  index: -1
+tx/tuowei1_020
+  rotate: false
+  xy: 455, 446
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+tx/tuowei1_021
+  rotate: false
+  xy: 455, 446
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 361, 89
+  size: 123, 74
+  orig: 123, 74
+  offset: 0, 0
+  index: -1
+tx/yanwu
+  rotate: false
+  xy: 276, 9
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1

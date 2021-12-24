@@ -1,0 +1,83 @@
+
+shouhu.png
+size: 371,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/a
+  rotate: false
+  xy: 151, 5
+  size: 92, 167
+  orig: 92, 167
+  offset: 0, 0
+  index: -1
+images/a2
+  rotate: false
+  xy: 325, 61
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+images/b01
+  rotate: true
+  xy: 70, 2
+  size: 4, 22
+  orig: 4, 22
+  offset: 0, 0
+  index: -1
+images/b02
+  rotate: true
+  xy: 70, 8
+  size: 6, 29
+  orig: 6, 29
+  offset: 0, 0
+  index: -1
+images/b03
+  rotate: true
+  xy: 2, 4
+  size: 8, 34
+  orig: 8, 34
+  offset: 0, 0
+  index: -1
+images/b04
+  rotate: true
+  xy: 38, 16
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1
+images/b05
+  rotate: true
+  xy: 2, 14
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1
+images/b06
+  rotate: true
+  xy: 38, 7
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+images/b07
+  rotate: true
+  xy: 38, 2
+  size: 3, 22
+  orig: 3, 22
+  offset: 0, 0
+  index: -1
+images/c
+  rotate: false
+  xy: 245, 15
+  size: 78, 157
+  orig: 78, 157
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: false
+  xy: 2, 25
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1

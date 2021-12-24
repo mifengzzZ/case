@@ -1,0 +1,27 @@
+
+KuLaLa_skill2_aoe.png
+size: 385,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_xuehua
+  rotate: false
+  xy: 261, 56
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+tx/bingmian
+  rotate: false
+  xy: 2, 2
+  size: 257, 244
+  orig: 257, 244
+  offset: 0, 0
+  index: -1
+tx/wu
+  rotate: true
+  xy: 261, 122
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1

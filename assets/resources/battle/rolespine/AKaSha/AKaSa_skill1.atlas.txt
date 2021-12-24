@@ -1,0 +1,223 @@
+
+AKaSa_skill1.png
+size: 480,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dgtw_016
+  rotate: true
+  xy: 208, 185
+  size: 263, 103
+  orig: 279, 116
+  offset: 8, 7
+  index: -1
+dgtw_017
+  rotate: true
+  xy: 97, 182
+  size: 266, 109
+  orig: 284, 123
+  offset: 7, 7
+  index: -1
+dgtw_018
+  rotate: false
+  xy: 313, 321
+  size: 161, 103
+  orig: 181, 119
+  offset: 7, 8
+  index: -1
+dgtw_019
+  rotate: false
+  xy: 331, 47
+  size: 92, 77
+  orig: 113, 96
+  offset: 8, 10
+  index: -1
+dgtw_020
+  rotate: false
+  xy: 345, 193
+  size: 97, 63
+  orig: 121, 84
+  offset: 12, 9
+  index: -1
+hitlizi1
+  rotate: false
+  xy: 147, 8
+  size: 32, 33
+  orig: 36, 37
+  offset: 2, 2
+  index: -1
+hitsj1_026
+  rotate: true
+  xy: 181, 26
+  size: 15, 41
+  orig: 15, 42
+  offset: 0, 1
+  index: -1
+hitsj1_027
+  rotate: true
+  xy: 143, 153
+  size: 27, 84
+  orig: 28, 86
+  offset: 1, 1
+  index: -1
+hitsj1_028
+  rotate: true
+  xy: 331, 126
+  size: 30, 95
+  orig: 30, 97
+  offset: 0, 1
+  index: -1
+hitsj1_029
+  rotate: false
+  xy: 428, 74
+  size: 31, 82
+  orig: 32, 84
+  offset: 1, 1
+  index: -1
+hitsj1_030
+  rotate: true
+  xy: 147, 121
+  size: 30, 79
+  orig: 31, 81
+  offset: 0, 1
+  index: -1
+hitsj1_031
+  rotate: false
+  xy: 313, 191
+  size: 30, 65
+  orig: 30, 67
+  offset: 0, 1
+  index: -1
+hitsj2
+  rotate: false
+  xy: 147, 43
+  size: 69, 39
+  orig: 71, 41
+  offset: 1, 1
+  index: -1
+hityan1
+  rotate: true
+  xy: 425, 11
+  size: 61, 53
+  orig: 63, 55
+  offset: 1, 1
+  index: -1
+suipian_1_014
+  rotate: true
+  xy: 331, 14
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+suipian_1_015
+  rotate: true
+  xy: 97, 152
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+suipian_1_016
+  rotate: true
+  xy: 181, 7
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+suipian_1_017
+  rotate: false
+  xy: 123, 152
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+twx2_026
+  rotate: true
+  xy: 313, 258
+  size: 37, 139
+  orig: 38, 149
+  offset: 1, 5
+  index: -1
+twx2_027
+  rotate: false
+  xy: 253, 22
+  size: 37, 134
+  orig: 38, 144
+  offset: 1, 5
+  index: -1
+twx2_028
+  rotate: false
+  xy: 292, 29
+  size: 37, 127
+  orig: 38, 132
+  offset: 1, 5
+  index: -1
+twx2_029
+  rotate: true
+  xy: 147, 84
+  size: 35, 78
+  orig: 38, 87
+  offset: 2, 4
+  index: -1
+twx_027
+  rotate: true
+  xy: 2, 152
+  size: 296, 34
+  orig: 303, 38
+  offset: 1, 4
+  index: -1
+twx_028
+  rotate: true
+  xy: 38, 156
+  size: 292, 28
+  orig: 297, 28
+  offset: 1, 0
+  index: -1
+twx_029
+  rotate: true
+  xy: 68, 163
+  size: 285, 27
+  orig: 294, 27
+  offset: 3, 0
+  index: -1
+twx_030
+  rotate: false
+  xy: 253, 158
+  size: 202, 25
+  orig: 286, 25
+  offset: 78, 0
+  index: -1
+twx_031
+  rotate: true
+  xy: 229, 2
+  size: 181, 22
+  orig: 191, 25
+  offset: 3, 3
+  index: -1
+twx_032
+  rotate: false
+  xy: 313, 426
+  size: 165, 22
+  orig: 173, 22
+  offset: 2, 0
+  index: -1
+twx_033
+  rotate: false
+  xy: 313, 297
+  size: 152, 22
+  orig: 160, 22
+  offset: 1, 0
+  index: -1
+twx_034
+  rotate: true
+  xy: 457, 164
+  size: 131, 21
+  orig: 142, 21
+  offset: 5, 0
+  index: -1
+zaobo3
+  rotate: true
+  xy: 2, 2
+  size: 148, 143
+  orig: 151, 151
+  offset: 2, 5
+  index: -1

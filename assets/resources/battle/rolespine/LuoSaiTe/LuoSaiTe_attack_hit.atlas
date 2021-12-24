@@ -1,0 +1,83 @@
+
+LuoSaiTe_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a02
+  rotate: false
+  xy: 359, 398
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+images/tx/h
+  rotate: false
+  xy: 2, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+images/tx/o03
+  rotate: false
+  xy: 2, 383
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+images/tx/o04
+  rotate: false
+  xy: 2, 263
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+images/tx/o05
+  rotate: false
+  xy: 122, 383
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+images/tx/o06
+  rotate: false
+  xy: 2, 143
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+images/tx/o07
+  rotate: false
+  xy: 122, 263
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+images/tx/p01
+  rotate: false
+  xy: 242, 384
+  size: 115, 117
+  orig: 115, 117
+  offset: 0, 0
+  index: -1
+images/tx/p02
+  rotate: false
+  xy: 2, 24
+  size: 115, 117
+  orig: 115, 117
+  offset: 0, 0
+  index: -1
+images/tx/p03
+  rotate: false
+  xy: 122, 144
+  size: 115, 117
+  orig: 115, 117
+  offset: 0, 0
+  index: -1
+images/tx/p04
+  rotate: false
+  xy: 242, 265
+  size: 115, 117
+  orig: 115, 117
+  offset: 0, 0
+  index: -1

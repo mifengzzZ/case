@@ -1,0 +1,20 @@
+
+JiaDiSi_attack_zidan.png
+size: 470,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/zidan1
+  rotate: false
+  xy: 2, 52
+  size: 466, 109
+  orig: 466, 109
+  offset: 0, 0
+  index: -1
+tx/zidan2
+  rotate: false
+  xy: 2, 2
+  size: 175, 48
+  orig: 175, 48
+  offset: 0, 0
+  index: -1

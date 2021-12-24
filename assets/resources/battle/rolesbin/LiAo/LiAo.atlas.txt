@@ -1,0 +1,510 @@
+
+LiAo.png
+size: 497,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bird_Arm_L
+  rotate: true
+  xy: 352, 85
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+Bird_Body
+  rotate: false
+  xy: 142, 64
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+Bird_Calf_L
+  rotate: false
+  xy: 150, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+Bird_Calf_R
+  rotate: false
+  xy: 163, 2
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+Bird_Foot_L
+  rotate: true
+  xy: 134, 66
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+Bird_Foot_R
+  rotate: false
+  xy: 350, 211
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Bird_Forearm_L
+  rotate: false
+  xy: 249, 119
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Bird_Forearm_R
+  rotate: false
+  xy: 2, 27
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+Bird_Tail
+  rotate: true
+  xy: 481, 42
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+Bird_Thigh_L
+  rotate: false
+  xy: 110, 3
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Bird_Thigh_R
+  rotate: true
+  xy: 128, 5
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+Bird_Wing_La
+  rotate: true
+  xy: 252, 221
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+Bird_Wing_Lb
+  rotate: true
+  xy: 360, 207
+  size: 22, 109
+  orig: 22, 109
+  offset: 0, 0
+  index: -1
+Bird_Wing_Lc
+  rotate: true
+  xy: 144, 184
+  size: 25, 97
+  orig: 25, 97
+  offset: 0, 0
+  index: -1
+Bird_Wing_Ld
+  rotate: true
+  xy: 252, 187
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+Bird_Wing_Ra
+  rotate: true
+  xy: 79, 97
+  size: 101, 30
+  orig: 101, 30
+  offset: 0, 0
+  index: -1
+Bird_Wing_Rb
+  rotate: true
+  xy: 203, 97
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+Bird_Wing_Rc
+  rotate: false
+  xy: 142, 111
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+Bird_Wing_Rd
+  rotate: false
+  xy: 312, 102
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+LiAo_Arm_L
+  rotate: false
+  xy: 473, 84
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+LiAo_Arm_R
+  rotate: false
+  xy: 467, 2
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+LiAo_Body_
+  rotate: true
+  xy: 249, 74
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+LiAo_Bracelet_LB
+  rotate: false
+  xy: 134, 38
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+LiAo_Bracelet_LF
+  rotate: false
+  xy: 134, 50
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+LiAo_Bracelet_RB
+  rotate: false
+  xy: 174, 44
+  size: 24, 18
+  orig: 24, 19
+  offset: 0, 1
+  index: -1
+LiAo_Bracelet_RF
+  rotate: false
+  xy: 76, 52
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+LiAo_Calf_L
+  rotate: true
+  xy: 397, 114
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+LiAo_Calf_LB
+  rotate: true
+  xy: 328, 9
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+LiAo_Calf_R
+  rotate: true
+  xy: 367, 34
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+LiAo_Calf_RB
+  rotate: true
+  xy: 460, 152
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+LiAo_Cloth_L
+  rotate: true
+  xy: 360, 231
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+LiAo_Cloth_R
+  rotate: false
+  xy: 2, 96
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+LiAo_Finger_La
+  rotate: false
+  xy: 491, 9
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+LiAo_Finger_Ra
+  rotate: false
+  xy: 461, 114
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+LiAo_Finger_Rb
+  rotate: true
+  xy: 243, 198
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+LiAo_Finger_Rc
+  rotate: false
+  xy: 328, 2
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+LiAo_Finger_Rd
+  rotate: false
+  xy: 203, 34
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+LiAo_Foot_L
+  rotate: false
+  xy: 312, 73
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+LiAo_Foot_LB
+  rotate: true
+  xy: 193, 28
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+LiAo_Foot_R
+  rotate: true
+  xy: 287, 7
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+LiAo_Forearm_L
+  rotate: false
+  xy: 476, 207
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+LiAo_Forearm_R
+  rotate: true
+  xy: 76, 32
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+LiAo_Gun_R
+  rotate: true
+  xy: 429, 38
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+LiAo_Hair_F
+  rotate: false
+  xy: 165, 21
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+LiAo_Hair_FB
+  rotate: false
+  xy: 114, 32
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+LiAo_Hair_L
+  rotate: false
+  xy: 128, 20
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+LiAo_Hair_LB
+  rotate: true
+  xy: 2, 3
+  size: 22, 82
+  orig: 22, 82
+  offset: 0, 0
+  index: -1
+LiAo_Hair_LF
+  rotate: false
+  xy: 79, 78
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+LiAo_Hair_R
+  rotate: false
+  xy: 476, 243
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+LiAo_Hair_RB
+  rotate: true
+  xy: 367, 2
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+LiAo_Hair_RF
+  rotate: false
+  xy: 76, 27
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+LiAo_Hand_L
+  rotate: true
+  xy: 111, 80
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+LiAo_Hand_LB
+  rotate: false
+  xy: 176, 21
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+LiAo_Hand_LF
+  rotate: false
+  xy: 176, 31
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+LiAo_Hand_R
+  rotate: false
+  xy: 150, 21
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+LiAo_Hand_RF
+  rotate: false
+  xy: 174, 6
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+LiAo_Hat
+  rotate: false
+  xy: 425, 2
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+LiAo_Head
+  rotate: false
+  xy: 86, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+LiAo_Pelivs
+  rotate: false
+  xy: 460, 176
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+LiAo_Scapula_L
+  rotate: false
+  xy: 200, 46
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+LiAo_Scapula_R
+  rotate: true
+  xy: 461, 126
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+LiAo_Skirt_L
+  rotate: false
+  xy: 111, 98
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1
+LiAo_Skirt_R
+  rotate: true
+  xy: 397, 76
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+LiAo_Thigh_L
+  rotate: true
+  xy: 287, 33
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+LiAo_Thigh_R
+  rotate: false
+  xy: 352, 123
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+LiAo_biyan
+  rotate: false
+  xy: 352, 73
+  size: 11, 10
+  orig: 13, 13
+  offset: 2, 1
+  index: -1
+Shadow
+  rotate: true
+  xy: 491, 23
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 397, 145
+  size: 61, 60
+  orig: 65, 64
+  offset: 2, 1
+  index: -1
+tx/qianghua_000
+  rotate: true
+  xy: 248, 2
+  size: 70, 37
+  orig: 78, 41
+  offset: 5, 2
+  index: -1
+tx/qianghua_001
+  rotate: false
+  xy: 144, 211
+  size: 106, 51
+  orig: 113, 57
+  offset: 4, 3
+  index: -1
+tx/qianghua_003
+  rotate: true
+  xy: 114, 40
+  size: 38, 18
+  orig: 42, 21
+  offset: 2, 2
+  index: -1
+tx/qianghua_004
+  rotate: false
+  xy: 2, 200
+  size: 140, 62
+  orig: 149, 65
+  offset: 5, 1
+  index: -1

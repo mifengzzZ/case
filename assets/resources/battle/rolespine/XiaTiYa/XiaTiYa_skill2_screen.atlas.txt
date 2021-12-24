@@ -1,0 +1,146 @@
+
+XiaTiYa_skill2_screen.png
+size: 477,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg3_006
+  rotate: false
+  xy: 393, 131
+  size: 55, 71
+  orig: 67, 85
+  offset: 5, 7
+  index: -1
+tx/dg3_007
+  rotate: true
+  xy: 247, 314
+  size: 131, 109
+  orig: 141, 123
+  offset: 5, 5
+  index: -1
+tx/dg3_008
+  rotate: true
+  xy: 2, 19
+  size: 140, 108
+  orig: 150, 119
+  offset: 5, 4
+  index: -1
+tx/dg3_009
+  rotate: true
+  xy: 112, 20
+  size: 139, 118
+  orig: 150, 129
+  offset: 6, 5
+  index: -1
+tx/dg3_010
+  rotate: true
+  xy: 125, 166
+  size: 135, 122
+  orig: 150, 133
+  offset: 8, 5
+  index: -1
+tx/dg3_011
+  rotate: true
+  xy: 2, 303
+  size: 142, 123
+  orig: 157, 132
+  offset: 8, 4
+  index: -1
+tx/dg3_012
+  rotate: true
+  xy: 2, 161
+  size: 140, 121
+  orig: 154, 130
+  offset: 9, 4
+  index: -1
+tx/dg3_013
+  rotate: true
+  xy: 127, 311
+  size: 134, 118
+  orig: 149, 128
+  offset: 10, 5
+  index: -1
+tx/dg3_014
+  rotate: true
+  xy: 358, 321
+  size: 124, 117
+  orig: 139, 127
+  offset: 10, 5
+  index: -1
+tx/dg3_015
+  rotate: false
+  xy: 358, 204
+  size: 117, 115
+  orig: 132, 126
+  offset: 8, 6
+  index: -1
+tx/dg3_016
+  rotate: false
+  xy: 232, 7
+  size: 108, 112
+  orig: 122, 124
+  offset: 5, 7
+  index: -1
+tx/dg3_017
+  rotate: true
+  xy: 249, 213
+  size: 99, 106
+  orig: 124, 119
+  offset: 12, 7
+  index: -1
+tx/dg3_018
+  rotate: true
+  xy: 249, 121
+  size: 90, 101
+  orig: 106, 115
+  offset: 4, 7
+  index: -1
+tx/dg3_019
+  rotate: false
+  xy: 342, 30
+  size: 83, 89
+  orig: 90, 108
+  offset: 0, 11
+  index: -1
+tx/dg3_020
+  rotate: false
+  xy: 352, 123
+  size: 39, 79
+  orig: 57, 100
+  offset: 9, 13
+  index: -1
+tx/dg3_021
+  rotate: true
+  xy: 342, 2
+  size: 26, 24
+  orig: 52, 48
+  offset: 13, 12
+  index: -1
+tx/mask
+  rotate: false
+  xy: 32, 4
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+tx/yezi_000
+  rotate: false
+  xy: 2, 3
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+tx/yezi_001
+  rotate: false
+  xy: 17, 3
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+tx/yezi_002
+  rotate: true
+  xy: 47, 5
+  size: 12, 11
+  orig: 13, 13
+  offset: 0, 1
+  index: -1

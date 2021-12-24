@@ -1,0 +1,160 @@
+
+MaAiEr_skill2_screen.png
+size: 488,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/baidg_075
+  rotate: true
+  xy: 434, 207
+  size: 48, 52
+  orig: 50, 54
+  offset: 1, 1
+  index: -1
+tx/baidg_076
+  rotate: false
+  xy: 341, 206
+  size: 91, 49
+  orig: 93, 51
+  offset: 1, 1
+  index: -1
+tx/baidg_077
+  rotate: false
+  xy: 395, 157
+  size: 91, 47
+  orig: 93, 49
+  offset: 1, 1
+  index: -1
+tx/baidg_078
+  rotate: false
+  xy: 300, 79
+  size: 83, 49
+  orig: 86, 51
+  offset: 2, 1
+  index: -1
+tx/baidg_079
+  rotate: true
+  xy: 300, 10
+  size: 67, 48
+  orig: 70, 50
+  offset: 2, 1
+  index: -1
+tx/baidg_080
+  rotate: false
+  xy: 88, 298
+  size: 8, 17
+  orig: 10, 19
+  offset: 1, 1
+  index: -1
+tx/gy6
+  rotate: false
+  xy: 133, 130
+  size: 28, 30
+  orig: 38, 38
+  offset: 5, 4
+  index: -1
+tx/heixian_015
+  rotate: true
+  xy: 2, 295
+  size: 184, 84
+  orig: 185, 84
+  offset: 1, 0
+  index: -1
+tx/heixian_016
+  rotate: true
+  xy: 256, 206
+  size: 128, 83
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+tx/heixian_017
+  rotate: false
+  xy: 275, 130
+  size: 118, 74
+  orig: 118, 75
+  offset: 0, 1
+  index: -1
+tx/heixian_018
+  rotate: false
+  xy: 163, 132
+  size: 110, 28
+  orig: 111, 28
+  offset: 0, 0
+  index: -1
+tx/liao_078
+  rotate: true
+  xy: 133, 162
+  size: 153, 121
+  orig: 158, 125
+  offset: 3, 2
+  index: -1
+tx/liao_079
+  rotate: true
+  xy: 2, 129
+  size: 164, 129
+  orig: 167, 133
+  offset: 2, 2
+  index: -1
+tx/liao_080
+  rotate: true
+  xy: 88, 317
+  size: 162, 131
+  orig: 165, 134
+  offset: 1, 2
+  index: -1
+tx/liao_081
+  rotate: false
+  xy: 2, 2
+  size: 149, 125
+  orig: 153, 128
+  offset: 2, 2
+  index: -1
+tx/liao_082
+  rotate: false
+  xy: 153, 5
+  size: 145, 123
+  orig: 149, 127
+  offset: 2, 2
+  index: -1
+tx/liao_083
+  rotate: true
+  xy: 221, 336
+  size: 143, 118
+  orig: 147, 122
+  offset: 2, 3
+  index: -1
+tx/liao_084
+  rotate: false
+  xy: 341, 365
+  size: 137, 114
+  orig: 143, 120
+  offset: 3, 4
+  index: -1
+tx/liao_085
+  rotate: false
+  xy: 341, 257
+  size: 131, 106
+  orig: 137, 112
+  offset: 2, 3
+  index: -1
+tx/liao_086
+  rotate: true
+  xy: 395, 28
+  size: 127, 83
+  orig: 133, 89
+  offset: 2, 3
+  index: -1
+tx/liao_087
+  rotate: true
+  xy: 395, 28
+  size: 127, 83
+  orig: 133, 89
+  offset: 2, 3
+  index: -1
+tx/mask
+  rotate: false
+  xy: 98, 303
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1

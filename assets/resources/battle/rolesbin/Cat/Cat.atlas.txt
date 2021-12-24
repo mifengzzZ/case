@@ -1,0 +1,300 @@
+
+Cat.png
+size: 204,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cat_Arm_L
+  rotate: false
+  xy: 183, 39
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Cat_Arm_R
+  rotate: true
+  xy: 127, 22
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+Cat_Arm_Rf
+  rotate: false
+  xy: 157, 26
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+Cat_Bag_Fs
+  rotate: true
+  xy: 73, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Cat_Bag_S
+  rotate: true
+  xy: 69, 28
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Cat_Bag_X
+  rotate: false
+  xy: 2, 64
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Cat_Body
+  rotate: true
+  xy: 127, 52
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+Cat_Cat_Lb
+  rotate: true
+  xy: 168, 29
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Cat_Cat_Lf
+  rotate: false
+  xy: 145, 19
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Cat_Ear_L
+  rotate: false
+  xy: 83, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Cat_Ear_R
+  rotate: false
+  xy: 101, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Cat_Eyelid_La
+  rotate: false
+  xy: 166, 40
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Cat_Eyelid_Lb
+  rotate: false
+  xy: 139, 35
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+Cat_Eyelid_Ra
+  rotate: false
+  xy: 183, 24
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Cat_Eyelid_Rb
+  rotate: true
+  xy: 168, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Cat_Forearm_L
+  rotate: true
+  xy: 177, 114
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Cat_Forearm_R
+  rotate: false
+  xy: 196, 60
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+Cat_Forearm_Rb
+  rotate: true
+  xy: 104, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+Cat_Hammer
+  rotate: false
+  xy: 127, 33
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+Cat_Hand_R
+  rotate: false
+  xy: 158, 43
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+Cat_Hat
+  rotate: false
+  xy: 2, 9
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Cat_Hat_F
+  rotate: false
+  xy: 130, 124
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+Cat_Hat_L
+  rotate: true
+  xy: 177, 129
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+Cat_Hat_R
+  rotate: false
+  xy: 55, 28
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+Cat_Head
+  rotate: false
+  xy: 79, 53
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Cat_Leg_L
+  rotate: true
+  xy: 166, 55
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+Cat_Leg_R
+  rotate: true
+  xy: 52, 11
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+Cat_Leg_Sit
+  rotate: false
+  xy: 2, 39
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+Cat_Light
+  rotate: false
+  xy: 143, 3
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Cat_Line
+  rotate: false
+  xy: 123, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Cat_Mao
+  rotate: false
+  xy: 69, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Cat_Mouth_A
+  rotate: false
+  xy: 168, 15
+  size: 13, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Cat_Pelivs
+  rotate: false
+  xy: 104, 22
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+Cat_Shelf_B
+  rotate: true
+  xy: 40, 2
+  size: 5, 31
+  orig: 5, 31
+  offset: 0, 0
+  index: -1
+Cat_Shelf_F
+  rotate: true
+  xy: 2, 2
+  size: 5, 36
+  orig: 5, 36
+  offset: 0, 0
+  index: -1
+Cat_Shelf_Firewood
+  rotate: false
+  xy: 79, 124
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+Cat_Shelf_Hand
+  rotate: true
+  xy: 156, 3
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+Cat_Shelf_Meat
+  rotate: false
+  xy: 128, 107
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+Cat_Tail
+  rotate: false
+  xy: 79, 97
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+Cat_Wood
+  rotate: true
+  xy: 128, 77
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 139, 46
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/g
+  rotate: false
+  xy: 170, 73
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

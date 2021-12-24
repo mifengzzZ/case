@@ -1,0 +1,146 @@
+
+YouYi_skill2_screen.png
+size: 496,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dian4_000
+  rotate: false
+  xy: 431, 305
+  size: 46, 36
+  orig: 55, 42
+  offset: 5, 3
+  index: -1
+tx/dian4_002
+  rotate: false
+  xy: 259, 13
+  size: 115, 46
+  orig: 124, 53
+  offset: 5, 4
+  index: -1
+tx/dian4_003
+  rotate: false
+  xy: 2, 2
+  size: 126, 65
+  orig: 134, 72
+  offset: 4, 4
+  index: -1
+tx/dian4_004
+  rotate: true
+  xy: 269, 172
+  size: 130, 61
+  orig: 138, 69
+  offset: 4, 5
+  index: -1
+tx/dian4_007
+  rotate: false
+  xy: 136, 196
+  size: 131, 106
+  orig: 139, 114
+  offset: 4, 4
+  index: -1
+tx/dian4_009
+  rotate: false
+  xy: 2, 69
+  size: 130, 112
+  orig: 137, 120
+  offset: 3, 4
+  index: -1
+tx/dian4_012
+  rotate: false
+  xy: 2, 183
+  size: 132, 133
+  orig: 139, 141
+  offset: 4, 5
+  index: -1
+tx/dian4_013
+  rotate: false
+  xy: 2, 318
+  size: 135, 144
+  orig: 143, 155
+  offset: 4, 7
+  index: -1
+tx/dian4_015
+  rotate: false
+  xy: 139, 344
+  size: 134, 118
+  orig: 142, 126
+  offset: 4, 4
+  index: -1
+tx/dian4_018
+  rotate: false
+  xy: 275, 344
+  size: 123, 118
+  orig: 134, 127
+  offset: 6, 5
+  index: -1
+tx/dian5_000
+  rotate: false
+  xy: 262, 61
+  size: 94, 109
+  orig: 100, 114
+  offset: 3, 2
+  index: -1
+tx/dian5_003
+  rotate: false
+  xy: 332, 235
+  size: 97, 106
+  orig: 104, 110
+  offset: 2, 2
+  index: -1
+tx/dian5_005
+  rotate: false
+  xy: 134, 2
+  size: 123, 98
+  orig: 128, 103
+  offset: 3, 2
+  index: -1
+tx/dian5_008
+  rotate: false
+  xy: 136, 102
+  size: 124, 92
+  orig: 129, 97
+  offset: 3, 2
+  index: -1
+tx/dian5_010
+  rotate: true
+  xy: 358, 116
+  size: 117, 84
+  orig: 121, 90
+  offset: 2, 2
+  index: -1
+tx/dian5_013
+  rotate: true
+  xy: 400, 343
+  size: 119, 94
+  orig: 123, 99
+  offset: 2, 3
+  index: -1
+tx/gxian
+  rotate: false
+  xy: 139, 304
+  size: 189, 38
+  orig: 206, 42
+  offset: 0, 2
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 431, 276
+  size: 26, 27
+  orig: 27, 27
+  offset: 1, 0
+  index: -1
+tx/gy6
+  rotate: false
+  xy: 376, 18
+  size: 96, 96
+  orig: 97, 98
+  offset: 0, 1
+  index: -1
+tx/gz3
+  rotate: false
+  xy: 332, 207
+  size: 22, 26
+  orig: 24, 27
+  offset: 2, 1
+  index: -1

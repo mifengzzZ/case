@@ -1,0 +1,146 @@
+
+skill2_screen_di.png
+size: 1018,962
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/quanping_050
+  rotate: false
+  xy: 2, 802
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_051
+  rotate: false
+  xy: 2, 802
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_052
+  rotate: false
+  xy: 2, 642
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_053
+  rotate: false
+  xy: 350, 802
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_054
+  rotate: false
+  xy: 2, 482
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_055
+  rotate: false
+  xy: 350, 642
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_056
+  rotate: false
+  xy: 350, 642
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_057
+  rotate: false
+  xy: 2, 322
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_058
+  rotate: false
+  xy: 350, 482
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_059
+  rotate: true
+  xy: 698, 614
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_060
+  rotate: false
+  xy: 2, 162
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_061
+  rotate: false
+  xy: 2, 162
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_062
+  rotate: false
+  xy: 350, 322
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_063
+  rotate: true
+  xy: 858, 614
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_064
+  rotate: false
+  xy: 2, 2
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_065
+  rotate: false
+  xy: 350, 162
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_066
+  rotate: false
+  xy: 350, 162
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_067
+  rotate: true
+  xy: 698, 266
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_068
+  rotate: false
+  xy: 350, 2
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1
+tx/quanping_069
+  rotate: true
+  xy: 858, 266
+  size: 346, 158
+  orig: 346, 158
+  offset: 0, 0
+  index: -1

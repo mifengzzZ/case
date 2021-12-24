@@ -1,0 +1,118 @@
+
+KunTa_skill1.png
+size: 498,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/cj2
+  rotate: false
+  xy: 96, 226
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: -1
+tx/cj3
+  rotate: false
+  xy: 2, 392
+  size: 251, 113
+  orig: 251, 113
+  offset: 0, 0
+  index: -1
+tx/cj_26
+  rotate: false
+  xy: 393, 208
+  size: 103, 126
+  orig: 103, 126
+  offset: 0, 0
+  index: -1
+tx/cj_27
+  rotate: false
+  xy: 392, 68
+  size: 99, 138
+  orig: 99, 138
+  offset: 0, 0
+  index: -1
+tx/cj_28
+  rotate: true
+  xy: 247, 134
+  size: 98, 143
+  orig: 98, 143
+  offset: 0, 0
+  index: -1
+tx/cj_30
+  rotate: true
+  xy: 96, 124
+  size: 100, 149
+  orig: 100, 149
+  offset: 0, 0
+  index: -1
+tx/cj_31
+  rotate: true
+  xy: 242, 234
+  size: 100, 149
+  orig: 100, 149
+  offset: 0, 0
+  index: -1
+tx/dg2_00
+  rotate: true
+  xy: 2, 134
+  size: 256, 92
+  orig: 256, 92
+  offset: 0, 0
+  index: -1
+tx/dg2_01
+  rotate: false
+  xy: 255, 419
+  size: 225, 86
+  orig: 225, 86
+  offset: 0, 0
+  index: -1
+tx/dg2_02
+  rotate: false
+  xy: 255, 336
+  size: 191, 81
+  orig: 191, 81
+  offset: 0, 0
+  index: -1
+tx/dg2_03
+  rotate: false
+  xy: 2, 50
+  size: 173, 72
+  orig: 173, 72
+  offset: 0, 0
+  index: -1
+tx/dg2_04
+  rotate: false
+  xy: 177, 62
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+tx/dg2_05
+  rotate: false
+  xy: 177, 2
+  size: 149, 58
+  orig: 149, 58
+  offset: 0, 0
+  index: -1
+tx/dg2_06
+  rotate: false
+  xy: 2, 5
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1
+tx/dg2_07
+  rotate: true
+  xy: 336, 34
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1
+tx/dg2_08
+  rotate: false
+  xy: 376, 34
+  size: 92, 32
+  orig: 92, 32
+  offset: 0, 0
+  index: -1

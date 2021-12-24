@@ -43,13 +43,13 @@ export default class GuideManager extends cc.Component {
                 }
                 lastProgres = progress;
             }.bind(this), function (err: Error, asset: cc.Prefab) {
+                console.log('asset : ', asset);
                 this._guideView = cc.instantiate(asset);
                 this._hollowOut = this._guideView.getComponent('HollowOut');
                 this._touchBlock = this._guideView.getComponent('TouchBlock');
                 cc.director.getScene().children[0].addChild(this._guideView);
                 this._guideView.active = false;
                 this._guideView.getChildByName('shoushiroot').active = false;
-                console.log('我我我');
             }.bind(this));
         } catch (e) {
             console.log("资源加载出现异常 : ", 'xinshouyindao/prefab/guideLayer', e);

@@ -1,0 +1,628 @@
+
+MaGeLiTe.png
+size: 512,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MaGeLiTe_Arm_L
+  rotate: true
+  xy: 48, 475
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Arm_R
+  rotate: true
+  xy: 480, 487
+  size: 22, 29
+  orig: 23, 29
+  offset: 1, 0
+  index: -1
+MaGeLiTe_Body
+  rotate: true
+  xy: 266, 437
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Calf_L
+  rotate: true
+  xy: 2, 409
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Calf_R
+  rotate: true
+  xy: 358, 466
+  size: 25, 67
+  orig: 25, 67
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Calf_Ra
+  rotate: true
+  xy: 85, 438
+  size: 30, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Ear
+  rotate: true
+  xy: 21, 503
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Eyelid
+  rotate: false
+  xy: 34, 503
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Forearm_L
+  rotate: false
+  xy: 81, 473
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Forearm_R
+  rotate: true
+  xy: 302, 493
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hair_B
+  rotate: true
+  xy: 362, 132
+  size: 56, 79
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hair_F
+  rotate: true
+  xy: 149, 496
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hair_FL
+  rotate: false
+  xy: 434, 492
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hair_L
+  rotate: true
+  xy: 219, 495
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hair_R
+  rotate: true
+  xy: 169, 496
+  size: 13, 48
+  orig: 13, 48
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hand_L
+  rotate: false
+  xy: 119, 499
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hand_R
+  rotate: false
+  xy: 280, 494
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hat
+  rotate: false
+  xy: 384, 383
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Hat_B
+  rotate: true
+  xy: 291, 393
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Head
+  rotate: false
+  xy: 152, 438
+  size: 30, 30
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Arm_R
+  rotate: true
+  xy: 435, 330
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Belt
+  rotate: false
+  xy: 443, 132
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Hand_L
+  rotate: true
+  xy: 380, 337
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Hand_La
+  rotate: true
+  xy: 153, 358
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Hand_Lb
+  rotate: false
+  xy: 466, 377
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Hand_R
+  rotate: true
+  xy: 184, 438
+  size: 30, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Hand_RA
+  rotate: true
+  xy: 148, 311
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Scapula_LB
+  rotate: true
+  xy: 449, 424
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Scapula_R
+  rotate: true
+  xy: 179, 402
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Scapula_RB
+  rotate: false
+  xy: 2, 449
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Weapon_B
+  rotate: true
+  xy: 109, 470
+  size: 21, 247
+  orig: 21, 247
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Neck_S
+  rotate: false
+  xy: 134, 497
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Scapula_L
+  rotate: false
+  xy: 333, 493
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Skirt
+  rotate: false
+  xy: 373, 23
+  size: 93, 58
+  orig: 93, 58
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Skirt_La
+  rotate: false
+  xy: 2, 276
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Skirt_Lb
+  rotate: false
+  xy: 232, 398
+  size: 57, 37
+  orig: 57, 40
+  offset: 0, 3
+  index: -1
+MaGeLiTe_Skirt_Lc
+  rotate: false
+  xy: 455, 459
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+MaGeLiTe_Thigh_L
+  rotate: true
+  xy: 2, 478
+  size: 21, 44
+  orig: 22, 46
+  offset: 1, 2
+  index: -1
+MaGeLiTe_Thigh_R
+  rotate: true
+  xy: 43, 444
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 505
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 234, 438
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+tx/gy8
+  rotate: false
+  xy: 341, 391
+  size: 41, 39
+  orig: 45, 43
+  offset: 2, 2
+  index: -1
+tx/suihuo1_000
+  rotate: true
+  xy: 457, 489
+  size: 20, 21
+  orig: 28, 27
+  offset: 4, 3
+  index: -1
+tx/suihuo1_001
+  rotate: false
+  xy: 427, 464
+  size: 26, 26
+  orig: 31, 32
+  offset: 2, 3
+  index: -1
+tx/suihuo1_002
+  rotate: true
+  xy: 375, 432
+  size: 32, 33
+  orig: 37, 37
+  offset: 2, 2
+  index: -1
+tx/suihuo1_003
+  rotate: true
+  xy: 410, 426
+  size: 36, 37
+  orig: 42, 42
+  offset: 3, 3
+  index: -1
+tx/suihuo1_004
+  rotate: true
+  xy: 206, 353
+  size: 43, 45
+  orig: 47, 49
+  offset: 2, 2
+  index: -1
+tx/suihuo1_005
+  rotate: true
+  xy: 158, 214
+  size: 51, 53
+  orig: 55, 57
+  offset: 2, 2
+  index: -1
+tx/suihuo1_006
+  rotate: true
+  xy: 416, 190
+  size: 55, 57
+  orig: 59, 62
+  offset: 2, 3
+  index: -1
+tx/suihuo1_007
+  rotate: true
+  xy: 2, 116
+  size: 56, 60
+  orig: 62, 64
+  offset: 3, 2
+  index: -1
+tx/suihuo1_008
+  rotate: true
+  xy: 64, 115
+  size: 57, 60
+  orig: 63, 65
+  offset: 3, 3
+  index: -1
+tx/suihuo1_009
+  rotate: true
+  xy: 278, 91
+  size: 58, 60
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+tx/suihuo1_010
+  rotate: false
+  xy: 2, 56
+  size: 58, 58
+  orig: 65, 64
+  offset: 4, 3
+  index: -1
+tx/suihuo1_011
+  rotate: true
+  xy: 152, 155
+  size: 57, 58
+  orig: 63, 62
+  offset: 3, 2
+  index: -1
+tx/suihuo1_012
+  rotate: true
+  xy: 213, 207
+  size: 51, 53
+  orig: 60, 61
+  offset: 3, 3
+  index: -1
+tx/suihuo1_013
+  rotate: true
+  xy: 262, 260
+  size: 49, 52
+  orig: 54, 59
+  offset: 3, 5
+  index: -1
+tx/suihuo1_014
+  rotate: true
+  xy: 54, 274
+  size: 47, 50
+  orig: 54, 59
+  offset: 4, 6
+  index: -1
+tx/suihuo1_015
+  rotate: false
+  xy: 331, 433
+  size: 42, 31
+  orig: 50, 40
+  offset: 5, 6
+  index: -1
+tx/yan2_049
+  rotate: false
+  xy: 42, 501
+  size: 39, 8
+  orig: 39, 8
+  offset: 0, 0
+  index: -1
+tx/yan2_050
+  rotate: false
+  xy: 356, 493
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+tx/yan2_051
+  rotate: false
+  xy: 76, 404
+  size: 101, 32
+  orig: 101, 32
+  offset: 0, 0
+  index: -1
+tx/yan2_052
+  rotate: false
+  xy: 253, 350
+  size: 125, 39
+  orig: 125, 39
+  offset: 0, 0
+  index: -1
+tx/yan2_053
+  rotate: false
+  xy: 2, 323
+  size: 144, 43
+  orig: 144, 43
+  offset: 0, 0
+  index: -1
+tx/yan2_054
+  rotate: false
+  xy: 268, 199
+  size: 146, 46
+  orig: 146, 46
+  offset: 0, 0
+  index: -1
+tx/yan2_055
+  rotate: false
+  xy: 2, 174
+  size: 148, 46
+  orig: 148, 46
+  offset: 0, 0
+  index: -1
+tx/yan2_056
+  rotate: false
+  xy: 212, 151
+  size: 148, 46
+  orig: 148, 46
+  offset: 0, 0
+  index: -1
+tx/yan2_057
+  rotate: false
+  xy: 126, 103
+  size: 150, 46
+  orig: 150, 46
+  offset: 0, 0
+  index: -1
+tx/yan2_058
+  rotate: false
+  xy: 340, 83
+  size: 152, 47
+  orig: 152, 47
+  offset: 0, 0
+  index: -1
+tx/yan2_059
+  rotate: false
+  xy: 62, 53
+  size: 153, 48
+  orig: 153, 48
+  offset: 0, 0
+  index: -1
+tx/yan2_060
+  rotate: false
+  xy: 217, 33
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1
+tx/yan2_061
+  rotate: false
+  xy: 2, 2
+  size: 155, 49
+  orig: 155, 49
+  offset: 0, 0
+  index: -1
+tx/yan2_063
+  rotate: false
+  xy: 2, 222
+  size: 154, 43
+  orig: 154, 43
+  offset: 0, 0
+  index: -1
+tx/yan2_064
+  rotate: false
+  xy: 106, 267
+  size: 154, 42
+  orig: 154, 42
+  offset: 0, 0
+  index: -1
+tx/yan2_065
+  rotate: false
+  xy: 316, 247
+  size: 151, 42
+  orig: 151, 42
+  offset: 0, 0
+  index: -1
+tx/yan2_066
+  rotate: false
+  xy: 205, 311
+  size: 152, 37
+  orig: 152, 37
+  offset: 0, 0
+  index: -1
+tx/yan2_067
+  rotate: false
+  xy: 359, 291
+  size: 151, 37
+  orig: 151, 37
+  offset: 0, 0
+  index: -1
+tx/yan2_068
+  rotate: false
+  xy: 2, 368
+  size: 149, 34
+  orig: 149, 34
+  offset: 0, 0
+  index: -1
+tx/yan2_069
+  rotate: true
+  xy: 83, 501
+  size: 8, 34
+  orig: 8, 34
+  offset: 0, 0
+  index: -1
+
+MaGeLiTe2.png
+size: 444,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MaGeLiTe_Hat_A
+  rotate: true
+  xy: 349, 177
+  size: 71, 93
+  orig: 72, 94
+  offset: 0, 1
+  index: -1
+MaGeLiTe_KL_Arm_L
+  rotate: false
+  xy: 244, 2
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Body
+  rotate: false
+  xy: 2, 40
+  size: 86, 208
+  orig: 86, 208
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Forearm_L
+  rotate: false
+  xy: 328, 3
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Forearm_R
+  rotate: true
+  xy: 164, 6
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Head
+  rotate: true
+  xy: 349, 100
+  size: 75, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Scapula_L
+  rotate: true
+  xy: 90, 3
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+MaGeLiTe_KL_Weapon_T
+  rotate: true
+  xy: 90, 72
+  size: 176, 134
+  orig: 176, 134
+  offset: 0, 0
+  index: -1
+tx/gy9
+  rotate: false
+  xy: 277, 98
+  size: 70, 150
+  orig: 75, 160
+  offset: 2, 2
+  index: -1
+tx/yan2_062
+  rotate: true
+  xy: 226, 93
+  size: 155, 49
+  orig: 155, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+AoSiMan_skill2_screen.png
+size: 209,41
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a
+  rotate: false
+  xy: 118, 4
+  size: 55, 35
+  orig: 56, 37
+  offset: 1, 1
+  index: -1
+tx/b
+  rotate: false
+  xy: 2, 2
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+tx/c
+  rotate: false
+  xy: 60, 2
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+tx/mask
+  rotate: false
+  xy: 175, 7
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

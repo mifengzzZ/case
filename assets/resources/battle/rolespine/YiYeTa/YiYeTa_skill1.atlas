@@ -1,0 +1,34 @@
+
+YiYeTa_skill1.png
+size: 502,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/chushou_006
+  rotate: true
+  xy: 134, 27
+  size: 236, 143
+  orig: 236, 143
+  offset: 0, 0
+  index: -1
+tx/chushou_007
+  rotate: false
+  xy: 134, 265
+  size: 366, 133
+  orig: 366, 133
+  offset: 0, 0
+  index: -1
+tx/chushou_008
+  rotate: true
+  xy: 2, 2
+  size: 396, 130
+  orig: 396, 130
+  offset: 0, 0
+  index: -1
+tx/chushou_009
+  rotate: true
+  xy: 279, 32
+  size: 231, 106
+  orig: 231, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+YiLiYa.png
+size: 447,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 388, 4
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+YiLiYa_Arm_L
+  rotate: true
+  xy: 378, 10
+  size: 23, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+YiLiYa_Arm_R
+  rotate: false
+  xy: 434, 51
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+YiLiYa_Body
+  rotate: true
+  xy: 355, 83
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+YiLiYa_Calf_L
+  rotate: true
+  xy: 183, 30
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+YiLiYa_Calf_L_PD
+  rotate: true
+  xy: 378, 35
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+YiLiYa_Calf_R
+  rotate: true
+  xy: 275, 80
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+YiLiYa_Eyelid
+  rotate: false
+  xy: 83, 6
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+YiLiYa_Finger_La
+  rotate: false
+  xy: 378, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+YiLiYa_Finger_Lb
+  rotate: true
+  xy: 250, 13
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+YiLiYa_Finger_Lbb
+  rotate: false
+  xy: 420, 35
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+YiLiYa_Finger_Lc
+  rotate: true
+  xy: 87, 13
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1
+YiLiYa_Finger_Ra
+  rotate: true
+  xy: 407, 4
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+YiLiYa_Finger_Rb
+  rotate: false
+  xy: 250, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+YiLiYa_Forearm_L
+  rotate: false
+  xy: 412, 6
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+YiLiYa_Forearm_Lb
+  rotate: true
+  xy: 420, 47
+  size: 37, 12
+  orig: 38, 12
+  offset: 1, 0
+  index: -1
+YiLiYa_Forearm_R
+  rotate: true
+  xy: 140, 2
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+YiLiYa_Hair_F
+  rotate: false
+  xy: 341, 60
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+YiLiYa_Hair_L
+  rotate: false
+  xy: 91, 32
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+YiLiYa_Hair_Lb
+  rotate: true
+  xy: 433, 35
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+YiLiYa_Hand_Lb
+  rotate: false
+  xy: 67, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+YiLiYa_Hand_R
+  rotate: true
+  xy: 266, 60
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+YiLiYa_Hat_L
+  rotate: true
+  xy: 191, 4
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+YiLiYa_Hat_R
+  rotate: false
+  xy: 235, 5
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+YiLiYa_Head
+  rotate: true
+  xy: 158, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+YiLiYa_Pelivs
+  rotate: true
+  xy: 414, 86
+  size: 32, 27
+  orig: 32, 29
+  offset: 0, 2
+  index: -1
+YiLiYa_Skirt_B
+  rotate: true
+  xy: 266, 2
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+YiLiYa_Skirt_BBB
+  rotate: false
+  xy: 326, 3
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+YiLiYa_Skirt_BBF
+  rotate: false
+  xy: 183, 77
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+YiLiYa_Skirt_F
+  rotate: false
+  xy: 91, 2
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+YiLiYa_Thigh_L
+  rotate: true
+  xy: 381, 120
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+YiLiYa_Thigh_R
+  rotate: false
+  xy: 305, 2
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+YiLiYa_Weapon_L
+  rotate: true
+  xy: 2, 13
+  size: 7, 83
+  orig: 7, 83
+  offset: 0, 0
+  index: -1
+YiLiYa_Weapon_Lb
+  rotate: true
+  xy: 2, 5
+  size: 6, 63
+  orig: 6, 63
+  offset: 0, 0
+  index: -1
+YiLiYa_Weapon_R
+  rotate: false
+  xy: 275, 59
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+YiLiYa_Wing_L
+  rotate: false
+  xy: 2, 22
+  size: 87, 130
+  orig: 87, 130
+  offset: 0, 0
+  index: -1
+YiLiYa_Wing_R
+  rotate: true
+  xy: 275, 120
+  size: 32, 104
+  orig: 32, 104
+  offset: 0, 0
+  index: -1

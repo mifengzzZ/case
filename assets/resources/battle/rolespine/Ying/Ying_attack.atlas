@@ -1,0 +1,76 @@
+
+Ying_attack.png
+size: 496,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_032
+  rotate: false
+  xy: 178, 386
+  size: 238, 124
+  orig: 238, 124
+  offset: 0, 0
+  index: -1
+tx/dg1_033
+  rotate: false
+  xy: 178, 260
+  size: 233, 124
+  orig: 233, 124
+  offset: 0, 0
+  index: -1
+tx/dg1_034
+  rotate: false
+  xy: 178, 134
+  size: 199, 124
+  orig: 199, 124
+  offset: 0, 0
+  index: -1
+tx/dg1_035
+  rotate: true
+  xy: 379, 139
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+tx/dg2_018
+  rotate: false
+  xy: 418, 226
+  size: 76, 284
+  orig: 76, 284
+  offset: 0, 0
+  index: -1
+tx/dg2_019
+  rotate: false
+  xy: 2, 64
+  size: 77, 446
+  orig: 77, 446
+  offset: 0, 0
+  index: -1
+tx/dg2_020
+  rotate: true
+  xy: 2, 2
+  size: 60, 439
+  orig: 60, 439
+  offset: 0, 0
+  index: -1
+tx/dg2_021
+  rotate: false
+  xy: 81, 118
+  size: 48, 392
+  orig: 48, 392
+  offset: 0, 0
+  index: -1
+tx/dg2_022
+  rotate: false
+  xy: 131, 121
+  size: 45, 389
+  orig: 45, 389
+  offset: 0, 0
+  index: -1
+tx/dg2_023
+  rotate: true
+  xy: 178, 91
+  size: 41, 234
+  orig: 41, 234
+  offset: 0, 0
+  index: -1

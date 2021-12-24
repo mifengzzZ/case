@@ -1,0 +1,62 @@
+
+ChuZhan.png
+size: 605,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChuZhan_Fang
+  rotate: false
+  xy: 509, 109
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+ChuZhan_Light
+  rotate: false
+  xy: 243, 62
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+ChuZhan_Quan
+  rotate: false
+  xy: 509, 17
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ChuZhan_Quan_B
+  rotate: false
+  xy: 386, 82
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+ChuZhan_San_A
+  rotate: true
+  xy: 386, 62
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+ChuZhan_ShiZi
+  rotate: false
+  xy: 2, 2
+  size: 239, 247
+  orig: 239, 247
+  offset: 0, 0
+  index: -1
+ChuZhan_Text_BG
+  rotate: false
+  xy: 243, 3
+  size: 156, 57
+  orig: 156, 57
+  offset: 0, 0
+  index: -1
+ChuZhan_Tiao
+  rotate: false
+  xy: 243, 205
+  size: 349, 44
+  orig: 349, 44
+  offset: 0, 0
+  index: -1

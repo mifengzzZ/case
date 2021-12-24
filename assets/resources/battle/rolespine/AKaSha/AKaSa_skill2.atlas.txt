@@ -1,0 +1,272 @@
+
+AKaSa_skill2.png
+size: 497,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dgtw_016
+  rotate: false
+  xy: 2, 124
+  size: 240, 94
+  orig: 255, 106
+  offset: 7, 6
+  index: -1
+dgtw_017
+  rotate: true
+  xy: 2, 220
+  size: 244, 100
+  orig: 260, 112
+  offset: 6, 6
+  index: -1
+dgtw_018
+  rotate: false
+  xy: 2, 29
+  size: 148, 93
+  orig: 166, 109
+  offset: 6, 8
+  index: -1
+dgtw_019
+  rotate: false
+  xy: 410, 4
+  size: 84, 70
+  orig: 103, 88
+  offset: 7, 9
+  index: -1
+dgtw_020
+  rotate: true
+  xy: 417, 102
+  size: 89, 57
+  orig: 111, 77
+  offset: 11, 9
+  index: -1
+hitlizi1
+  rotate: false
+  xy: 182, 333
+  size: 29, 29
+  orig: 33, 33
+  offset: 2, 2
+  index: -1
+hitsj1_026
+  rotate: false
+  xy: 476, 165
+  size: 14, 38
+  orig: 14, 39
+  offset: 0, 1
+  index: -1
+hitsj1_027
+  rotate: true
+  xy: 417, 76
+  size: 24, 76
+  orig: 25, 78
+  offset: 1, 1
+  index: -1
+hitsj1_028
+  rotate: true
+  xy: 133, 250
+  size: 28, 87
+  orig: 28, 89
+  offset: 0, 1
+  index: -1
+hitsj1_029
+  rotate: false
+  xy: 350, 204
+  size: 28, 75
+  orig: 29, 77
+  offset: 1, 1
+  index: -1
+hitsj1_030
+  rotate: true
+  xy: 158, 281
+  size: 29, 72
+  orig: 29, 74
+  offset: 0, 1
+  index: -1
+hitsj1_031
+  rotate: true
+  xy: 133, 220
+  size: 28, 60
+  orig: 28, 62
+  offset: 0, 1
+  index: -1
+hitsj2
+  rotate: true
+  xy: 182, 401
+  size: 63, 36
+  orig: 65, 38
+  offset: 1, 1
+  index: -1
+hityan1
+  rotate: false
+  xy: 316, 281
+  size: 56, 49
+  orig: 58, 51
+  offset: 1, 1
+  index: -1
+s2gy3
+  rotate: false
+  xy: 182, 364
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+s2zhixian_068
+  rotate: true
+  xy: 244, 151
+  size: 44, 152
+  orig: 46, 171
+  offset: 2, 0
+  index: -1
+s2zhixian_069
+  rotate: true
+  xy: 152, 76
+  size: 46, 263
+  orig: 46, 268
+  offset: 0, 2
+  index: -1
+s2zhixian_070
+  rotate: true
+  xy: 152, 40
+  size: 34, 256
+  orig: 34, 264
+  offset: 0, 4
+  index: -1
+s2zhixian_071
+  rotate: false
+  xy: 104, 233
+  size: 27, 231
+  orig: 28, 235
+  offset: 1, 0
+  index: -1
+s2zhixian_072
+  rotate: false
+  xy: 450, 235
+  size: 22, 229
+  orig: 22, 233
+  offset: 0, 0
+  index: -1
+s2zhixian_073
+  rotate: false
+  xy: 158, 330
+  size: 22, 134
+  orig: 25, 141
+  offset: 3, 3
+  index: -1
+suipian_1_014
+  rotate: false
+  xy: 195, 221
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+suipian_1_015
+  rotate: true
+  xy: 450, 207
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+suipian_1_016
+  rotate: false
+  xy: 476, 135
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+suipian_1_017
+  rotate: false
+  xy: 391, 13
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+twx2_026
+  rotate: true
+  xy: 263, 4
+  size: 34, 126
+  orig: 35, 136
+  offset: 1, 5
+  index: -1
+twx2_027
+  rotate: false
+  xy: 244, 207
+  size: 34, 123
+  orig: 35, 132
+  offset: 1, 5
+  index: -1
+twx2_028
+  rotate: false
+  xy: 280, 213
+  size: 34, 117
+  orig: 35, 121
+  offset: 1, 4
+  index: -1
+twx2_029
+  rotate: false
+  xy: 316, 207
+  size: 32, 72
+  orig: 35, 80
+  offset: 2, 4
+  index: -1
+twx_027
+  rotate: true
+  xy: 417, 193
+  size: 271, 31
+  orig: 277, 35
+  offset: 1, 4
+  index: -1
+twx_028
+  rotate: true
+  xy: 381, 197
+  size: 267, 26
+  orig: 272, 26
+  offset: 1, 0
+  index: -1
+twx_029
+  rotate: false
+  xy: 2, 2
+  size: 259, 25
+  orig: 269, 25
+  offset: 4, 0
+  index: -1
+twx_030
+  rotate: true
+  xy: 133, 280
+  size: 184, 23
+  orig: 262, 23
+  offset: 72, 0
+  index: -1
+twx_031
+  rotate: false
+  xy: 244, 128
+  size: 166, 21
+  orig: 175, 23
+  offset: 3, 2
+  index: -1
+twx_032
+  rotate: true
+  xy: 222, 312
+  size: 152, 20
+  orig: 159, 20
+  offset: 2, 0
+  index: -1
+twx_033
+  rotate: true
+  xy: 474, 205
+  size: 138, 20
+  orig: 146, 20
+  offset: 2, 0
+  index: -1
+twx_034
+  rotate: true
+  xy: 476, 345
+  size: 119, 19
+  orig: 130, 19
+  offset: 5, 0
+  index: -1
+zaobo3
+  rotate: false
+  xy: 244, 332
+  size: 135, 132
+  orig: 138, 138
+  offset: 2, 3
+  index: -1

@@ -1,0 +1,244 @@
+
+AoLaHaMu.png
+size: 450,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AoLaHaMu_biyan
+  rotate: false
+  xy: 216, 5
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+AoLaHaMu_body
+  rotate: true
+  xy: 137, 13
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+AoLaHaMu_gongjian
+  rotate: true
+  xy: 137, 137
+  size: 125, 271
+  orig: 125, 271
+  offset: 0, 0
+  index: -1
+AoLaHaMu_jian
+  rotate: false
+  xy: 74, 3
+  size: 140, 8
+  orig: 140, 8
+  offset: 0, 0
+  index: -1
+AoLaHaMu_jiantao
+  rotate: false
+  xy: 194, 95
+  size: 147, 40
+  orig: 147, 40
+  offset: 0, 0
+  index: -1
+AoLaHaMu_lian
+  rotate: true
+  xy: 162, 116
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+AoLaHaMu_pifeng01
+  rotate: false
+  xy: 2, 60
+  size: 104, 202
+  orig: 104, 202
+  offset: 0, 0
+  index: -1
+AoLaHaMu_pifeng02
+  rotate: true
+  xy: 230, 5
+  size: 88, 152
+  orig: 88, 152
+  offset: 0, 0
+  index: -1
+AoLaHaMu_tou
+  rotate: false
+  xy: 149, 114
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa01
+  rotate: false
+  xy: 108, 88
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa02
+  rotate: true
+  xy: 108, 240
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa03
+  rotate: true
+  xy: 108, 227
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa04
+  rotate: true
+  xy: 131, 90
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa05
+  rotate: true
+  xy: 34, 2
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa06
+  rotate: false
+  xy: 153, 92
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+AoLaHaMu_toufa07
+  rotate: false
+  xy: 166, 96
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+AoLaHaMu_yao
+  rotate: true
+  xy: 70, 13
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youdabi
+  rotate: true
+  xy: 410, 227
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youdatui
+  rotate: true
+  xy: 384, 56
+  size: 30, 60
+  orig: 34, 67
+  offset: 0, 7
+  index: -1
+AoLaHaMu_youjiao
+  rotate: false
+  xy: 410, 176
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youshou
+  rotate: true
+  xy: 422, 26
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youshouzhi
+  rotate: false
+  xy: 422, 11
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youtuijia
+  rotate: false
+  xy: 104, 15
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youxiaobi
+  rotate: false
+  xy: 410, 200
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+AoLaHaMu_youxiaotui
+  rotate: false
+  xy: 108, 114
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuobilian
+  rotate: false
+  xy: 134, 114
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuodabi
+  rotate: false
+  xy: 2, 5
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuodatui
+  rotate: true
+  xy: 343, 95
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuojiao
+  rotate: true
+  xy: 108, 192
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuoshou
+  rotate: true
+  xy: 108, 67
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuotuijia
+  rotate: false
+  xy: 384, 15
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuoxiaobi
+  rotate: true
+  xy: 34, 8
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+AoLaHaMu_zuoxiaotui
+  rotate: false
+  xy: 410, 88
+  size: 36, 86
+  orig: 36, 86
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 55, 2
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

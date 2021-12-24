@@ -1,0 +1,83 @@
+
+XiWeiEr_skill1_screen.png
+size: 495,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/cj_058
+  rotate: true
+  xy: 2, 71
+  size: 222, 173
+  orig: 222, 173
+  offset: 0, 0
+  index: -1
+tx/cj_059
+  rotate: true
+  xy: 244, 151
+  size: 171, 124
+  orig: 171, 124
+  offset: 0, 0
+  index: -1
+tx/cj_060
+  rotate: false
+  xy: 2, 295
+  size: 219, 191
+  orig: 219, 191
+  offset: 0, 0
+  index: -1
+tx/cj_061
+  rotate: false
+  xy: 223, 324
+  size: 154, 162
+  orig: 154, 162
+  offset: 0, 0
+  index: -1
+tx/xian1_020
+  rotate: false
+  xy: 177, 68
+  size: 65, 225
+  orig: 65, 225
+  offset: 0, 0
+  index: -1
+tx/xian1_021
+  rotate: true
+  xy: 2, 2
+  size: 64, 219
+  orig: 64, 219
+  offset: 0, 0
+  index: -1
+tx/xian1_022
+  rotate: false
+  xy: 379, 267
+  size: 60, 219
+  orig: 60, 219
+  offset: 0, 0
+  index: -1
+tx/xian1_023
+  rotate: true
+  xy: 244, 91
+  size: 58, 203
+  orig: 58, 203
+  offset: 0, 0
+  index: -1
+tx/xian1_024
+  rotate: false
+  xy: 441, 285
+  size: 52, 201
+  orig: 52, 201
+  offset: 0, 0
+  index: -1
+tx/xian1_025
+  rotate: true
+  xy: 244, 40
+  size: 49, 199
+  orig: 49, 199
+  offset: 0, 0
+  index: -1
+tx/xian1_026
+  rotate: false
+  xy: 449, 147
+  size: 41, 136
+  orig: 41, 136
+  offset: 0, 0
+  index: -1

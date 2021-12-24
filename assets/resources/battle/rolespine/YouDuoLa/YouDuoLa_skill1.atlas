@@ -1,0 +1,90 @@
+
+YouDuoLa_skill1.png
+size: 512,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_015
+  rotate: false
+  xy: 127, 220
+  size: 115, 285
+  orig: 115, 285
+  offset: 0, 0
+  index: -1
+tx/dg1_016
+  rotate: false
+  xy: 2, 216
+  size: 123, 289
+  orig: 123, 289
+  offset: 0, 0
+  index: -1
+tx/dg1_017
+  rotate: false
+  xy: 205, 28
+  size: 121, 185
+  orig: 121, 185
+  offset: 0, 0
+  index: -1
+tx/dg1_018
+  rotate: false
+  xy: 335, 135
+  size: 99, 114
+  orig: 99, 114
+  offset: 0, 0
+  index: -1
+tx/dg1_019
+  rotate: true
+  xy: 328, 46
+  size: 87, 122
+  orig: 87, 122
+  offset: 0, 0
+  index: -1
+tx/tuowei2_037
+  rotate: false
+  xy: 441, 210
+  size: 65, 295
+  orig: 65, 295
+  offset: 0, 0
+  index: -1
+tx/tuowei2_039
+  rotate: false
+  xy: 244, 215
+  size: 89, 290
+  orig: 89, 290
+  offset: 0, 0
+  index: -1
+tx/tuowei2_040
+  rotate: false
+  xy: 335, 251
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+tx/tuowei2_041
+  rotate: false
+  xy: 2, 2
+  size: 110, 212
+  orig: 110, 212
+  offset: 0, 0
+  index: -1
+tx/tuowei2_042
+  rotate: false
+  xy: 114, 24
+  size: 89, 190
+  orig: 89, 190
+  offset: 0, 0
+  index: -1
+tx/tuowei2_043
+  rotate: false
+  xy: 452, 147
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+tx/tuowei2_044
+  rotate: false
+  xy: 452, 147
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1

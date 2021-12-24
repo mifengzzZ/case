@@ -1,0 +1,76 @@
+
+AoLaHaMu_skill1_screen.png
+size: 504,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/s1_lizi1
+  rotate: false
+  xy: 408, 98
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+tx/s1_tuowei1_039
+  rotate: true
+  xy: 356, 70
+  size: 429, 50
+  orig: 429, 50
+  offset: 0, 0
+  index: -1
+tx/s1_tuowei1_040
+  rotate: true
+  xy: 408, 118
+  size: 381, 46
+  orig: 381, 46
+  offset: 0, 0
+  index: -1
+tx/s1_tuowei1_041
+  rotate: true
+  xy: 456, 149
+  size: 350, 41
+  orig: 350, 41
+  offset: 0, 0
+  index: -1
+tx/s1_tuowei1_042
+  rotate: false
+  xy: 2, 25
+  size: 350, 34
+  orig: 350, 34
+  offset: 0, 0
+  index: -1
+tx/s1_tuowei1_043
+  rotate: false
+  xy: 2, 2
+  size: 345, 21
+  orig: 345, 21
+  offset: 0, 0
+  index: -1
+tx/s1_tuowei1_044
+  rotate: true
+  xy: 499, 233
+  size: 266, 3
+  orig: 266, 3
+  offset: 0, 0
+  index: -1
+tx/tuowei2_012
+  rotate: false
+  xy: 2, 61
+  size: 116, 438
+  orig: 116, 438
+  offset: 0, 0
+  index: -1
+tx/tuowei2_013
+  rotate: false
+  xy: 120, 65
+  size: 116, 434
+  orig: 116, 434
+  offset: 0, 0
+  index: -1
+tx/tuowei2_014
+  rotate: false
+  xy: 238, 96
+  size: 116, 403
+  orig: 116, 403
+  offset: 0, 0
+  index: -1

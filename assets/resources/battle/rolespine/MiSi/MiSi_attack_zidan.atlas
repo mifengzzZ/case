@@ -1,0 +1,55 @@
+
+MiSi_attack_zidan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a01
+  rotate: false
+  xy: 389, 158
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+images/tx/a03
+  rotate: false
+  xy: 260, 2
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+images/tx/d01
+  rotate: false
+  xy: 2, 104
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+images/tx/d02
+  rotate: false
+  xy: 2, 17
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+images/tx/d03
+  rotate: false
+  xy: 131, 104
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+images/tx/d04
+  rotate: false
+  xy: 131, 17
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+images/tx/d05
+  rotate: false
+  xy: 260, 104
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1

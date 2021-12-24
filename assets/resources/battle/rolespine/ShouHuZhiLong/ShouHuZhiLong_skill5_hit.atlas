@@ -1,0 +1,104 @@
+
+ShouHuZhiLong_skill5_hit.png
+size: 511,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/s5_1_020
+  rotate: false
+  xy: 415, 264
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+tx/s5_1_021
+  rotate: false
+  xy: 144, 160
+  size: 127, 162
+  orig: 127, 162
+  offset: 0, 0
+  index: -1
+tx/s5_1_022
+  rotate: false
+  xy: 2, 141
+  size: 140, 181
+  orig: 140, 181
+  offset: 0, 0
+  index: -1
+tx/s5_1_023
+  rotate: false
+  xy: 195, 339
+  size: 149, 171
+  orig: 149, 171
+  offset: 0, 0
+  index: -1
+tx/s5_1_024
+  rotate: false
+  xy: 346, 359
+  size: 146, 151
+  orig: 146, 151
+  offset: 0, 0
+  index: -1
+tx/s5_1_025
+  rotate: true
+  xy: 273, 191
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+tx/s5_1_026
+  rotate: true
+  xy: 160, 10
+  size: 148, 119
+  orig: 148, 119
+  offset: 0, 0
+  index: -1
+tx/s5_1_027
+  rotate: true
+  xy: 281, 48
+  size: 141, 108
+  orig: 141, 108
+  offset: 0, 0
+  index: -1
+tx/s5_2
+  rotate: false
+  xy: 2, 324
+  size: 191, 186
+  orig: 191, 186
+  offset: 0, 0
+  index: -1
+tx/s5_3
+  rotate: false
+  xy: 415, 207
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+tx/s5_st_000
+  rotate: true
+  xy: 472, 222
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+tx/s5_st_001
+  rotate: true
+  xy: 319, 9
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+tx/s5_st_002
+  rotate: true
+  xy: 281, 2
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+tx/s5_yanwu1
+  rotate: false
+  xy: 2, 8
+  size: 156, 131
+  orig: 156, 131
+  offset: 0, 0
+  index: -1

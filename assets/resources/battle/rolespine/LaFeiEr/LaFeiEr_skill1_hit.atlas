@@ -1,0 +1,132 @@
+
+LaFeiEr_skill1_hit.png
+size: 510,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/axian1
+  rotate: true
+  xy: 255, 152
+  size: 134, 81
+  orig: 134, 81
+  offset: 0, 0
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 267, 292
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+tx/quan1017
+  rotate: false
+  xy: 2, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+tx/quan1018
+  rotate: false
+  xy: 431, 111
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+tx/quan1019
+  rotate: false
+  xy: 343, 9
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+tx/quan1020
+  rotate: false
+  xy: 255, 65
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+tx/quan1021
+  rotate: false
+  xy: 338, 180
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+tx/quan1022
+  rotate: false
+  xy: 343, 92
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+tx/quan1023
+  rotate: true
+  xy: 426, 183
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+tx/quan1024
+  rotate: false
+  xy: 431, 46
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+tx/quan1025
+  rotate: true
+  xy: 338, 275
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+tx/sj1_016
+  rotate: false
+  xy: 387, 268
+  size: 91, 128
+  orig: 91, 128
+  offset: 0, 0
+  index: -1
+tx/sj1_017
+  rotate: false
+  xy: 132, 66
+  size: 121, 220
+  orig: 121, 220
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: false
+  xy: 2, 265
+  size: 128, 245
+  orig: 128, 245
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 132, 288
+  size: 133, 222
+  orig: 133, 222
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 2, 49
+  size: 128, 214
+  orig: 128, 214
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 267, 325
+  size: 118, 185
+  orig: 118, 185
+  offset: 0, 0
+  index: -1
+tx/sj2
+  rotate: false
+  xy: 387, 398
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+MiTaBi_skill2_screen_di.png
+size: 494,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilie
+  rotate: true
+  xy: 2, 2
+  size: 476, 320
+  orig: 476, 320
+  offset: 0, 0
+  index: -1
+dilie1
+  rotate: true
+  xy: 324, 69
+  size: 409, 168
+  orig: 409, 168
+  offset: 0, 0
+  index: -1

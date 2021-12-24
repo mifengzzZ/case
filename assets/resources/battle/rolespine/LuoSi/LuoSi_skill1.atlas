@@ -1,0 +1,62 @@
+
+LuoSi_skill1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/2b01
+  rotate: true
+  xy: 320, 247
+  size: 78, 156
+  orig: 78, 156
+  offset: 0, 0
+  index: -1
+images/tx/2b04
+  rotate: true
+  xy: 320, 167
+  size: 78, 156
+  orig: 78, 156
+  offset: 0, 0
+  index: -1
+images/tx/2e
+  rotate: false
+  xy: 2, 190
+  size: 316, 315
+  orig: 316, 315
+  offset: 0, 0
+  index: -1
+images/tx/2f
+  rotate: false
+  xy: 276, 89
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+images/tx/2g
+  rotate: false
+  xy: 320, 327
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+images/tx/2i
+  rotate: false
+  xy: 276, 58
+  size: 114, 29
+  orig: 114, 29
+  offset: 0, 0
+  index: -1
+images/tx/2j
+  rotate: true
+  xy: 2, 2
+  size: 186, 201
+  orig: 186, 201
+  offset: 0, 0
+  index: -1
+images/tx/2k
+  rotate: true
+  xy: 205, 18
+  size: 170, 69
+  orig: 170, 69
+  offset: 0, 0
+  index: -1

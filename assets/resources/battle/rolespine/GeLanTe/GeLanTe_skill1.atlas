@@ -1,0 +1,132 @@
+
+GeLanTe_skill1.png
+size: 512,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy8
+  rotate: true
+  xy: 86, 170
+  size: 163, 43
+  orig: 163, 43
+  offset: 0, 0
+  index: -1
+tx/gy9
+  rotate: true
+  xy: 222, 361
+  size: 146, 144
+  orig: 146, 144
+  offset: 0, 0
+  index: -1
+tx/juqi_04
+  rotate: false
+  xy: 132, 145
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+tx/juqi_05
+  rotate: false
+  xy: 238, 89
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+tx/juqi_06
+  rotate: false
+  xy: 132, 53
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+tx/juqi_07
+  rotate: false
+  xy: 243, 231
+  size: 113, 128
+  orig: 113, 128
+  offset: 0, 0
+  index: -1
+tx/juqi_08
+  rotate: false
+  xy: 388, 29
+  size: 96, 125
+  orig: 96, 125
+  offset: 0, 0
+  index: -1
+tx/juqi_09
+  rotate: false
+  xy: 2, 161
+  size: 82, 172
+  orig: 82, 172
+  offset: 0, 0
+  index: -1
+tx/juqi_10
+  rotate: false
+  xy: 2, 335
+  size: 103, 172
+  orig: 103, 172
+  offset: 0, 0
+  index: -1
+tx/juqi_11
+  rotate: false
+  xy: 368, 252
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+tx/juqi_12
+  rotate: true
+  xy: 368, 378
+  size: 129, 142
+  orig: 129, 142
+  offset: 0, 0
+  index: -1
+tx/juqi_13
+  rotate: false
+  xy: 2, 2
+  size: 128, 157
+  orig: 128, 157
+  offset: 0, 0
+  index: -1
+tx/juqi_14
+  rotate: false
+  xy: 107, 355
+  size: 113, 152
+  orig: 113, 152
+  offset: 0, 0
+  index: -1
+tx/juqi_15
+  rotate: false
+  xy: 131, 202
+  size: 110, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+tx/juqi_16
+  rotate: true
+  xy: 358, 156
+  size: 94, 145
+  orig: 94, 145
+  offset: 0, 0
+  index: -1
+tx/juqi_17
+  rotate: true
+  xy: 243, 157
+  size: 72, 112
+  orig: 72, 112
+  offset: 0, 0
+  index: -1
+tx/juqi_18
+  rotate: true
+  xy: 296, 13
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+tx/juqi_19
+  rotate: true
+  xy: 233, 11
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1

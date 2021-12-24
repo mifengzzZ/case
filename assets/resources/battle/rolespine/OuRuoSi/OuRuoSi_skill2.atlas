@@ -1,0 +1,76 @@
+
+OuRuoSi_skill2.png
+size: 478,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/feng3_018
+  rotate: false
+  xy: 288, 203
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+tx/feng3_019
+  rotate: false
+  xy: 288, 308
+  size: 179, 103
+  orig: 179, 103
+  offset: 0, 0
+  index: -1
+tx/feng3_020
+  rotate: true
+  xy: 188, 206
+  size: 205, 98
+  orig: 205, 98
+  offset: 0, 0
+  index: -1
+tx/feng3_021
+  rotate: true
+  xy: 2, 200
+  size: 211, 88
+  orig: 211, 88
+  offset: 0, 0
+  index: -1
+tx/feng3_022
+  rotate: true
+  xy: 92, 203
+  size: 208, 94
+  orig: 208, 94
+  offset: 0, 0
+  index: -1
+tx/feng3_023
+  rotate: true
+  xy: 2, 2
+  size: 196, 101
+  orig: 196, 101
+  offset: 0, 0
+  index: -1
+tx/feng3_024
+  rotate: false
+  xy: 309, 14
+  size: 163, 102
+  orig: 163, 102
+  offset: 0, 0
+  index: -1
+tx/feng3_025
+  rotate: false
+  xy: 309, 118
+  size: 167, 83
+  orig: 167, 83
+  offset: 0, 0
+  index: -1
+tx/feng3_026
+  rotate: true
+  xy: 213, 26
+  size: 175, 94
+  orig: 175, 94
+  offset: 0, 0
+  index: -1
+tx/feng3_027
+  rotate: true
+  xy: 105, 20
+  size: 181, 106
+  orig: 181, 106
+  offset: 0, 0
+  index: -1

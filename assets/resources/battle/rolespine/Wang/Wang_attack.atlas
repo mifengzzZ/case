@@ -1,0 +1,34 @@
+
+Wang_attack.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg1_024
+  rotate: false
+  xy: 2, 273
+  size: 269, 217
+  orig: 269, 217
+  offset: 0, 0
+  index: -1
+dg1_025
+  rotate: true
+  xy: 273, 221
+  size: 269, 217
+  orig: 269, 217
+  offset: 0, 0
+  index: -1
+dg1_026
+  rotate: true
+  xy: 2, 2
+  size: 269, 217
+  orig: 269, 217
+  offset: 0, 0
+  index: -1
+dg1_027
+  rotate: false
+  xy: 221, 2
+  size: 266, 217
+  orig: 266, 217
+  offset: 0, 0
+  index: -1

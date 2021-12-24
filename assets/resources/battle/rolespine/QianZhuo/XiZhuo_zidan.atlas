@@ -1,0 +1,160 @@
+
+XiZhuo_zidan.png
+size: 508,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/huo2_000
+  rotate: true
+  xy: 330, 143
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+tx/huo2_001
+  rotate: false
+  xy: 436, 167
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+tx/huo2_002
+  rotate: false
+  xy: 436, 231
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+tx/huo2_003
+  rotate: true
+  xy: 317, 22
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+tx/huo2_004
+  rotate: true
+  xy: 225, 13
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+tx/huo2_005
+  rotate: false
+  xy: 333, 203
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+tx/huo2_006
+  rotate: false
+  xy: 125, 178
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_007
+  rotate: false
+  xy: 266, 407
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_008
+  rotate: false
+  xy: 371, 407
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_009
+  rotate: false
+  xy: 266, 303
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_010
+  rotate: false
+  xy: 371, 303
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_011
+  rotate: true
+  xy: 125, 282
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+tx/huo2_012
+  rotate: false
+  xy: 229, 201
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+tx/huo2_013
+  rotate: true
+  xy: 229, 103
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+tx/huo2_014
+  rotate: false
+  xy: 126, 77
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+tx/huo2_015
+  rotate: false
+  xy: 126, 2
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+tx/huo3_000
+  rotate: false
+  xy: 2, 127
+  size: 118, 128
+  orig: 118, 128
+  offset: 0, 0
+  index: -1
+tx/huo3_002
+  rotate: false
+  xy: 2, 387
+  size: 130, 122
+  orig: 130, 122
+  offset: 0, 0
+  index: -1
+tx/huo3_004
+  rotate: false
+  xy: 2, 257
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+tx/huo3_006
+  rotate: true
+  xy: 134, 392
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+tx/huo3_007
+  rotate: false
+  xy: 2, 2
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+tx/qiu
+  rotate: false
+  xy: 386, 110
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

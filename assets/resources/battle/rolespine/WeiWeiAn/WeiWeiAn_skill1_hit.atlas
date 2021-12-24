@@ -1,0 +1,216 @@
+
+WeiWeiAn_skill1_hit.png
+size: 748,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1_bufff_000
+  rotate: false
+  xy: 574, 2
+  size: 145, 140
+  orig: 145, 140
+  offset: 0, 0
+  index: -1
+skill1_bufff_001
+  rotate: true
+  xy: 432, 6
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+skill1_bufff_002
+  rotate: true
+  xy: 2, 22
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+skill1_bufff_003
+  rotate: true
+  xy: 143, 20
+  size: 133, 134
+  orig: 133, 134
+  offset: 0, 0
+  index: -1
+skill1_bufff_004
+  rotate: false
+  xy: 601, 144
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+skill1_bufff_005
+  rotate: false
+  xy: 301, 148
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+skill1_bufff_006
+  rotate: false
+  xy: 442, 276
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+skill1_bufff_007
+  rotate: false
+  xy: 147, 401
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
+skill1_bufff_008
+  rotate: false
+  xy: 587, 276
+  size: 143, 121
+  orig: 143, 121
+  offset: 0, 0
+  index: -1
+skill1_bufff_009
+  rotate: false
+  xy: 297, 279
+  size: 143, 120
+  orig: 143, 120
+  offset: 0, 0
+  index: -1
+skill1_bufff_010
+  rotate: false
+  xy: 2, 282
+  size: 140, 119
+  orig: 140, 119
+  offset: 0, 0
+  index: -1
+skill1_bufff_011
+  rotate: false
+  xy: 451, 399
+  size: 136, 119
+  orig: 136, 119
+  offset: 0, 0
+  index: -1
+skill1_bufff_012
+  rotate: false
+  xy: 590, 519
+  size: 132, 118
+  orig: 132, 118
+  offset: 0, 0
+  index: -1
+skill1_bufff_013
+  rotate: false
+  xy: 456, 520
+  size: 132, 117
+  orig: 132, 117
+  offset: 0, 0
+  index: -1
+skill1_bufff_014
+  rotate: false
+  xy: 155, 639
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+skill1_bufff_015
+  rotate: false
+  xy: 289, 639
+  size: 141, 115
+  orig: 141, 115
+  offset: 0, 0
+  index: -1
+skill1_bufff_016
+  rotate: false
+  xy: 2, 403
+  size: 143, 118
+  orig: 143, 118
+  offset: 0, 0
+  index: -1
+skill1_bufff_017
+  rotate: false
+  xy: 2, 156
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+skill1_bufff_018
+  rotate: false
+  xy: 150, 155
+  size: 149, 122
+  orig: 149, 122
+  offset: 0, 0
+  index: -1
+skill1_bufff_019
+  rotate: false
+  xy: 144, 280
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+skill1_bufff_020
+  rotate: false
+  xy: 2, 640
+  size: 151, 114
+  orig: 151, 114
+  offset: 0, 0
+  index: -1
+skill1_bufff_021
+  rotate: false
+  xy: 432, 639
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+skill1_bufff_022
+  rotate: false
+  xy: 584, 639
+  size: 150, 115
+  orig: 150, 115
+  offset: 0, 0
+  index: -1
+skill1_bufff_023
+  rotate: false
+  xy: 2, 523
+  size: 148, 115
+  orig: 148, 115
+  offset: 0, 0
+  index: -1
+skill1_bufff_024
+  rotate: false
+  xy: 152, 522
+  size: 147, 115
+  orig: 147, 115
+  offset: 0, 0
+  index: -1
+skill1_bufff_025
+  rotate: false
+  xy: 301, 521
+  size: 153, 116
+  orig: 153, 116
+  offset: 0, 0
+  index: -1
+skill1_bufff_026
+  rotate: false
+  xy: 292, 401
+  size: 157, 118
+  orig: 157, 118
+  offset: 0, 0
+  index: -1
+skill1_bufff_027
+  rotate: false
+  xy: 589, 399
+  size: 157, 118
+  orig: 157, 118
+  offset: 0, 0
+  index: -1
+skill1_bufff_028
+  rotate: false
+  xy: 444, 147
+  size: 155, 127
+  orig: 155, 127
+  offset: 0, 0
+  index: -1
+skill1_bufff_029
+  rotate: false
+  xy: 279, 10
+  size: 151, 136
+  orig: 151, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+LaRuiOu_skill1.png
+size: 482,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/dg2_029
+  rotate: true
+  xy: 2, 65
+  size: 50, 169
+  orig: 52, 190
+  offset: 2, 0
+  index: -1
+images/tx/dg2_030
+  rotate: false
+  xy: 42, 137
+  size: 29, 280
+  orig: 29, 280
+  offset: 0, 0
+  index: -1
+images/tx/dg2_031
+  rotate: false
+  xy: 2, 134
+  size: 38, 283
+  orig: 40, 293
+  offset: 2, 5
+  index: -1
+images/tx/dg2_032
+  rotate: false
+  xy: 73, 159
+  size: 30, 258
+  orig: 32, 262
+  offset: 2, 0
+  index: -1
+images/tx/dg2_033
+  rotate: true
+  xy: 73, 117
+  size: 27, 254
+  orig: 30, 259
+  offset: 3, 0
+  index: -1
+images/tx/dg2_034
+  rotate: true
+  xy: 105, 146
+  size: 25, 147
+  orig: 28, 156
+  offset: 3, 4
+  index: -1
+images/tx/dg3_014
+  rotate: false
+  xy: 105, 296
+  size: 165, 121
+  orig: 165, 124
+  offset: 0, 0
+  index: -1
+images/tx/dg3_015
+  rotate: false
+  xy: 105, 173
+  size: 164, 121
+  orig: 165, 124
+  offset: 1, 0
+  index: -1
+images/tx/dg3_016
+  rotate: false
+  xy: 271, 154
+  size: 134, 121
+  orig: 149, 124
+  offset: 15, 0
+  index: -1
+images/tx/dg3_017
+  rotate: false
+  xy: 278, 16
+  size: 49, 99
+  orig: 54, 112
+  offset: 5, 9
+  index: -1
+images/tx/gy1
+  rotate: true
+  xy: 414, 229
+  size: 188, 64
+  orig: 206, 69
+  offset: 9, 2
+  index: -1
+images/tx/gy2
+  rotate: false
+  xy: 223, 13
+  size: 37, 37
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+images/tx/gy5
+  rotate: false
+  xy: 272, 277
+  size: 140, 140
+  orig: 158, 156
+  offset: 9, 8
+  index: -1
+images/tx/gy6
+  rotate: false
+  xy: 329, 30
+  size: 42, 41
+  orig: 44, 43
+  offset: 1, 1
+  index: -1
+images/tx/huaban
+  rotate: false
+  xy: 262, 38
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+images/tx/sj2_030
+  rotate: true
+  xy: 172, 19
+  size: 31, 49
+  orig: 50, 61
+  offset: 9, 9
+  index: -1
+images/tx/sj2_031
+  rotate: true
+  xy: 373, 13
+  size: 54, 96
+  orig: 63, 107
+  offset: 0, 8
+  index: -1
+images/tx/sj2_032
+  rotate: true
+  xy: 2, 2
+  size: 61, 107
+  orig: 68, 118
+  offset: 0, 9
+  index: -1
+images/tx/sj2_033
+  rotate: true
+  xy: 173, 52
+  size: 63, 103
+  orig: 80, 114
+  offset: 8, 10
+  index: -1
+images/tx/sj2_034
+  rotate: false
+  xy: 407, 134
+  size: 73, 93
+  orig: 91, 101
+  offset: 10, 8
+  index: -1
+images/tx/sj2_035
+  rotate: false
+  xy: 329, 73
+  size: 73, 79
+  orig: 91, 88
+  offset: 10, 9
+  index: -1
+images/tx/sj2_036
+  rotate: false
+  xy: 404, 69
+  size: 74, 63
+  orig: 81, 70
+  offset: 0, 7
+  index: -1
+images/tx/sj2_037
+  rotate: false
+  xy: 111, 9
+  size: 59, 54
+  orig: 75, 61
+  offset: 0, 7
+  index: -1

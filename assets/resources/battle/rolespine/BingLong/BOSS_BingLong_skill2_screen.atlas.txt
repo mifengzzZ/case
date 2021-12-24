@@ -1,0 +1,13 @@
+
+BOSS_BingLong_skill2_screen.png
+size: 63,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_xuehua
+  rotate: false
+  xy: 2, 2
+  size: 59, 58
+  orig: 65, 64
+  offset: 3, 3
+  index: -1

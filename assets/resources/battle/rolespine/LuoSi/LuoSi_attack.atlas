@@ -1,0 +1,41 @@
+
+LuoSi_attack.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/1a01
+  rotate: false
+  xy: 81, 293
+  size: 265, 52
+  orig: 265, 52
+  offset: 0, 0
+  index: -1
+images/tx/1a02
+  rotate: false
+  xy: 2, 426
+  size: 379, 84
+  orig: 379, 84
+  offset: 0, 0
+  index: -1
+images/tx/1a03
+  rotate: false
+  xy: 2, 347
+  size: 344, 77
+  orig: 344, 77
+  offset: 0, 0
+  index: -1
+images/tx/1a04
+  rotate: true
+  xy: 2, 2
+  size: 343, 77
+  orig: 343, 77
+  offset: 0, 0
+  index: -1
+images/tx/1a05
+  rotate: false
+  xy: 81, 237
+  size: 212, 54
+  orig: 212, 54
+  offset: 0, 0
+  index: -1

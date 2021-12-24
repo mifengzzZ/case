@@ -1,0 +1,97 @@
+
+xuanyun.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b
+  rotate: false
+  xy: 2, 155
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+images/d01
+  rotate: false
+  xy: 414, 212
+  size: 91, 42
+  orig: 91, 42
+  offset: 0, 0
+  index: -1
+images/d02
+  rotate: false
+  xy: 209, 157
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+images/d03
+  rotate: false
+  xy: 137, 47
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+images/d04
+  rotate: true
+  xy: 64, 68
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1
+images/d05
+  rotate: false
+  xy: 103, 201
+  size: 104, 53
+  orig: 104, 53
+  offset: 0, 0
+  index: -1
+images/d06
+  rotate: false
+  xy: 209, 208
+  size: 111, 46
+  orig: 111, 46
+  offset: 0, 0
+  index: -1
+images/d07
+  rotate: false
+  xy: 103, 157
+  size: 104, 42
+  orig: 104, 42
+  offset: 0, 0
+  index: -1
+images/d08
+  rotate: true
+  xy: 2, 35
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+images/d09
+  rotate: true
+  xy: 64, 2
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+images/d10
+  rotate: false
+  xy: 120, 108
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+images/d11
+  rotate: false
+  xy: 204, 109
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+images/d12
+  rotate: false
+  xy: 322, 209
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

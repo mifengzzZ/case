@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "5f25bc6f-d38d-4648-970f-f6bc8f79dd2a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 470,
+  "height": 163,
+  "platformSettings": {},
+  "subMetas": {
+    "JiaDiSi_attack_zidan": {
+      "ver": "1.0.6",
+      "uuid": "37c50b05-34b5-4ff3-a0e6-5626a5f7824c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5f25bc6f-d38d-4648-970f-f6bc8f79dd2a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 466,
+      "height": 159,
+      "rawWidth": 470,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

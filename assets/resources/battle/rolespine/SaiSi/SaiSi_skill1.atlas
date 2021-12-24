@@ -1,0 +1,111 @@
+
+SaiSi_skill1.png
+size: 511,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 429, 94
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+tx/shui1_017
+  rotate: false
+  xy: 360, 144
+  size: 106, 177
+  orig: 106, 177
+  offset: 0, 0
+  index: -1
+tx/shui1_018
+  rotate: true
+  xy: 245, 18
+  size: 115, 182
+  orig: 115, 182
+  offset: 0, 0
+  index: -1
+tx/shui1_019
+  rotate: false
+  xy: 245, 323
+  size: 116, 185
+  orig: 116, 185
+  offset: 0, 0
+  index: -1
+tx/shui1_020
+  rotate: false
+  xy: 241, 135
+  size: 117, 185
+  orig: 117, 185
+  offset: 0, 0
+  index: -1
+tx/shui1_021
+  rotate: false
+  xy: 124, 322
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: -1
+tx/shui1_022
+  rotate: true
+  xy: 56, 9
+  size: 119, 187
+  orig: 119, 187
+  offset: 0, 0
+  index: -1
+tx/shui1_023
+  rotate: false
+  xy: 2, 320
+  size: 120, 188
+  orig: 120, 188
+  offset: 0, 0
+  index: -1
+tx/shui1_024
+  rotate: false
+  xy: 2, 130
+  size: 118, 188
+  orig: 118, 188
+  offset: 0, 0
+  index: -1
+tx/shui1_025
+  rotate: false
+  xy: 122, 130
+  size: 117, 188
+  orig: 117, 188
+  offset: 0, 0
+  index: -1
+tx/shui1_026
+  rotate: true
+  xy: 363, 427
+  size: 81, 146
+  orig: 81, 146
+  offset: 0, 0
+  index: -1
+tx/shui1_027
+  rotate: true
+  xy: 363, 348
+  size: 77, 143
+  orig: 77, 143
+  offset: 0, 0
+  index: -1
+tx/shui1_028
+  rotate: false
+  xy: 2, 2
+  size: 52, 126
+  orig: 52, 126
+  offset: 0, 0
+  index: -1
+tx/shui1_029
+  rotate: false
+  xy: 468, 315
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+tx/shui1_030
+  rotate: false
+  xy: 468, 289
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+MiLiYa_attack_hit.png
+size: 511,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 416, 287
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 475, 310
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+tx/lizi
+  rotate: false
+  xy: 23, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+tx/sj1_000
+  rotate: false
+  xy: 426, 400
+  size: 73, 110
+  orig: 73, 110
+  offset: 0, 0
+  index: -1
+tx/sj1_001
+  rotate: false
+  xy: 143, 259
+  size: 136, 125
+  orig: 136, 125
+  offset: 0, 0
+  index: -1
+tx/sj1_002
+  rotate: false
+  xy: 140, 138
+  size: 135, 119
+  orig: 135, 119
+  offset: 0, 0
+  index: -1
+tx/sj1_003
+  rotate: false
+  xy: 285, 388
+  size: 139, 122
+  orig: 139, 122
+  offset: 0, 0
+  index: -1
+tx/sj1_004
+  rotate: false
+  xy: 143, 386
+  size: 140, 124
+  orig: 140, 124
+  offset: 0, 0
+  index: -1
+tx/sj1_005
+  rotate: false
+  xy: 2, 383
+  size: 139, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+tx/sj1_006
+  rotate: false
+  xy: 2, 121
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+tx/sj1_007
+  rotate: false
+  xy: 2, 252
+  size: 136, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+tx/sj1_008
+  rotate: true
+  xy: 139, 2
+  size: 134, 130
+  orig: 134, 130
+  offset: 0, 0
+  index: -1
+tx/sj1_009
+  rotate: true
+  xy: 271, 2
+  size: 134, 130
+  orig: 134, 130
+  offset: 0, 0
+  index: -1
+tx/sj1_010
+  rotate: true
+  xy: 285, 259
+  size: 127, 129
+  orig: 127, 129
+  offset: 0, 0
+  index: -1
+tx/sj1_011
+  rotate: true
+  xy: 2, 20
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+tx/yanwu1_000
+  rotate: false
+  xy: 2, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+tx/yanwu1_001
+  rotate: false
+  xy: 475, 274
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+tx/yanwu1_002
+  rotate: false
+  xy: 410, 186
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+tx/yanwu1_003
+  rotate: false
+  xy: 416, 234
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+tx/yanwu1_004
+  rotate: true
+  xy: 277, 138
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+tx/yanwu1_005
+  rotate: false
+  xy: 277, 200
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+tx/yanwu1_006
+  rotate: false
+  xy: 343, 202
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+tx/yanwu1_007
+  rotate: false
+  xy: 426, 346
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1

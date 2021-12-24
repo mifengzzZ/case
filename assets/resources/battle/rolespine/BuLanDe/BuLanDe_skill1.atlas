@@ -1,0 +1,132 @@
+
+BuLanDe_skill1.png
+size: 475,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg2_057
+  rotate: false
+  xy: 2, 327
+  size: 153, 137
+  orig: 153, 137
+  offset: 0, 0
+  index: -1
+tx/dg2_058
+  rotate: false
+  xy: 157, 342
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+tx/dg2_060
+  rotate: true
+  xy: 2, 9
+  size: 157, 122
+  orig: 157, 122
+  offset: 0, 0
+  index: -1
+tx/dg2_061
+  rotate: true
+  xy: 2, 168
+  size: 157, 123
+  orig: 157, 123
+  offset: 0, 0
+  index: -1
+tx/dg2_062
+  rotate: false
+  xy: 316, 345
+  size: 157, 119
+  orig: 157, 119
+  offset: 0, 0
+  index: -1
+tx/qilang1_074
+  rotate: true
+  xy: 371, 7
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+tx/qilang1_075
+  rotate: true
+  xy: 126, 2
+  size: 109, 81
+  orig: 109, 81
+  offset: 0, 0
+  index: -1
+tx/qilang1_076
+  rotate: true
+  xy: 209, 37
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+tx/qilang1_077
+  rotate: true
+  xy: 209, 37
+  size: 109, 79
+  orig: 109, 79
+  offset: 0, 0
+  index: -1
+tx/qilang1_078
+  rotate: true
+  xy: 290, 64
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+tx/qilang1_079
+  rotate: true
+  xy: 371, 77
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+tx/qilang1_080
+  rotate: true
+  xy: 290, 10
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+tx/xian1_027
+  rotate: true
+  xy: 127, 113
+  size: 212, 62
+  orig: 212, 62
+  offset: 0, 0
+  index: -1
+tx/xian1_028
+  rotate: true
+  xy: 191, 148
+  size: 192, 60
+  orig: 192, 60
+  offset: 0, 0
+  index: -1
+tx/xian1_029
+  rotate: true
+  xy: 253, 166
+  size: 174, 57
+  orig: 174, 57
+  offset: 0, 0
+  index: -1
+tx/xian1_030
+  rotate: true
+  xy: 312, 168
+  size: 172, 54
+  orig: 172, 54
+  offset: 0, 0
+  index: -1
+tx/xian1_031
+  rotate: true
+  xy: 368, 178
+  size: 165, 47
+  orig: 165, 47
+  offset: 0, 0
+  index: -1
+tx/xian1_032
+  rotate: true
+  xy: 417, 215
+  size: 128, 39
+  orig: 128, 39
+  offset: 0, 0
+  index: -1

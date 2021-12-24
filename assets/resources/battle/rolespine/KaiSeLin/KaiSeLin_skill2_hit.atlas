@@ -1,0 +1,48 @@
+
+KaiSeLin_skill2_hit.png
+size: 499,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/sj1_019
+  rotate: true
+  xy: 341, 278
+  size: 155, 156
+  orig: 155, 156
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 2, 2
+  size: 225, 183
+  orig: 225, 183
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: true
+  xy: 2, 187
+  size: 246, 178
+  orig: 246, 178
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: true
+  xy: 182, 195
+  size: 238, 157
+  orig: 238, 157
+  offset: 0, 0
+  index: -1
+tx/sj1_023
+  rotate: true
+  xy: 347, 48
+  size: 228, 124
+  orig: 228, 124
+  offset: 0, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 229, 2
+  size: 191, 116
+  orig: 191, 116
+  offset: 0, 0
+  index: -1

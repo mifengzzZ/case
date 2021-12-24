@@ -1,0 +1,300 @@
+
+KunTa.png
+size: 497,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KunTa_Arm_L
+  rotate: true
+  xy: 416, 19
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+KunTa_Arm_R
+  rotate: true
+  xy: 252, 2
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+KunTa_Belt
+  rotate: true
+  xy: 470, 99
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+KunTa_Body
+  rotate: true
+  xy: 362, 134
+  size: 32, 55
+  orig: 32, 59
+  offset: 0, 1
+  index: -1
+KunTa_Calf_L
+  rotate: false
+  xy: 253, 64
+  size: 41, 82
+  orig: 41, 82
+  offset: 0, 0
+  index: -1
+KunTa_Calf_R
+  rotate: false
+  xy: 119, 12
+  size: 33, 70
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+KunTa_Eyelid_L
+  rotate: true
+  xy: 2, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+KunTa_Eyelid_R
+  rotate: true
+  xy: 154, 79
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+KunTa_Forearm_L
+  rotate: true
+  xy: 483, 150
+  size: 35, 12
+  orig: 39, 14
+  offset: 4, 1
+  index: -1
+KunTa_Forearm_R
+  rotate: false
+  xy: 326, 9
+  size: 20, 19
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+KunTa_Hair_F
+  rotate: false
+  xy: 348, 9
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+KunTa_Hair_LB
+  rotate: true
+  xy: 179, 211
+  size: 26, 155
+  orig: 26, 155
+  offset: 0, 0
+  index: -1
+KunTa_Hair_RB
+  rotate: true
+  xy: 179, 239
+  size: 23, 163
+  orig: 23, 163
+  offset: 0, 0
+  index: -1
+KunTa_Hair_RF
+  rotate: false
+  xy: 483, 114
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+KunTa_Hand_L
+  rotate: false
+  xy: 336, 218
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+KunTa_Hand_LB
+  rotate: true
+  xy: 480, 187
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+KunTa_Hand_R
+  rotate: false
+  xy: 161, 152
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+KunTa_Hand_RB
+  rotate: false
+  xy: 482, 94
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+KunTa_Head
+  rotate: true
+  xy: 289, 25
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+KunTa_Pelivs
+  rotate: false
+  xy: 326, 30
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+KunTa_RB_Arm_L
+  rotate: false
+  xy: 296, 127
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+KunTa_RB_Arm_LA
+  rotate: false
+  xy: 154, 4
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+KunTa_RB_Arm_LB
+  rotate: true
+  xy: 362, 168
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+KunTa_RB_Arm_R
+  rotate: true
+  xy: 415, 83
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+KunTa_RB_Arm_RA
+  rotate: false
+  xy: 296, 58
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+KunTa_RB_Body
+  rotate: true
+  xy: 161, 61
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+KunTa_RB_Body_B
+  rotate: false
+  xy: 427, 207
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+KunTa_RB_Body_BL
+  rotate: false
+  xy: 365, 79
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+KunTa_RB_Body_BR
+  rotate: false
+  xy: 416, 37
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+KunTa_RB_Forearm_L
+  rotate: false
+  xy: 2, 174
+  size: 175, 88
+  orig: 175, 88
+  offset: 0, 0
+  index: -1
+KunTa_RB_Forearm_LB
+  rotate: false
+  xy: 2, 84
+  size: 157, 88
+  orig: 157, 88
+  offset: 0, 0
+  index: -1
+KunTa_RB_Forearm_R
+  rotate: true
+  xy: 179, 148
+  size: 61, 115
+  orig: 61, 117
+  offset: 0, 2
+  index: -1
+KunTa_RB_Forearm_RB
+  rotate: true
+  xy: 2, 13
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: -1
+KunTa_RB_Scapula_L
+  rotate: false
+  xy: 344, 239
+  size: 81, 23
+  orig: 81, 23
+  offset: 0, 0
+  index: -1
+KunTa_RB_Scapula_LB
+  rotate: false
+  xy: 419, 126
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+KunTa_RB_Scapula_LT
+  rotate: true
+  xy: 419, 153
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+KunTa_RB_Scapula_R
+  rotate: true
+  xy: 231, 8
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+KunTa_RB_Scapula_RB
+  rotate: true
+  xy: 273, 29
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+KunTa_RB_Scapula_RT
+  rotate: true
+  xy: 365, 34
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+KunTa_Thigh_L
+  rotate: false
+  xy: 457, 22
+  size: 23, 59
+  orig: 24, 61
+  offset: 0, 1
+  index: -1
+KunTa_Thigh_R
+  rotate: false
+  xy: 252, 14
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 231, 2
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

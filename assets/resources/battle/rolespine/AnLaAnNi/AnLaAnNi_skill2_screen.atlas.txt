@@ -1,0 +1,125 @@
+
+AnLaAnNi_skill2_screen.png
+size: 994,959
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/guang
+  rotate: false
+  xy: 2, 597
+  size: 789, 360
+  orig: 789, 360
+  offset: 0, 0
+  index: -1
+tx/gy6
+  rotate: false
+  xy: 492, 277
+  size: 42, 41
+  orig: 45, 48
+  offset: 2, 4
+  index: -1
+tx/mask
+  rotate: false
+  xy: 492, 243
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tx/s2_feng1_022
+  rotate: true
+  xy: 796, 15
+  size: 154, 101
+  orig: 171, 111
+  offset: 12, 5
+  index: -1
+tx/s2_feng1_023
+  rotate: true
+  xy: 796, 331
+  size: 160, 98
+  orig: 176, 108
+  offset: 10, 5
+  index: -1
+tx/s2_feng1_024
+  rotate: true
+  xy: 881, 672
+  size: 189, 87
+  orig: 201, 98
+  offset: 6, 5
+  index: -1
+tx/s2_feng1_025
+  rotate: true
+  xy: 793, 668
+  size: 193, 86
+  orig: 206, 96
+  offset: 6, 5
+  index: -1
+tx/s2_feng1_026
+  rotate: false
+  xy: 793, 863
+  size: 189, 94
+  orig: 202, 104
+  offset: 7, 5
+  index: -1
+tx/s2_feng1_027
+  rotate: true
+  xy: 796, 493
+  size: 173, 98
+  orig: 190, 107
+  offset: 8, 4
+  index: -1
+tx/s2_feng1_028
+  rotate: true
+  xy: 896, 372
+  size: 143, 96
+  orig: 159, 106
+  offset: 8, 5
+  index: -1
+tx/s2_feng1_029
+  rotate: true
+  xy: 902, 223
+  size: 147, 77
+  orig: 164, 88
+  offset: 9, 5
+  index: -1
+tx/s2_feng1_030
+  rotate: true
+  xy: 896, 517
+  size: 153, 91
+  orig: 169, 101
+  offset: 9, 4
+  index: -1
+tx/s2_feng1_031
+  rotate: true
+  xy: 796, 171
+  size: 158, 104
+  orig: 175, 113
+  offset: 11, 4
+  index: -1
+tx/yun1
+  rotate: false
+  xy: 2, 2
+  size: 488, 316
+  orig: 488, 321
+  offset: 0, 2
+  index: -1
+tx/yun2
+  rotate: true
+  xy: 547, 37
+  size: 558, 247
+  orig: 558, 252
+  offset: 0, 3
+  index: -1
+tx/yun3
+  rotate: false
+  xy: 2, 320
+  size: 543, 275
+  orig: 543, 279
+  offset: 0, 3
+  index: -1
+tx/zhuanchang
+  rotate: true
+  xy: 902, 153
+  size: 68, 70
+  orig: 87, 88
+  offset: 10, 10
+  index: -1

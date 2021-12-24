@@ -1,0 +1,118 @@
+
+AiLiSi_skill1.png
+size: 507,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/hudie_000
+  rotate: true
+  xy: 387, 260
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1
+tx/hudie_001
+  rotate: false
+  xy: 270, 390
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+tx/hudie_002
+  rotate: false
+  xy: 262, 260
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+tx/hudie_003
+  rotate: true
+  xy: 2, 121
+  size: 131, 117
+  orig: 131, 117
+  offset: 0, 0
+  index: -1
+tx/hudie_004
+  rotate: true
+  xy: 127, 134
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+tx/hudie_005
+  rotate: false
+  xy: 127, 266
+  size: 133, 117
+  orig: 133, 117
+  offset: 0, 0
+  index: -1
+tx/hudie_006
+  rotate: false
+  xy: 2, 387
+  size: 140, 123
+  orig: 140, 123
+  offset: 0, 0
+  index: -1
+tx/hudie_007
+  rotate: false
+  xy: 144, 385
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+tx/hudie_008
+  rotate: false
+  xy: 2, 2
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+tx/hudie_009
+  rotate: true
+  xy: 2, 254
+  size: 131, 123
+  orig: 131, 123
+  offset: 0, 0
+  index: -1
+tx/hudie_010
+  rotate: true
+  xy: 393, 392
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+tx/hudie_011
+  rotate: false
+  xy: 365, 13
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+tx/hudie_012
+  rotate: true
+  xy: 121, 8
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+tx/hudie_013
+  rotate: true
+  xy: 380, 129
+  size: 129, 117
+  orig: 129, 117
+  offset: 0, 0
+  index: -1
+tx/hudie_014
+  rotate: false
+  xy: 247, 141
+  size: 131, 117
+  orig: 131, 117
+  offset: 0, 0
+  index: -1
+tx/hudie_015
+  rotate: true
+  xy: 247, 11
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1

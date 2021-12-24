@@ -1,0 +1,230 @@
+
+MaAiEr.png
+size: 403,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MaAiEr_Arm_L
+  rotate: true
+  xy: 306, 116
+  size: 31, 40
+  orig: 31, 48
+  offset: 0, 5
+  index: -1
+MaAiEr_Arm_R
+  rotate: true
+  xy: 320, 25
+  size: 21, 37
+  orig: 21, 38
+  offset: 0, 1
+  index: -1
+MaAiEr_Belt
+  rotate: false
+  xy: 342, 155
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+MaAiEr_Belt_B
+  rotate: true
+  xy: 305, 23
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+MaAiEr_Body
+  rotate: true
+  xy: 194, 2
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+MaAiEr_Calf_L
+  rotate: true
+  xy: 226, 121
+  size: 26, 78
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+MaAiEr_Calf_R
+  rotate: true
+  xy: 225, 80
+  size: 39, 73
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+MaAiEr_Cloak_B
+  rotate: false
+  xy: 2, 34
+  size: 190, 92
+  orig: 192, 96
+  offset: 2, 0
+  index: -1
+MaAiEr_Cloak_F
+  rotate: true
+  xy: 177, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+MaAiEr_Cloak_L
+  rotate: false
+  xy: 79, 11
+  size: 96, 21
+  orig: 100, 21
+  offset: 3, 0
+  index: -1
+MaAiEr_Cloak_LB
+  rotate: false
+  xy: 273, 31
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+MaAiEr_Cloak_R
+  rotate: true
+  xy: 194, 47
+  size: 79, 29
+  orig: 81, 37
+  offset: 2, 6
+  index: -1
+MaAiEr_Ear
+  rotate: true
+  xy: 113, 3
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+MaAiEr_Eyelid
+  rotate: false
+  xy: 99, 2
+  size: 12, 7
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+MaAiEr_Finger_R
+  rotate: false
+  xy: 305, 3
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+MaAiEr_Foot_L
+  rotate: false
+  xy: 268, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+MaAiEr_Foot_R
+  rotate: false
+  xy: 367, 54
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+MaAiEr_Foot_Rb
+  rotate: false
+  xy: 367, 84
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+MaAiEr_Forearm_L
+  rotate: true
+  xy: 348, 119
+  size: 34, 53
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+MaAiEr_Forearm_R
+  rotate: true
+  xy: 225, 47
+  size: 31, 46
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+MaAiEr_Hair_B
+  rotate: false
+  xy: 349, 56
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+MaAiEr_Hair_L
+  rotate: false
+  xy: 390, 182
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+MaAiEr_Hair_R
+  rotate: true
+  xy: 79, 2
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+MaAiEr_Hand_L
+  rotate: true
+  xy: 324, 6
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+MaAiEr_Hand_R
+  rotate: false
+  xy: 177, 13
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+MaAiEr_Head
+  rotate: true
+  xy: 359, 20
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+MaAiEr_Neck
+  rotate: false
+  xy: 300, 77
+  size: 65, 37
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+MaAiEr_Pose1
+  rotate: false
+  xy: 226, 149
+  size: 114, 50
+  orig: 114, 50
+  offset: 0, 0
+  index: -1
+MaAiEr_Sword
+  rotate: true
+  xy: 2, 128
+  size: 71, 222
+  orig: 71, 222
+  offset: 0, 0
+  index: -1
+MaAiEr_Thigh_L
+  rotate: true
+  xy: 2, 2
+  size: 30, 75
+  orig: 30, 78
+  offset: 0, 2
+  index: -1
+MaAiEr_Thigh_R
+  rotate: true
+  xy: 273, 48
+  size: 27, 74
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 397, 182
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "90c8df23-3415-4895-88cf-54dbbc47c080",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 497,
+  "height": 475,
+  "platformSettings": {},
+  "subMetas": {
+    "KaLiFu_skill2_screen": {
+      "ver": "1.0.6",
+      "uuid": "6f1051ff-8145-4933-b249-dd5003e0fa92",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "90c8df23-3415-4895-88cf-54dbbc47c080",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 493,
+      "height": 471,
+      "rawWidth": 497,
+      "rawHeight": 475,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

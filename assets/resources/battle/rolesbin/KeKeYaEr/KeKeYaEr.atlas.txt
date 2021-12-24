@@ -1,0 +1,300 @@
+
+KeKeYaEr.png
+size: 403,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KeKeYaEr_baoshi
+  rotate: false
+  xy: 393, 246
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+KeKeYaEr_biyan
+  rotate: true
+  xy: 388, 214
+  size: 14, 10
+  orig: 16, 13
+  offset: 1, 1
+  index: -1
+KeKeYaEr_body
+  rotate: false
+  xy: 339, 63
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+KeKeYaEr_lian
+  rotate: false
+  xy: 374, 21
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+KeKeYaEr_piaodai01
+  rotate: true
+  xy: 2, 2
+  size: 78, 128
+  orig: 78, 128
+  offset: 0, 0
+  index: -1
+KeKeYaEr_piaodai02
+  rotate: false
+  xy: 132, 12
+  size: 29, 75
+  orig: 29, 75
+  offset: 0, 0
+  index: -1
+KeKeYaEr_piaodai03
+  rotate: false
+  xy: 2, 82
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+KeKeYaEr_shu
+  rotate: false
+  xy: 287, 23
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa01
+  rotate: true
+  xy: 377, 138
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa02
+  rotate: false
+  xy: 393, 234
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa03
+  rotate: true
+  xy: 304, 230
+  size: 32, 87
+  orig: 32, 87
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa04
+  rotate: true
+  xy: 119, 126
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa05
+  rotate: false
+  xy: 203, 43
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa06
+  rotate: false
+  xy: 364, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa07
+  rotate: true
+  xy: 287, 40
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa08
+  rotate: true
+  xy: 304, 196
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa09
+  rotate: true
+  xy: 287, 9
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa10
+  rotate: false
+  xy: 381, 94
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa11
+  rotate: false
+  xy: 243, 66
+  size: 49, 128
+  orig: 49, 128
+  offset: 0, 0
+  index: -1
+KeKeYaEr_toufa12
+  rotate: false
+  xy: 294, 69
+  size: 43, 125
+  orig: 43, 125
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia01
+  rotate: true
+  xy: 202, 97
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia02
+  rotate: false
+  xy: 377, 160
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia03
+  rotate: false
+  xy: 278, 13
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia04
+  rotate: true
+  xy: 386, 9
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia05
+  rotate: false
+  xy: 203, 2
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia06
+  rotate: true
+  xy: 241, 36
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia07
+  rotate: false
+  xy: 328, 31
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+KeKeYaEr_tuijia08
+  rotate: false
+  xy: 343, 15
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+KeKeYaEr_wuqi
+  rotate: true
+  xy: 2, 196
+  size: 66, 300
+  orig: 66, 300
+  offset: 0, 0
+  index: -1
+KeKeYaEr_xiong
+  rotate: false
+  xy: 337, 40
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+KeKeYaEr_yao
+  rotate: true
+  xy: 119, 89
+  size: 35, 81
+  orig: 35, 81
+  offset: 0, 0
+  index: -1
+KeKeYaEr_youdabi
+  rotate: true
+  xy: 294, 54
+  size: 13, 41
+  orig: 13, 41
+  offset: 0, 0
+  index: -1
+KeKeYaEr_youdatui
+  rotate: true
+  xy: 232, 13
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+KeKeYaEr_youjiao
+  rotate: true
+  xy: 304, 202
+  size: 26, 82
+  orig: 26, 82
+  offset: 0, 0
+  index: -1
+KeKeYaEr_youshou
+  rotate: true
+  xy: 359, 19
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+KeKeYaEr_youxiaobi
+  rotate: true
+  xy: 320, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+KeKeYaEr_zuodabi
+  rotate: false
+  xy: 381, 57
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+KeKeYaEr_zuojiao
+  rotate: false
+  xy: 339, 121
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+KeKeYaEr_zuoshou
+  rotate: false
+  xy: 343, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+KeKeYaEr_zuotui
+  rotate: false
+  xy: 163, 21
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+KeKeYaEr_zuoxiaobi
+  rotate: true
+  xy: 163, 8
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 380, 2
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1

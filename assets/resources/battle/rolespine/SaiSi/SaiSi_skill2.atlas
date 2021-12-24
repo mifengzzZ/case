@@ -1,0 +1,195 @@
+
+SaiSi_skill2.png
+size: 509,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 305, 15
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 354, 15
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+tx/shui1_017
+  rotate: true
+  xy: 131, 39
+  size: 103, 172
+  orig: 103, 172
+  offset: 0, 0
+  index: -1
+tx/shui1_018
+  rotate: false
+  xy: 352, 148
+  size: 112, 177
+  orig: 112, 177
+  offset: 0, 0
+  index: -1
+tx/shui1_019
+  rotate: false
+  xy: 237, 145
+  size: 113, 180
+  orig: 113, 180
+  offset: 0, 0
+  index: -1
+tx/shui1_020
+  rotate: false
+  xy: 354, 330
+  size: 114, 180
+  orig: 114, 180
+  offset: 0, 0
+  index: -1
+tx/shui1_021
+  rotate: false
+  xy: 120, 144
+  size: 115, 181
+  orig: 115, 181
+  offset: 0, 0
+  index: -1
+tx/shui1_022
+  rotate: false
+  xy: 2, 143
+  size: 116, 182
+  orig: 116, 182
+  offset: 0, 0
+  index: -1
+tx/shui1_023
+  rotate: false
+  xy: 2, 327
+  size: 117, 183
+  orig: 117, 183
+  offset: 0, 0
+  index: -1
+tx/shui1_024
+  rotate: false
+  xy: 121, 327
+  size: 115, 183
+  orig: 115, 183
+  offset: 0, 0
+  index: -1
+tx/shui1_025
+  rotate: false
+  xy: 238, 327
+  size: 114, 183
+  orig: 114, 183
+  offset: 0, 0
+  index: -1
+tx/shui1_026
+  rotate: true
+  xy: 305, 64
+  size: 79, 142
+  orig: 79, 142
+  offset: 0, 0
+  index: -1
+tx/shui1_027
+  rotate: false
+  xy: 2, 2
+  size: 75, 139
+  orig: 75, 139
+  offset: 0, 0
+  index: -1
+tx/shui1_028
+  rotate: false
+  xy: 79, 18
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1
+tx/shui1_029
+  rotate: false
+  xy: 403, 32
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+tx/shui1_030
+  rotate: false
+  xy: 466, 171
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_010
+  rotate: true
+  xy: 466, 196
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_012
+  rotate: false
+  xy: 225, 9
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_014
+  rotate: false
+  xy: 178, 6
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_016
+  rotate: false
+  xy: 131, 2
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_018
+  rotate: true
+  xy: 470, 418
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_020
+  rotate: true
+  xy: 470, 465
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_022
+  rotate: true
+  xy: 470, 372
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_024
+  rotate: true
+  xy: 470, 327
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_026
+  rotate: true
+  xy: 466, 284
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_028
+  rotate: true
+  xy: 466, 243
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+tx/xiangshangshui_030
+  rotate: false
+  xy: 272, 4
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1

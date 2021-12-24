@@ -1,0 +1,13 @@
+
+KuLaLa_skill2_screen_di.png
+size: 962,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bg
+  rotate: false
+  xy: 2, 2
+  size: 958, 442
+  orig: 958, 442
+  offset: 0, 0
+  index: -1

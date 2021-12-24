@@ -1,0 +1,118 @@
+
+buff_cuiqu.png
+size: 508,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dun1
+  rotate: false
+  xy: 2, 270
+  size: 113, 240
+  orig: 113, 240
+  offset: 0, 0
+  index: -1
+images/dun1_007
+  rotate: false
+  xy: 245, 197
+  size: 123, 152
+  orig: 123, 152
+  offset: 0, 0
+  index: -1
+images/dun1_009
+  rotate: true
+  xy: 158, 11
+  size: 96, 158
+  orig: 96, 158
+  offset: 0, 0
+  index: -1
+images/dun1_011
+  rotate: false
+  xy: 370, 190
+  size: 109, 159
+  orig: 109, 159
+  offset: 0, 0
+  index: -1
+images/dun1_013
+  rotate: false
+  xy: 2, 109
+  size: 116, 159
+  orig: 116, 159
+  offset: 0, 0
+  index: -1
+images/dun1_015
+  rotate: false
+  xy: 371, 351
+  size: 121, 159
+  orig: 121, 159
+  offset: 0, 0
+  index: -1
+images/dun1_017
+  rotate: false
+  xy: 245, 351
+  size: 124, 159
+  orig: 124, 159
+  offset: 0, 0
+  index: -1
+images/dun1_019
+  rotate: false
+  xy: 117, 351
+  size: 126, 159
+  orig: 126, 159
+  offset: 0, 0
+  index: -1
+images/dun1_021
+  rotate: false
+  xy: 120, 192
+  size: 123, 157
+  orig: 123, 157
+  offset: 0, 0
+  index: -1
+images/dun1_023
+  rotate: true
+  xy: 2, 2
+  size: 105, 154
+  orig: 105, 154
+  offset: 0, 0
+  index: -1
+images/dun1_025
+  rotate: true
+  xy: 359, 95
+  size: 93, 147
+  orig: 93, 147
+  offset: 0, 0
+  index: -1
+images/dun1_027
+  rotate: true
+  xy: 120, 109
+  size: 81, 134
+  orig: 81, 134
+  offset: 0, 0
+  index: -1
+images/dun1_029
+  rotate: true
+  xy: 318, 33
+  size: 60, 117
+  orig: 60, 117
+  offset: 0, 0
+  index: -1
+images/dun1_031
+  rotate: true
+  xy: 256, 158
+  size: 37, 101
+  orig: 37, 101
+  offset: 0, 0
+  index: -1
+images/dun1_033
+  rotate: true
+  xy: 256, 129
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+images/dun1_035
+  rotate: false
+  xy: 338, 98
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1

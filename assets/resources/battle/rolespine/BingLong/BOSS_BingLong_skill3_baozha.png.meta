@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c8992ab1-5c16-42bb-bb3e-3ef4a6dea6db",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1006,
+  "height": 898,
+  "platformSettings": {},
+  "subMetas": {
+    "BOSS_BingLong_skill3_baozha": {
+      "ver": "1.0.6",
+      "uuid": "563da896-6c44-4a1b-8a13-b11016d654f9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c8992ab1-5c16-42bb-bb3e-3ef4a6dea6db",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1002,
+      "height": 894,
+      "rawWidth": 1006,
+      "rawHeight": 898,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

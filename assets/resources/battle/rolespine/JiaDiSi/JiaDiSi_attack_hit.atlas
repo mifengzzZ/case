@@ -1,0 +1,97 @@
+
+JiaDiSi_attack_hit.png
+size: 496,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy3
+  rotate: true
+  xy: 2, 131
+  size: 255, 252
+  orig: 255, 252
+  offset: 0, 0
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 256, 131
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+tx/sj1_32
+  rotate: false
+  xy: 305, 198
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+tx/sj1_33
+  rotate: false
+  xy: 305, 198
+  size: 189, 188
+  orig: 189, 188
+  offset: 0, 0
+  index: -1
+tx/sj1_34
+  rotate: false
+  xy: 323, 36
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+tx/sj1_35
+  rotate: false
+  xy: 323, 36
+  size: 166, 160
+  orig: 166, 160
+  offset: 0, 0
+  index: -1
+tx/sj1_36
+  rotate: true
+  xy: 2, 5
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+tx/sj1_37
+  rotate: true
+  xy: 2, 5
+  size: 124, 115
+  orig: 124, 115
+  offset: 0, 0
+  index: -1
+tx/sj1_38
+  rotate: true
+  xy: 119, 16
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+tx/sj1_39
+  rotate: true
+  xy: 119, 16
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+tx/sj1_40
+  rotate: true
+  xy: 221, 41
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+tx/sj1_41
+  rotate: true
+  xy: 221, 41
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+tx/xuehua
+  rotate: false
+  xy: 221, 2
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1

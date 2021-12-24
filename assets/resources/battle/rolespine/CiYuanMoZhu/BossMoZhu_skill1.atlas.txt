@@ -1,0 +1,132 @@
+
+BossMoZhu_skill1.png
+size: 416,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy1
+  rotate: false
+  xy: 345, 18
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+yanwu1
+  rotate: false
+  xy: 275, 187
+  size: 92, 74
+  orig: 95, 77
+  offset: 1, 1
+  index: -1
+yeti1_000
+  rotate: false
+  xy: 369, 190
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+yeti1_001
+  rotate: false
+  xy: 352, 90
+  size: 34, 31
+  orig: 35, 33
+  offset: 1, 2
+  index: -1
+yeti1_002
+  rotate: true
+  xy: 369, 213
+  size: 48, 45
+  orig: 50, 45
+  offset: 2, 0
+  index: -1
+yeti1_003
+  rotate: false
+  xy: 352, 123
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+yeti1_004
+  rotate: true
+  xy: 178, 10
+  size: 74, 75
+  orig: 75, 76
+  offset: 1, 0
+  index: -1
+yeti1_005
+  rotate: false
+  xy: 269, 84
+  size: 81, 85
+  orig: 83, 86
+  offset: 1, 1
+  index: -1
+yeti1_006
+  rotate: true
+  xy: 2, 85
+  size: 85, 88
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+yeti1_007
+  rotate: false
+  xy: 186, 171
+  size: 87, 90
+  orig: 89, 92
+  offset: 2, 2
+  index: -1
+yeti1_008
+  rotate: true
+  xy: 2, 172
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+yeti1_009
+  rotate: false
+  xy: 94, 172
+  size: 90, 89
+  orig: 90, 92
+  offset: 0, 2
+  index: -1
+yeti1_010
+  rotate: true
+  xy: 92, 79
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+yeti1_011
+  rotate: false
+  xy: 178, 86
+  size: 89, 83
+  orig: 89, 85
+  offset: 0, 2
+  index: -1
+yeti1_012
+  rotate: false
+  xy: 2, 2
+  size: 88, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+yeti1_013
+  rotate: true
+  xy: 92, 7
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+yeti1_014
+  rotate: true
+  xy: 267, 13
+  size: 69, 76
+  orig: 70, 76
+  offset: 1, 0
+  index: -1
+yeti1_015
+  rotate: true
+  xy: 255, 69
+  size: 15, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1

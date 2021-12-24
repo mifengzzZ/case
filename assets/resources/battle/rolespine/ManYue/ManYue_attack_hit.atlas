@@ -1,0 +1,41 @@
+
+ManYue_attack_hit.png
+size: 484,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 2, 241
+  size: 272, 219
+  orig: 272, 219
+  offset: 0, 0
+  index: -1
+tx/sj1_000
+  rotate: true
+  xy: 332, 2
+  size: 221, 150
+  orig: 221, 150
+  offset: 0, 0
+  index: -1
+tx/sj1_001
+  rotate: true
+  xy: 2, 2
+  size: 237, 161
+  orig: 237, 161
+  offset: 0, 0
+  index: -1
+tx/sj1_002
+  rotate: true
+  xy: 276, 225
+  size: 235, 163
+  orig: 235, 163
+  offset: 0, 0
+  index: -1
+tx/sj1_003
+  rotate: true
+  xy: 165, 4
+  size: 219, 165
+  orig: 219, 165
+  offset: 0, 0
+  index: -1

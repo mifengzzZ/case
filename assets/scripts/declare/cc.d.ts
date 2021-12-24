@@ -8,3 +8,13 @@ declare module cc {
 	};
 	
 };
+
+declare module sp {
+	interface SkeletonData {
+		_skeletonCache? : SkeletonCache;
+	};
+
+	interface SkeletonCache {
+		animations? : Array<spine.Animation>;
+	};
+};

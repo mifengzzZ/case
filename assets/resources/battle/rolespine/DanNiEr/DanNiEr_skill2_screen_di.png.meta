@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ee643c40-84df-42ae-9340-0e82e20fe3d1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 552,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "DanNiEr_skill2_screen_di": {
+      "ver": "1.0.6",
+      "uuid": "278df6eb-1c13-427d-8af9-5051619abda0",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ee643c40-84df-42ae-9340-0e82e20fe3d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 548,
+      "height": 252,
+      "rawWidth": 552,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

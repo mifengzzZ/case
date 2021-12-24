@@ -1,0 +1,118 @@
+
+MiTaBi_skill2.png
+size: 497,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_xuehua
+  rotate: true
+  xy: 2, 18
+  size: 43, 46
+  orig: 49, 48
+  offset: 3, 1
+  index: -1
+tx/gy1
+  rotate: false
+  xy: 197, 87
+  size: 167, 168
+  orig: 191, 190
+  offset: 12, 11
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 440, 13
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+tx/quan2
+  rotate: false
+  xy: 2, 63
+  size: 193, 192
+  orig: 193, 192
+  offset: 0, 0
+  index: -1
+tx/tuowei_075
+  rotate: false
+  xy: 2, 373
+  size: 376, 42
+  orig: 384, 48
+  offset: 1, 6
+  index: -1
+tx/tuowei_076
+  rotate: false
+  xy: 2, 257
+  size: 370, 36
+  orig: 377, 36
+  offset: 2, 0
+  index: -1
+tx/tuowei_077
+  rotate: false
+  xy: 2, 336
+  size: 362, 35
+  orig: 373, 35
+  offset: 3, 0
+  index: -1
+tx/tuowei_078
+  rotate: false
+  xy: 50, 24
+  size: 256, 32
+  orig: 363, 32
+  offset: 99, 0
+  index: -1
+tx/tuowei_079
+  rotate: true
+  xy: 466, 64
+  size: 229, 29
+  orig: 242, 32
+  offset: 4, 3
+  index: -1
+tx/tuowei_080
+  rotate: false
+  xy: 159, 306
+  size: 210, 28
+  orig: 220, 28
+  offset: 3, 0
+  index: -1
+tx/tuowei_081
+  rotate: true
+  xy: 410, 6
+  size: 193, 28
+  orig: 203, 28
+  offset: 2, 0
+  index: -1
+tx/tuowei_082
+  rotate: false
+  xy: 197, 58
+  size: 167, 27
+  orig: 180, 27
+  offset: 6, 0
+  index: -1
+tx/xian1
+  rotate: true
+  xy: 2, 298
+  size: 36, 155
+  orig: 50, 155
+  offset: 7, 0
+  index: -1
+tx/xian2
+  rotate: true
+  xy: 366, 2
+  size: 197, 42
+  orig: 206, 44
+  offset: 5, 1
+  index: -1
+tx/xue1
+  rotate: false
+  xy: 380, 295
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+tx/yanwu3
+  rotate: false
+  xy: 374, 201
+  size: 90, 92
+  orig: 95, 95
+  offset: 4, 3
+  index: -1

@@ -1,0 +1,97 @@
+
+DouDou_attack_hit.png
+size: 496,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a
+  rotate: true
+  xy: 116, 60
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+tx/b
+  rotate: true
+  xy: 116, 9
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+tx/c
+  rotate: false
+  xy: 439, 89
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+tx/gy2
+  rotate: true
+  xy: 153, 306
+  size: 186, 182
+  orig: 186, 182
+  offset: 0, 0
+  index: -1
+tx/gy3
+  rotate: false
+  xy: 439, 124
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+tx/sj1_015
+  rotate: true
+  xy: 2, 11
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+tx/sj1_016
+  rotate: true
+  xy: 158, 166
+  size: 138, 170
+  orig: 138, 170
+  offset: 0, 0
+  index: -1
+tx/sj1_017
+  rotate: false
+  xy: 2, 302
+  size: 149, 190
+  orig: 149, 190
+  offset: 0, 0
+  index: -1
+tx/sj1_018
+  rotate: false
+  xy: 2, 111
+  size: 154, 189
+  orig: 154, 189
+  offset: 0, 0
+  index: -1
+tx/sj1_019
+  rotate: false
+  xy: 337, 315
+  size: 154, 177
+  orig: 154, 177
+  offset: 0, 0
+  index: -1
+tx/sj1_020
+  rotate: false
+  xy: 158, 2
+  size: 151, 162
+  orig: 151, 162
+  offset: 0, 0
+  index: -1
+tx/sj1_021
+  rotate: false
+  xy: 337, 181
+  size: 153, 132
+  orig: 153, 132
+  offset: 0, 0
+  index: -1
+tx/sj1_022
+  rotate: true
+  xy: 311, 14
+  size: 150, 126
+  orig: 150, 126
+  offset: 0, 0
+  index: -1

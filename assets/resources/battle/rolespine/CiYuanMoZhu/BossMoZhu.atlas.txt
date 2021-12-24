@@ -1,0 +1,306 @@
+
+BossMoZhu.png
+size: 1015,861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoZhu_Body_FB
+  rotate: true
+  xy: 2, 693
+  size: 89, 125
+  orig: 89, 137
+  offset: 0, 0
+  index: -1
+MoZhu_Body_R
+  rotate: false
+  xy: 2, 274
+  size: 330, 154
+  orig: 330, 154
+  offset: 0, 0
+  index: -1
+MoZhu_Calf_L
+  rotate: true
+  xy: 672, 738
+  size: 70, 294
+  orig: 70, 295
+  offset: 0, 0
+  index: -1
+MoZhu_Calf_R
+  rotate: false
+  xy: 301, 645
+  size: 208, 121
+  orig: 213, 121
+  offset: 5, 0
+  index: -1
+MoZhu_Foot_L
+  rotate: true
+  xy: 334, 249
+  size: 143, 600
+  orig: 143, 600
+  offset: 0, 0
+  index: -1
+MoZhu_Foot_R
+  rotate: true
+  xy: 2, 430
+  size: 113, 452
+  orig: 113, 452
+  offset: 0, 0
+  index: -1
+MoZhu_Head
+  rotate: false
+  xy: 2, 48
+  size: 526, 199
+  orig: 526, 199
+  offset: 0, 0
+  index: -1
+MoZhu_Jaw
+  rotate: false
+  xy: 2, 552
+  size: 273, 128
+  orig: 273, 128
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Arm_L
+  rotate: true
+  xy: 305, 836
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Arm_R
+  rotate: true
+  xy: 387, 836
+  size: 23, 99
+  orig: 23, 100
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Body
+  rotate: true
+  xy: 129, 682
+  size: 94, 170
+  orig: 94, 172
+  offset: 0, 2
+  index: -1
+MoZhu_Ren_Eyelid
+  rotate: false
+  xy: 57, 846
+  size: 25, 13
+  orig: 28, 21
+  offset: 0, 8
+  index: -1
+MoZhu_Ren_Face
+  rotate: true
+  xy: 740, 826
+  size: 33, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Forearm_L
+  rotate: true
+  xy: 141, 842
+  size: 17, 57
+  orig: 17, 60
+  offset: 0, 3
+  index: -1
+MoZhu_Ren_Forearm_R
+  rotate: true
+  xy: 488, 836
+  size: 23, 113
+  orig: 23, 116
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair01
+  rotate: true
+  xy: 861, 824
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair02
+  rotate: true
+  xy: 226, 837
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair03
+  rotate: true
+  xy: 21, 848
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair04
+  rotate: true
+  xy: 959, 810
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair05
+  rotate: false
+  xy: 699, 828
+  size: 39, 31
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair06
+  rotate: false
+  xy: 649, 829
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair07
+  rotate: true
+  xy: 908, 817
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair08
+  rotate: true
+  xy: 39, 848
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hair09
+  rotate: true
+  xy: 270, 837
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Hand_L
+  rotate: true
+  xy: 603, 834
+  size: 25, 44
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Weapon_L
+  rotate: true
+  xy: 511, 638
+  size: 98, 404
+  orig: 98, 404
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Weapon_La
+  rotate: true
+  xy: 2, 795
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Weapon_Lb
+  rotate: false
+  xy: 786, 825
+  size: 73, 34
+  orig: 73, 35
+  offset: 0, 0
+  index: -1
+MoZhu_Ren_Weapon_R
+  rotate: true
+  xy: 277, 545
+  size: 91, 559
+  orig: 91, 559
+  offset: 0, 0
+  index: -1
+MoZhu_Shadow_L
+  rotate: false
+  xy: 530, 2
+  size: 449, 245
+  orig: 449, 245
+  offset: 0, 0
+  index: -1
+MoZhu_Shadow_R
+  rotate: false
+  xy: 456, 394
+  size: 276, 149
+  orig: 276, 149
+  offset: 0, 0
+  index: -1
+MoZhu_Skeleton_L
+  rotate: true
+  xy: 838, 444
+  size: 192, 159
+  orig: 192, 159
+  offset: 0, 0
+  index: -1
+MoZhu_Skeleton_R
+  rotate: true
+  xy: 88, 784
+  size: 51, 158
+  orig: 51, 158
+  offset: 0, 0
+  index: -1
+MoZhu_Skeleton_Rf1
+  rotate: false
+  xy: 200, 842
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+MoZhu_Skeleton_Rf2
+  rotate: false
+  xy: 113, 845
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+MoZhu_Skeleton_Rf3
+  rotate: false
+  xy: 84, 846
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+MoZhu_Thigh_L
+  rotate: true
+  xy: 470, 768
+  size: 59, 200
+  orig: 59, 200
+  offset: 0, 0
+  index: -1
+MoZhu_Thigh_R
+  rotate: true
+  xy: 248, 778
+  size: 56, 220
+  orig: 56, 220
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 855
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+
+BossMoZhu2.png
+size: 740,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MoZhu_Body
+  rotate: false
+  xy: 418, 283
+  size: 320, 301
+  orig: 320, 301
+  offset: 0, 0
+  index: -1
+MoZhu_Body_F
+  rotate: false
+  xy: 418, 2
+  size: 288, 279
+  orig: 288, 279
+  offset: 0, 0
+  index: -1
+MoZhu_Body_L
+  rotate: false
+  xy: 2, 128
+  size: 414, 456
+  orig: 414, 456
+  offset: 0, 0
+  index: -1

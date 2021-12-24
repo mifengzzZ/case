@@ -1,0 +1,139 @@
+
+LingLing_skill2.png
+size: 508,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/quan1
+  rotate: false
+  xy: 2, 200
+  size: 309, 310
+  orig: 309, 310
+  offset: 0, 0
+  index: -1
+tx/yuan1_051
+  rotate: true
+  xy: 185, 2
+  size: 137, 50
+  orig: 137, 50
+  offset: 0, 0
+  index: -1
+tx/yuan1_052
+  rotate: false
+  xy: 313, 183
+  size: 147, 33
+  orig: 147, 33
+  offset: 0, 0
+  index: -1
+tx/yuan1_053
+  rotate: true
+  xy: 463, 368
+  size: 142, 43
+  orig: 142, 43
+  offset: 0, 0
+  index: -1
+tx/yuan1_054
+  rotate: true
+  xy: 65, 7
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+tx/yuan1_055
+  rotate: false
+  xy: 284, 67
+  size: 108, 62
+  orig: 108, 62
+  offset: 0, 0
+  index: -1
+tx/yuan1_056
+  rotate: false
+  xy: 284, 3
+  size: 106, 62
+  orig: 106, 62
+  offset: 0, 0
+  index: -1
+tx/yuan2_048
+  rotate: false
+  xy: 2, 136
+  size: 148, 62
+  orig: 148, 62
+  offset: 0, 0
+  index: -1
+tx/yuan2_049
+  rotate: false
+  xy: 152, 141
+  size: 148, 57
+  orig: 148, 57
+  offset: 0, 0
+  index: -1
+tx/yuan2_050
+  rotate: false
+  xy: 302, 131
+  size: 148, 50
+  orig: 148, 50
+  offset: 0, 0
+  index: -1
+tx/yuan2_051
+  rotate: false
+  xy: 313, 334
+  size: 148, 56
+  orig: 148, 56
+  offset: 0, 0
+  index: -1
+tx/yuan2_052
+  rotate: false
+  xy: 313, 392
+  size: 148, 57
+  orig: 148, 57
+  offset: 0, 0
+  index: -1
+tx/yuan2_053
+  rotate: false
+  xy: 313, 218
+  size: 141, 59
+  orig: 141, 59
+  offset: 0, 0
+  index: -1
+tx/yuan3_054
+  rotate: false
+  xy: 313, 279
+  size: 148, 53
+  orig: 148, 53
+  offset: 0, 0
+  index: -1
+tx/yuan3_055
+  rotate: false
+  xy: 313, 451
+  size: 148, 59
+  orig: 148, 59
+  offset: 0, 0
+  index: -1
+tx/yuan3_056
+  rotate: true
+  xy: 2, 2
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+tx/yuan3_057
+  rotate: false
+  xy: 394, 67
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+tx/yuan3_058
+  rotate: true
+  xy: 124, 18
+  size: 116, 59
+  orig: 116, 59
+  offset: 0, 0
+  index: -1
+tx/yuan3_059
+  rotate: true
+  xy: 237, 2
+  size: 137, 45
+  orig: 137, 45
+  offset: 0, 0
+  index: -1

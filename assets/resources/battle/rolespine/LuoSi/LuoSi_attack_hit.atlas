@@ -1,0 +1,55 @@
+
+LuoSi_attack_hit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/1b01
+  rotate: true
+  xy: 140, 30
+  size: 84, 124
+  orig: 84, 124
+  offset: 0, 0
+  index: -1
+images/tx/1b02
+  rotate: false
+  xy: 460, 480
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+images/tx/1b03
+  rotate: false
+  xy: 245, 298
+  size: 213, 210
+  orig: 213, 210
+  offset: 0, 0
+  index: -1
+images/tx/1b04
+  rotate: false
+  xy: 2, 322
+  size: 241, 186
+  orig: 241, 186
+  offset: 0, 0
+  index: -1
+images/tx/1b05
+  rotate: true
+  xy: 266, 97
+  size: 199, 206
+  orig: 199, 206
+  offset: 0, 0
+  index: -1
+images/tx/1b06
+  rotate: true
+  xy: 2, 116
+  size: 204, 217
+  orig: 204, 217
+  offset: 0, 0
+  index: -1
+images/tx/2h
+  rotate: true
+  xy: 2, 2
+  size: 112, 136
+  orig: 112, 136
+  offset: 0, 0
+  index: -1

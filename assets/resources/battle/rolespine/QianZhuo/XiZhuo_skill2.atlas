@@ -1,0 +1,146 @@
+
+XiZhuo_skill2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_000
+  rotate: false
+  xy: 2, 344
+  size: 196, 166
+  orig: 196, 166
+  offset: 0, 0
+  index: -1
+tx/dg1_001
+  rotate: false
+  xy: 200, 366
+  size: 200, 144
+  orig: 200, 144
+  offset: 0, 0
+  index: -1
+tx/dg1_002
+  rotate: true
+  xy: 2, 141
+  size: 201, 154
+  orig: 201, 154
+  offset: 0, 0
+  index: -1
+tx/dg1_003
+  rotate: true
+  xy: 158, 156
+  size: 186, 156
+  orig: 186, 156
+  offset: 0, 0
+  index: -1
+tx/dg1_004
+  rotate: true
+  xy: 316, 194
+  size: 170, 157
+  orig: 170, 157
+  offset: 0, 0
+  index: -1
+tx/dg1_005
+  rotate: false
+  xy: 316, 49
+  size: 167, 143
+  orig: 167, 143
+  offset: 0, 0
+  index: -1
+tx/dg1_006
+  rotate: false
+  xy: 2, 10
+  size: 149, 129
+  orig: 149, 129
+  offset: 0, 0
+  index: -1
+tx/dg1_007
+  rotate: true
+  xy: 158, 38
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+tx/dg1_008
+  rotate: false
+  xy: 402, 397
+  size: 91, 113
+  orig: 91, 113
+  offset: 0, 0
+  index: -1
+tx/dg1_009
+  rotate: false
+  xy: 495, 465
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+tx/feng1_048
+  rotate: true
+  xy: 475, 282
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+tx/feng1_049
+  rotate: false
+  xy: 215, 2
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+tx/feng1_050
+  rotate: true
+  xy: 282, 23
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+tx/feng1_051
+  rotate: true
+  xy: 475, 214
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+tx/feng1_052
+  rotate: true
+  xy: 282, 89
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+tx/feng1_053
+  rotate: false
+  xy: 153, 2
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+tx/feng1_054
+  rotate: false
+  xy: 372, 13
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+tx/feng1_055
+  rotate: false
+  xy: 402, 367
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+tx/feng1_056
+  rotate: false
+  xy: 316, 16
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+tx/feng1_057
+  rotate: true
+  xy: 475, 339
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1

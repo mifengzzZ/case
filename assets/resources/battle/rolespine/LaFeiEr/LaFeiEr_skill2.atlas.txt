@@ -1,0 +1,167 @@
+
+LaFeiEr_skill2.png
+size: 470,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/aci_016
+  rotate: true
+  xy: 2, 228
+  size: 212, 55
+  orig: 228, 64
+  offset: 9, 4
+  index: -1
+tx/aci_017
+  rotate: true
+  xy: 2, 37
+  size: 189, 54
+  orig: 205, 62
+  offset: 9, 4
+  index: -1
+tx/aci_018
+  rotate: true
+  xy: 58, 59
+  size: 167, 50
+  orig: 185, 59
+  offset: 8, 4
+  index: -1
+tx/aci_019
+  rotate: true
+  xy: 59, 275
+  size: 165, 45
+  orig: 182, 55
+  offset: 7, 5
+  index: -1
+tx/aci_020
+  rotate: false
+  xy: 2, 2
+  size: 162, 33
+  orig: 175, 50
+  offset: 5, 8
+  index: -1
+tx/aci_021
+  rotate: false
+  xy: 58, 39
+  size: 126, 18
+  orig: 136, 40
+  offset: 6, 11
+  index: -1
+tx/axian1
+  rotate: true
+  xy: 300, 5
+  size: 104, 64
+  orig: 112, 68
+  offset: 4, 2
+  index: -1
+tx/cj2_117
+  rotate: true
+  xy: 366, 81
+  size: 82, 101
+  orig: 89, 107
+  offset: 2, 3
+  index: -1
+tx/cj2_118
+  rotate: true
+  xy: 193, 111
+  size: 79, 109
+  orig: 86, 116
+  offset: 2, 3
+  index: -1
+tx/cj2_119
+  rotate: true
+  xy: 311, 165
+  size: 78, 113
+  orig: 85, 120
+  offset: 2, 3
+  index: -1
+tx/cj2_120
+  rotate: true
+  xy: 349, 360
+  size: 80, 119
+  orig: 87, 125
+  offset: 2, 3
+  index: -1
+tx/cj2_121
+  rotate: true
+  xy: 193, 192
+  size: 76, 116
+  orig: 86, 125
+  offset: 3, 5
+  index: -1
+tx/cj2_122
+  rotate: true
+  xy: 366, 8
+  size: 71, 94
+  orig: 82, 107
+  offset: 4, 6
+  index: -1
+tx/cj_117
+  rotate: false
+  xy: 193, 270
+  size: 150, 84
+  orig: 155, 89
+  offset: 2, 3
+  index: -1
+tx/cj_118
+  rotate: false
+  xy: 193, 356
+  size: 154, 84
+  orig: 159, 89
+  offset: 2, 2
+  index: -1
+tx/cj_119
+  rotate: true
+  xy: 106, 285
+  size: 155, 85
+  orig: 160, 91
+  offset: 2, 3
+  index: -1
+tx/cj_120
+  rotate: true
+  xy: 110, 71
+  size: 156, 81
+  orig: 161, 89
+  offset: 2, 5
+  index: -1
+tx/d
+  rotate: false
+  xy: 59, 248
+  size: 24, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+tx/dian3_143
+  rotate: true
+  xy: 349, 245
+  size: 113, 117
+  orig: 125, 128
+  offset: 6, 6
+  index: -1
+tx/gz1
+  rotate: true
+  xy: 166, 10
+  size: 27, 25
+  orig: 27, 26
+  offset: 0, 1
+  index: -1
+tx/lizi1
+  rotate: false
+  xy: 85, 256
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+tx/xian2
+  rotate: true
+  xy: 59, 229
+  size: 17, 52
+  orig: 19, 52
+  offset: 1, 0
+  index: -1
+tx/yan
+  rotate: false
+  xy: 193, 4
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

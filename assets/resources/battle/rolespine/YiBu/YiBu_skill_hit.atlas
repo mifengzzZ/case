@@ -1,0 +1,153 @@
+
+YiBu_skill_hit.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a01
+  rotate: true
+  xy: 212, 25
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+images/tx/a02
+  rotate: true
+  xy: 320, 231
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+images/tx/k
+  rotate: true
+  xy: 138, 342
+  size: 7, 65
+  orig: 7, 65
+  offset: 0, 0
+  index: -1
+images/tx/l1
+  rotate: false
+  xy: 418, 162
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+images/tx/l2
+  rotate: false
+  xy: 455, 462
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+images/tx/l3
+  rotate: false
+  xy: 430, 247
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+images/tx/lizi
+  rotate: false
+  xy: 116, 188
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_000
+  rotate: true
+  xy: 430, 302
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_001
+  rotate: false
+  xy: 2, 336
+  size: 134, 159
+  orig: 134, 159
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_002
+  rotate: false
+  xy: 2, 185
+  size: 112, 149
+  orig: 112, 149
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_003
+  rotate: false
+  xy: 324, 112
+  size: 92, 117
+  orig: 92, 117
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_004
+  rotate: false
+  xy: 116, 207
+  size: 93, 127
+  orig: 93, 127
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_005
+  rotate: false
+  xy: 246, 357
+  size: 98, 138
+  orig: 98, 138
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_006
+  rotate: false
+  xy: 2, 41
+  size: 102, 142
+  orig: 102, 142
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_007
+  rotate: false
+  xy: 138, 351
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_008
+  rotate: false
+  xy: 106, 61
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_009
+  rotate: false
+  xy: 211, 223
+  size: 107, 126
+  orig: 107, 126
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_010
+  rotate: false
+  xy: 346, 367
+  size: 107, 128
+  orig: 107, 128
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_011
+  rotate: false
+  xy: 212, 108
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+images/tx/s2_baozha1_012
+  rotate: true
+  xy: 324, 2
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1
+images/tx/s2_sj1
+  rotate: false
+  xy: 2, 11
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1

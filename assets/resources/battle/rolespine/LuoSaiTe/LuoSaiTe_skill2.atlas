@@ -1,0 +1,223 @@
+
+LuoSaiTe_skill2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/a01
+  rotate: false
+  xy: 81, 92
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1
+images/tx/a02
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/tx/a10
+  rotate: false
+  xy: 2, 382
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+images/tx/a11
+  rotate: false
+  xy: 441, 444
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+images/tx/d01
+  rotate: false
+  xy: 239, 272
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+images/tx/d02
+  rotate: false
+  xy: 239, 194
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+images/tx/d03
+  rotate: true
+  xy: 345, 244
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+images/tx/d04
+  rotate: true
+  xy: 184, 87
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+images/tx/i
+  rotate: false
+  xy: 441, 380
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+images/tx/j
+  rotate: true
+  xy: 423, 248
+  size: 100, 16
+  orig: 100, 16
+  offset: 0, 0
+  index: -1
+images/tx/l01
+  rotate: false
+  xy: 2, 225
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l02
+  rotate: true
+  xy: 127, 429
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l03
+  rotate: false
+  xy: 2, 68
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l04
+  rotate: true
+  xy: 284, 429
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l05
+  rotate: true
+  xy: 127, 350
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l06
+  rotate: true
+  xy: 284, 350
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l07
+  rotate: false
+  xy: 81, 193
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/l08
+  rotate: false
+  xy: 160, 193
+  size: 77, 155
+  orig: 77, 155
+  offset: 0, 0
+  index: -1
+images/tx/m01
+  rotate: false
+  xy: 441, 335
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/tx/m02
+  rotate: false
+  xy: 441, 290
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/tx/m03
+  rotate: false
+  xy: 441, 245
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/tx/m04
+  rotate: false
+  xy: 412, 124
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/tx/m05
+  rotate: false
+  xy: 412, 79
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/tx/m06
+  rotate: false
+  xy: 412, 34
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/tx/o01
+  rotate: false
+  xy: 345, 169
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/tx/o02
+  rotate: false
+  xy: 337, 94
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/tx/o03
+  rotate: false
+  xy: 262, 44
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/tx/o04
+  rotate: false
+  xy: 337, 19
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/tx/o05
+  rotate: false
+  xy: 81, 17
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/tx/o06
+  rotate: false
+  xy: 156, 12
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/tx/o07
+  rotate: false
+  xy: 262, 119
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1

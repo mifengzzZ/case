@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ef099fc7-350a-46f6-933a-8922d91582bd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 496,
+  "height": 225,
+  "platformSettings": {},
+  "subMetas": {
+    "MiLiYa_attack_zidan": {
+      "ver": "1.0.6",
+      "uuid": "b4b76de2-3338-4ab4-be61-980006a5778c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ef099fc7-350a-46f6-933a-8922d91582bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 492,
+      "height": 221,
+      "rawWidth": 496,
+      "rawHeight": 225,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

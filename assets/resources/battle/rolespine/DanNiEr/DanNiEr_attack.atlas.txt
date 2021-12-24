@@ -1,0 +1,132 @@
+
+DanNiEr_attack.png
+size: 491,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dg1_028
+  rotate: true
+  xy: 2, 130
+  size: 303, 243
+  orig: 305, 246
+  offset: 2, 2
+  index: -1
+tx/dg1_031
+  rotate: true
+  xy: 247, 130
+  size: 303, 242
+  orig: 305, 245
+  offset: 2, 2
+  index: -1
+tx/huo1_000
+  rotate: false
+  xy: 276, 5
+  size: 18, 18
+  orig: 22, 22
+  offset: 2, 2
+  index: -1
+tx/huo1_001
+  rotate: false
+  xy: 315, 2
+  size: 23, 26
+  orig: 27, 28
+  offset: 2, 1
+  index: -1
+tx/huo1_002
+  rotate: false
+  xy: 315, 30
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+tx/huo1_003
+  rotate: false
+  xy: 276, 25
+  size: 37, 37
+  orig: 40, 41
+  offset: 2, 2
+  index: -1
+tx/huo1_004
+  rotate: false
+  xy: 192, 11
+  size: 44, 49
+  orig: 48, 52
+  offset: 2, 1
+  index: -1
+tx/huo1_005
+  rotate: true
+  xy: 131, 4
+  size: 56, 59
+  orig: 58, 61
+  offset: 1, 1
+  index: -1
+tx/huo1_006
+  rotate: true
+  xy: 419, 67
+  size: 61, 65
+  orig: 63, 67
+  offset: 1, 1
+  index: -1
+tx/huo1_007
+  rotate: true
+  xy: 212, 64
+  size: 64, 69
+  orig: 68, 71
+  offset: 2, 1
+  index: -1
+tx/huo1_008
+  rotate: true
+  xy: 71, 62
+  size: 66, 70
+  orig: 70, 73
+  offset: 2, 2
+  index: -1
+tx/huo1_009
+  rotate: false
+  xy: 2, 59
+  size: 67, 69
+  orig: 70, 71
+  offset: 2, 1
+  index: -1
+tx/huo1_010
+  rotate: false
+  xy: 350, 60
+  size: 67, 68
+  orig: 71, 72
+  offset: 2, 2
+  index: -1
+tx/huo1_011
+  rotate: false
+  xy: 143, 62
+  size: 67, 66
+  orig: 71, 71
+  offset: 2, 3
+  index: -1
+tx/huo1_012
+  rotate: true
+  xy: 283, 64
+  size: 64, 65
+  orig: 69, 68
+  offset: 3, 1
+  index: -1
+tx/huo1_013
+  rotate: true
+  xy: 2, 2
+  size: 55, 62
+  orig: 60, 66
+  offset: 4, 2
+  index: -1
+tx/huo1_014
+  rotate: true
+  xy: 66, 3
+  size: 54, 63
+  orig: 57, 66
+  offset: 2, 2
+  index: -1
+tx/huo1_015
+  rotate: true
+  xy: 238, 14
+  size: 48, 36
+  orig: 53, 40
+  offset: 3, 2
+  index: -1

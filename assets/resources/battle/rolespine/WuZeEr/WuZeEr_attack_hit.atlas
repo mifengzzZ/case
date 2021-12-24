@@ -1,0 +1,41 @@
+
+WuZeEr_attack_hit.png
+size: 440,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: false
+  xy: 241, 20
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+tx/sj_024
+  rotate: false
+  xy: 241, 87
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+tx/sj_025
+  rotate: false
+  xy: 2, 2
+  size: 237, 195
+  orig: 237, 195
+  offset: 0, 0
+  index: -1
+tx/sj_026
+  rotate: true
+  xy: 2, 199
+  size: 253, 220
+  orig: 253, 220
+  offset: 0, 0
+  index: -1
+tx/sj_027
+  rotate: true
+  xy: 224, 203
+  size: 249, 214
+  orig: 249, 214
+  offset: 0, 0
+  index: -1
