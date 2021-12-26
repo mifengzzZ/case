@@ -2,7 +2,7 @@
  * 该工程类型声明
  */
 declare namespace ss {
-    
+
     /** 战斗骨骼帧数据类型 */
     interface Battle_spine_frame {
         /** 攻击者位置 */
@@ -29,6 +29,8 @@ declare namespace ss {
         hitEffect?: string,
         /** 技能释放的全景效果 */
         sceneEffect?: string,
+        /** 技能释放的背景效果 */
+        sceneBgEffect?: string,
     };
-	
+
 };

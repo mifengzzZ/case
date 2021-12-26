@@ -2,19 +2,23 @@
  * 扩展 cc 模块 一些 creator.d.ts 未声明但实际有
  */
 declare module cc {
-	
+
 	interface Node {
-		_touchListener? : TouchOneByOne;
+		_touchListener?: TouchOneByOne;
 	};
-	
+
+	interface AnimationState {
+		_target: Animation;
+	};
+
 };
 
 declare module sp {
 	interface SkeletonData {
-		_skeletonCache? : SkeletonCache;
+		_skeletonCache?: SkeletonCache;
 	};
 
 	interface SkeletonCache {
-		animations? : Array<spine.Animation>;
+		animations?: Array<spine.Animation>;
 	};
 };
