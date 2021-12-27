@@ -47,18 +47,52 @@ const SPINE_EVENT_NAME = {
 };
 
 /**
- * 战斗攻击播放流程类型
+ * 击中特效播放次数类型
  */
-const SPINE_BATTLE_PLAY_TYPE = {
-    /** 近身普攻攻击流程: 冲向对面->攻击者播放普攻动画(如果有特效加上)->受伤者击中动画(击中特效)+掉血 */
-    ATTACK: 0,
-    /** 近身全屏技能(只有攻击者与受攻击者出现在屏幕中) */
-    NEAR_SCENE_SKILL: 1,
-    /** 原地全屏技能(aoe伤害,只有攻击者与受攻击者出现在屏幕中) */
-    INSITU_SCENE_SKILL: 2,
-    /** 站在我方与敌方英雄中间释放全屏技能 */
-    CENTER_SCENE_SKILL: 3,
+const SPINE_HIT_EFFECT_TYPE = {
+    /** 播放一次(不同阶段事件驱动掉血时机) */
+    PLAYER_ONE: 0,
+    /** 任意次数 */
+    PLAYER_CUSTOM: 1,
+};
+
+/**
+ * 攻击阶段
+ */
+const SPINE_ATTACK_STAGE = {
+    /** 默认 */
+    DEFAULT: -1,
+    /** 跑动 */
+    ROLE_RUN_STATE: 0,
+    /** 释放攻击动画阶段 */
+    ROLE_ATTACK_STATE: 1,
+    /** 击中动画阶段 */
+    ROLE_HIT_STATE: 2,
+};
+
+/**
+ * 攻击播放类型
+ */
+// 近身普攻： run动画,跑到受攻击者前面->角色播放普攻动画(如果有攻击特效播放攻击特效)->(hit帧事件)角色播放击中动画(有击中特效播放击中特效)->扣血(飘字)
+// 远程普攻： 播放普攻动画(如果有攻击特效播放攻击特效)->(hit帧事件)角色播放击中动画(有击中特效播放击中特效)->扣血(飘字)
+// 单体近身技能：run动画,跑到受攻击者前面->角色播放技能动画(如果有攻击特效播放攻击特效)->(hit帧事件)角色播放击中动画(有击中特效播放击中特效)->扣血(飘字)
+// 单体远程技能：角色播放技能动画(如果有攻击特效播放攻击特效)->(hit帧事件)角色播放击中动画(有击中特效播放击中特效)->扣血(飘字)
+// 群体AOE伤害中间技能：run动画,跑到受攻击者前面->角色播放技能动画(如果有攻击特效播放攻击特效)->(hit帧事件)角色播放击中动画(有击中特效播放击中特效)->扣血(飘字)
+// 群体AOE伤害远程技能：角色播放技能动画(如果有攻击特效播放攻击特效)->(hit帧事件)角色播放击中动画(有击中特效播放击中特效)->扣血(飘字)
+const SPINE_BATTCK_PLAY_TYPE = {
+    /** 近身普攻 */
+    NEAR_ATTACK: 0,
+    /** 远程普攻 */
+    REMOTE_ATTACK: 1,
+    /** 单体近身技能 */
+    SIGN_NEAR_SKILL: 2,
+    /** 单体远程技能 */
+    SIGN_REMOTE_SKILL: 3,
+    /** AOE中间位置释放技能 */
+    AOE_CENTER_SKILL: 4,
+    /** AOE远程技能 */
+    AOR_REMOTE_SKILL: 5,
 };
 
 
-export { SPINE_ROLE_ANIM_TYPE, SPINE_EVENT_TYPE_TRACK_INDEX, SPINE_EVENT_NAME, SPINE_BATTLE_PLAY_TYPE };
+export { SPINE_ROLE_ANIM_TYPE, SPINE_EVENT_TYPE_TRACK_INDEX, SPINE_EVENT_NAME, SPINE_BATTCK_PLAY_TYPE, SPINE_HIT_EFFECT_TYPE, SPINE_ATTACK_STAGE };

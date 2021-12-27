@@ -21,8 +21,13 @@ export default class RoleLayer extends cc.Component {
 
     }
 
-    setMaskColorVis(vis: boolean) {
+    setMaskColorVis(vis: boolean, v?: number) {
         this.maskColor.active = vis;
+        this.maskColor.opacity = v;
+    }
+
+    getMaskColorVis(): boolean {
+        return this.maskColor.active;
     }
 
 }

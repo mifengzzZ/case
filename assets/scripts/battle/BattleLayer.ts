@@ -1,7 +1,7 @@
 import SchedulerMgr from "../extensions/SchedulerMgr";
 import HpLabelLayer from "./HpLabelLayer";
 import RoleLayer from "./RoleLayer";
-import { SPINE_EVENT_TYPE_TRACK_INDEX, SPINE_ROLE_ANIM_TYPE, SPINE_EVENT_NAME, SPINE_BATTLE_PLAY_TYPE } from "./SpineCfg";
+import { SPINE_EVENT_TYPE_TRACK_INDEX, SPINE_ROLE_ANIM_TYPE, SPINE_EVENT_NAME, SPINE_BATTCK_PLAY_TYPE, SPINE_ATTACK_STAGE } from "./SpineCfg";
 
 // Learn TypeScript:
 //  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
@@ -64,6 +64,14 @@ export default class BattleLayer extends cc.Component {
     private _initPoint: cc.Vec2 = null;
     /** 播放速率 */
     private _speed: number = 0.8;
+    /** 移动时间 */
+    private _runTime: number = 0.25;
+    /** 保存当前播放的状态 */
+    private _playVideoState: number = -1;
+    /** 角色是否已移动到其它层 */
+    private _roleNodeMove: boolean = false;
+    /** AOE hit效果只需添加一次 */
+    private _hitAoeEffect: boolean = false;
 
     /** 回合数据 */
     private _frames: Array<ss.Battle_spine_frame> = [
@@ -74,7 +82,16 @@ export default class BattleLayer extends cc.Component {
 
         // 布兰德
         // { attackindex: [1], bAttackindexList: [4], skill: { actType: 1, act: 'skill1', attackEffect: 'BuLanDe_skill1', hitEffect: 'BuLanDe_skill1_hit', sceneEffect: 'BuLanDe_skill1_screen' } },
-        { attackindex: [1], bAttackindexList: [4], skill: { actType: 3, act: 'skill2', attackEffect: 'BuLanDe_skill2', hitEffect: 'BuLanDe_skill2_hit_aoe', sceneEffect: 'BuLanDe_skill2_screen', sceneBgEffect: '' } },
+        
+        { attackindex: [1], bAttackindexList: [4], 
+            skill: { attackType: 3, attackName: 'skill2', attackEffect: 'BuLanDe_skill2', 
+                hitEffect: { state: 0, path: 'BuLanDe_skill2_hit_aoe'}, 
+                scene: { state: 0, path: 'BuLanDe_skill2_screen'},
+                sceneBg: { state: 0, path: '' }
+            }
+        },
+
+
     ];
 
     /**
@@ -199,6 +216,38 @@ export default class BattleLayer extends cc.Component {
         }
     }
 
+//------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    /**
+     * 受攻击特效
+     */
+    protected hitEffect() {
+        for (let index = 0; index < this._frame.bAttackindexList.length; index++) {
+            // 受攻击者动画
+            let skeleton: sp.Skeleton = this.heroArray[this._frame.bAttackindexList[index]].getComponent(sp.Skeleton);
+            let tempTrackEntry: sp.spine.TrackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.HIT, false);
+            skeleton.timeScale = this._speed;
+            this.scheduleOnce(() => {
+                skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
+            }, tempTrackEntry.animationEnd / this._speed);
+            // 受攻击者特效
+            if (this._frame.skill.hitEffect.path != '') {
+                // 击中效果只需要添加一次
+                if (this._frame.skill.hitEffect.state === 1 && this._hitAoeEffect === false) {
+                    let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.hitEffect.path)
+                    this.skillEffectLayer.addChild(effectNode);
+                    this._hitAoeEffect = true;
+                } else if (this._frame.skill.hitEffect.state === 0) {
+                    let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.hitEffect.path)
+                    this.skillEffectLayer.addChild(effectNode);
+                    effectNode.x = this.heroArray[this._frame.bAttackindexList[index]].getPosition().x;
+                    effectNode.y = this.heroArray[this._frame.bAttackindexList[index]].getPosition().y + this.heroArray[this._frame.bAttackindexList[index]].height / 2;
+                }
+            }
+            // 受攻击者掉血动画
+            this.hpLabelLayer.getComponent(HpLabelLayer).addHpEffect(this.heroArray[this._frame.bAttackindexList[index]], -1000);
+        }
+    }
+
     /**
      * 监听Spine动画播放时帧事件
      */
@@ -206,29 +255,7 @@ export default class BattleLayer extends cc.Component {
         console.log('event.data.name : ', event.data.name);
         switch (event.data.name) {
             case SPINE_EVENT_NAME.ATTACK_HIT:
-                // 受攻击者动画
-                let skeleton: sp.Skeleton = this.heroArray[this._frame.bAttackindexList[0]].getComponent(sp.Skeleton);
-                let tempTrackEntry: sp.spine.TrackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.HIT, false);
-                skeleton.timeScale = this._speed;
-                this.scheduleOnce(() => {
-                    skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
-                }, tempTrackEntry.animationEnd / this._speed);
-                // 受攻击者特效
-                if (this._frame.skill.hitEffect !== '') {
-                    let effectNode = new cc.Node();
-                    let skelCom: sp.Skeleton = effectNode.addComponent(sp.Skeleton);
-                    skelCom.skeletonData = this._asset.get(this._frame.skill.hitEffect);
-                    skelCom.loop = false;
-                    skelCom.timeScale = this._speed;
-                    skelCom.premultipliedAlpha = false;
-                    skelCom.animation = 'animation';
-                    this.skillEffectLayer.addChild(effectNode);
-                    effectNode.scaleX = -1;
-                    effectNode.x = this.heroArray[this._frame.bAttackindexList[0]].getPosition().x;
-                    effectNode.y = this.heroArray[this._frame.bAttackindexList[0]].getPosition().y + this.heroArray[this._frame.bAttackindexList[0]].height / 2;
-                }
-                // 受攻击者掉血动画
-                this.hpLabelLayer.getComponent(HpLabelLayer).addHpEffect(this.heroArray[this._frame.bAttackindexList[0]], -1000);
+                this.hitEffect();
                 break;
             case 'attackHit':
             case 'skill1Hit_tx':
@@ -242,295 +269,165 @@ export default class BattleLayer extends cc.Component {
             case 'skill2_8Hit':
             case 'skill2Hit':
             case 'skill1Hit':
-                // 受攻击者动画
-                let skeleton4: sp.Skeleton = this.heroArray[this._frame.bAttackindexList[0]].getComponent(sp.Skeleton);
-                let tempTrackEntry4: sp.spine.TrackEntry = skeleton4.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.HIT, false);
-                skeleton4.timeScale = this._speed;
-                this.scheduleOnce(() => {
-                    skeleton4.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
-                }, tempTrackEntry4.animationEnd / this._speed);
-                // 受攻击者掉血动画
-                this.hpLabelLayer.getComponent(HpLabelLayer).addHpEffect(this.heroArray[this._frame.bAttackindexList[0]], -1000);
+                this.hitEffect();
                 break;
             case SPINE_EVENT_NAME.ATTACK_1HIT:
             case 'skill1_1Hit_tx':
             case 'skill2_1Hit_tx':
-                // 受攻击者动画
-                let skeleton3: sp.Skeleton = this.heroArray[this._frame.bAttackindexList[0]].getComponent(sp.Skeleton);
-                let tempTrackEntry3: sp.spine.TrackEntry = skeleton3.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.HIT, false);
-                skeleton3.timeScale = this._speed;
-                this.scheduleOnce(() => {
-                    skeleton3.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
-                }, tempTrackEntry3.animationEnd / this._speed);
-                // 受攻击者特效
-                if (this._frame.skill.hitEffect !== '') {
-                    let effectNode2 = new cc.Node();
-                    let skelCom2: sp.Skeleton = effectNode2.addComponent(sp.Skeleton);
-                    skelCom2.skeletonData = this._asset.get(this._frame.skill.hitEffect);
-                    skelCom2.loop = false;
-                    skelCom2.timeScale = this._speed;
-                    skelCom2.premultipliedAlpha = false;
-                    skelCom2.animation = 'animation';
-                    this.skillEffectLayer.addChild(effectNode2);
-                    effectNode2.scaleX = -1;
-                    effectNode2.x = this.heroArray[this._frame.bAttackindexList[0]].getPosition().x;
-                    effectNode2.y = this.heroArray[this._frame.bAttackindexList[0]].getPosition().y + this.heroArray[this._frame.bAttackindexList[0]].height / 2;
-                }
-                // 受攻击者掉血动画
-                this.hpLabelLayer.getComponent(HpLabelLayer).addHpEffect(this.heroArray[this._frame.bAttackindexList[0]], -1000);
+                this.hitEffect();
                 break;
         }
     }
 
-    //------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    /** 播放Frames */
-    protected startFrames() {
-        if (this._frames.length > 0 && this._frames.length > this._curFrameIdx) {
-            this._frame = this._frames[this._curFrameIdx];
-            switch (this._frame.skill.actType) {
-                case SPINE_BATTLE_PLAY_TYPE.ATTACK:
-                    // 执行跑动动画->位置移动动画->开始攻击
-                    this._initPoint = this.heroArray[this._frame.attackindex[0]].getPosition();
-                    let skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-                    skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.RUN, true);
-                    skeleton.timeScale = this._speed;
-                    cc.tween(this.heroArray[this._frame.attackindex[0]]).to(0.25 / this._speed, { x: this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100, y: this.heroArray[this._frame.bAttackindexList[0]].y })
-                        .call(() => {
-                            this.playAttack();
-                        })
-                        .start();
-                    break;
-                case SPINE_BATTLE_PLAY_TYPE.NEAR_SCENE_SKILL:
-                    // 将攻击者与被攻击者加入特效层
-                    this.heroArray[this._frame.attackindex[0]].removeFromParent(false);
-                    this.heroArray[this._frame.bAttackindexList[0]].removeFromParent(false);
-                    this.skillEffectLayer.addChild(this.heroArray[this._frame.attackindex[0]]);
-                    this.skillEffectLayer.addChild(this.heroArray[this._frame.bAttackindexList[0]]);
+    /**
+     * 创建一个带sp.Skeleton组件的节点
+     */
+    creatorCarrySkeletonComNode(path: string): cc.Node {
+        let node = new cc.Node();
+        let skelCom: sp.Skeleton = node.addComponent(sp.Skeleton);
+        skelCom.skeletonData = this._asset.get(path);
+        skelCom.loop = false;
+        skelCom.timeScale = this._speed;
+        skelCom.premultipliedAlpha = false;
+        skelCom.animation = 'animation';
+        // 我方需翻转
+        if (this._frame.attackindex[0] <= 3) {
+            node.scaleX = -1;
+        }
+        return node;
+    }
+    
+    /**
+     * 播放跑动动画
+     */
+    protected playRoleRunAnim(node: cc.Node, x: number, y: number) {
+        this._playVideoState = SPINE_ATTACK_STAGE.ROLE_RUN_STATE; 1
+        this.checkAddPanoramicEff();
+        this._initPoint = node.getPosition();
+        let skeleton = node.getComponent(sp.Skeleton);
+        skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.RUN, true);
+        skeleton.timeScale = this._speed;
+        cc.tween(node).to(this._runTime / this._speed, { x: x, y: y })
+            .call(() => {
+                this.playAttack();
+            })
+        .start();
+    }
 
-                    // 显示遮挡角色蒙层
-                    this.roleLayer.getComponent(RoleLayer).setMaskColorVis(true);
-                    // 执行跑动动画->位置移动动画->开始攻击
-                    this._initPoint = this.heroArray[this._frame.attackindex[0]].getPosition();
-                    let skeleton2 = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-                    skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.RUN, true);
-                    skeleton2.timeScale = this._speed;
-                    cc.tween(this.heroArray[this._frame.attackindex[0]]).to(0.25 / this._speed, { x: this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100, y: this.heroArray[this._frame.bAttackindexList[0]].y })
-                        .call(() => {
-                            this.playSkill();
-                        })
-                        .start();
-                    break;
-                case SPINE_BATTLE_PLAY_TYPE.INSITU_SCENE_SKILL:
-
-                    if (this._frame.skill.sceneBgEffect !== '') {
-                        // 全屏背景特效
-                        let effectNode8 = new cc.Node();
-                        let skelCom2: sp.Skeleton = effectNode8.addComponent(sp.Skeleton);
-                        skelCom2.skeletonData = this._asset.get(this._frame.skill.sceneBgEffect);
-                        skelCom2.loop = false;
-                        skelCom2.timeScale = this._speed;
-                        skelCom2.premultipliedAlpha = false;
-                        skelCom2.animation = 'animation';
-                        effectNode8.scaleX = -1;
-                        this.skillEffectLayer.addChild(effectNode8);
-                        effectNode8.scale = 1.6;
-                    }
-
-                    // 将攻击者与被攻击者加入特效层
-                    this.heroArray[this._frame.attackindex[0]].removeFromParent(false);
-                    this.heroArray[this._frame.bAttackindexList[0]].removeFromParent(false);
-                    this.skillEffectLayer.addChild(this.heroArray[this._frame.attackindex[0]]);
-                    this.skillEffectLayer.addChild(this.heroArray[this._frame.bAttackindexList[0]]);
-
-                    // 显示遮挡角色蒙层
-                    this.roleLayer.getComponent(RoleLayer).setMaskColorVis(true);
-
-                    this.playSkill2();
-                    break;
-                case SPINE_BATTLE_PLAY_TYPE.CENTER_SCENE_SKILL:
-                    // 执行跑动动画->位置移动动画->开始攻击
-                    this._initPoint = this.heroArray[this._frame.attackindex[0]].getPosition();
-
-                    let skeleton3 = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-                    skeleton3.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.RUN, true);
-                    skeleton3.timeScale = this._speed;
-                    cc.tween(this.heroArray[this._frame.attackindex[0]]).to(0.25 / this._speed, { x: 0, y: -250 })
-                        .call(() => {
-                            if (this._frame.skill.sceneBgEffect !== '') {
-                                // 全屏背景特效
-                                let effectNode8 = new cc.Node();
-                                let skelCom2: sp.Skeleton = effectNode8.addComponent(sp.Skeleton);
-                                skelCom2.skeletonData = this._asset.get(this._frame.skill.sceneBgEffect);
-                                skelCom2.loop = false;
-                                skelCom2.timeScale = this._speed;
-                                skelCom2.premultipliedAlpha = false;
-                                skelCom2.animation = 'animation';
-                                effectNode8.scaleX = -1;
-                                this.skillEffectLayer.addChild(effectNode8);
-                                effectNode8.scale = 1.6;
-                            }
-
-                            // 将攻击者与被攻击者加入特效层
-                            this.heroArray[this._frame.attackindex[0]].removeFromParent(false);
-                            this.heroArray[this._frame.bAttackindexList[0]].removeFromParent(false);
-                            this.skillEffectLayer.addChild(this.heroArray[this._frame.attackindex[0]]);
-                            this.skillEffectLayer.addChild(this.heroArray[this._frame.bAttackindexList[0]]);
-
-                            // 显示遮挡角色蒙层
-                            this.roleLayer.getComponent(RoleLayer).setMaskColorVis(true);
-
-                            this.playSkill();
-                        })
-                        .start();
-                    break;
+    /**
+     * 检测是否需要添加其它全景效果
+     */
+    protected checkAddPanoramicEff() {
+        if (this._frame.skill.mask.state === this._playVideoState) {
+            this.roleNodeMoveFromParent(this.skillEffectLayer);
+            // 遮罩Role
+            this.roleLayer.getComponent(RoleLayer).setMaskColorVis(true, Number(this._frame.skill.mask.path));
+        }
+        if (this._frame.skill.scene.state === this._playVideoState) {
+            // 全景效果
+            if (this._frame.skill.scene.path !== '') {
+                this.skillEffectLayer.addChild(this.creatorCarrySkeletonComNode(this._frame.skill.scene.path));
+            }
+        }
+        if (this._frame.skill.sceneBg.state === this._playVideoState) {
+            this.roleNodeMoveFromParent(this.skillEffectLayer);
+            if (this._frame.skill.sceneBg.path !== '') {
+                // 全屏背景效果
+                let node = this.creatorCarrySkeletonComNode(this._frame.skill.sceneBg.path);
+                this.skillEffectLayer.addChild(node);
+                node.scale = 1.6;
+                node.zIndex = -999;
             }
         }
     }
 
-    /** 播放普攻动画 */
+    /**
+     * 角色移动到其它目标节点
+     */
+    protected roleNodeMoveFromParent(parent: cc.Node) {
+        if (this._roleNodeMove === false) {
+            // 将攻击者与被攻击者加入特效层
+            for (let index = 0; index < this._frame.attackindex.length; index++) {
+                this.heroArray[this._frame.attackindex[index]].removeFromParent(false);
+                parent.addChild(this.heroArray[this._frame.attackindex[index]]);
+            }
+            for (let index = 0; index < this._frame.bAttackindexList.length; index++) {
+                this.heroArray[this._frame.bAttackindexList[index]].removeFromParent(false);
+                parent.addChild(this.heroArray[this._frame.bAttackindexList[index]]);
+            }
+            this._roleNodeMove = true;
+        }
+    }
+
+    /** 播放Frames */
+    protected startFrames() {
+        if (this._frames.length > 0 && this._frames.length > this._curFrameIdx) {
+            this._frame = this._frames[this._curFrameIdx];
+            switch (this._frame.skill.attackType) {
+                case SPINE_BATTCK_PLAY_TYPE.NEAR_ATTACK:
+                    this.playRoleRunAnim(this.heroArray[this._frame.attackindex[0]], this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100, this.heroArray[this._frame.bAttackindexList[0]].y);
+                    break;
+                case SPINE_BATTCK_PLAY_TYPE.REMOTE_ATTACK:
+                case SPINE_BATTCK_PLAY_TYPE.SIGN_NEAR_SKILL:
+                case SPINE_BATTCK_PLAY_TYPE.AOR_REMOTE_SKILL:
+                    this.playAttack();
+                    break;
+                case SPINE_BATTCK_PLAY_TYPE.AOE_CENTER_SKILL:
+                    this.playRoleRunAnim(this.heroArray[this._frame.attackindex[0]], this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100, this.heroArray[this._frame.bAttackindexList[0]].y);
+                    break;
+            }
+        }
+    }
+    
+    /** 播放攻击动画 */
     protected playAttack() {
+        this._playVideoState = SPINE_ATTACK_STAGE.ROLE_ATTACK_STATE;
+        this.checkAddPanoramicEff();
+        // 攻击
         let skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-        let trackEntry: sp.spine.TrackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, this._frame.skill.act, false);
+        let trackEntry: sp.spine.TrackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, this._frame.skill.attackName, false);
         skeleton.setTrackEventListener(trackEntry, this.onTrackEventListener.bind(this));
         skeleton.timeScale = this._speed;
-        this.scheduleOnce(() => {
-            // 攻击者播放回跳动画回到初始位置
-            let skeleton2: sp.Skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-            let tempTrackEntry2: sp.spine.TrackEntry = skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.JUMP2, false);
-            skeleton2.timeScale = this._speed;
-            cc.tween(this.heroArray[this._frame.attackindex[0]]).to(tempTrackEntry2.animationEnd / this._speed, { x: this._initPoint.x, y: this._initPoint.y })
-                .call(() => {
-                    this.clearAllEffectAndLabelLayer();
-                    skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
-                    this._curFrameIdx += 1;
-                    this.startFrames();
-                })
-                .start();
-        }, trackEntry.animationEnd / this._speed);
-        if (this._frame.skill.attackEffect !== '') {
-            let effectNode = new cc.Node();
-            let skelCom: sp.Skeleton = effectNode.addComponent(sp.Skeleton);
-            skelCom.skeletonData = this._asset.get(this._frame.skill.attackEffect);
-            skelCom.loop = false;
-            skelCom.timeScale = this._speed;
-            skelCom.defaultAnimation = 'animation';
-            skelCom.premultipliedAlpha = false;
-            this.skillEffectLayer.addChild(effectNode);
-            effectNode.scaleX = -1;
-            effectNode.setPosition(this.heroArray[this._frame.attackindex[0]].getPosition());
+        // 是否需要回跳
+        if (this._frame.skill.attackType === SPINE_BATTCK_PLAY_TYPE.NEAR_ATTACK || SPINE_BATTCK_PLAY_TYPE.SIGN_NEAR_SKILL || SPINE_BATTCK_PLAY_TYPE.AOE_CENTER_SKILL) {
+            if (this.roleLayer.getComponent(RoleLayer).getMaskColorVis()) {
+                // 隐藏遮挡角色蒙层
+                this.roleLayer.getComponent(RoleLayer).setMaskColorVis(false);
+            }
+            this.scheduleOnce(() => {
+                // 攻击者播放回跳动画回到初始位置
+                let skeleton2: sp.Skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
+                let tempTrackEntry2: sp.spine.TrackEntry = skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.JUMP2, false);
+                skeleton2.timeScale = this._speed;
+                cc.tween(this.heroArray[this._frame.attackindex[0]]).to(tempTrackEntry2.animationEnd / this._speed, { x: this._initPoint.x, y: this._initPoint.y })
+                    .call(() => {
+                        this._playVideoState = SPINE_ATTACK_STAGE.DEFAULT;
+                        if (this._roleNodeMove === true) {
+                            this.roleNodeMoveFromParent(this.roleLayer);
+                        }
+                        this.clearAllEffectAndLabelLayer();
+                        skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
+                        this._curFrameIdx += 1;
+                        this.startFrames();
+                    })
+                    .start();
+            }, trackEntry.animationEnd / this._speed);   
         }
-    }
-
-    /** 近身全屏技能动画 */
-    protected playSkill() {
-        let skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-        let trackEntry: sp.spine.TrackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, this._frame.skill.act, false);
-        skeleton.setTrackEventListener(trackEntry, this.onTrackEventListener.bind(this));
-        skeleton.timeScale = this._speed;
-        this.scheduleOnce(() => {
-            // 隐藏遮挡角色蒙层
-            this.roleLayer.getComponent(RoleLayer).setMaskColorVis(false);
-            // 攻击者播放回跳动画回到初始位置
-            let skeleton2: sp.Skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-            let tempTrackEntry2: sp.spine.TrackEntry = skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.JUMP2, false);
-            skeleton2.timeScale = this._speed;
-            cc.tween(this.heroArray[this._frame.attackindex[0]]).to(tempTrackEntry2.animationEnd / this._speed, { x: this._initPoint.x, y: this._initPoint.y })
-                .call(() => {
-
-                    // 需要将角色移回角色层
-                    this.heroArray[this._frame.attackindex[0]].removeFromParent(false);
-                    this.heroArray[this._frame.bAttackindexList[0]].removeFromParent(false);
-                    this.roleLayer.addChild(this.heroArray[this._frame.attackindex[0]]);
-                    this.roleLayer.addChild(this.heroArray[this._frame.bAttackindexList[0]]);
-
-                    this.clearAllEffectAndLabelLayer();
-                    skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
-                    this._curFrameIdx += 1;
-                    this.startFrames();
-                })
-                .start();
-        }, trackEntry.animationEnd / this._speed);
+        // 是否有攻击特效
         if (this._frame.skill.attackEffect !== '') {
-            let effectNode = new cc.Node();
-            let skelCom: sp.Skeleton = effectNode.addComponent(sp.Skeleton);
-            skelCom.skeletonData = this._asset.get(this._frame.skill.attackEffect);
-            skelCom.loop = false;
-            skelCom.timeScale = this._speed;
-            skelCom.defaultAnimation = 'animation';
-            skelCom.premultipliedAlpha = false;
+            let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.attackEffect);
             this.skillEffectLayer.addChild(effectNode);
-            effectNode.scaleX = -1;
             effectNode.setPosition(this.heroArray[this._frame.attackindex[0]].getPosition());
         }
 
-        if (this._frame.skill.sceneEffect !== '') {
-            // 全屏背景特效
-            let effectNode8 = new cc.Node();
-            let skelCom2: sp.Skeleton = effectNode8.addComponent(sp.Skeleton);
-            skelCom2.skeletonData = this._asset.get(this._frame.skill.sceneEffect);
-            skelCom2.loop = false;
-            skelCom2.timeScale = this._speed;
-            skelCom2.premultipliedAlpha = false;
-            skelCom2.animation = 'animation';
-            this.skillEffectLayer.addChild(effectNode8);
-            effectNode8.scaleX = -1;
-        }
     }
 
-    /** 原地全屏技能 */
-    protected playSkill2() {
-        let skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-        let trackEntry: sp.spine.TrackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, this._frame.skill.act, false);
-        skeleton.setTrackEventListener(trackEntry, this.onTrackEventListener.bind(this));
-        skeleton.timeScale = this._speed;
-        this.scheduleOnce(() => {
-            // 隐藏遮挡角色蒙层
-            this.roleLayer.getComponent(RoleLayer).setMaskColorVis(false);
-
-            // 需要将角色移回角色层
-            this.heroArray[this._frame.attackindex[0]].removeFromParent(false);
-            this.heroArray[this._frame.bAttackindexList[0]].removeFromParent(false);
-            this.roleLayer.addChild(this.heroArray[this._frame.attackindex[0]]);
-            this.roleLayer.addChild(this.heroArray[this._frame.bAttackindexList[0]]);
-
-            let skeleton2: sp.Skeleton = this.heroArray[this._frame.attackindex[0]].getComponent(sp.Skeleton);
-            this.clearAllEffectAndLabelLayer();
-            skeleton2.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
-            this._curFrameIdx += 1;
-            this.startFrames();
-        }, trackEntry.animationEnd / this._speed);
-
-        if (this._frame.skill.attackEffect !== '') {
-            let effectNode = new cc.Node();
-            let skelCom: sp.Skeleton = effectNode.addComponent(sp.Skeleton);
-            skelCom.skeletonData = this._asset.get(this._frame.skill.attackEffect);
-            skelCom.loop = false;
-            skelCom.timeScale = this._speed;
-            skelCom.defaultAnimation = 'animation';
-            skelCom.premultipliedAlpha = false;
-            this.skillEffectLayer.addChild(effectNode);
-            effectNode.scaleX = -1;
-            effectNode.setPosition(this.heroArray[this._frame.attackindex[0]].getPosition());
-        }
-
-        if (this._frame.skill.sceneEffect !== '') {
-            // 全屏特效
-            let effectNode8 = new cc.Node();
-            let skelCom2: sp.Skeleton = effectNode8.addComponent(sp.Skeleton);
-            skelCom2.skeletonData = this._asset.get(this._frame.skill.sceneEffect);
-            skelCom2.loop = false;
-            skelCom2.timeScale = this._speed;
-            skelCom2.premultipliedAlpha = false;
-            skelCom2.animation = 'animation';
-            effectNode8.scaleX = -1;
-            this.skillEffectLayer.addChild(effectNode8);
-        }
-    }
-
-    /** 清除特效层与文字层 */
+    /** 清除特效层与文字层、一些临时存储的变量值 */
     clearAllEffectAndLabelLayer() {
         this.skillEffectLayer.removeAllChildren();
         this.hpLabelLayer.removeAllChildren();
+        this._roleNodeMove = false;
+        this._hitAoeEffect = false;
     }
 
 }
