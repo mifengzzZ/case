@@ -28,9 +28,9 @@ declare namespace ss {
         /** 技能播放类型 */
         attackType: number,
         /** 技能名 */
-        attackName?: string,
+        attackName: string,
         /** 攻击特效 */
-        attackEffect?: string,
+        attackEffect: string,
         /** 击中目标效果 state: 0播放一次 1任意次 path：资源key */
         hitEffect?: Battle_spine_effect_info,
         /** 技能释放的全景效果 state: 什么时间段显示, path: 资源key */
