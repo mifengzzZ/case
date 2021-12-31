@@ -40,6 +40,9 @@ export default class NewClass extends cc.Component {
             case 5:
                 cc.director.loadScene('battleScene');
                 break;
+            case 6:
+                cc.director.loadScene('sichashu');
+                break;
         }
     }
 }
