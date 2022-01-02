@@ -73,87 +73,40 @@ export default class BattleLayer extends cc.Component {
     /** AOE hit效果只需添加一次 */
     private _hitAoeEffect: boolean = false;
 
-    // const SPINE_BATTCK_PLAY_TYPE = {
-    //     /** 近身普攻 */
-    //     NEAR_ATTACK: 0,
-    //     /** 远程普攻 */
-    //     REMOTE_ATTACK: 1,
-    //     /** 单体近身技能 */
-    //     SIGN_NEAR_SKILL: 2,
-    //     /** 单体远程技能 */
-    //     SIGN_REMOTE_SKILL: 3,
-    //     /** AOE中间位置释放技能 */
-    //     AOE_CENTER_SKILL: 4,
-    //     /** AOE远程技能 */
-    //     AOR_REMOTE_SKILL: 5,
-    // };
-
-    // const SPINE_ATTACK_STAGE = {
-    //     /** 默认 */
-    //     DEFAULT: -1,
-    //     /** 跑动 */
-    //     ROLE_RUN_STATE: 0,
-    //     /** 释放攻击动画阶段 */
-    //     ROLE_ATTACK_STATE: 1,
-    //     /** 击中动画阶段 */
-    //     ROLE_HIT_STATE: 2,
-    // };
-
     /** 回合数据 */
     private _frames: Array<ss.Battle_spine_frame> = [
         // 阿修罗
         // {
         //     attackindex: [0], bAttackindexList: [4],
         //     skill: {
-        //         attackType: 0, attackName: 'attack', attackEffect: 'AXiuLuo/AXiuLuo_attack',
+        //         attackRoleOff: { offx: 10, offy: 20 },
+        //         attackType: 0, attackName: 'attack', attackEffect: { path: 'AXiuLuo/AXiuLuo_attack' },
         //         hitEffect: { state: 0, path: 'AXiuLuo/AXiuLuo_attack_hit' },
-        //         scene: { state: -1, path: '' },
-        //         sceneBg: { state: -1, path: '' },
-        //         mask: { state: -1, path: '' }
+        //         scene: { state: -1, },
+        //         sceneBg: { state: -1, },
+        //         mask: { state: -1, }
         //     }
         // },
         // {
         //     attackindex: [0], bAttackindexList: [4],
         //     skill: {
-        //         attackType: 2, attackName: 'skill1', attackEffect: 'AXiuLuo/AXiuLuo_skill1',
-        //         hitEffect: { state: 0, path: '' },
+        //         attackType: 2, attackName: 'skill1', attackEffect: { path: 'AXiuLuo/AXiuLuo_skill1' },
+        //         hitEffect: { state: 0, },
         //         scene: { state: 1, path: 'AXiuLuo/AXiuLuo_skill1_screen' },
-        //         sceneBg: { state: 0, path: '' },
-        //         mask: { state: 0, path: '' }
+        //         sceneBg: { state: 0, },
+        //         mask: { state: 0, }
         //     }
         // },
         {
             attackindex: [0], bAttackindexList: [4],
             skill: {
-                attackType: 5, attackName: 'skill2', attackEffect: 'AXiuLuo/AXiuLuo_skill2',
+                attackType: 5, attackName: 'skill2', attackEffect: { path: 'AXiuLuo/AXiuLuo_skill2' },
                 hitEffect: { state: 0, path: 'AXiuLuo/AXiuLuo_skill2_aoe' },
-                scene: { state: 1, path: 'AXiuLuo/AXiuLuo_skill2_screen' },
+                scene: { state: 1, path: 'AXiuLuo/AXiuLuo_skill2_screen', offy: 80 },
                 sceneBg: { state: 1, path: 'AXiuLuo/AXiuLuo_skill2_screen_di' },
-                mask: { state: 1, path: '255' }
+                mask: { state: 1, maskValue: 255 }
             }
         },
-
-        // { attackindex: [0], bAttackindexList: [4], skill: { actType: 0, act: 'attack', attackEffect: 'AXiuLuo_attack', hitEffect: 'AXiuLuo_attack_hit', sceneEffect: '' } },
-
-        // { attackindex: [0], bAttackindexList: [4], skill: { actType: 0, act: 'skill1', attackEffect: 'AXiuLuo_skill1', hitEffect: '', sceneEffect: 'AXiuLuo_skill1_screen' } },
-        // { attackindex: [0], bAttackindexList: [4], skill: { actType: 2, act: 'skill2', attackEffect: 'AXiuLuo_skill2', hitEffect: 'AXiuLuo_skill2_aoe', sceneEffect: 'AXiuLuo_skill2_screen', sceneBgEffect: 'AXiuLuo_skill2_screen_di' } },
-
-
-
-        // 布兰德
-        // { attackindex: [1], bAttackindexList: [4], skill: { actType: 1, act: 'skill1', attackEffect: 'BuLanDe_skill1', hitEffect: 'BuLanDe_skill1_hit', sceneEffect: 'BuLanDe_skill1_screen' } },
-
-        // {
-        //     attackindex: [1], bAttackindexList: [4],
-        //     skill: {
-        //         attackType: 3, attackName: 'skill2', attackEffect: 'BuLanDe_skill2',
-        //         hitEffect: { state: 0, path: 'BuLanDe_skill2_hit_aoe' },
-        //         scene: { state: 0, path: 'BuLanDe_skill2_screen' },
-        //         sceneBg: { state: 0, path: '' }
-        //     }
-        // },
-
-
     ];
 
     /**
@@ -172,16 +125,16 @@ export default class BattleLayer extends cc.Component {
         let tempCount = 0;
         for (let index = 0; index < this._frames.length; index++) {
             const element = this._frames[index];
-            if (element.skill.attackEffect !== '') {
-                this._loadSpineAssetList.set(element.skill.attackEffect, 'battle/rolespine/' + element.skill.attackEffect);
+            if (element.skill.attackEffect.path) {
+                this._loadSpineAssetList.set(element.skill.attackEffect.path, 'battle/rolespine/' + element.skill.attackEffect.path);
             }
-            if (element.skill.hitEffect.path !== '') {
+            if (element.skill.hitEffect.path) {
                 this._loadSpineAssetList.set(element.skill.hitEffect.path, 'battle/rolespine/' + element.skill.hitEffect.path);
             }
-            if (element.skill.scene.path !== '') {
+            if (element.skill.scene.path) {
                 this._loadSpineAssetList.set(element.skill.scene.path, 'battle/rolespine/' + element.skill.scene.path);
             }
-            if (element.skill.sceneBg.path !== '') {
+            if (element.skill.sceneBg.path) {
                 this._loadSpineAssetList.set(element.skill.sceneBg.path, 'battle/rolespine/' + element.skill.sceneBg.path);
             }
         }
@@ -238,7 +191,7 @@ export default class BattleLayer extends cc.Component {
             trackEntry = skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.BATTLE_START_ANIM_END, 'enter', false);
             skeleton.setTrackCompleteListener(trackEntry, this.onTrackCompleteListener.bind(this));
             this.startRoot.getChildByName('ChuZhan_Text').getComponent(cc.Animation).play('chuzhanImg');
-        }, trackEntry.animationEnd / this._speed);
+        }, trackEntry.animationEnd / this._speed - 1);
 
     }
 
@@ -285,17 +238,21 @@ export default class BattleLayer extends cc.Component {
                 skeleton.setAnimation(SPINE_EVENT_TYPE_TRACK_INDEX.DEFAULT, SPINE_ROLE_ANIM_TYPE.IDLE, true);
             }, tempTrackEntry.animationEnd / this._speed);
             // 受攻击者特效
-            if (this._frame.skill.hitEffect.path !== '') {
+            if (this._frame.skill.hitEffect.path) {
                 // 击中效果只需要添加一次
                 if (this._frame.skill.hitEffect.state === 0 && this._hitAoeEffect === false) {
-                    let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.hitEffect.path)
-                    this.skillEffectLayer.addChild(effectNode);
-                    this._hitAoeEffect = true;
-                } else if (this._frame.skill.hitEffect.state === 1) {
-                    let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.hitEffect.path)
-                    this.skillEffectLayer.addChild(effectNode);
+                    let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.hitEffect.path);
                     effectNode.x = this.heroArray[this._frame.bAttackindexList[index]].getPosition().x;
                     effectNode.y = this.heroArray[this._frame.bAttackindexList[index]].getPosition().y + this.heroArray[this._frame.bAttackindexList[index]].height / 2;
+                    this._hitAoeEffect = true;
+                    this.setNodeOff(effectNode, this._frame.skill.hitEffect.offx, this._frame.skill.hitEffect.offy);
+                    this.skillEffectLayer.addChild(effectNode);
+                } else if (this._frame.skill.hitEffect.state === 1) {
+                    let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.hitEffect.path);
+                    effectNode.x = this.heroArray[this._frame.bAttackindexList[index]].getPosition().x;
+                    effectNode.y = this.heroArray[this._frame.bAttackindexList[index]].getPosition().y + this.heroArray[this._frame.bAttackindexList[index]].height / 2;
+                    this.setNodeOff(effectNode, this._frame.skill.hitEffect.offx, this._frame.skill.hitEffect.offy);
+                    this.skillEffectLayer.addChild(effectNode);
                 }
             }
             // 受攻击者掉血动画
@@ -376,22 +333,25 @@ export default class BattleLayer extends cc.Component {
         if (this._frame.skill.mask.state === this._playVideoState) {
             this.roleNodeMoveFromParent(this.skillEffectLayer);
             // 遮罩Role
-            this.roleLayer.getComponent(RoleLayer).setMaskColorVis(true, Number(this._frame.skill.mask.path));
+            this.roleLayer.getComponent(RoleLayer).setMaskColorVis(true, this._frame.skill.mask.maskValue);
         }
         if (this._frame.skill.scene.state === this._playVideoState) {
             // 全景效果
-            if (this._frame.skill.scene.path !== '') {
-                this.skillEffectLayer.addChild(this.creatorCarrySkeletonComNode(this._frame.skill.scene.path));
+            if (this._frame.skill.scene.path) {
+                let node: cc.Node = this.creatorCarrySkeletonComNode(this._frame.skill.scene.path);
+                this.setNodeOff(node, this._frame.skill.scene.offx, this._frame.skill.scene.offy);
+                this.skillEffectLayer.addChild(node);
             }
         }
         if (this._frame.skill.sceneBg.state === this._playVideoState) {
             this.roleNodeMoveFromParent(this.skillEffectLayer);
-            if (this._frame.skill.sceneBg.path !== '') {
+            if (this._frame.skill.sceneBg.path) {
                 // 全屏背景效果
                 let node = this.creatorCarrySkeletonComNode(this._frame.skill.sceneBg.path);
-                this.skillEffectLayer.addChild(node);
                 node.scale = 1.6;
                 node.zIndex = -999;
+                this.setNodeOff(node, this._frame.skill.sceneBg.offx, this._frame.skill.sceneBg.offy);
+                this.skillEffectLayer.addChild(node);
             }
         }
     }
@@ -421,17 +381,32 @@ export default class BattleLayer extends cc.Component {
             switch (this._frame.skill.attackType) {
                 case SPINE_BATTCK_PLAY_TYPE.NEAR_ATTACK:
                 case SPINE_BATTCK_PLAY_TYPE.SIGN_NEAR_SKILL:
-                    this.playRoleRunAnim(this.heroArray[this._frame.attackindex[0]], this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100, this.heroArray[this._frame.bAttackindexList[0]].y);
+                    this.playRoleRunAnim(this.heroArray[this._frame.attackindex[0]],
+                        this.getAttackRoleOff(this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100),
+                        this.heroArray[this._frame.bAttackindexList[0]].y);
                     break;
                 case SPINE_BATTCK_PLAY_TYPE.REMOTE_ATTACK:
                 case SPINE_BATTCK_PLAY_TYPE.AOR_REMOTE_SKILL:
                     this.playAttack();
                     break;
                 case SPINE_BATTCK_PLAY_TYPE.AOE_CENTER_SKILL:
-                    this.playRoleRunAnim(this.heroArray[this._frame.attackindex[0]], this.heroArray[this._frame.bAttackindexList[0]].x - this.heroArray[this._frame.bAttackindexList[0]].width / 2 - 100, this.heroArray[this._frame.bAttackindexList[0]].y);
+                    this.playRoleRunAnim(this.heroArray[this._frame.attackindex[0]], this.getAttackRoleOff(0), this.getAttackRoleOff(0));
                     break;
             }
         }
+    }
+
+    /** 获取攻击角色的偏移量 */
+    getAttackRoleOff(off: number): number {
+        if (this._frame.skill.attackRoleOff) {
+            if (this._frame.skill.attackRoleOff.offx) {
+                off += this._frame.skill.attackRoleOff.offx;
+            }
+            if (this._frame.skill.attackRoleOff.offy) {
+                off += this._frame.skill.attackRoleOff.offy;
+            }
+        }
+        return off;
     }
 
     /** 播放攻击动画 */
@@ -465,10 +440,11 @@ export default class BattleLayer extends cc.Component {
         }, trackEntry.animationEnd / this._speed + 0.5);
 
         // 是否有攻击特效
-        if (this._frame.skill.attackEffect !== '') {
-            let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.attackEffect);
-            this.skillEffectLayer.addChild(effectNode);
+        if (this._frame.skill.attackEffect) {
+            let effectNode = this.creatorCarrySkeletonComNode(this._frame.skill.attackEffect.path);
             effectNode.setPosition(this.heroArray[this._frame.attackindex[0]].getPosition());
+            this.setNodeOff(effectNode, this._frame.skill.attackEffect.offx, this._frame.skill.attackEffect.offy);
+            this.skillEffectLayer.addChild(effectNode);
         }
     }
 
@@ -485,6 +461,16 @@ export default class BattleLayer extends cc.Component {
         skeleton.timeScale = this._speed;
         this._curFrameIdx += 1;
         this.startFrames();
+    }
+
+    /** 设置偏移量 */
+    setNodeOff(node: cc.Node, x: number, y: number) {
+        if (x) {
+            node.x += x;
+        }
+        if (y) {
+            node.y += y;
+        }
     }
 
     /** 清除特效层与文字层、一些临时存储的变量值 */
