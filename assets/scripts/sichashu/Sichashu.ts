@@ -14,10 +14,13 @@ interface ItemRect extends Quadtree.Rect {
     item: SichashuItemm;
 }
 
-const {ccclass, property} = cc._decorator;
+const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class Sichashu extends cc.Component {
+
+    @property(cc.Node)
+    backMenuNode: cc.Node = null;
 
     @property(SichashuContainer)
     protected container: SichashuContainer = null;
@@ -42,7 +45,7 @@ export default class Sichashu extends cc.Component {
 
     protected init: boolean = true;
 
-    protected onLoad () {
+    protected onLoad() {
         this.add1Item.on(cc.Node.EventType.TOUCH_END, this.onAdd1Item, this);
         this.add10Item.on(cc.Node.EventType.TOUCH_END, this.onAdd10Item, this);
         this.clearNode.on(cc.Node.EventType.TOUCH_END, this.onClearNode, this);
@@ -50,6 +53,10 @@ export default class Sichashu extends cc.Component {
 
     protected start() {
         this.initQuadTree();
+
+        this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
+            cc.director.loadScene('main');
+        });
     }
 
     /**
@@ -173,4 +180,4 @@ export default class Sichashu extends cc.Component {
     protected onClearNode() {
         this.container.clearItems();
     }
-} 
+}

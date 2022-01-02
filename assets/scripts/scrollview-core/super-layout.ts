@@ -1,3 +1,11 @@
+/*
+ * @Author: steveJobs
+ * @Email: icipiqkm@gmail.com
+ * @Date: 2021-8-1 01:15:04
+ * @Last Modified by: steveJobs
+ * @Last Modified time: 2021-8-1 14:35:43
+ * @Description: 
+ */
 import SuperScrollview from "./super-scrollview";
 
 const { ccclass, property } = cc._decorator;
@@ -411,7 +419,6 @@ export default class SuperLayout extends cc.Component {
     private _itemTotal: number = 0
     /** 数据长度 */
     get itemTotal(): number { return this._itemTotal }
-    private gener: Generator
     private _centerPosition: cc.Vec3
     /** 自动居中的参考位置 */
     get centerPosition(): cc.Vec3 {
@@ -457,14 +464,20 @@ export default class SuperLayout extends cc.Component {
     onDisable() {
         this.removeEventListener()
     }
-    /** 更新item数量 */
-    total(count: number) {
-        this.scrollView.canTouchMove = false
+    /**
+    * 更新item数量
+    * @param count 
+    * @param onRefreshLastItem 如果你确定只需要刷新最后一个item 那么这个设置成true 就不会刷新所有数据
+    */
+    total(count: number, refreshLastItem: boolean = false): this {
         this.currentCreateItemTotal = count
-        this.createItems(count)
+        this.scrollDirection = ScrollDirection.HEADER
+        this.createItems(count, refreshLastItem)
         let offset = count - this.itemTotal
         this._itemTotal = count
-        this.refreshItems(offset)
+        this.refreshItems(offset, refreshLastItem)
+        if (!refreshLastItem) this.updateItems()
+        this.scrollView.startAutoScroll()
         this.scrollView.release()
         if (this.indicator) {
             this.indicator.setPageView((this.scrollView as any));
@@ -472,7 +485,14 @@ export default class SuperLayout extends cc.Component {
         if (this.autoCenter) {
             this.scrollToCenter()
         }
-        this.scrollView.canTouchMove = true
+        return this
+    }
+    /**
+     * 刷新所有item
+     */
+    updateItems(): this {
+        this.resetIndexStartToEnd(this.headerIndex)
+        return this
     }
     /** 告知组件你的节点尺寸 */
     updateItemSize(node: cc.Node, size: cc.Size) {
@@ -637,7 +657,7 @@ export default class SuperLayout extends cc.Component {
             child["__index"] = index
             index++
             if (this.headerLoop || this.footerLoop) {
-                if (index >= this.itemTotal) {
+                if (index < 0 || index >= this.itemTotal) {
                     index = 0
                 }
             }
@@ -670,8 +690,13 @@ export default class SuperLayout extends cc.Component {
         this.stretchLock.timeInSecond = timeInSecond
         this.stretchLock.boundary = boundary
         this.stretchLock.reverse = reverse
-
         if (!child) {
+            if (index == 0) {
+                this.pushToHeader()
+            }
+            if (index == this.itemTotal - 1) {
+                this.pushToFooter()
+            }
             var flag = this.vertical && this.verticalAxisDirection == VerticalAxisDirection.TOP_TO_BOTTOM || !this.vertical && this.horizontalAxisDirection == HorizontalAxisDirection.LEFT_TO_RIGHT
             if (nearFooter) {
                 this.offsetToFooter(index)
@@ -919,7 +944,6 @@ export default class SuperLayout extends cc.Component {
     /** 设置Item的坐标位置 */
     protected setItemPosition(item: cc.Node, relative: cc.Node, reverse: boolean = false, isHeader: boolean = false) {
         var pos = new cc.Vec3()
-        
         if (isHeader) {
             pos.x = this.getStartX(item)
             pos.y = this.getStartY(item)
@@ -1012,22 +1036,37 @@ export default class SuperLayout extends cc.Component {
         return pos
     }
     /** 当数据长度发生变化时 计算item应该怎么排列 */
-    protected refreshItems(offset: number) {
+    protected refreshItems(offset: number, refreshLastItem: boolean = false) {
         if (offset < 0) {
-            for (let i = 0; i < -offset; i++) {
-                if (this.headerLoop) {
-                    this.pushToHeader()
-                } else if (this.footerLoop) {
-                    this.pushToHeader()
-                } else {
-                    this.pushToHeader(true)
-                    this.pushToFooter()
+            var prev = this.header
+            if (this.contentSize.height == this.view.height) {
+                for (let i = 0; i < this.node.children.length; i++) {
+                    const child = this.node.children[i]
+                    this.setItemPosition(child, prev, false, i == 0)
+                    prev = child
+                }
+            } else {
+                for (let i = 0; i < -offset; i++) {
+                    if (this.headerLoop) {
+                        this.pushToHeader()
+                    } else if (this.footerLoop) {
+                        this.pushToHeader()
+                    } else {
+                        if (this.vertical && this.verticalAxisDirection == VerticalAxisDirection.TOP_TO_BOTTOM || this.horizontal && this.horizontalAxisDirection == HorizontalAxisDirection.LEFT_TO_RIGHT) {
+                            this.pushToHeader(true)
+                            this.pushToFooter()
+                        } else {
+                            this.pushToFooter(true)
+                            this.pushToHeader()
+                        }
+                    }
                 }
             }
             let startIndex = this.headerIndex > 0 ? this.headerIndex : 0
             if (startIndex + this.node.children.length > this.itemTotal) {
                 startIndex += offset
             }
+            if (startIndex < 0) startIndex = 0
             for (let i = 0; i < this.node.children.length; i++) {
                 const child: any = this.node.children[i];
                 if (this.headerLoop || this.footerLoop) {
@@ -1037,7 +1076,9 @@ export default class SuperLayout extends cc.Component {
                 }
                 child["__index"] = startIndex
                 startIndex++
-                this.notifyRefreshItem(child)
+                if (refreshLastItem) {
+                    this.notifyRefreshItem(child)
+                }
             }
             this.scrollView.stopAutoScroll()
             this.scrollView.startAutoScroll()
@@ -1059,7 +1100,7 @@ export default class SuperLayout extends cc.Component {
             }
         }
     }
-    protected createItems(count: number) {
+    protected createItems(count: number, refreshLastItem: boolean = false) {
         // 有多余的item 需要删除 不处理
         if (this.node.children.length > count) {
             this.removeItems(count)
@@ -1088,18 +1129,15 @@ export default class SuperLayout extends cc.Component {
             }
             child.on(cc.Node.EventType.SIZE_CHANGED, () => { this.onChangeChildSize(transform) }, this, true)
             child.on(cc.Node.EventType.SCALE_CHANGED, (type: any) => { this.onChangeChildScale(transform) }, this, true)
-            this.notifyRefreshItem(child)
+            if (refreshLastItem) {
+                this.notifyRefreshItem(child)
+            }
             this.setItemPosition(child, relative, reverse, child["__index"] == 0)
-            /**
-             * 根据排列方向 来判断对比宽度还是高度
-             * 这里使用参数this.multiple来判断是否需要继续创建 默认为2倍 比如view可视尺寸为800 2倍就是1600
-             * 根据之前所创建的所有item的尺寸计算是否满足这个尺寸 如果满足则不再继续创建 
-             * 由于是分帧加载 所以下一次创建会等这一次的返回结果 返回false 则终止分帧任务
-             */
+
             if (!this.needAddPrefab()) {
                 this._maxPrefabTotal = this.node.children.length
                 console.log("已固定item数量", this._maxPrefabTotal)
-                return
+                break
             }
         }
     }
@@ -1288,22 +1326,24 @@ export default class SuperLayout extends cc.Component {
     /** 向尾部填充 force如果为true 则强制填充 */
     protected pushToFooter(force: boolean = false) {
         if (this.vertical) {
+            var headerHeight = this.header && this.header.height || 0
             if (this.verticalAxisDirection == VerticalAxisDirection.TOP_TO_BOTTOM) {
-                if (force || this.headerBoundary - this.paddingTop > this.viewHeaderBoundary + this.header.height) {
+                if (force || this.headerBoundary - this.paddingTop > this.viewHeaderBoundary + headerHeight) {
                     this.pushToFooterHandler()
                 }
             } else {
-                if (force || this.footerBoundary - this.paddingTop > this.viewHeaderBoundary + this.header.height) {
+                if (force || this.footerBoundary - this.paddingTop > this.viewHeaderBoundary + headerHeight) {
                     this.pushToHeaderHandler()
                 }
             }
         } else {
+            var headerWidth = this.header && this.header.width || 0
             if (this.horizontalAxisDirection == HorizontalAxisDirection.LEFT_TO_RIGHT) {
-                if (force || this.headerBoundary + this.paddingLeft < this.viewHeaderBoundary - this.header.width) {
+                if (force || this.headerBoundary + this.paddingLeft < this.viewHeaderBoundary - headerWidth) {
                     this.pushToFooterHandler()
                 }
             } else {
-                if (force || this.footerBoundary + this.paddingLeft < this.viewHeaderBoundary - this.header.width) {
+                if (force || this.footerBoundary + this.paddingLeft < this.viewHeaderBoundary - headerWidth) {
                     this.pushToHeaderHandler()
                 }
             }
@@ -1312,22 +1352,24 @@ export default class SuperLayout extends cc.Component {
     /** 向头部填充 force如果为true 则强制填充 */
     protected pushToHeader(force: boolean = false) {
         if (this.vertical) {
+            var footerHeight = this.footer && this.footer.height || 0
             if (this.verticalAxisDirection == VerticalAxisDirection.TOP_TO_BOTTOM) {
-                if (force || this.footerBoundary + this.paddingBottom < this.viewFooterBoundary - this.footer.height) {
+                if (force || this.footerBoundary + this.paddingBottom < this.viewFooterBoundary - footerHeight) {
                     this.pushToHeaderHandler()
                 }
             } else {
-                if (force || this.headerBoundary + this.paddingBottom < this.viewFooterBoundary - this.footer.height) {
+                if (force || this.headerBoundary + this.paddingBottom < this.viewFooterBoundary - footerHeight) {
                     this.pushToFooterHandler()
                 }
             }
         } else {
+            var footerWidth = this.footer && this.footer.width || 0
             if (this.horizontalAxisDirection == HorizontalAxisDirection.LEFT_TO_RIGHT) {
-                if (force || this.footerBoundary - this.paddingRight > this.viewFooterBoundary + this.footer.width) {
+                if (force || this.footerBoundary - this.paddingRight > this.viewFooterBoundary + footerWidth) {
                     this.pushToHeaderHandler()
                 }
             } else {
-                if (force || this.headerBoundary - this.paddingRight > this.viewFooterBoundary + this.footer.width) {
+                if (force || this.headerBoundary - this.paddingRight > this.viewFooterBoundary + footerWidth) {
                     this.pushToFooterHandler()
                 }
             }
@@ -1351,7 +1393,9 @@ export default class SuperLayout extends cc.Component {
             if (!this.footer || this.footerIndex >= this.itemTotal - 1) return
             node["__index"] = this.footerIndex + 1
         }
-        this.notifyRefreshItem(node)
+        if (node["__index"] >= 0 && node["__index"] < this.currentCreateItemTotal) {
+            this.notifyRefreshItem(node)
+        }
         this.setItemPosition(this.header!, this.footer!)
         this.header.setSiblingIndex(this.node.children.length)
     }
@@ -1386,10 +1430,11 @@ export default class SuperLayout extends cc.Component {
             if (!this.header || this.headerIndex == 0) return
             node["__index"] = this.headerIndex - 1
         }
-        this.notifyRefreshItem(node)
+        if (node["__index"] >= 0 && node["__index"] < this.currentCreateItemTotal) {
+            this.notifyRefreshItem(node)
+        }
         this.setItemPosition(this.footer, this.header, true)
         this.footer.setSiblingIndex(0)
-
     }
     /** 通知给定的node刷新数据 */
     protected notifyRefreshItem(target: Node) {

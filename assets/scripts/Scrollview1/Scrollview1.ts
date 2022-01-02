@@ -13,16 +13,25 @@ const { ccclass, property } = cc._decorator;
 @ccclass
 export default class Scrollview1 extends cc.Component {
 
+    @property(cc.Node)
+    backMenuNode: cc.Node = null;
+
     @property(SuperLayout) layout: SuperLayout = null
     @property(cc.EditBox) input: cc.EditBox = null
 
     protected datas: any[] = []
 
-    async onLoad() {
+    protected onLoad() {
         for (let i = 0; i < 5; i++) {
             this.datas.push({ message: i })
         }
-        await this.layout.total(this.datas.length);
+        this.layout.total(this.datas.length);
+    }
+
+    protected start() {
+        this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
+            cc.director.loadScene('main');
+        });
     }
 
     toHeader() {
@@ -52,9 +61,8 @@ export default class Scrollview1 extends cc.Component {
         // }
         // this.layout.total(this.datas.length)
 
-        // this.datas[2].message = 10;
+        this.datas[2].message = 10;
         // this.datas.splice(0, 1)
-        this.datas = [];
 
         this.layout.total(this.datas.length)
     }

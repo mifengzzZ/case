@@ -1898,7 +1898,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 153.32,
+      "width": 80,
       "height": 25.2
     },
     "_anchorPoint": {
@@ -1950,8 +1950,8 @@
     ],
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
-    "_string": "横向-左到右-单列",
-    "_N$string": "横向-左到右-单列",
+    "_string": "滚动声效",
+    "_N$string": "滚动声效",
     "_fontSize": 20,
     "_lineHeight": 20,
     "_enableWrapText": false,
@@ -3295,6 +3295,9 @@
       },
       {
         "__id__": 60
+      },
+      {
+        "__id__": 39
       }
     ],
     "_id": "77yGlyGHhI8Zrmkk5Cfa0u"
