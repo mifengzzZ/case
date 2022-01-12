@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.Material",
+  "_name": "waveLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d151386f-ccfc-43ce-b9d3-d622c347f328"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "texture": {
+          "__uuid__": "6c6a7f82-0894-40d5-b103-8264f5404ea6"
+        }
+      }
+    }
+  }
+}
