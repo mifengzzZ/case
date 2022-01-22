@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xunhuan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.2333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "mask/moveRoot": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -120,
+              "curve": [
+                0.9871670702179178,
+                0.13365617433414045,
+                0.285230024213075,
+                0.957142857142857
+              ]
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": -760,
+              "curve": "linear"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
