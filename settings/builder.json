@@ -1,7 +1,7 @@
 {
   "title": "case",
   "packageName": "org.cocos2d.demo",
-  "startScene": "9a00b57d-ecf0-48df-9760-f2e3359558c9",
+  "startScene": "3caad997-3a5b-493a-8290-2039511e1053",
   "excludeScenes": [],
   "orientation": {
     "landscapeRight": true,
@@ -16,13 +16,13 @@
   "mainIsRemote": false,
   "optimizeHotUpdate": false,
   "md5Cache": true,
-  "nativeMd5Cache": true,
-  "encryptJs": true,
+  "nativeMd5Cache": false,
+  "encryptJs": false,
   "xxteaKey": "7b9dadf9-a212-43",
   "zipCompressJs": true,
   "fb-instant-games": {},
   "android": {
-    "packageName": "org.cocos2d.demo",
+    "packageName": "com.ceshianliCase.cn",
     "REMOTE_SERVER_ROOT": ""
   },
   "ios": {

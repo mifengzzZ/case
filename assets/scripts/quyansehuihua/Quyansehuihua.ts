@@ -7,13 +7,13 @@ import NodeUtil from "../extensions/utils/NodeUtil";
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-const {ccclass, property} = cc._decorator;
+const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class Quyansehuihua extends cc.Component {
 
-//------------------------------------------------------------------------------------------------------------------------
-// 颜色获取
+    //------------------------------------------------------------------------------------------------------------------------
+    // 颜色获取
     @property(cc.Node)
     backMenuNode: cc.Node = null;
 
@@ -36,21 +36,21 @@ export default class Quyansehuihua extends cc.Component {
     private _colorBoardTexture: cc.Texture2D = null;
     private _colorBoardData = null;
 
-//------------------------------------------------------------------------------------------------------------------------
-// 获取触摸像素点信息
+    //------------------------------------------------------------------------------------------------------------------------
+    // 获取触摸像素点信息
     @property(cc.Node)
     protected pixeSprite: cc.Node = null;
     protected pixelsData: Uint8Array = null;
 
-//------------------------------------------------------------------------------------------------------------------------
-// 画画
+    //------------------------------------------------------------------------------------------------------------------------
+    // 画画
     @property(cc.Node)
     protected graphicsNode: cc.Node = null;
     private _graphics: cc.Graphics = null;
     private _graphicsColor: cc.Color = null;
     private _init: boolean = false;
 
-//------------------------------------------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------------------------------------------
 
     // start() {
     //     this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
@@ -66,7 +66,7 @@ export default class Quyansehuihua extends cc.Component {
 
     private createHueData(): void {
         let texture2D = new cc.Texture2D();
-        
+
         let hueData: Uint8Array = new Uint8Array(360 * 4);
         for (let i = 0; i < 360; i++) {
             let color: cc.Color = this.hsv2rgb(i, 100, 100);
@@ -98,7 +98,7 @@ export default class Quyansehuihua extends cc.Component {
 
     private onHueTouch(event: cc.Event.EventTouch) {
         let pos = this.hueSprite.node.convertToNodeSpaceAR(event.touch.getLocation());
-        pos.y += this.hueSprite.node.height/2;
+        pos.y += this.hueSprite.node.height / 2;
         let index = Math.round((this.hueSprite.node.height - pos.y) / this.hueSprite.node.height * 360);
         index = Math.max(0, Math.min(index, 359));
         this._h = index;
@@ -279,10 +279,14 @@ export default class Quyansehuihua extends cc.Component {
     //     this.createColorBoardData(true);
     // }
 
-//------------------------------------------------------------------------------------------------------------------------
-// 获取触摸像素点信息
+    //------------------------------------------------------------------------------------------------------------------------
+    // 获取触摸像素点信息
 
     start() {
+        this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
+            cc.director.loadScene('main');
+        });
+
         this.pixeSprite.on(cc.Node.EventType.TOUCH_END, this.onPixeTouch, this);
         this.pixeSprite.on(cc.Node.EventType.TOUCH_MOVE, this.onPixeTouch, this);
     }
@@ -314,7 +318,7 @@ export default class Quyansehuihua extends cc.Component {
         // 当前点击像素颜色
         console.log('cc.color(colors[0], colors[1], colors[2]) : ', cc.color(colors[0], colors[1], colors[2]));
         console.log('opacity : ', colors[3]);
-        
+
         if (!this._init) {
             this._init = true;
             this.initHuahua();
@@ -348,9 +352,9 @@ export default class Quyansehuihua extends cc.Component {
         // cc.log(`------------------------------`);
     }
 
-//------------------------------------------------------------------------------------------------------------------------
-// 绘画
-    
+    //------------------------------------------------------------------------------------------------------------------------
+    // 绘画
+
     initHuahua() {
         this._graphics = this.graphicsNode.getComponent(cc.Graphics);
         // 设置画笔

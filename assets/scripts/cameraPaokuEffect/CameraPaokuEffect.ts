@@ -10,7 +10,7 @@ const { ccclass, property } = cc._decorator;
 @ccclass
 export default class CameraPaokuEffect extends cc.Component {
 
-    @property({type: cc.Camera, tooltip: '3D摄像机'})
+    @property({ type: cc.Camera, tooltip: '3D摄像机' })
     camera3D: cc.Camera = null;
 
     @property({ type: cc.Node, tooltip: '添加Map的根节点' })
@@ -39,6 +39,8 @@ export default class CameraPaokuEffect extends cc.Component {
 
     @property({ type: cc.Node, tooltip: '返回主场景' })
     backNode: cc.Node = null;
+
+    private _taijieType: boolean = false;
 
     /** 地图节点 */
     private _mapArr: Array<cc.Node> = [];
@@ -107,9 +109,15 @@ export default class CameraPaokuEffect extends cc.Component {
             node['userdata'] = { mz: 0, maxMZ: 8.5, zIndex: i, obj: [] };
             // 地图上台阶
             for (let index = 0; index < 3; index++) {
+                // if (this._taijieType) {
+                //     this._taijieType = false;
+                // } else {
+                //     this._taijieType = true;
+                // }
+                // let tjType = this._taijieType ? 0 : 1;
                 let taijie: cc.Node = cc.instantiate(this.taijiePreArr[0]);
                 taijie.setPosition(cc.v3(-8.5 + index * 8.5, -3, -4));
-                taijie['userdata'] = {zIndex: i, idx: index};
+                taijie['userdata'] = { zIndex: i, idx: index };
                 node.addChild(taijie);
                 node['userdata'].obj.push(taijie);
             }
@@ -175,40 +183,40 @@ export default class CameraPaokuEffect extends cc.Component {
         }
     }
 
-    // update(dt) {
-    //     let speedZ = this.mapSpeedValue * dt / 50;
-    //     for (let index = 0; index < this._mapArr.length; index++) {
-    //         const node = this._mapArr[index];
-    //         let tempMz = node['userdata'].mz + speedZ;
-    //         if (tempMz >= node['userdata'].maxMZ) {
-    //             let m = speedZ - (tempMz - node['userdata'].maxMZ);
-    //             node.z += m;
-    //             node['userdata'].mz += m;
-    //         } else {
-    //             node.z += speedZ;
-    //             node['userdata'].mz += speedZ;
-    //         }
-    //     }
+    update(dt) {
+        let speedZ = this.mapSpeedValue * dt / 50;
+        for (let index = 0; index < this._mapArr.length; index++) {
+            const node = this._mapArr[index];
+            let tempMz = node['userdata'].mz + speedZ;
+            if (tempMz >= node['userdata'].maxMZ) {
+                let m = speedZ - (tempMz - node['userdata'].maxMZ);
+                node.z += m;
+                node['userdata'].mz += m;
+            } else {
+                node.z += speedZ;
+                node['userdata'].mz += speedZ;
+            }
+        }
 
-    //     speedZ = this.mapSpeedValue * dt / 25;
-    //     for (let index = 0; index < this._mapItemNodeArr.length; index++) {
-    //         const itemRootNode = this._mapItemNodeArr[index];
-    //         let tempMz = itemRootNode['userdata'].mz + speedZ;
-    //         if (tempMz >= itemRootNode['userdata'].maxMZ) {
-    //             let m = speedZ - (tempMz - itemRootNode['userdata'].maxMZ);
-    //             itemRootNode.z += m;
-    //             itemRootNode['userdata'].mz += m;
-    //         } else {
-    //             itemRootNode.z += speedZ;
-    //             if (itemRootNode['userdata'].zIndex > 4) {
-    //                 itemRootNode.y -= (speedZ / 4);
-    //             }
-    //             itemRootNode['userdata'].mz += speedZ;
-    //         }
-    //     }
+        speedZ = this.mapSpeedValue * dt / 25;
+        for (let index = 0; index < this._mapItemNodeArr.length; index++) {
+            const itemRootNode = this._mapItemNodeArr[index];
+            let tempMz = itemRootNode['userdata'].mz + speedZ;
+            if (tempMz >= itemRootNode['userdata'].maxMZ) {
+                let m = speedZ - (tempMz - itemRootNode['userdata'].maxMZ);
+                itemRootNode.z += m;
+                itemRootNode['userdata'].mz += m;
+            } else {
+                itemRootNode.z += speedZ;
+                if (itemRootNode['userdata'].zIndex > 4) {
+                    itemRootNode.y -= (speedZ / 4);
+                }
+                itemRootNode['userdata'].mz += speedZ;
+            }
+        }
 
-    //     this.updateMapItemNodeIndex();
-    //     this.updateMapNodezIndex();
-    // }
+        this.updateMapItemNodeIndex();
+        this.updateMapNodezIndex();
+    }
 
 }
