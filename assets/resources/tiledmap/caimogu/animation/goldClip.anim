@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goldClip",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.76,
+  "sample": 25,
+  "speed": 0.5,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7171c1e5-5a91-4d81-a179-1f26844db3f4"
+            }
+          },
+          {
+            "frame": 0.12,
+            "value": {
+              "__uuid__": "a5dceb99-8065-464c-abbf-9bfe2bface2b"
+            }
+          },
+          {
+            "frame": 0.24,
+            "value": {
+              "__uuid__": "5f9db713-8001-455a-919f-5f8a8780638e"
+            }
+          },
+          {
+            "frame": 0.36,
+            "value": {
+              "__uuid__": "09dade26-fe1c-49e7-92af-9e2154297824"
+            }
+          },
+          {
+            "frame": 0.48,
+            "value": {
+              "__uuid__": "9c03d883-b866-47da-a18e-85bd856b33c2"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "ed537451-25d1-4841-af03-ad83a2d6af25"
+            }
+          },
+          {
+            "frame": 0.72,
+            "value": {
+              "__uuid__": "a8e23835-3977-4a92-b0f9-2a10602eab50"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

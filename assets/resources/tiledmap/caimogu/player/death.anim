@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "death",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "376b0778-6c4e-427f-9b04-54842909ac52"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.2,
+          "value": 255
+        },
+        {
+          "frame": 0.4,
+          "value": 0
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "circOut"
+        },
+        {
+          "frame": 0.2,
+          "value": 50
+        },
+        {
+          "frame": 0.4,
+          "value": -200
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.5" orientation="orthogonal" renderorder="right-down" width="500" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="31" nextobjectid="200">
+ <tileset firstgid="1" name="level01" tilewidth="32" tileheight="32" spacing="2" margin="1" tilecount="364" columns="26">
+  <image source="level01.png" width="884" height="476"/>
+ </tileset>
+ <layer id="24" name="ground" width="500" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt3EWMJFUAgOEaEpiFK7pcYBZfQ2+Ls4beFl9F77jLHXe5QYK73CDBXW54gt/RC/rPoZNKbdWr6unqefWq/y/5tyc90z3Paibb29kskyRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkupNTWXZNlOxRyFJkqRJsSPtRDvTLrQr7UYLafeI45L6ymtusrjfze1D+9J+tD8dQItpCS2NOK5ULKPldCAdRAfTIXQoHRZxXMPyHKRlkverL9dcF3XxXLnfzR1FR9MxdCwdRytpFa2ON6xkrKG1dDydQCfSSXQynRJxXCE/0c+F+zwHaZnk/UrxmktFF8+V+93cGXQmnUVn03raQBtpU7xhJWMzbaFz6Fw6j86nC+jCiOMK+W/2j8J7VDwHaWlrv47gHByZ2PuVUrzmUtHFnwPud3MX0cV0CV1Kl9HldAVdGXFcqbiKrqZr6Fq6jq6nG+jGeMMamucgLW3t12n8Lj89sd/nfbnmuqiLPwfc7+ZuopvpFrqVbqPb6Q66M+K4UnEX3U330L10H91PD9CDEcc1LM9BWiZ5v/pyzXVRF8+V+51ln9Hn9AV9SV/R14H7H6PH6Ql6MsJ4u+ab3MffBr7uGXqWnqPn6QV6kV6ilyseM3iN8zs+/p5+oB9HHfCIHqFHs63PwVP0dMVjHqKHa553W+a5HU3TggZ/D2zynONU9t6CosXMYwktpWW0PDCvYecfkl+buezXfBvltfzQOZjLNTerrb0YZv/bFFrP7bl/h8A46j4/EOtchcYX2u8u/3tR0zVv4hf6lX6j3+kP+jNw/xv0Jr1Fb7czhM4Y5/9p8B69Tx/Qh/QRfUyf0KcVjxm8xvkXH/9N/9C/I45j1Dm+Rq9nW5+Dd+jdise8Qq/WPO8ejGlPmqFFDcbX5DnHqey9BUUr+fwqWk1raG3g64edf0h+beayX/NtlNfyQ+dgLtfcrLb2osn+j+NnTmg99+L+vQPfr+7zA7HOVXF8+fUL7XfVmszH/2NT9z2arnkfTNOC3K3aM1jT/Pr2fZ2L85zOxjfnDVyjG2kTbaYtHb1my85B35Wdg7bnncr+z5eqNW96q/TN0KLcrdozWNP8+vZ9nYvznMn6P+c6Zeeg78rOwSTMO6aqNW96q/StoMNzt2rPYE3z69v3dS7Oc0XW/znXKTsHfVd2DiZh3jFVrXnTW6VvHZ2au1V7BmuaX9++r3Nxnuuy/s+5Ttk56LuyczAJ846pas2b3irL/gfdgxeE
+  </data>
+ </layer>
+ <layer id="25" name="groundT" width="500" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt3LdOw1AAhWEbifIClI0y0mGHiRZgh4kOjw0TvAJlgSPEZHkxxDJyvk/6lyjDHXyPp6QoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/pedsih2y65PAQD8xVne5efe5wAAAAAAAAAAAAAAAAAAAEM1XhbFRJpMU7/8TfdzehnqqUbPY3rq+hAwApazcytpNa2ldf9lQU/M51leSItpqcFzXea7Yz/f//z+oI3TjYbX9Jbe00fHZ4G+28tW7aeDdJiObBfQM9PZtZk0m+ZsHD11kWf7Ml2l63TjWe9MdXPqNsguQXMbuSubaSttuzdAy6qbU7dBdgmaG+SuHKeTdOreAC2rbk7dBtklaO42d+Uu3acH9wZoWXVz6jbILtX7Ao2MHgs=
+  </data>
+ </layer>
+ <layer id="26" name="groundEffect" width="500" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1tB6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN4A+gAAAQ==
+  </data>
+ </layer>
+ <layer id="27" name="floor" width="500" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt2lmOEzEQgOHOAPPCcgG2vLBcgADzwnIBGJgXlgugQYJLgAS3gGvAJVifeQOJ9QiUhSw6Jfdit7f0/J9UaioJbZfb6VElaRoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQGqvJF6XngQAAJjkjcTb0pMAAABI5J3Ee4kPEh9bx08SnwvOCwAAjPdd4ofET4lfreNviT8F5wUAAAAAAAAA2Dz6O2S+OwaA+eAef3Do75BjfHf8ROJpxNfF0vX7N/Y5gLlKcY/HwfFC4mXE18XS9fs39jkAAP/Zftu3P8/dpwMAgG623/btz3P36QAwBwuJLYlDEocltstOB4kclQt9TOK4xIlF2rF0nx3an4f26TlrjWlT541x5nx951yb4VNfybU4KXFK4rTEGYll3uGTmPveCnFO1uG8xAWJi4nXRPfZof15aJ+es9aYNnXeGMf3+pqXHGnW+y1XXkMPNve961NfybW4JLGSuCxxRWIn7/BJzH1vhbgm63Bd4obEzURr0tVfT+3Pfft0V61fRv7frxLfWsecclwjlON7fU2vdbZZ77dc+TLRfH3Mfe/61FdyLW5J3JbYlbgjsZd3+CTmvrdC3JN1uC/xQOJhojXp6q+n9ue+fXqOWlPY1HljHN/ra3qtq816v+XKa+jB5r53feoruRa2P7d7pIa9MVXpvWWG3GqGPyerNddKz0fn5qg/Y1xMOF9Xbv8d85xdn4265r898Hzs3DWefmzM/KfUXHvuqiWkjr79a+JR86/XMvfkdr9115GvMtToqjPV2vXt+9LXv7Zcr2nM/rzG92fO+74dz/4mYehzslpzrfR8dG6OSzVH/TuQGOPZf8c8p5533/yXA8/Hzl3j6cfGzH9KzbXnrlpC6tDnaZ/DhO2x7H3ZHm1f3j6uMtToqjPV2i17ni99/WvL9Zra/tzulyn9eY3vT11vyvu+HU9/5tH1OVmtuVZ6Pjo3R71P9e9AYoyn750xztn1/nLNf2fg+di5azz92Jj5T6m59txVS0gdffvXvs7EvsTj1lH/fd/NVKOrzlRr17fvS1//2nK9pjH78xrfnznv+3Y8u6ZDn5PVmmul56Nzc9T7VO/jGOPpe2eMc3a9v1zz3xt4PnbuGk8/Nmb+U2quPXfVElJH3/61rzPxTOJ566j/vu9nqtFVZ6q169v3pa9/bfnQfXDK3/Ma35857/t2vL9lmq/I
+  </data>
+ </layer>
+ <layer id="28" name="floorEffect" width="500" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1tB6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN4A+gAAAQ==
+  </data>
+ </layer>
+ <layer id="29" name="barrier" width="500" height="32" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt3EsKwyAQANAUev8zl65aSjEajZ/xPXCThXF0IqLB4wAAAAAAAAAAAAAAAKjzfKQLAECNkjWGdQkAAKuyZgUY62xPIWeeblEHAADMyroWAACAuzlbYSfyGwAAAJjZqP+h7RECAAAAAAAAzCfnLHeWc2biunLHm3vhPr5jjRp37nhHy4PaOKL1B33l5kvvvIrw3e82lwEAAFCudj8IAABgJ87W9tBzjFu9o9X/HqtYtd3kiTy+kWN7K4kvel/0pj+B1fm/ERjlrvnFnAUAAMAVtfccjC6rxLNCG3P6N9X+3vH9e9/vsys5H+U7aRnHWR0lZo4zVW9JHir1eVJidFw58a7cvwAAAAAAsJMXzocMlQ==
+  </data>
+ </layer>
+ <layer id="30" name="block" width="500" height="32" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt3EFugzAQBdD0gL3/daKuiiICg8F4xrwnZZMmjm0mfNegvF4AAAAAAAAAAAAAY/3+bD8AAAAAAIDajlwDcN0AAICqrFkBxtrbU4icp69oAwAAsrKuBQAAoDfXVngS9Q0AAABktrVv0XNPwx4hAAAAAACMFf3tFHv5AM+ydq7/fG5UVsik52hZl1jL/FuOddZxt65lq8/H2XFEzvHwTbTu7v6eRfsEAOTNcwBg3zKbj/4vLNcBIAd5DnCftXtKmM+dWdl6v8VV92lUXRdU7TcxMx/fmcf258j4Rs7FjHk+e221kOf5Ve03MWf2q654XU+z1648H2f22mpxx5xstXv2/HWkz1WPf9V+EyPP65Ln48xeWy3keX5V+02MPK9Lno8ze231VOW3BqrW7bd+7s37HeNb+7zP5470f+9vVY7ZUo9rQq1t9NLreEXnzvk7bq+OzsxfxrnP/L3JSJ73Jc9j78lKnl/bboa6r0yej+lHFfK8L3kee09W8vzadjPUfWXyvP9nvgFnXmoJ
+  </data>
+ </layer>
+ <objectgroup id="9" name="topblock">
+  <object id="57" x="1248.27" y="448.182" width="63.7273" height="31.6364"/>
+  <object id="59" x="1504" y="639.909" width="191.636" height="32.0909"/>
+  <object id="60" x="3392.13" y="671.875" width="319.625" height="32"/>
+  <object id="61" x="3520.18" y="511.818" width="255.636" height="32.1818"/>
+  <object id="187" x="13568" y="640" width="192" height="32"/>
+ </objectgroup>
+ <objectgroup id="15" name="brick">
+  <object id="67" x="4992" y="640">
+   <point/>
+  </object>
+  <object id="68" x="5056" y="640">
+   <point/>
+  </object>
+  <object id="69" x="5120" y="640">
+   <point/>
+  </object>
+  <object id="70" x="5184" y="640">
+   <point/>
+  </object>
+  <object id="71" x="5248" y="640">
+   <point/>
+  </object>
+  <object id="72" x="5312" y="640">
+   <point/>
+  </object>
+  <object id="73" x="5376" y="640">
+   <point/>
+  </object>
+  <object id="74" x="5216" y="256">
+   <point/>
+  </object>
+  <object id="75" x="5280" y="256">
+   <point/>
+  </object>
+  <object id="76" x="5344" y="256">
+   <point/>
+  </object>
+  <object id="77" x="5408" y="256">
+   <point/>
+  </object>
+  <object id="78" x="4992" y="256">
+   <point/>
+  </object>
+  <object id="79" x="4928" y="256">
+   <point/>
+  </object>
+  <object id="80" x="4864" y="256">
+   <point/>
+  </object>
+  <object id="81" x="3680" y="192">
+   <point/>
+  </object>
+  <object id="82" x="3744" y="192">
+   <point/>
+  </object>
+  <object id="83" x="3616" y="192">
+   <point/>
+  </object>
+  <object id="84" x="3808" y="192">
+   <point/>
+  </object>
+  <object id="85" x="2848" y="640">
+   <point/>
+  </object>
+  <object id="86" x="2784" y="640">
+   <point/>
+  </object>
+  <object id="87" x="4576" y="512">
+   <point/>
+  </object>
+  <object id="88" x="4640" y="512">
+   <point/>
+  </object>
+  <object id="89" x="4512" y="512">
+   <point/>
+  </object>
+  <object id="90" x="1824" y="640">
+   <point/>
+  </object>
+  <object id="91" x="1888" y="640">
+   <point/>
+  </object>
+  <object id="92" x="1952" y="640">
+   <point/>
+  </object>
+  <object id="93" x="2016" y="640">
+   <point/>
+  </object>
+  <object id="94" x="6720" y="640">
+   <point/>
+  </object>
+  <object id="95" x="6784" y="640">
+   <point/>
+  </object>
+  <object id="96" x="6848" y="640">
+   <point/>
+  </object>
+  <object id="97" x="6912" y="640">
+   <point/>
+  </object>
+  <object id="98" x="6976" y="640">
+   <point/>
+  </object>
+  <object id="99" x="7136" y="640">
+   <point/>
+  </object>
+  <object id="100" x="7200" y="640">
+   <point/>
+  </object>
+  <object id="101" x="7264" y="640">
+   <point/>
+  </object>
+  <object id="102" x="7328" y="640">
+   <point/>
+  </object>
+  <object id="103" x="7392" y="640">
+   <point/>
+  </object>
+  <object id="104" x="7200" y="320">
+   <point/>
+  </object>
+  <object id="105" x="7264" y="320">
+   <point/>
+  </object>
+  <object id="106" x="7328" y="320">
+   <point/>
+  </object>
+  <object id="107" x="7392" y="320">
+   <point/>
+  </object>
+  <object id="108" x="7456" y="320">
+   <point/>
+  </object>
+  <object id="109" x="6912" y="320">
+   <point/>
+  </object>
+  <object id="110" x="6848" y="320">
+   <point/>
+  </object>
+  <object id="111" x="6784" y="320">
+   <point/>
+  </object>
+  <object id="112" x="6720" y="320">
+   <point/>
+  </object>
+  <object id="113" x="6656" y="320">
+   <point/>
+  </object>
+  <object id="114" x="9280" y="640">
+   <point/>
+  </object>
+  <object id="116" x="9376" y="640">
+   <point/>
+  </object>
+  <object id="117" x="11168" y="640">
+   <point/>
+  </object>
+  <object id="118" x="11232" y="640">
+   <point/>
+  </object>
+  <object id="119" x="11296" y="640">
+   <point/>
+  </object>
+  <object id="120" x="11360" y="640">
+   <point/>
+  </object>
+  <object id="121" x="11424" y="640">
+   <point/>
+  </object>
+  <object id="122" x="11488" y="640">
+   <point/>
+  </object>
+  <object id="123" x="11552" y="640">
+   <point/>
+  </object>
+  <object id="124" x="11104" y="640">
+   <point/>
+  </object>
+  <object id="125" x="11264" y="416">
+   <point/>
+  </object>
+  <object id="126" x="11328" y="416">
+   <point/>
+  </object>
+  <object id="127" x="11392" y="416">
+   <point/>
+  </object>
+  <object id="128" x="11328" y="288">
+   <point/>
+  </object>
+  <object id="129" x="13088" y="640">
+   <point/>
+  </object>
+  <object id="130" x="13152" y="640">
+   <point/>
+  </object>
+  <object id="131" x="13600" y="352">
+   <point/>
+  </object>
+  <object id="132" x="13664" y="352">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="award">
+  <object id="8" name="1" x="736" y="736">
+   <point/>
+  </object>
+  <object id="9" name="2" x="800" y="736">
+   <point/>
+  </object>
+  <object id="10" name="6" x="864" y="736">
+   <point/>
+  </object>
+  <object id="11" name="8" x="928" y="736">
+   <point/>
+  </object>
+  <object id="12" name="4" x="864" y="608">
+   <point/>
+  </object>
+  <object id="13" name="7" x="928" y="672">
+   <point/>
+  </object>
+  <object id="16" name="3" x="800" y="672">
+   <point/>
+  </object>
+  <object id="17" name="5" x="864" y="672">
+   <point/>
+  </object>
+  <object id="19" name="9" x="992" y="736">
+   <point/>
+  </object>
+  <object id="22" x="2272" y="480">
+   <point/>
+  </object>
+  <object id="23" x="2336" y="480">
+   <point/>
+  </object>
+  <object id="24" x="2400" y="480">
+   <point/>
+  </object>
+  <object id="25" x="2464" y="480">
+   <point/>
+  </object>
+  <object id="27" x="2368" y="416">
+   <point/>
+  </object>
+  <object id="28" x="2368" y="544">
+   <point/>
+  </object>
+  <object id="31" x="1600" y="384">
+   <point/>
+  </object>
+  <object id="32" x="1600" y="448">
+   <point/>
+  </object>
+  <object id="33" x="1664" y="416">
+   <point/>
+  </object>
+  <object id="34" x="1536" y="416">
+   <point/>
+  </object>
+  <object id="39" x="1280" y="128">
+   <point/>
+  </object>
+  <object id="40" x="1280" y="192">
+   <point/>
+  </object>
+  <object id="41" x="1280" y="256">
+   <point/>
+  </object>
+  <object id="42" x="1216" y="224">
+   <point/>
+  </object>
+  <object id="43" x="1344" y="224">
+   <point/>
+  </object>
+  <object id="54" x="2272" y="480">
+   <point/>
+  </object>
+  <object id="133" x="6112" y="608">
+   <point/>
+  </object>
+  <object id="134" x="6176" y="608">
+   <point/>
+  </object>
+  <object id="135" x="6240" y="608">
+   <point/>
+  </object>
+  <object id="136" x="6848" y="160">
+   <point/>
+  </object>
+  <object id="138" x="6912" y="160">
+   <point/>
+  </object>
+  <object id="139" x="6976" y="160">
+   <point/>
+  </object>
+  <object id="140" x="7040" y="160">
+   <point/>
+  </object>
+  <object id="141" x="7104" y="160">
+   <point/>
+  </object>
+  <object id="142" x="7168" y="160">
+   <point/>
+  </object>
+  <object id="143" x="7232" y="160">
+   <point/>
+  </object>
+  <object id="146" x="8416" y="480">
+   <point/>
+  </object>
+  <object id="147" x="8480" y="480">
+   <point/>
+  </object>
+  <object id="148" x="8544" y="480">
+   <point/>
+  </object>
+  <object id="149" x="8608" y="480">
+   <point/>
+  </object>
+  <object id="151" x="8672" y="480">
+   <point/>
+  </object>
+  <object id="152" x="8736" y="480">
+   <point/>
+  </object>
+  <object id="153" x="8800" y="480">
+   <point/>
+  </object>
+  <object id="154" x="8800" y="544">
+   <point/>
+  </object>
+  <object id="155" x="8736" y="544">
+   <point/>
+  </object>
+  <object id="156" x="8672" y="544">
+   <point/>
+  </object>
+  <object id="157" x="8608" y="544">
+   <point/>
+  </object>
+  <object id="160" x="8864" y="384">
+   <point/>
+  </object>
+  <object id="161" x="8864" y="448">
+   <point/>
+  </object>
+  <object id="162" x="8864" y="512">
+   <point/>
+  </object>
+  <object id="163" x="8864" y="576">
+   <point/>
+  </object>
+  <object id="164" x="8864" y="640">
+   <point/>
+  </object>
+  <object id="167" x="8608" y="416">
+   <point/>
+  </object>
+  <object id="169" x="10656" y="576">
+   <point/>
+  </object>
+  <object id="170" x="10720" y="608">
+   <point/>
+  </object>
+  <object id="171" x="10720" y="544">
+   <point/>
+  </object>
+  <object id="172" x="10656" y="640">
+   <point/>
+  </object>
+  <object id="173" x="11968" y="544">
+   <point/>
+  </object>
+  <object id="174" x="11968" y="480">
+   <point/>
+  </object>
+  <object id="175" x="12032" y="480">
+   <point/>
+  </object>
+  <object id="176" x="12032" y="544">
+   <point/>
+  </object>
+  <object id="177" x="14400" y="576">
+   <point/>
+  </object>
+  <object id="178" x="14400" y="512">
+   <point/>
+  </object>
+  <object id="179" x="14464" y="512">
+   <point/>
+  </object>
+  <object id="180" x="14528" y="512">
+   <point/>
+  </object>
+  <object id="181" x="14592" y="512">
+   <point/>
+  </object>
+  <object id="182" x="14656" y="512">
+   <point/>
+  </object>
+  <object id="183" x="14656" y="576">
+   <point/>
+  </object>
+  <object id="184" x="14528" y="640">
+   <point/>
+  </object>
+  <object id="185" x="14528" y="576">
+   <point/>
+  </object>
+  <object id="186" x="14528" y="448">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="enemy">
+  <object id="46" x="2432" y="864">
+   <point/>
+  </object>
+  <object id="47" name="10" x="1056" y="832">
+   <point/>
+  </object>
+  <object id="48" x="1440" y="832">
+   <point/>
+  </object>
+  <object id="51" x="2080" y="736">
+   <point/>
+  </object>
+  <object id="52" x="2144" y="672">
+   <point/>
+  </object>
+  <object id="53" x="3392" y="864">
+   <point/>
+  </object>
+  <object id="56" x="3712" y="448">
+   <point/>
+  </object>
+  <object id="188" x="7328" y="864">
+   <point/>
+  </object>
+  <object id="189" x="5280" y="864">
+   <point/>
+  </object>
+  <object id="190" x="9184" y="864">
+   <point/>
+  </object>
+  <object id="191" x="11392" y="864">
+   <point/>
+  </object>
+  <object id="192" x="12160" y="864">
+   <point/>
+  </object>
+  <object id="193" x="14944" y="864">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="player">
+  <object id="1" name="player" x="352" y="896">
+   <point/>
+  </object>
+ </objectgroup>
+</map>

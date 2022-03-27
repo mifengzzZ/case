@@ -2,11 +2,19 @@
   "group-list": [
     "default",
     "camera3DPaoku",
-    "camera2DUI"
+    "camera2DUI",
+    "ui",
+    "map",
+    "role",
+    "award",
+    "enemy",
+    "topblock",
+    "brick",
+    "topbumper"
   ],
   "collision-matrix": [
     [
-      true
+      false
     ],
     [
       false,
@@ -15,6 +23,86 @@
     [
       false,
       false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
       false
     ]
   ],
@@ -44,7 +132,6 @@
       "enable": false
     }
   },
-  "start-scene": "current",
   "migrate-history": [
     "cloud-function"
   ],

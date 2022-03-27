@@ -13,6 +13,10 @@ export default class NewClass extends cc.Component {
     @property([cc.Button])
     jumpSceneBtnArr: Array<cc.Button> = [];
 
+    onLoad() {
+        cc.director.resume();
+    }
+
     start() {
         for (let index = 0; index < this.jumpSceneBtnArr.length; index++) {
             let element: cc.Button = this.jumpSceneBtnArr[index];
@@ -48,6 +52,9 @@ export default class NewClass extends cc.Component {
                 break;
             case 8:
                 cc.director.loadScene('laba');
+                break;
+            case 9:
+                cc.director.loadScene('Caimogu');
                 break;
         }
     }

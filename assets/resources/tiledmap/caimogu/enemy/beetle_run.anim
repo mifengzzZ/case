@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beetle_run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.28,
+  "sample": 25,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8486da94-4c5a-4d49-aa15-bbdfe1399f22"
+            }
+          },
+          {
+            "frame": 0.08,
+            "value": {
+              "__uuid__": "af9501c5-573b-446a-9efb-132de8b3735c"
+            }
+          },
+          {
+            "frame": 0.16,
+            "value": {
+              "__uuid__": "24ea44e1-5591-4d94-9797-db28ce49986a"
+            }
+          },
+          {
+            "frame": 0.24,
+            "value": {
+              "__uuid__": "75dbebd4-d5f3-4ce7-9eb0-72eb9e0bb29e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

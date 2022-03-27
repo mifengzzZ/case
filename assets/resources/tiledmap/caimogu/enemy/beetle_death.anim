@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beetle_death",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.24,
+  "sample": 25,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "88dd6025-bb4e-46dd-83af-753bc509d429"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.12,
+          "value": 255
+        },
+        {
+          "frame": 0.16,
+          "value": 0
+        },
+        {
+          "frame": 0.2,
+          "value": 255
+        },
+        {
+          "frame": 0.24,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

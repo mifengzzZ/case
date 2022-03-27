@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "duskSign",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5714285714285714,
+  "sample": 35,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {},
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            -16,
+            0
+          ]
+        },
+        {
+          "frame": 0.5714285714285714,
+          "value": [
+            0,
+            16,
+            0
+          ]
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5714285714285714,
+          "value": 145
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.5714285714285714,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.14285714285714285,
+      "func": "playAnimEnd",
+      "params": []
+    }
+  ]
+}
