@@ -62,6 +62,9 @@ export default class NewClass extends cc.Component {
             case 11:
                 cc.director.loadScene('liuguangxiaoguo');
                 break;
+            case 12:
+                cc.director.loadScene('chumohuadongsuofang');
+                break;
         }
     }
 }
