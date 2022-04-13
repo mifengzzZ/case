@@ -13,10 +13,15 @@ export default class Liuguang extends cc.Component {
     @property(cc.Node)
     protected waveLight1: cc.Node = null;
 
+    @property(cc.Node)
+    backMenuNode: cc.Node = null;
+
     _t: number = 0;
 
     start () {
-
+        this.backMenuNode.on(cc.Node.EventType.TOUCH_END, () => {
+            cc.director.loadScene('main');
+        });
     }
 
     update ( dt ) {
