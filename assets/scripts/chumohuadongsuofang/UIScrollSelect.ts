@@ -1,5 +1,5 @@
 
-const {ccclass, property} = cc._decorator;
+const { ccclass, property } = cc._decorator;
 
 export enum EventType {
     SCROLL_START,
@@ -30,7 +30,7 @@ export default class UIScrollSelect extends cc.Component {
 
     /** 两边的缩放大小 */
     @property({
-        tooltip:'边缘点的缩放比例'
+        tooltip: '边缘点的缩放比例'
     })
     minScale: number = 1.0;
 
@@ -65,25 +65,29 @@ export default class UIScrollSelect extends cc.Component {
     /** 记录当前在哪个位置 */
     private currentIndex: number = 0;
 
-    private isTestX: boolean = false;
     private dx: number = 0;
+
+    /** 记录回弹的位置,index */
     private moveAim: number = 0;
+
+    /** 控制回弹或者点击跳转到对应index,update更新坐标 */
+    private isTestX: boolean = false;
 
     onLoad() {
 
         // 从锚点开始依次排列item,相隔deltaX像素
         this.childs = [];
-        for(var i = 0; i < this.content.children.length; i++){
+        for (var i = 0; i < this.content.children.length; i++) {
             this.childs[i] = this.content.children[i];
             this.childs[i].x = this.deltaX * (i - 1);
         }
 
-        for(var i = 0; i < this.childs.length; i++) {
+        for (var i = 0; i < this.childs.length; i++) {
             this._checkChildX(this.childs[i], this.childs[i].x);
         }
 
         // 更新层级
-        for(var i = 0; i < this.childs.length; i++) {
+        for (var i = 0; i < this.childs.length; i++) {
             this.childs[i].zIndex = 9999 - i;
         }
 
@@ -93,39 +97,41 @@ export default class UIScrollSelect extends cc.Component {
         this._touchId = null;
 
         this.currentIndex = 0;
-        this.scrollTo(0,false);
+        this.scrollTo(0, false);
     }
 
     /** 滚动到指定节点 
      * @param anim 是否带移动动画
     */
-    scrollTo(idx:number,anim:boolean=true){
-        if(idx < 0 && idx >= this.childs.length){
-            return console.error(this.node.name+'->移动超出边界面')
+    scrollTo(idx: number, anim: boolean = true) {
+        if (idx < 0 && idx >= this.childs.length) {
+            return console.error(this.node.name + '->移动超出边界面')
         }
         this.currentIndex = idx;
         this.moveAim = idx;
-        if(!anim){
-            for(var i=0; i<this.childs.length; i++){
-                this._checkChildX(this.childs[i],(i-idx) *this.deltaX)
+        if (!anim) {
+            for (var i = 0; i < this.childs.length; i++) {
+                this._checkChildX(this.childs[i], (i - idx) * this.deltaX)
             }
         } else {
             this.isTestX = true
-            cc.Component.EventHandler.emitEvents(this.selectEvents, {target :this,
-                type :EventType.SCROLL_START,
-                index : this.currentIndex});
+            cc.Component.EventHandler.emitEvents(this.selectEvents, {
+                target: this,
+                type: EventType.SCROLL_START,
+                index: this.currentIndex
+            });
         }
     }
     /** 向左滚一个点 */
-    scrollToLeft(){
+    scrollToLeft() {
         this._toMoveX = 1
-        this.scrollTo((this.currentIndex-1+this.childs.length)%this.childs.length)
+        this.scrollTo((this.currentIndex - 1 + this.childs.length) % this.childs.length)
     }
-    
+
     /** 向左滚一个点 */
-    scrollToRight(){
+    scrollToRight() {
         this._toMoveX = -1
-        this.scrollTo((this.currentIndex+1+this.childs.length)%this.childs.length)
+        this.scrollTo((this.currentIndex + 1 + this.childs.length) % this.childs.length)
     }
 
     /**
@@ -134,24 +140,24 @@ export default class UIScrollSelect extends cc.Component {
      */
     _checkChildX(child, x) {
         // 处理首部和尾部的Item交换
-        if(x > this.childs.length/2 * this.deltaX) {
+        if (x > this.childs.length / 2 * this.deltaX) {
             x -= this.childs.length * this.deltaX;
-        } else if (x < -this.childs.length/2 * this.deltaX) {
+        } else if (x < -this.childs.length / 2 * this.deltaX) {
             x += this.childs.length * this.deltaX;
         }
         // 更新Item坐标
         child.x = x;
         // 根据距离计算缩放比例
         let dx = Math.abs(x);
-        child.scale = (1 - this.minScale) - (dx / (this.content.getContentSize().width/2));
+        child.scale = (1 - this.minScale) - (dx / (this.content.getContentSize().width / 2));
     }
 
     start() {
         // 内容节点添加触摸事件
-        this.content.on(cc.Node.EventType.TOUCH_START,this._onTouch,this);
-        this.content.on(cc.Node.EventType.TOUCH_MOVE,this._onTouch,this);
-        this.content.on(cc.Node.EventType.TOUCH_END,this._onTouchEnd,this);
-        this.content.on(cc.Node.EventType.TOUCH_CANCEL,this._onTouchEnd,this);
+        this.content.on(cc.Node.EventType.TOUCH_START, this._onTouch, this);
+        this.content.on(cc.Node.EventType.TOUCH_MOVE, this._onTouch, this);
+        this.content.on(cc.Node.EventType.TOUCH_END, this._onTouchEnd, this);
+        this.content.on(cc.Node.EventType.TOUCH_CANCEL, this._onTouchEnd, this);
     }
 
     /**
@@ -160,7 +166,7 @@ export default class UIScrollSelect extends cc.Component {
      */
     _onTouch(event) {
         // 如果本次触摸的Touch不同直接退出
-        if(this._touchId != null && event.touch != this._touchId){
+        if (this._touchId != null && event.touch != this._touchId) {
             return;
         }
 
@@ -198,9 +204,9 @@ export default class UIScrollSelect extends cc.Component {
 
         // 滑动事件
         var evt = {
-            target :this,
-            type :EventType.SCROLL_ING,
-            dx:this.dx
+            target: this,
+            type: EventType.SCROLL_ING,
+            dx: this.dx
         }
         cc.Component.EventHandler.emitEvents(this.selectEvents, evt);
 
@@ -212,7 +218,7 @@ export default class UIScrollSelect extends cc.Component {
      */
     _onTouchEnd(event) {
         // 如果本次触摸的Touch不同直接退出
-        if(this._touchId != null && event.touch != this._touchId) {
+        if (this._touchId != null && event.touch != this._touchId) {
             return;
         }
 
@@ -220,7 +226,7 @@ export default class UIScrollSelect extends cc.Component {
         this.isTouching = false;
 
         // touchID重置
-        if(event.type == cc.Node.EventType.TOUCH_END || event.type == cc.Node.EventType.TOUCH_CANCEL) {
+        if (event.type == cc.Node.EventType.TOUCH_END || event.type == cc.Node.EventType.TOUCH_CANCEL) {
             this._touchId = null;
         }
 
@@ -229,18 +235,18 @@ export default class UIScrollSelect extends cc.Component {
         console.log('lo.x : ', lo.x);
         // 是否有触摸滑动
         console.log('this.hasTouchMove : ', this.hasTouchMove);
-        if(!this.hasTouchMove) {
+        if (!this.hasTouchMove) {
             // 处理没滑动的情况
 
             // 计算点击的是第几个Item
             let mx = Math.ceil((lo.x - this.deltaX / 2) / this.deltaX);
 
-            if(mx === 0){
+            if (mx === 0) {
                 // 当前Item不变
                 var event1 = {
-                    target :this,
-                    type :EventType.SCROLL_END,
-                    index : this.currentIndex
+                    target: this,
+                    type: EventType.SCROLL_END,
+                    index: this.currentIndex
                 }
                 cc.Component.EventHandler.emitEvents(this.selectEvents, event1);
             } else {
@@ -256,13 +262,15 @@ export default class UIScrollSelect extends cc.Component {
         // 处理滑动的情况
         let max = this.deltaX;
         let minidx = 0;
-        
-        for(let i = 0; i < this.childs.length; i++) {
+
+        // 总有一个item.x的值是小于间隔值
+        for (let i = 0; i < this.childs.length; i++) {
             if (Math.abs(this.childs[i].x) <= max) {
                 max = Math.abs(this.childs[i].x);
                 minidx = i;
             }
         }
+
         this.moveAim = minidx;
         this._toMoveX = this.childs[minidx].x >= 0 ? -1 : 1;
         this.isTestX = true;
@@ -273,18 +281,20 @@ export default class UIScrollSelect extends cc.Component {
      * @param dt
      */
     _move(dt) {
-        for(var i = 0; i < this.childs.length; i++) {
+        for (var i = 0; i < this.childs.length; i++) {
             this._checkChildX(this.childs[i], this.childs[i].x + dt);
         }
     }
-    
+
     update(dt) {
         if (this.isTouching || !this.isTestX) {
             return;
         }
 
+        // 计算出当前
         var stepx = this._toMoveX * dt * this.scrollSpeed;
 
+        // 记录当前回弹Index的x坐标
         let lx = this.childs[this.moveAim].x;
 
         // 根据时间线dt去移动item的x位置
@@ -299,16 +309,19 @@ export default class UIScrollSelect extends cc.Component {
         // 当前第1个在idx位置
         var idx = Math.round(x / this.deltaX);
 
-        
+
         var tox = this.deltaX * idx;
 
+        // 移动stepx之后的位置
         let cx = this.childs[this.moveAim].x;
 
+        // 计算如果回弹位置正确则退出
         if (lx * cx < 0 && Math.abs(cx) < this.deltaX) {
 
+            // 
             this.isTestX = false;
 
-            for(let i = 0; i < this.childs.length; i++) {
+            for (let i = 0; i < this.childs.length; i++) {
                 if (Math.abs(this.childs[i].x) <= Math.abs(stepx)) {
                     this.currentIndex = i;
                     break;
@@ -320,9 +333,9 @@ export default class UIScrollSelect extends cc.Component {
             }
 
             var event = {
-                target :this,
-                type :EventType.SCROLL_END,
-                index : this.currentIndex
+                target: this,
+                type: EventType.SCROLL_END,
+                index: this.currentIndex
             }
             cc.Component.EventHandler.emitEvents(this.selectEvents, event);
         }
