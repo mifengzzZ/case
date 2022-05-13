@@ -1,3 +1,6 @@
+import CodeInit from "./CodeInit";
+import LanguageMgr from "./language/LanguageMgr";
+
 // Learn TypeScript:
 //  - https://docs.cocos.com/creator/manual/en/scripting/typescript.html
 // Learn Attribute:
@@ -15,6 +18,7 @@ export default class NewClass extends cc.Component {
 
     onLoad() {
         cc.director.resume();
+        CodeInit.init();
     }
 
     start() {
@@ -64,6 +68,17 @@ export default class NewClass extends cc.Component {
                 break;
             case 12:
                 cc.director.loadScene('chumohuadongsuofang');
+                break;
+            case 13:
+                console.log('LanguageMgr.langPath : ', LanguageMgr.langPath);
+                cc.assetManager.loadAny({ dir: LanguageMgr.langPath, type: cc.JsonAsset, bundle: "resources" }, (err: Error, result: cc.JsonAsset) => {
+                    if (err) {
+                        return;
+                    }
+                    var res = result.json;
+                    LanguageMgr.langPacks = res;
+                    cc.director.loadScene('language');
+                });
                 break;
         }
     }
