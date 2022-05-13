@@ -5,10 +5,8 @@ var xlsx = require("C:/Users/xiaojiang/node_modules/node-xlsx");
 var excelPath = "D:/serverCS/bin/script/excel/ssecy/";
 var prefabPath = "D:/clientCS/assets/resources/Prefab/";
 var scriptPath = "D:/clientCS/assets/Script/";
-var excelPath = "D:/case/tool/language/"
+var langExcelPath = "D:/case/tool/language/"
 var language = "en.xls"
-var langJsonName = "./en.json"
-
 
 var lang = {};
 
@@ -169,7 +167,7 @@ function readClientScript() {
 }
 
 function writeExcel() {
-    var obj = xlsx.parse(excelPath + language);
+    var obj = xlsx.parse(langExcelPath + language);
     let sheetData = obj[0]['data'];
     let chinesLang = [];
     for (const key in lang) {
@@ -188,25 +186,10 @@ function writeExcel() {
         obj[0]['data'].push([chinesLang[index]]);
     }
     let buffer = xlsx.build(obj);
-    fs.writeFile(excelPath + language, buffer, function (err) {
+    fs.writeFile(langExcelPath + language, buffer, function (err) {
         if (err) {
             throw err;
         }
         console.log('write to xls has finished');
-        writeJson();
     });
-}
-
-function writeJson() {
-    let outPut = xlsx.parse(excelPath + language);
-    let outPutData = outPut[0]['data'];
-    let jsonData = {};
-    for (let index = 1; index < outPutData.length; index++) {
-        if (outPutData[index][1]) {
-            jsonData[outPutData[index][0]] = outPutData[index][1];
-        }
-    }
-    let jsonSavePath = path.join(__dirname, langJsonName);
-    fs.writeFileSync(jsonSavePath, JSON.stringify(jsonData));
-    console.log('write json success');
 }
